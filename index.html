@@ -71,11 +71,9 @@
   .stat-toggle:hover{background:rgba(79,140,255,.3)}
   body.stats-hidden .stats, body.stats-hidden .totals{display:none}
   /* ===== stats ===== */
-  .stats{display:grid; grid-template-columns:repeat(2,1fr); gap:8px; margin-top:10px}
-  /* tablet/desktop: 5 kartu statistik sejajar dalam satu baris */
-  @media (min-width:768px){.stats{grid-template-columns:repeat(5,1fr)}}
-  /* mobile (2 kolom): risiko rata-rata tetap menempati satu baris penuh */
-  @media (max-width:767px){.stat.c5{grid-column:1 / -1}}
+  .stats{display:grid; grid-template-columns:1fr; gap:8px; margin-top:10px}
+  /* tablet/desktop: kartu statistik sejajar dalam satu baris (3 kartu) */
+  @media (min-width:768px){.stats{grid-template-columns:repeat(3,1fr)}}
   .stat{
     display:flex; gap:9px; align-items:center; background:linear-gradient(160deg,var(--card2),var(--card));
     border:1px solid var(--line); border-radius:12px; padding:8px 10px; min-width:0;
@@ -122,8 +120,9 @@
   .stat.c3 .stat-ic{filter:drop-shadow(0 0 6px rgba(251,113,133,.7))}
   .stat.c4 .stat-ic{filter:drop-shadow(0 0 6px rgba(79,140,255,.7))}
   .stat.c5 .stat-ic{filter:drop-shadow(0 0 6px rgba(251,191,36,.7))}
-  .stat.c5{cursor:pointer; transition:.15s}
-  .stat.c5:hover{transform:translateY(-1px); border-color:rgba(251,191,36,.5)}
+  .stat[onclick]{cursor:pointer; transition:.15s}
+  .stat[onclick]:hover{transform:translateY(-1px); border-color:rgba(255,255,255,.28)}
+  .stat.c5:hover{border-color:rgba(251,191,36,.5)}
   .qmark{flex:none; width:15px; height:15px; border-radius:50%; background:rgba(255,255,255,.1);
     color:var(--mut); font-size:10px; font-weight:800; display:flex; align-items:center;
     justify-content:center; margin-left:2px; align-self:flex-start}
@@ -255,10 +254,10 @@
       <div class="hdr-right">
         <button id="statToggle" class="stat-toggle" type="button" onclick="toggleStats()"
           aria-expanded="true" aria-controls="stats" title="Sembunyikan/tampilkan statistik">📊 <span>Sembunyikan</span></button>
-        <div class="clock">diperbarui<br><b>03 September 2026, 16:27 WIB</b></div>
+        <div class="clock">diperbarui<br><b>03 September 2026, 16:33 WIB</b></div>
       </div>
     </div>
-    <div class="stats" id="stats"><div class="stat c1"><div class="stat-ic">📰</div><div class="stat-bd"><div class="stat-val">675</div><div class="stat-lb">Total Berita</div><div class=\'stat-sub\'>13 📰 · <b>671</b> ✅ / <b>4</b> ❌</div></div></div><div class="stat c2"><div class="stat-ic">✅</div><div class="stat-bd"><div class="stat-val">671</div><div class="stat-lb">Berhasil </div><div class=\'stat-sub\'>99% konten</div></div></div><div class="stat c3"><div class="stat-ic">❌</div><div class="stat-bd"><div class="stat-val">4</div><div class="stat-lb">Gagal</div><div class=\'stat-sub\'>ulang 1x</div></div></div><div class="stat c4"><div class="stat-ic">😊</div><div class="stat-bd"><div class="stat-val">+29%</div><div class="stat-lb">Sentimen Rata<sup>2</sup></div><div class=\'stat-sub\'><span class="dot p"></span>P 106<span class="dot n"></span>N 519<span class="dot g"></span>Ng 42</div></div></div><div class="stat c5" onclick="openRiskExplain()" role="button" tabindex="0" title="Klik untuk penjelasan Risiko Rata-rata"><div class="stat-ic">🛡️</div><div class="stat-bd"><div class="stat-val">53<span class="u">/100</span></div><div class="stat-lb">Risiko Rata<sup>2</sup></div><div class="stat-sub"><span class="dot r-high"></span>275 <span class="dot r-mid"></span>271 <span class="dot r-low"></span>128</div><div class="bar"><i style="width:53%"></i></div></div><span class="qmark">?</span></div></div>
+    <div class="stats" id="stats"><div class="stat c1" onclick="openTotalExplain()" title="Klik untuk penjelasan" role="button" tabindex="0"><div class="stat-ic">📰</div><div class="stat-bd"><div class="stat-val">675</div><div class="stat-lb">Total Berita</div><div class=\'stat-sub\'>13 📰 · <b>671</b> ✅ / <b>4</b> ❌</div></div><span class="qmark">?</span></div><div class="stat c4" onclick="openSentimentExplain()" title="Klik untuk penjelasan" role="button" tabindex="0"><div class="stat-ic">😊</div><div class="stat-bd"><div class="stat-val">+29%</div><div class="stat-lb">Sentimen Rata<sup>2</sup></div><div class=\'stat-sub\'><span class="dot p"></span>P 106<span class="dot n"></span>N 519<span class="dot g"></span>Ng 42</div></div><span class="qmark">?</span></div><div class="stat c5" onclick="openRiskExplain()" role="button" tabindex="0" title="Klik untuk penjelasan Risiko Rata-rata"><div class="stat-ic">🛡️</div><div class="stat-bd"><div class="stat-val">53<span class="u">/100</span></div><div class="stat-lb">Risiko Rata<sup>2</sup></div><div class="stat-sub"><span class="dot r-high"></span>275 <span class="dot r-mid"></span>271 <span class="dot r-low"></span>128</div><div class="bar"><i style="width:53%"></i></div></div><span class="qmark">?</span></div></div>
     <div class="totals" id="totals"><div class="titem"><div class="thead"><span><b>Sentimen</b> · 675 berita</span><span class="tlegend"><span><i class="tdot" style="background:#fb7185"></i>Ng 42</span><span><i class="tdot" style="background:#b6c6f0"></i>N 519</span><span><i class="tdot" style="background:#34d399"></i>P 106</span></span></div><div class="seg"><span class="segi" style="flex:42;--c:#fb7185"><i style="width:100%"></i></span><span class="segi" style="flex:519;--c:#b6c6f0"><i style="width:100%"></i></span><span class="segi" style="flex:106;--c:#34d399"><i style="width:100%"></i></span></div></div><div class="titem"><div class="thead"><span><b>Risiko</b> · 675 berita</span><span class="tlegend"><span><i class="tdot" style="background:#34d399"></i>R 128</span><span><i class="tdot" style="background:#fbbf24"></i>S 271</span><span><i class="tdot" style="background:#fb7185"></i>T 275</span></span></div><div class="seg"><span class="segi" style="flex:128;--c:#34d399"><i style="width:100%"></i></span><span class="segi" style="flex:271;--c:#fbbf24"><i style="width:100%"></i></span><span class="segi" style="flex:275;--c:#fb7185"><i style="width:100%"></i></span></div></div></div>
   </header>
 
@@ -465,6 +464,60 @@ function openRiskExplain(){
       <div class="xnote">🤖 <b>Kenapa nilainya ${pct}/100?</b><br>Tiap berita diberi <b>risk_score</b>: dihitung dari kata negatif &amp; kata berisiko pada judul/isi lewat <b>leksikon</b>, atau penilaian <b>Ollama</b> bila tersedia. Nilai di kartu ini = rata-rata dari ${n} skor tsb.<br>Rincian semua berita: ${breakdown}</div>
       <div class="xsec"><h3>🛡️ Skala Risiko (0–100)</h3>${rRows}</div>
       <div class="xnote">💡 Baris yang disorot = kategori rata-rata saat ini. Ini estimasi otomatis dan <b>belum tentu 100% valid</b> — dipakai untuk memantau kecenderungan berita.</div>
+    </div>`;
+  document.getElementById("overlay").classList.add("show");
+  document.body.style.overflow="hidden";
+}
+function openTotalExplain(){
+  const total=NEWS.length, media=GROUPS.length;
+  let ok=0; NEWS.forEach(it=>{ if(it.fetched_ok) ok++; });
+  const fail=total-ok, pct=total?Math.round(ok/total*100):0;
+  document.getElementById("modal").innerHTML=`
+    <div class="mhead">
+      <div class="msource"><b>Kartu Statistik</b> · Penjelasan</div>
+      <button class="mclose" onclick="closeNews()">✕</button>
+    </div>
+    <div class="mbodywrap">
+      <h2 class="mtitle" style="font-size:clamp(15px,2.4vw,19px)">📰 Total Berita: <b>${total}</b> · ${media} media</h2>
+      <div class="xnote">📌 <b>Apa maksudnya?</b><br>Jumlah seluruh item berita yang berhasil dikumpulkan dari <b>${media} sumber RSS</b> pada pemantauan ini (berita terbaru dari tiap sumber).</div>
+      <div class="xnote">🤖 <b>Soal sukses/gagal unduh isi</b><br>Dari ${total} berita: <b>${ok} ✅</b> berhasil diunduh isi lengkapnya (${pct}%); <b>${fail} ❌</b> gagal (mis. situs memblokir / timeout) sehingga memakai <b>ringkasan/deskripsi dari RSS</b> sebagai gantinya — berita tetap muncul di daftar.</div>
+    </div>`;
+  document.getElementById("overlay").classList.add("show");
+  document.body.style.overflow="hidden";
+}
+function openSentimentExplain(){
+  const n=NEWS.length;
+  let sum=0; const c={positif:0,netral:0,negatif:0};
+  NEWS.forEach(it=>{
+    sum+=Number(it.sentiment_score)||0;
+    const k=String(it.sentiment_label||"").toLowerCase();
+    if(k in c) c[k]++;
+  });
+  const avg=n? sum/n : 0;
+  const pct=Math.round(avg*100);
+  const sk=avg>0.15?"positif":avg<-0.15?"negatif":"netral";
+  const emo=avg>0.15?"😊":avg>=-0.15?"😐":"☹️";
+  const sign=(pct>=0?"+":"")+pct;
+  const sRows=SENT_INFO.map(o=>{
+    const on=o.k===sk;
+    return `<div class="xrow${on?" active":""}"${on?` style="border-color:${o.c}"`:""}>
+      <span class="xbadge" style="background:${o.c}">${o.t}</span><p>${o.d}</p></div>`;
+  }).join("");
+  const breakdown=`<span class="tlegend">
+    <span><i class="tdot" style="background:#fb7185"></i>Ng ${c.negatif}</span>
+    <span><i class="tdot" style="background:#b6c6f0"></i>N ${c.netral}</span>
+    <span><i class="tdot" style="background:#34d399"></i>P ${c.positif}</span></span>`;
+  document.getElementById("modal").innerHTML=`
+    <div class="mhead">
+      <div class="msource"><b>Kartu Statistik</b> · Penjelasan</div>
+      <button class="mclose" onclick="closeNews()">✕</button>
+    </div>
+    <div class="mbodywrap">
+      <h2 class="mtitle" style="font-size:clamp(15px,2.4vw,19px)">${emo} Sentimen Rata-rata: <b>${sign}%</b> · ${esc(SNAMES[sk]||"")}</h2>
+      <div class="xnote">📌 <b>Apa maksudnya?</b><br>Rata-rata skor sentimen dari <b>${n} berita</b>, rentang -1 s/d +1 (ditampilkan sebagai persen). ${sign}% berarti kecenderungan seluruh berita saat ini <b>${esc((SNAMES[sk]||"").toLowerCase())}</b>.</div>
+      <div class="xnote">🤖 <b>Kenapa nilainya ${sign}%?</b><br>Tiap berita diberi skor sentimen dari perbandingan kata positif vs negatif pada judul/isi (<b>leksikon</b>), atau penilaian <b>Ollama</b> bila tersedia. Nilai kartu ini = rata-rata ${n} skor tsb.<br>Rincian semua berita: ${breakdown}</div>
+      <div class="xsec"><h3>💬 Skala Sentimen</h3>${sRows}</div>
+      <div class="xnote">💡 Baris yang disorot = kategori rata-rata saat ini. Ini estimasi otomatis &amp; <b>belum tentu 100% valid</b>.</div>
     </div>`;
   document.getElementById("overlay").classList.add("show");
   document.body.style.overflow="hidden";
