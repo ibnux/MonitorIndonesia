@@ -11,11 +11,11 @@
       "media": "Tempo Bisnis",
       "content": "INFO TEMPO - Dalam rangka memperingati Hari Pelanggan Nasional, PT Pegadaian (Persero) menghadirkan intimate dinner bertajuk “An Evening with Pegadaian: Celebrating Our Valued Customer”, sebuah momen apresiasi khusus bagi nasabah terpilih dan prioritas yang telah menjadi bagian penting dari perjalanan Pegadaian. Acara ini diselenggarakan di Pegadaian Tower, Jakarta, pada Jumat, 4 September 2026.\n\nMengusung semangat “Tenang Saja” yang dihadirkan melalui Tring!, Pegadaian ingin menyampaikan pesan kepada nasabah bahwa berbagai kebutuhan finansial dan rencana masa depan dapat dijalani dengan lebih tenang melalui solusi yang mudah, aman, dan tepercaya.\n\nDihadiri nasabah loyal terpilih dari berbagai wilayah di Indonesia, acara ini sekaligus menjadi kesempatan bagi Pegadaian untuk makin mendekatkan diri dengan nasabah, mendengarkan cerita dan pengalaman mereka, serta memperkenalkan pengalaman baru dalam mengakses berbagai layanan Pegadaian melalui Tring! sebagai platform digital yang menghadirkan kemudahan dalam satu ekosistem.\n\nWakil Direktur Utama PT Pegadaian (Persero) Budi Wahju Soesilo, dalam Press Conference “An Evening with Pegadaian: Celebrating Our Valued Customer”, menyampaikan bahwa kepercayaan nasabah merupakan bagian penting dalam perjalanan perusahaan dan menjadi motivasi untuk terus menghadirkan layanan yang makin relevan dengan kebutuhan masyarakat.\n\n“Hari Pelanggan Nasional bagi kami bukan sekadar sebuah perayaan, melainkan juga menjadi momentum untuk kembali mengingat bahwa di balik setiap layanan dan solusi yang kami hadirkan ada kepercayaan dari para nasabah. Kepercayaan tersebut merupakan amanah yang terus kami jaga,” ujar Soesilo.\n\nLebih dari sekadar platform digital, Tring! hadir untuk memberikan kemudahan bagi masyarakat dalam mengakses berbagai kebutuhan terkait dengan emas dan layanan Pegadaian. Direktur Pemasaran, Penjualan, dan Pengembangan Produk PT Pegadaian (Persero) Selfie Dewiyanti mengungkapkan, melalui semangat “Tenang Saja”, Tring! ingin memberikan keyakinan bahwa masyarakat dapat menjalani berbagai perjalanan finansial dengan lebih praktis dan nyaman.\n\n“Melalui Tring!, kami ingin memberikan pengalaman yang lebih mudah bagi nasabah dalam mengakses berbagai solusi Pegadaian. Semangat ‘Tenang Saja’ merupakan bentuk komunikasi yang ingin menyampaikan bahwa, ketika ada kebutuhan, ketika ingin memiliki emas, atau ketika ingin merencanakan masa depan, masyarakat memiliki pilihan solusi yang dapat diakses dengan mudah melalui Tring!,” ucap Selfie.\n\nDalam kesempatan tersebut, Pegadaian juga menghadirkan sejumlah nasabah terpilih untuk berbagi cerita dan pengalaman mereka bersama Pegadaian. Kisah-kisah tersebut menjadi refleksi atas hubungan yang telah terbangun sekaligus menunjukkan bagaimana Pegadaian terus hadir dalam berbagai perjalanan finansial nasabah.\n\nMulai dari memenuhi kebutuhan finansial, mengembangkan usaha, memiliki dan berinvestasi emas, hingga mempersiapkan masa depan, Pegadaian terus berupaya menghadirkan solusi yang sesuai dengan kebutuhan masyarakat. Kehadiran Tring! menjadi bagian dari transformasi tersebut dengan menghadirkan pengalaman layanan yang makin mudah dan terintegrasi secara digital.\n\n“Setiap nasabah memiliki cerita dan perjalanan yang berbeda. Dan kami merasa sangat beruntung dapat menjadi bagian dari perjalanan tersebut. Bagi kami, kepercayaan bukan hanya tentang apa yang kami berikan hari ini, melainkan juga tentang bagaimana kami terus hadir dan memberikan pengalaman terbaik bagi nasabah di masa yang akan datang,” tutur Selfie.\n\nMelalui “An Evening with Pegadaian”, Pegadaian ingin memberikan pengalaman yang lebih personal dan bermakna kepada para nasabah sekaligus memperkuat hubungan yang telah dibangun. Sementara itu, melalui Tring! dan semangat “Tenang Saja”, Pegadaian terus menghadirkan cara yang lebih mudah bagi masyarakat untuk mengakses solusi dan layanan sesuai dengan kebutuhan mereka.\n\n“Terima kasih atas kepercayaan yang telah diberikan kepada Pegadaian. Tenang Saja, ada Tring! Bersama Tring!, perjalanan untuk memenuhi kebutuhan hari ini dan mempersiapkan masa depan dapat dijalani dengan lebih mudah,” ujar Soesilo.(*)",
       "fetched_ok": true,
-      "sentiment_score": 0.9,
-      "sentiment_label": "Positif",
-      "risk_score": 70,
-      "risk_label": "Sedang",
-      "reason": "Ollama: Acara ini merupakan acara yang menarik dan membangun, memberikan apresiasi kepada nasabah dengan berbagai kegiatan yang menarik."
+      "sentiment_score": 0.25,
+      "sentiment_label": "Netral",
+      "risk_score": 25,
+      "risk_label": "Rendah",
+      "reason": "Ollama: Isi berita adalah narasumber yang mengkomunikasikan informasi tentang acara apresiasi kepercayaan nasabah yang diselenggarakan oleh PT. Pegadaian (Persero) dalam memperingati Hari Pelanggan Nasional. Informasi ini tidak menunjukkan emosi positif atau negatif dan tidak memiliki dampak tinggi atau rendah pada pasar atau bisnis, jadi dapat disimpulkan bahwa sentimen dan risiko berita netral."
     },
     {
       "title": "Arfadia Taruh Tiga Laporan Risetnya di Zenodo",
@@ -29,7 +29,7 @@
       "sentiment_label": "Netral",
       "risk_score": 40,
       "risk_label": "Sedang",
-      "reason": "Ollama: Laporan mengandung informasi berita dan analisis, namun tidak menekankan pada aspek negatif yang mungkin muncul dalam konteks publik. Pihak agensi berusaha menilai laporan AI dan SEO dengan objektif dan menggunakan algoritma tertentu untuk melakukan evaluasi."
+      "reason": "Ollama: berita mengandung informasi tentang laporan riset oleh agensi Arfadia, tidak mengekspos sisi negatif atau positif dari kegiatan tersebut, dan hanya menyoroti proses penyebaran dan penelitian data."
     },
     {
       "title": "PT Pertamina Patra Niaga RU Cilacap Buka Tender Penggantian Column Assy 11C-1",
@@ -39,11 +39,11 @@
       "media": "Tempo Bisnis",
       "content": "INFO TEMPO - PT Pertamina Patra Niaga Refinery Unit (RU) IV Cilacap secara resmi mengumumkan pelaksanaan tender terbuka untuk pekerjaan bertajuk “PENGGANTIAN COLUMN ASSY 11C-1 AREA FOC I PT. PERTAMINA PATRA NIAGA DI RU IV CILACAP”. Tender ini merupakan bagian dari upaya perusahaan dalam menjaga keandalan operasional serta memastikan keberlangsungan proses produksi di area Fuel Oil Complex (FOC) I. Tender ini dibuka hingga 24 Agustus 2026 pukul 23.59.\n\nMelalui mekanisme tender terbuka, Pertamina Patra Niaga memberikan kesempatan yang sama kepada perusahaan-perusahaan yang memenuhi persyaratan untuk berpartisipasi dalam proses pengadaan tersebut. Proses ini dilaksanakan secara transparan dan akuntabel sesuai dengan ketentuan dan tata kelola perusahaan.\n\nBagi penyedia barang dan jasa yang berminat mengikuti tender, pendaftaran dapat dilakukan secara daring melalui situs web resmi di https://ptm.id/daftarGEPSMART . Peserta diwajibkan melakukan registrasi sesuai dengan prosedur yang telah ditetapkan dalam sistem.\n\nInformasi lebih lengkap mengenai ruang lingkup pekerjaan, persyaratan administrasi, serta ketentuan teknis dapat diperoleh dengan mengunduh dokumen tender melalui tautan yang telah disediakan di sini . Pertamina Patra Niaga RU IV Cilacap mengimbau seluruh calon peserta mempelajari dokumen secara saksama sebelum mengajukan penawaran.\n\nSelain dokumen persyaratan tender, tautan tersebut telah menyertakan sejumlah lampiran yang wajib diisi oleh peserta tender dan menjadi persyaratan untuk mengikuti tender. (*)",
       "fetched_ok": true,
-      "sentiment_score": 0.0,
-      "sentiment_label": "Netral",
-      "risk_score": 50,
-      "risk_label": "Sedang",
-      "reason": "Ollama: berita merupakan informasi teknis dan tidak menekankan pada emosi positif atau negatif, memiliki tingkat risiko yang sesuai dengan konteks industri petrokimia dan peraturan perusahaan Pertamina Patra Niaga."
+      "sentiment_score": 0.8,
+      "sentiment_label": "Positif",
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "Ollama: Informasi tentang tender berbasis pada tata kelola yang transparan dan akuntabel, menjelaskan proses dan persyaratan secara jelas, mengimbau seluruh calon peserta untuk mempelajari dokumen secara saksama sebelum mengajukan penawaran."
     },
     {
       "title": "Jelang Danantara Housing Expo, BNI Hadirkan Area Properti di wondrX 2026",
@@ -53,11 +53,11 @@
       "media": "Tempo Bisnis",
       "content": "INFO TEMPO - PT Bank Negara Indonesia (Persero) Tbk atau BNI menghadirkan area property dalam gelaran BNI wondrX 2026sebagai bagian dari rangkaian pre-event menuju Danantara Housing Expo 2026. Kegiatan BNI wondrX berlangsung di ICE BSD, Tangerang, pada 21 hingga 23 Agustus 2026.\n\nMelalui area tersebut, masyarakat dapat mengeksplorasi berbagai pilihan hunian sekaligus memperoleh informasi mengenai pembiayaan KPR sebelum mengunjungi Danantara Housing Expo 2026 yang akan berlangsung di NICE PIK 2 pada 27 hingga 30 Agustus 2026.\n\nCorporate Secretary BNI Okki Rushartomo mengatakan, wondrX 2026 memberikan kesempatan bagi calon pembeli untuk mempersiapkan kebutuhan pembiayaan sejak awal agar proses pencarian hunian dapat dilakukan dengan lebih terencana.\n\n“Di wondrX 2026, masyarakat bisa lebih dulu mengeksplorasi pilihan hunian sekaligus mendapatkan informasi dan kemudahan pembiayaan. Ini menjadi bagian dari rangkaian menuju Danantara Housing Expo, sehingga calon pembeli dapat lebih siap ketika menemukan properti yang sesuai dengan kebutuhannya,” ujar Okki dalam keterangan tertulis.\n\nDi area property, BNI menghadirkan berbagai pilihan hunian serta KPR BNI Griya. Masyarakat juga dapat melakukan pre-assessment untuk memperoleh gambaran awal mengenai kemampuan pembiayaan sebelum menentukan properti yang akan dipilih.\n\nSelama wondrX 2026, BNI menawarkan bunga KPR BNI Griya mulai 1 persen serta bebas biaya provisi dan administrasi. Untuk pembayaran booking fee menggunakan Kartu Kredit BNI, nasabah juga dapat menikmati cicilan 0 persen hingga 12 bulan dan cashback Rp 180.000 sesuai dengan syarat dan ketentuan yang berlaku.\n\n“Manfaatkan berbagai penawaran selama wondrX 2026 dan kunjungi langsung area property untuk memperoleh informasi pembiayaan sekaligus menemukan pilihan hunian yang sesuai dengan kebutuhan,” kata Okki.\n\nBeragam pengembang turut hadir di area property, antara lain Ciputra, Sinarmas Land, PIK 2, Paramount Land, Summarecon, Sentul City, Serpong Natura City, Cimanggis Golf Estate, Hitoroland, Metland, Aryana Karawaci, PT Artha Jaya Laksana, Bumi Indah City, Progress Group, Damai Putra Group, dan Golden Nuansa Alam Group.\n\nSetelah rangkaian pre-event di wondrX 2026, masyarakat dapat melanjutkan pencarian hunian melalui Danantara Housing Expo 2026 di NICE PIK 2 pada 27–30 Agustus 2026. Ajang tersebut akan mempertemukan masyarakat dengan pelaku industri properti serta menghadirkan berbagai pilihan hunian dan solusi pembiayaan.\n\nKehadiran area property di wondrX 2026 sejalan dengan tema “One Ecosystem, Continuous Motion”, yang menggambarkan upaya BNI menghubungkan kebutuhan nasabah dengan berbagai layanan dan mitra dalam satu rangkaian pengalaman.\n\nMelalui rangkaian wondrX 2026 hingga Danantara Housing Expo 2026, BNI terus memperluas akses masyarakat terhadap pembiayaan hunian sekaligus memperkuat kolaborasi dengan pelaku industri properti. (*)",
       "fetched_ok": true,
-      "sentiment_score": 0.8,
+      "sentiment_score": 0.85,
       "sentiment_label": "Positif",
       "risk_score": 10,
       "risk_label": "Rendah",
-      "reason": "Ollama: Berita mendeskripsikan kegiatan BNI yang positif dengan presentasi informatif dan konten positif."
+      "reason": "Ollama: Informasi tentang kemitraan antara BNI dengan perusahaan perumahan dan penawaran khusus yang menarik untuk nasabah, serta rangkaian pelaksanaan wondrX yang mendukung tujuan menyiapkan calon pembeli sebelum Expo."
     },
     {
       "title": "BNI Hadirkan Deretan Musikus Tanah Air di wondrX 2026",
@@ -67,11 +67,11 @@
       "media": "Tempo Bisnis",
       "content": "INFO TEMPO - PT Bank Negara Indonesia (Persero) Tbk atau BNI menghadirkan deretan musikus Tanah Air dalam pergelaran wondrX 2026 di ICE BSD, Tangerang, Baten, pada 21-23 Agustus 2026. Sejumlah musikus yang dijadwalkan tampil antara lain RAN, Ardhito Pramono, Marcell, Oslo Ibrahim, Rendy Pandugo, Teza Sumendra, Alex Teh, Barasuara x Andien, Pamungkas, Juicy Luicy, serta Rizky Febian dan Mahalini.\n\nCorporate Secretary BNI Okki Rushartomo mengatakan kehadiran musik dalam wondrX 2026 menjadi bagian dari upaya BNI menghadirkan acara yang dapat dinikmati oleh berbagai kalangan masyarakat. Pertunjukan musik, kata dia, menjadi salah satu daya tarik dari acara yang juga menghadirkan beragam layanan perbankan, kuliner, properti, otomotif, serta aktivitas gaya hidup.\n\n“Musik menjadi salah satu daya tarik yang bisa dinikmati semua kalangan. Selain menikmati hiburan, pengunjung bisa mendapat berbagai informasi dan mengenal lebih dekat produk serta layanan BNI,” ujar Okki dalam keterangan tertulis.\n\nSelain pertunjukan musik, wondrX 2026 menghadirkan berbagai kegiatan, seperti Financial Talkshow, Talkshow Housing, VISA Music Passion Pilar with RAN, dan peluncuran produk baru BNI Co-Brand Debit Card.\n\nBNI juga menyediakan berbagai promo untuk kebutuhan otomotif, properti, kuliner, serta belanja bagi pengunjung yang menggunakan Kartu BNI ataupun layanan wondr by BNI.\n\nUntuk mengikuti rangkaian acara dan menikmati berbagai promo, pengunjung dapat melakukan registrasi melalui wondr by BNI serta memastikan aplikasi wondr by BNI telah aktif. Pengunjung juga disarankan membawa Kartu BNI selama berada di area acara.\n\nBNI turut mengingatkan pengunjung untuk membawa TapCash yang dapat digunakan untuk berbagai kebutuhan transportasi, antara lain KRL Commuter Line, Transjakarta, tol, dan parkir.\n\n“Jangan lupa bawa TapCash untuk kebutuhan transportasi, seperti KRL Commuter Line, Transjakarta, tol, ataupun parkir,” kata Okki.\n\nMelalui wondrX 2026, BNI menghadirkan ruang yang mempertemukan layanan finansial, hiburan, dan berbagai kebutuhan gaya hidup masyarakat dalam satu rangkaian acara. (*)",
       "fetched_ok": true,
-      "sentiment_score": 0.85,
-      "sentiment_label": "Positif",
-      "risk_score": 50,
-      "risk_label": "Sedang",
-      "reason": "Ollama: Dari berita yang diterjemahkan, tampaknya ada alasan positif seperti menampilkan musik oleh musikus tanah air, mempromosikan layanan BNI, dan memberikan kegiatan menarik bagi pengunjung. Namun, ada juga alasan sedang seperti menghadirkan produk baru, peluncuran produk baru, dan memberikan promo kepada pengunjung. Alasan sedang ini mungkin mengindikasikan ada beberapa sisi yang bisa diperbaiki dalam penyelenggaraan acara ini."
+      "sentiment_score": 0.0,
+      "sentiment_label": "Netral",
+      "risk_score": 80,
+      "risk_label": "Tinggi",
+      "reason": "Ollama: rumah tangga positif dengan musik di acara besar dan menarik"
     },
     {
       "title": "KRL hingga Shuttle Bus Gratis, Pilihan Transportasi Menuju BNI wondrX 2026",
@@ -81,11 +81,11 @@
       "media": "Tempo Bisnis",
       "content": "INFO TEMPO - PT Bank Negara Indonesia (Persero) Tbk atau BNI menyediakan berbagai pilihan akses transportasi bagi masyarakat yang ingin mengunjungi BNI wondrX 2026. Kegiatan ini berlangsung di ICE BSD, Tangerang, pada 21 hingga 23 Agustus 2026.\n\nSalah satu pilihan transportasi yang digunakan pengunjung adalah KRL Commuter Line. Dewi, pengunjung yang berasal dari Radio Dalam, Jakarta Selatan, berangkat dari Stasiun Kebayoran menuju Stasiun Cisauk dengan waktu tempuh sekitar 30 menit. Dari Stasiun Cisauk, ia kemudian melanjutkan perjalanan menggunakan shuttle menuju ICE BSD.\n\nMenurut Dewi, pilihan transportasi publik membuat perjalanan menuju BNI wondrX 2026 menjadi lebih praktis. Setibanya di lokasi, ia dapat langsung menikmati berbagai aktivitas dalam gelaran bertajuk Experience the Xtraordinary tersebut.\n\nCorporate Secretary BNI Okki Rushartomo mengatakan, BNI berupaya memberikan kemudahan bagi pengunjung sejak perjalanan menuju lokasi hingga saat menikmati seluruh rangkaian acara.\n\n“Kami ingin masyarakat bisa datang dengan nyaman untuk menikmati berbagai aktivitas di BNI wondrX 2026. Karena itu, kami menyiapkan sejumlah pilihan akses dan transportasi yang dapat dimanfaatkan pengunjung untuk menuju ICE BSD,” ujar Okki dalam keterangan tertulis.\n\nBNI wondrX 2026 berlangsung di Hall 5–10 ICE BSD dan terbuka bagi masyarakat tanpa biaya masuk. Pengunjung dapat melakukan registrasi melalui aplikasi wondr by BNI dan akan memperoleh QR yang digunakan sebagai akses masuk ke area acara.\n\nBagi masyarakat yang menggunakan KRL Commuter Line dari arah Jakarta Kota, Bogor, Bekasi, Tangerang, maupun Rangkasbitung, perjalanan dapat dilanjutkan dengan turun di Stasiun Cisauk. Dari stasiun, pengunjung dapat berjalan kaki menuju Terminal Intermoda BSD dan menggunakan shuttle bus BSD Link menuju ICE BSD.\n\nShuttle bus BSD Link tersedia setiap dua jam mulai pukul 09.00 hingga 19.00 WIB. Sementara itu, layanan shuttle dari AEON tersedia setiap dua jam mulai pukul 09.40 hingga 19.40 WIB.\n\nBNI juga menyediakan empat bus gratis dari Menara BNI menuju ICE BSD. Bus 1 berangkat pukul 09.00, 12.00, 15.00, dan 18.00 WIB; Bus 2 pukul 09.30, 12.30, 15.30, dan 18.30 WIB; Bus 3 pukul 10.00, 13.00, 16.00, dan 19.00 WIB; serta Bus 4 pukul 10.30, 13.30, 16.30, dan 19.30 WIB.\n\nUntuk perjalanan kembali dari ICE BSD menuju Menara BNI, Bus 1 tersedia pukul 10.30, 13.30, 16.30, dan 19.30 WIB; Bus 2 pukul 11.00, 14.00, 17.00, dan 20.00 WIB; Bus 3 pukul 11.30, 14.30, 17.30, dan 20.30 WIB; sedangkan Bus 4 pukul 12.00, 15.00, 18.00, dan 21.00 WIB.\n\nPengunjung yang menggunakan Transjakarta dapat memilih rute S11 menuju BSD dan turun di Teras Kota, kemudian melanjutkan perjalanan menggunakan BSD Link rute The Breeze–ICE BSD.\n\nSementara bagi pengguna kendaraan pribadi, ICE BSD dapat diakses melalui Tol Jakarta–Tangerang dan keluar di Exit 18 Tangerang–Serpong, atau melalui Tol Jakarta Outer Ring Road (JORR)–Serpong dan keluar di Exit 16 ICE/BSD City.\n\n“Pengunjung cukup menunjukkan QR registrasi BNI wondrX 2026 kepada petugas sebelum naik bus yang kami sediakan. Layanan ini bebas biaya. Kami berharap kemudahan akses ini membuat semakin banyak masyarakat dapat datang dan menikmati BNI wondrX 2026,” kata Okki.\n\nSelain kemudahan akses, BNI wondrX 2026 menghadirkan berbagai aktivitas yang mencakup layanan perbankan, gaya hidup, properti, otomotif, kuliner, hingga hiburan selama tiga hari penyelenggaraan. (*)",
       "fetched_ok": true,
-      "sentiment_score": 0.5,
+      "sentiment_score": 0.0,
       "sentiment_label": "Netral",
       "risk_score": 50,
       "risk_label": "Sedang",
-      "reason": "Ollama: Isi berita menampilkan informasi tentang khususnya tentang BNI wondrX 2026 dengan berbagai pilihan transportasi dan event, tetapi tidak menunjukkan peringkat atau sentimen negatif atau positif. Konten berita adalah netral dan tidak mempunyai tingkat risik yang tinggi atau tinggi."
+      "reason": "Ollama: Isi berita tidak mencerminkan sentimen positif atau negatif, fokus pada detail pemesanan dan informasi tentang pilihan transportasi dan acara wondrX 2026 dari PT Bank Negara Indonesia (Persero) Tbk atau BNI."
     },
     {
       "title": "BNI wondrX 2026 Hadirkan Zona Travel sebagai Solusi Kebutuhan Perjalanan",
@@ -97,9 +97,9 @@
       "fetched_ok": true,
       "sentiment_score": 0.9,
       "sentiment_label": "Positif",
-      "risk_score": 50,
+      "risk_score": 60,
       "risk_label": "Sedang",
-      "reason": "Ollama: Zona Travel dirancang untuk memudahkan masyarakat dalam mempersiapkan perjalanan dalam satu tempat, menawarkan berbagai kebutuhan perjalanan dengan harga terjangkau dan promosi yang menarik."
+      "reason": "Ollama: Zona Travel dirancang untuk memudahkan masyarakat mempersiapkan perjalanan dalam satu tempat dengan berbagai kebutuhan perjalanan, serta menawarkan promo seperti cashback transaksi, cicilan 0 persen, diskon, dan program bundling tabungan."
     },
     {
       "title": "PT Pertamina Patra Niaga RU Cilacap Buka Tender Penggantian Column Assy 11C-1",
@@ -109,11 +109,11 @@
       "media": "Tempo Bisnis",
       "content": "INFO TEMPO - PT Pertamina Patra Niaga Refinery Unit (RU) IV Cilacap secara resmi mengumumkan pelaksanaan tender terbuka untuk pekerjaan bertajuk “PENGGANTIAN COLUMN ASSY 11C-1 AREA FOC I PT. PERTAMINA PATRA NIAGA DI RU IV CILACAP”. Tender ini merupakan bagian dari upaya perusahaan dalam menjaga keandalan operasional serta memastikan keberlangsungan proses produksi di area Fuel Oil Complex (FOC) I. Tender ini dibuka hingga 24 Agustus 2026 pukul 23.59.\n\nMelalui mekanisme tender terbuka, Pertamina Patra Niaga memberikan kesempatan yang sama kepada perusahaan-perusahaan yang memenuhi persyaratan untuk berpartisipasi dalam proses pengadaan tersebut. Proses ini dilaksanakan secara transparan dan akuntabel sesuai dengan ketentuan dan tata kelola perusahaan.\n\nBagi penyedia barang dan jasa yang berminat mengikuti tender, pendaftaran dapat dilakukan secara daring melalui situs web resmi di https://ptm.id/daftarGEPSMART . Peserta diwajibkan melakukan registrasi sesuai dengan prosedur yang telah ditetapkan dalam sistem.\n\nInformasi lebih lengkap mengenai ruang lingkup pekerjaan, persyaratan administrasi, serta ketentuan teknis dapat diperoleh dengan mengunduh dokumen tender melalui tautan yang telah disediakan di sini . Pertamina Patra Niaga RU IV Cilacap mengimbau seluruh calon peserta mempelajari dokumen secara saksama sebelum mengajukan penawaran.\n\nSelain dokumen persyaratan tender, tautan tersebut telah menyertakan sejumlah lampiran yang wajib diisi oleh peserta tender dan menjadi persyaratan untuk mengikuti tender. (*)",
       "fetched_ok": true,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Ollama: Isi berita tidak menunjukkan sentimen positif, negatif atau netral, dan tidak menekankan masalah atau peluang yang berbahayanya."
+      "risk_score": 40,
+      "risk_label": "Sedang",
+      "reason": "Ollama: Isi berita mengandung informasi yang menarik tentang tender PT Pertamina Patra Niaga untuk pekerjaan di Ruang Lingkup Khusus (Fokus I) Area FOC I, yang mengandung informasi yang berhubungan dengan operasi pertambangan dan pertanian. Karena informasi tersebut tidak mengekspresikan kepercayaan atau kebencian, dan tidak mengandung konten yang potensial menyinggung atau mengancam, sentiment dan risiko dianggap netral dengan score 0.5 dan sedang dengan score 40."
     },
     {
       "title": "Indonesia Bullion Market Association Resmi Diluncurkan, Perkuat Ekosistem dan Industri Emas Nasional",
@@ -125,9 +125,9 @@
       "fetched_ok": true,
       "sentiment_score": 0.9,
       "sentiment_label": "Positif",
-      "risk_score": 85,
-      "risk_label": "Tinggi",
-      "reason": "Ollama: berita mengandungi berita positif tentang pembentukan asosiasi pemasaran emas Indonesia yang diharapkan akan meningkatkan kemandirian dan integritas industri emas di Indonesia."
+      "risk_score": 45,
+      "risk_label": "Sedang",
+      "reason": "Ollama: Dukungan dan kolaborasi positif dari berbagai instansi untuk pembentukan IBMA, yang berpotensi meningkatkan ekosistem industri emas di Indonesia."
     },
     {
       "title": "ASUS ExpertBook B9406CAA  Tawarkan Nilai Investasi Optimal",
@@ -137,11 +137,11 @@
       "media": "Tempo Bisnis",
       "content": "INFO TEMPO – ASUS ExpertBook B9406CAA , laptop bisnis premium dengan harga mulai sekitar Rp 32 juta, menawarkan nilai investasi yang lebih optimal melalui kombinasi garansi panjang, layanan next business day on-site service, dukungan teknis prioritas, konstruksi tahan lama, keamanan enterprise , serta kesiapan AI. Berbagai faktor tersebut membantu menekan biaya operasional tersembunyi sekaligus memperpanjang masa penggunaan perangkat.\n\nBagi banyak perusahaan, harga beli laptop bukan satu-satunya faktor yang menentukan nilai investasi. Perangkat yang terlihat lebih murah di awal dapat menghasilkan biaya lebih besar ketika memperhitungkan biaya perbaikan, downtime operasional, penggantian perangkat lebih cepat, hingga kebutuhan dukungan tambahan. Karena itu, Total Cost of Ownership (TCO) kini banyak dipertimbangkan perusahaan sebagai ukuran yang lebih relevan.\n\nMenekan Total Biaya Kepemilikan\n\nSalah satu faktor terbesar dalam biaya kepemilikan laptop bisnis adalah risiko kerusakan setelah masa garansi standar berakhir. ASUS ExpertBook B9406CAA hadir dengan ASUS International Warranty hingga tiga tahun yang dapat diperpanjang melalui program warranty extension hingga lima tahun, termasuk perlindungan tambahan untuk baterai.\n\nDengan masa perlindungan yang lebih panjang, perusahaan dapat memiliki perencanaan biaya yang lebih pasti tanpa harus mengalokasikan pengeluaran besar untuk perbaikan perangkat secara tidak terduga. Dukungan garansi internasional yang tersedia di berbagai negara juga memberikan fleksibilitas bagi perusahaan dengan karyawan yang memiliki mobilitas tinggi.\n\nMengurangi Risiko Downtime\n\nDalam lingkungan bisnis, laptop yang mengalami kendala bukan hanya menghasilkan biaya perbaikan, tetapi juga dapat menghambat produktivitas pengguna. ASUS ExpertBook B9406CAA didukung layanan next business day on-site service yang memungkinkan teknisi datang langsung ke lokasi pengguna pada hari kerja berikutnya setelah laporan diterima. Berbeda dengan proses servis konvensional yang mengharuskan perangkat dikirim terlebih dahulu, layanan ini membantu mempercepat pemulihan perangkat sehingga waktu kerja yang hilang dapat diminimalkan.\n\nMempercepat Penyelesaian Kendala Teknis\n\nSelain layanan perbaikan, kecepatan mendapatkan bantuan teknis juga berpengaruh terhadap efisiensi operasional. Melalui layanan Expert VIP Warranty dan VIP hotline, pengguna ASUS ExpertBook B9406CAA mendapatkan akses dukungan prioritas untuk membantu proses identifikasi dan penyelesaian kendala. Respons yang lebih cepat membantu perusahaan mengurangi waktu tunggu ketika menghadapi masalah teknis, baik terkait perangkat keras maupun kebutuhan operasional sehari-hari.\n\nMemperpanjang Siklus Penggunaan\n\nLaptop bisnis umumnya digunakan dengan intensitas lebih tinggi dibanding perangkat konsumen. ASUS ExpertBook B9406CAA menghadirkan keseimbangan antara desain ringan dan konstruksi tangguh melalui material Aerospace Grade AZ31B Magnesium Alloy dengan bobot mulai 0,99 kg dan ketebalan hanya 10,9 mm.\n\nPerangkat ini juga telah melewati sertifikasi ketahanan militer US MIL-STD-810H serta dilengkapi perlindungan layar Corning Gorilla Glass Victus. Ketahanan tersebut membantu mengurangi risiko kerusakan akibat penggunaan harian sekaligus mendukung masa penggunaan perangkat yang lebih panjang.\n\nMengurangi Risiko Kerugian Data\n\nBagi perusahaan, perlindungan data merupakan bagian penting dari investasi teknologi. ASUS ExpertBook B9406CAA dilengkapi ASUS ExpertGuardian yang mencakup TPM 2.0, Microsoft Pluton Security Processor, Absolute Persistence 2.0, ASUS AdaptiveLock, serta fitur autentikasi biometrik melalui Windows Hello. Dengan perlindungan keamanan yang sudah terintegrasi sejak awal, perusahaan dapat mengurangi kebutuhan tambahan untuk solusi keamanan tertentu sekaligus membantu menjaga perangkat dan data bisnis dari berbagai risiko.\n\nMembuat Investasi Bertahan Lebih Lama\n\nPerkembangan aplikasi berbasis AI membuat kebutuhan komputasi bisnis terus berkembang. ASUS ExpertBook B9406CAA dirancang untuk menghadapi perubahan tersebut melalui prosesor Intel ® Core ™ Ultra dengan NPU hingga 50 TOPS, dukungan memori LPDDR5X hingga 64GB, serta penyimpanan SSD hingga 2TB.\n\nKemampuan AI on-device lewat Zenni Claw memungkinkan berbagai fitur berbasis kecerdasan buatan berjalan lebih efisien langsung di perangkat, sekaligus membantu menjaga relevansi laptop terhadap kebutuhan kerja di masa depan.\n\nInvestasi Laptop Bisnis yang Lebih Ekonomis\n\nASUS ExpertBook B9406CAA memang bukan laptop dengan harga pembelian paling rendah, tetapi nilai sebuah perangkat bisnis tidak hanya ditentukan dari harga awal. Ketika faktor seperti garansi hingga lima tahun, next business day on-site service , dukungan VIP, ketahanan militer, keamanan enterprise, dan kesiapan AI diperhitungkan, biaya kepemilikan perangkat dapat menjadi lebih rendah dalam jangka panjang.\n\nBagi perusahaan yang mencari laptop bisnis dengan investasi jangka panjang, ASUS ExpertBook B9406CAA menawarkan keseimbangan antara performa, perlindungan, dan efisiensi operasional. Dalam konteks bisnis, perangkat yang paling ekonomis bukan selalu yang paling murah dibeli, melainkan yang mampu memberikan produktivitas tinggi dengan biaya penggunaan yang lebih terkendali. (*)",
       "fetched_ok": true,
-      "sentiment_score": 0.85,
+      "sentiment_score": 0.95,
       "sentiment_label": "Positif",
-      "risk_score": 85,
-      "risk_label": "Tinggi",
-      "reason": "Ollama: ASUS ExpertBook B9406CAA menawarkan berbagai nilai investasi optimal, termasuk garansi panjang, layanan service, dukungan teknis prioritas, dan keamanan enterprise, yang membantu menekan biaya operasional tersembunyi dan memperpanjang masa penggunaan perangkat."
+      "risk_score": 10,
+      "risk_label": "Rendah",
+      "reason": "Ollama: Laptop ExpertBook B9406CAA menawarkan banyak manfaat ekonomis dan infrastruktur yang memberi peluang untuk nilai investasi yang optimal. Dukungan garansi, layanan on-site, keseimbangan harga dan kualitas, dan kemudahan mendapatkan dukungan teknis membantu menurunkan biaya perbaikan dan uptime."
     },
     {
       "title": "PT Pertamina Patra Niaga RU Cilacap Buka Tender Penggantian Column Assy 11C-1",
@@ -151,11 +151,11 @@
       "media": "Tempo Bisnis",
       "content": "INFO TEMPO - PT Pertamina Patra Niaga Refinery Unit (RU) IV Cilacap secara resmi mengumumkan pelaksanaan tender terbuka untuk pekerjaan bertajuk “PENGGANTIAN COLUMN ASSY 11C-1 AREA FOC I PT. PERTAMINA PATRA NIAGA DI RU IV CILACAP”. Tender ini merupakan bagian dari upaya perusahaan dalam menjaga keandalan operasional serta memastikan keberlangsungan proses produksi di area Fuel Oil Complex (FOC) I. Tender ini dibuka hingga 24 Agustus 2026 pukul 23.59.\n\nMelalui mekanisme tender terbuka, Pertamina Patra Niaga memberikan kesempatan yang sama kepada perusahaan-perusahaan yang memenuhi persyaratan untuk berpartisipasi dalam proses pengadaan tersebut. Proses ini dilaksanakan secara transparan dan akuntabel sesuai dengan ketentuan dan tata kelola perusahaan.\n\nBagi penyedia barang dan jasa yang berminat mengikuti tender, pendaftaran dapat dilakukan secara daring melalui situs web resmi di https://ptm.id/daftarGEPSMART . Peserta diwajibkan melakukan registrasi sesuai dengan prosedur yang telah ditetapkan dalam sistem.\n\nInformasi lebih lengkap mengenai ruang lingkup pekerjaan, persyaratan administrasi, serta ketentuan teknis dapat diperoleh dengan mengunduh dokumen tender melalui tautan yang telah disediakan di sini . Pertamina Patra Niaga RU IV Cilacap mengimbau seluruh calon peserta mempelajari dokumen secara saksama sebelum mengajukan penawaran.\n\nSelain dokumen persyaratan tender, tautan tersebut telah menyertakan sejumlah lampiran yang wajib diisi oleh peserta tender dan menjadi persyaratan untuk mengikuti tender. (*)",
       "fetched_ok": true,
-      "sentiment_score": 0.5,
+      "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 90,
-      "risk_label": "Tinggi",
-      "reason": "Ollama: Informasi tentang proses tender dan persyaratan untuk peserta tidak memberikan tingkat kefaktualan yang signifikan. Informasi tersedia secara lengkap dan transparan, sehingga risiko penipuan dan kecurangan bisa dihindari. Namun, tidak ada alasan spesifik yang mendukung atau menekankan untuk label netral atau tinggi."
+      "risk_score": 50,
+      "risk_label": "Sedang",
+      "reason": "Ollama: Isi berita sesuai dengan topik kerja dan operasional pertambangan minyak dan gas, tidak ada komentar atau kritik spesifik yang menunjukkan feeling negatif atau positif."
     },
     {
       "title": "PT Pertamina Patra Niaga RU Cilacap Buka Tender Penggantian Column Assy 11C-1",
@@ -165,11 +165,11 @@
       "media": "Tempo Bisnis",
       "content": "INFO TEMPO - PT Pertamina Patra Niaga Refinery Unit (RU) IV Cilacap secara resmi mengumumkan pelaksanaan tender terbuka untuk pekerjaan bertajuk “PENGGANTIAN COLUMN ASSY 11C-1 AREA FOC I PT. PERTAMINA PATRA NIAGA DI RU IV CILACAP”. Tender ini merupakan bagian dari upaya perusahaan dalam menjaga keandalan operasional serta memastikan keberlangsungan proses produksi di area Fuel Oil Complex (FOC) I. Tender ini dibuka hingga 24 Agustus 2026 pukul 23.59.\n\nMelalui mekanisme tender terbuka, Pertamina Patra Niaga memberikan kesempatan yang sama kepada perusahaan-perusahaan yang memenuhi persyaratan untuk berpartisipasi dalam proses pengadaan tersebut. Proses ini dilaksanakan secara transparan dan akuntabel sesuai dengan ketentuan dan tata kelola perusahaan.\n\nBagi penyedia barang dan jasa yang berminat mengikuti tender, pendaftaran dapat dilakukan secara daring melalui situs web resmi di https://ptm.id/daftarGEPSMART . Peserta diwajibkan melakukan registrasi sesuai dengan prosedur yang telah ditetapkan dalam sistem.\n\nInformasi lebih lengkap mengenai ruang lingkup pekerjaan, persyaratan administrasi, serta ketentuan teknis dapat diperoleh dengan mengunduh dokumen tender melalui tautan yang telah disediakan di sini . Pertamina Patra Niaga RU IV Cilacap mengimbau seluruh calon peserta mempelajari dokumen secara saksama sebelum mengajukan penawaran.\n\nSelain dokumen persyaratan tender, tautan tersebut telah menyertakan sejumlah lampiran yang wajib diisi oleh peserta tender dan menjadi persyaratan untuk mengikuti tender. (*)",
       "fetched_ok": true,
-      "sentiment_score": 0.8,
-      "sentiment_label": "Positif",
-      "risk_score": 65,
+      "sentiment_score": 0.1,
+      "sentiment_label": "Netral",
+      "risk_score": 40,
       "risk_label": "Sedang",
-      "reason": "Ollama: Tinjauan positif terhadap upaya Pertamina Patra Niaga untuk memastikan keberlangsungan operasi dan memenuhi standar keandalan, serta upaya transparan dan akuntabel dalam proses tender."
+      "reason": "Ollama: Isi berita biasa dan tidak menarik, fokus pada perusahaan dan peluang kerjasama tanpa mencakup konten yang menonjol atau aneh."
     },
     {
       "title": "PT Pertamina Patra Niaga RU Cilacap Buka Tender Penggantian Column Assy 11C-1",
@@ -179,11 +179,11 @@
       "media": "Tempo Bisnis",
       "content": "INFO TEMPO - PT Pertamina Patra Niaga Refinery Unit (RU) IV Cilacap secara resmi mengumumkan pelaksanaan tender terbuka untuk pekerjaan bertajuk “PENGGANTIAN COLUMN ASSY 11C-1 AREA FOC I PT. PERTAMINA PATRA NIAGA DI RU IV CILACAP”. Tender ini merupakan bagian dari upaya perusahaan dalam menjaga keandalan operasional serta memastikan keberlangsungan proses produksi di area Fuel Oil Complex (FOC) I. Tender ini dibuka hingga 24 Agustus 2026 pukul 23.59.\n\nMelalui mekanisme tender terbuka, Pertamina Patra Niaga memberikan kesempatan yang sama kepada perusahaan-perusahaan yang memenuhi persyaratan untuk berpartisipasi dalam proses pengadaan tersebut. Proses ini dilaksanakan secara transparan dan akuntabel sesuai dengan ketentuan dan tata kelola perusahaan.\n\nBagi penyedia barang dan jasa yang berminat mengikuti tender, pendaftaran dapat dilakukan secara daring melalui situs web resmi di https://ptm.id/daftarGEPSMART . Peserta diwajibkan melakukan registrasi sesuai dengan prosedur yang telah ditetapkan dalam sistem.\n\nInformasi lebih lengkap mengenai ruang lingkup pekerjaan, persyaratan administrasi, serta ketentuan teknis dapat diperoleh dengan mengunduh dokumen tender melalui tautan yang telah disediakan di sini . Pertamina Patra Niaga RU IV Cilacap mengimbau seluruh calon peserta mempelajari dokumen secara saksama sebelum mengajukan penawaran.\n\nSelain dokumen persyaratan tender, tautan tersebut telah menyertakan sejumlah lampiran yang wajib diisi oleh peserta tender dan menjadi persyaratan untuk mengikuti tender. (*)",
       "fetched_ok": true,
-      "sentiment_score": 0.5,
-      "sentiment_label": "Netral",
-      "risk_score": 45,
-      "risk_label": "Sedang",
-      "reason": "Ollama: Isi berita tidak menekankan emosi positif, negatif atau netral, tetapi fokus pada proses dan informasi yang diberikan mengenai tender pertama dan langkah-langkah yang dilakukan oleh PT. Pertamina Patra Niaga."
+      "sentiment_score": 0.9,
+      "sentiment_label": "Positif",
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "Ollama: Informasi tentang pelaksanaan tender dan penawaran yang transparan dan akuntabel."
     },
     {
       "title": "Kembali Berkolaborasi, bank bjb Jadi Official Banking Partner Persib Musim 2026/2027",
@@ -193,11 +193,11 @@
       "media": "Tempo Bisnis",
       "content": "INFO TEMPO – PT Bank Pembangunan Daerah Jawa Barat dan Banten Tbk—disebut bank bjb—kembali menjadi official banking partner klub sepak bola Persib untuk musim kompetisi 2026/2027. Kerja sama dengan PT Persib Bandung Bermartabat itu menandai kembalinya kolaborasi kedua institusi setelah lebih dari satu dekade.\n\nDirektur Utama bank bjb Ayi Subarna mengatakan kerja sama tersebut tidak hanya ditujukan untuk mendukung perjalanan Persib di kompetisi, tapi juga menghadirkan manfaat bagi nasabah, Bobotoh—sebutan untuk pendukung Persib—dan masyarakat Jawa Barat.\n\n“Kolaborasi bank bjb dan Persib bukan sekadar kerja sama, melainkan juga bentuk sinergi dua brand yang memiliki kedekatan emosional dengan masyarakat. Kami ingin menghadirkan kolaborasi yang memberikan pengalaman dan manfaat nyata bagi nasabah, Bobotoh, serta masyarakat luas,” ujar Ayi dalam peluncuran kerja sama di Bogor, Jawa Barat, Jumat, 14 Agustus 2026.\n\nKerja sama tersebut ditandai dengan penandatanganan oleh Ayi dan CEO PT Persib Bandung Bermartabat Glenn Timothy Sugita. Acara turut dihadiri Wakil Gubernur Jawa Barat Erwan Setiawan serta jajaran manajemen kedua pihak.\n\nKolaborasi bank bjb dan Persib kali ini menghidupkan kembali kerja sama yang pernah terjalin pada 2014. Saat itu bank bjb juga menjadi official banking partner Persib. Pada musim yang sama, Persib meraih gelar juara Liga Indonesia setelah menunggu selama 19 tahun.\n\nMenurut Ayi, sepak bola memiliki kekuatan untuk mempertemukan berbagai kelompok masyarakat. Karena itu, kerja sama dengan Persib akan dikembangkan melalui sejumlah program yang menyasar nasabah dan komunitas Bobotoh.\n\n“Semangat yang kami bawa adalah menang bersama. Kami tentu berharap perjalanan Persib pada musim 2026/2027 dapat kembali memberikan prestasi terbaik. Namun, yang tidak kalah penting, kolaborasi ini kami harapkan dapat memberikan pengalaman positif dan berbagai kemudahan bagi masyarakat,” katanya.\n\nSementara itu, Glenn Timothy menyambut kembalinya kerja sama tersebut. Ia mengatakan hubungan Persib dan bank bjb memiliki sejarah yang berkaitan dengan perjalanan klub meraih gelar juara pada 2014.\n\n“Kami menyambut dengan sangat baik kembali terjalinnya kolaborasi antara bank bjb dan Persib. Bagi kami, kerja sama ini memiliki makna lebih dari sekadar kolaborasi karena ada sejarah, kedekatan, dan nilai yang sudah terbangun di antara kedua institusi,” ujarnya.\n\nMenurut Glenn, sejarah kerja sama pada 2014 menjadi pijakan untuk membangun kolaborasi yang lebih relevan dengan kebutuhan masyarakat saat ini. Ia berharap kemitraan tersebut tidak hanya memberikan dukungan bagi Persib di lapangan, tapi juga memperluas manfaat bagi Bobotoh dan masyarakat.\n\nMemasuki musim kompetisi 2026/2027, kata Glenn, Persib ingin mempertahankan standar prestasi yang telah dibangun dalam beberapa musim terakhir. Dukungan dari mitra, menurut dia, menjadi bagian dari perjalanan tersebut.\n\n“Bagi Persib, semangat juara bukan hanya tentang mengejar kemenangan, tapi juga tentang terus memberikan yang terbaik, tumbuh bersama, dan membawa kebanggaan serta manfaat yang lebih luas bagi masyarakat,” katanya.\n\nDalam kerja sama tersebut, bank bjb dan Persib akan menghadirkan sejumlah program, promosi, dan aktivitas eksklusif bagi nasabah dan Bobotoh. Program tersebut akan mencakup pengalaman terkait dengan ekosistem Persib serta layanan perbankan bank bjb.\n\nSalah satu bentuk kolaborasi yang diperkenalkan adalah kartu ATM co-branding bank bjb x Persib. Dalam seremoni peluncuran, kedua pihak juga menampilkan jersey Persib 2014 yang legendaris. Maskot bank bjb, Tamba, dan maskot Persib, Prabu, turut hadir dalam acara tersebut.\n\nInformasi mengenai mekanisme, periode, syarat dan ketentuan, serta ketersediaan program akan disampaikan secara bertahap melalui kanal komunikasi resmi bank bjb dan Persib. (*)",
       "fetched_ok": true,
-      "sentiment_score": 0.85,
-      "sentiment_label": "Positif",
-      "risk_score": 70,
+      "sentiment_score": 0.1,
+      "sentiment_label": "Netral",
+      "risk_score": 60,
       "risk_label": "Tinggi",
-      "reason": "Ollama: Kolaborasi positif antara bank bjb dan Persib untuk mendukung klub dan meningkatkan hubungan institusi melalui program kolaborasi yang berkesan dan memiliki dampak positif bagi nasabah, Bobotoh, dan masyarakat Jawa Barat."
+      "reason": "Ollama: The news is neutral in sentiment but carries a high risk due to the sensitive nature of the collaboration between a bank and a sports club."
     },
     {
       "title": "Bahas Pertanggungjawaban APBD 2025, DPRD Kota Bogor Soroti SiLPA dan Biskita",
@@ -207,11 +207,11 @@
       "media": "Tempo Bisnis",
       "content": "INFO TEMPO – Dewan Perwakilan Rakyat Daerah Kota Bogor menyoroti penggunaan anggaran daerah dalam pembahasan pertanggungjawaban pelaksanaan Anggaran Pendapatan dan Belanja Daerah 2025. Dewan meminta Pemerintah Kota Bogor memperbaiki perencanaan dan efisiensi belanja, terutama setelah APBD 2025 masih menyisakan Sisa Lebih Perhitungan Anggaran (SiLPA) Rp 73 miliar.\n\nWakil Ketua DPRD Kota Bogor Rusli Prihatevy mengatakan tingginya SiLPA menunjukkan masih adanya program dan anggaran yang belum terealisasi secara optimal. Padahal anggaran daerah semestinya dapat digunakan untuk membiayai program prioritas dan pelayanan publik.\n\n“Efisiensi anggaran tetap harus menjadi perhatian. Jangan sampai ada anggaran yang sudah dialokasikan, tapi tidak terserap secara optimal,” ujar Rusli pada Jumat, 17 Juli 2026.\n\nDPRD juga menyoroti skema pembiayaan operasional Biskita Trans Pakuan. Menurut Rusli, pola penghitungan subsidi transportasi massal perlu dievaluasi agar penggunaan APBD lebih efisien.\n\nSelama ini, kata dia, pembiayaan operasional Biskita, antara lain, dihitung berdasarkan jarak tempuh bus. DPRD mendorong agar jumlah penumpang turut menjadi dasar penghitungan sehingga subsidi lebih mencerminkan tingkat pemanfaatan layanan.\n\n“Kami menyepakati pelayanan ini harus mengefektifkan jumlah penumpang dan memaksimalkan pelayanan karena anggarannya dibebankan pada APBD. Ke depan, penghitungan tidak lagi didasarkan pada kilometer pergerakan bus, melainkan harus lebih efektif berdasarkan jumlah penumpang,” katanya.\n\nMenurut Rusli, perubahan skema tersebut diperlukan agar anggaran transportasi massal tidak hanya terserap untuk operasional kendaraan, tapi juga berbanding dengan manfaat yang diterima masyarakat.\n\nDPRD mencatat serapan anggaran perangkat daerah pada 2025 rata-rata mencapai 90 persen. Namun capaian tersebut belum cukup menjadi ukuran efektivitas belanja. Dewan menilai kualitas perencanaan dan hasil program juga perlu menjadi pertimbangan.\n\nSelain transportasi, DPRD menyoroti pengelolaan keuangan sektor kesehatan. Rusli meminta Pemerintah Kota Bogor memisahkan laporan keuangan Dinas Kesehatan, RSUD Kota Bogor, dan puskesmas seiring dengan perubahan Peraturan Daerah mengenai Organisasi Perangkat Daerah.\n\nMenurut dia, RSUD dan puskesmas perlu memiliki tata kelola keuangan yang lebih mandiri sebagai satuan kerja perangkat daerah. Langkah tersebut dinilai penting untuk meningkatkan akuntabilitas sekaligus menjaga kesehatan keuangan rumah sakit milik pemerintah daerah.\n\n“Tujuannya untuk menyehatkan RSUD. Sebab, RSUD merupakan rumah sakit kebanggaan Kota Bogor yang harus tetap memiliki performa keuangan yang sehat agar mampu memberikan pelayanan terbaik kepada masyarakat,” ujar Rusli.\n\nPersoalan piutang daerah juga menjadi perhatian DPRD. Rusli meminta pemerintah daerah memastikan status piutang yang masih tercatat dalam neraca keuangan. Pemerintah, kata dia, harus menentukan apakah piutang tersebut masih dapat ditagih atau perlu dihapuskan sesuai ketentuan.\n\n“Masalah piutang ini harus menjadi perhatian serius karena sudah bertahun-tahun tercatat di neraca. Harus ada kejelasan apakah akan dihapuskan atau tetap diurus. Penyelesaiannya sangat berpengaruh terhadap kekuatan fiskal Pemerintah Kota Bogor,” katanya.\n\nDalam pembahasan pertanggungjawaban APBD 2025, DPRD mencatat APBD Kota Bogor secara administratif masih mencatat surplus sekitar Rp 4,6 miliar. Namun, surplus tersebut antara lain dipengaruhi oleh efisiensi belanja dan belum optimalnya realisasi pengeluaran daerah.\n\nDi sisi lain, target pendapatan daerah yang belum tercapai serta SiLPA Rp 73 miliar menjadi catatan DPRD terhadap pelaksanaan anggaran sepanjang 2025. Kondisi tersebut, menurut Dewan, menunjukkan perlunya perbaikan dalam perencanaan dan pelaksanaan program pembangunan.\n\nDPRD juga meminta Pemerintah Kota Bogor menindaklanjuti temuan dalam laporan hasil pemeriksaan Badan Pemeriksa Keuangan. Tindak lanjut tersebut dinilai penting untuk memastikan pengelolaan APBD berjalan transparan dan dapat dipertanggungjawabkan. (*)",
       "fetched_ok": true,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 50,
-      "risk_label": "Sedang",
-      "reason": "Ollama: Isi berita hanya menyampaikan berita publik dan tidak memiliki nilai emosional atau ancaman untuk penulis."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "Ollama: berita tentang pertanggungjawaban APBD 2025 dan korbanan dalam pembahasan, yang mencakup program prioritas, anggaran yang belum ditanggung oleh pemerintah daerah, dan catatan statistik perbaikan administratif dan pelaksanaan program pembangunan yang belum optimal."
     },
     {
       "title": "NeutraDC Gandeng PLN Siapkan Energi untuk Ekspansi Data Center 200 MW",
@@ -223,9 +223,9 @@
       "fetched_ok": true,
       "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Ollama: Informasi berita tentang perusahaan data center membelah dan tidak memiliki sentimen atau risiko yang kuat."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "Ollama: Isi teks berita tentang kerja sama antara PT Telkom Data Ekosistem (NeutraDC) dan PT PLN untuk mempersiapkan energi untuk ekspansi data center dan pertumbuhan AI, serta menunjukkan rasa positif tentang kolaborasi ini."
     },
     {
       "title": "Pegadaian Gandeng Kadin Perluas Ekosistem Emas",
@@ -235,11 +235,11 @@
       "media": "Tempo Bisnis",
       "content": "INFO TEMPO - PT Pegadaian (Persero) menggandeng Kamar Dagang dan Industri (Kadin) Indonesia memperluas ekosistem emas sekaligus membuka akses pembiayaan dan layanan keuangan berbasis emas bagi dunia usaha.\n\nKerja sama tersebut dituangkan dalam nota kesepahaman (MoU) Program Pemberdayaan Ekonomi Terintegrasi bertajuk \"Kolaborasi Strategis Kadin dan Pegadaian untuk MengEMASkan Indonesia\". MoU ini ditandatangani Ketua Umum Kadin Indonesia Anindya Novyan Bakrie dan Direktur Utama Pegadaian Damar Latri Setiawan di Pegadaian Tower, Jakarta, Rabu, 12 Agustus 2026.\n\nDamar mengatakan kolaborasi tersebut mempertemukan dua lembaga yang memiliki jaringan luas di berbagai daerah. Menurut dia, jaringan Kadin dapat menjadi salah satu pintu untuk memperluas pemanfaatan produk dan layanan Pegadaian di kalangan pelaku usaha.\n\n\"Kadin ada di seluruh Indonesia, Pegadaian pun hadir di seluruh Indonesia. Sinergi ini sangat pas untuk memperluas pemanfaatan produk dan layanan Pegadaian di lingkungan dunia usaha,\" kata Damar.\n\nMenurut Damar, melalui kerja sama tersebut, anggota Kadin dan masyarakat dapat memanfaatkan berbagai layanan Pegadaian, termasuk transaksi emas melalui aplikasi Tring by Pegadaian. \"Melalui aplikasi Tring by Pegadaian, seluruh masyarakat dan anggota Kadin dapat mengelola urusan emas secara mudah, cepat, dan praktis dari mana saja,\" ujarnya.\n\nKerja sama ini mencakup pelaku usaha dari skala usaha mikro, kecil, dan menengah (UMKM) hingga korporasi. Pegadaian dan Kadin akan mendorong pemanfaatan emas sebagai instrumen simpanan dan investasi, sekaligus alternatif pendanaan bagi pelaku usaha.\n\nDamar mengatakan Pegadaian terus memperkuat ekosistem emas dari hulu hingga hilir. Selain memperluas layanan digital melalui aplikasi Tring, Pegadaian mengembangkan jaringan layanan transaksi emas secara fisik. Saat ini Pegadaian telah mengoperasikan 20 unit ATM Emas di sejumlah lokasi strategis di Indonesia.\n\nAnindya Novyan Bakrie mengapresiasi kerja sama tersebut. Menurut dia, emas dapat menjadi salah satu instrumen lindung nilai bagi dunia usaha karena relatif tahan terhadap inflasi dan fluktuasi nilai tukar.\n\n\"Ini adalah kerja sama strategis, paling tidak dari sisi saving atau simpanan untuk perusahaan ataupun individu, sekaligus cara yang baik untuk pendanaan ke depannya,\" ucapnya.\n\nAnin mengatakan kebutuhan pembiayaan dan penguatan tabungan masyarakat menjadi bagian penting dalam mendorong perekonomian nasional. \"Kebutuhan kita sebagai negara sangat besar, dan salah satu kunci keberhasilan Indonesia untuk keluar dari middle income trap adalah dengan menabung. Tabungan yang paling bagus adalah menabung emas,\" ujarnya.\n\nAnin juga mencoba fasilitas ATM Emas Pegadaian di Pegadaian Tower. Dia mengatakan fasilitas tersebut memberikan kemudahan bagi nasabah untuk memperoleh emas fisik dari saldo emas digital.\n\n\"Saya tadi mencoba sendiri di ATM Emas. Benar-benar kalau punya tabungan, kita bisa menarik fisik emasnya sendiri secara langsung. Ini memberikan kenyamanan dan kepastian bagi masyarakat,\" ucapnya.\n\nMelalui nota kesepahaman tersebut, Pegadaian dan Kadin menyepakati sejumlah ruang lingkup kerja sama. Di antaranya pemberdayaan UMKM dan pelaku usaha melalui pelatihan, pendampingan, serta pengembangan kapasitas usaha.\n\nKeduanya juga akan memperluas akses anggota Kadin terhadap produk pembiayaan, investasi, dan tabungan emas Pegadaian. Layanan tersebut ditujukan bagi karyawan, perusahaan anggota Kadin, hingga ekosistem pemasok yang berada di bawah naungan Kadin Indonesia.\n\nKerja sama juga mencakup peningkatan literasi dan inklusi keuangan melalui pelatihan, pendampingan bisnis, serta edukasi mengenai layanan keuangan berbasis emas.\n\nPegadaian dan Kadin berharap kolaborasi tersebut dapat memperluas akses layanan keuangan, memperkuat pelaku usaha, serta mendorong pemanfaatan emas dalam kegiatan ekonomi. Kerja sama ini juga diarahkan untuk mendukung agenda pembangunan berkelanjutan dan visi Indonesia Emas 2045. (*)",
       "fetched_ok": true,
-      "sentiment_score": 0.9,
-      "sentiment_label": "Positif",
-      "risk_score": 45,
-      "risk_label": "Sedang",
-      "reason": "Ollama: Berita mengandung informasi positif tentang kerjasama antara PT Pegadaian dan Kadin Indonesia yang bertujuan untuk memperluas ekosistem emas dan membuka akses pembiayaan dan layanan keuangan berbasis emas bagi dunia usaha."
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "Ollama: Berita fokus pada kerja sama antara PT Pegadaian dan Kadin Indonesia, yang mencakup beberapa aspek seperti pemanfaatan produk dan layanan, pelatihan dan pendampingan bagi anggota Kadin, dan memperluas akses untuk produk pembiayaan, investasi, dan tabungan emas. Berita ini adalah penting dalam konteks ekonomi dan investasi di Indonesia."
     },
     {
       "title": "PT Pertamina Patra Niaga RU Cilacap Buka Tender Penggantian Column Assy 11C-1",
@@ -249,11 +249,11 @@
       "media": "Tempo Bisnis",
       "content": "INFO TEMPO - PT Pertamina Patra Niaga Refinery Unit (RU) IV Cilacap secara resmi mengumumkan pelaksanaan tender terbuka untuk pekerjaan bertajuk “PENGGANTIAN COLUMN ASSY 11C-1 AREA FOC I PT. PERTAMINA PATRA NIAGA DI RU IV CILACAP”. Tender ini merupakan bagian dari upaya perusahaan dalam menjaga keandalan operasional serta memastikan keberlangsungan proses produksi di area Fuel Oil Complex (FOC) I. Tender ini dibuka hingga 24 Agustus 2026 pukul 23.59.\n\nMelalui mekanisme tender terbuka, Pertamina Patra Niaga memberikan kesempatan yang sama kepada perusahaan-perusahaan yang memenuhi persyaratan untuk berpartisipasi dalam proses pengadaan tersebut. Proses ini dilaksanakan secara transparan dan akuntabel sesuai dengan ketentuan dan tata kelola perusahaan.\n\nBagi penyedia barang dan jasa yang berminat mengikuti tender, pendaftaran dapat dilakukan secara daring melalui situs web resmi di https://ptm.id/daftarGEPSMART . Peserta diwajibkan melakukan registrasi sesuai dengan prosedur yang telah ditetapkan dalam sistem.\n\nInformasi lebih lengkap mengenai ruang lingkup pekerjaan, persyaratan administrasi, serta ketentuan teknis dapat diperoleh dengan mengunduh dokumen tender melalui tautan yang telah disediakan di sini . Pertamina Patra Niaga RU IV Cilacap mengimbau seluruh calon peserta mempelajari dokumen secara saksama sebelum mengajukan penawaran.\n\nSelain dokumen persyaratan tender, tautan tersebut telah menyertakan sejumlah lampiran yang wajib diisi oleh peserta tender dan menjadi persyaratan untuk mengikuti tender. (*)",
       "fetched_ok": true,
-      "sentiment_score": 0.1,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 50,
+      "risk_score": 45,
       "risk_label": "Sedang",
-      "reason": "Ollama: Informasi yang diberikan mengenai proses tender dan persyaratan untuk melamar. Informasi ini tidak menampilkan sentimen positif atau negatif spesifik dan tidak memiliki risiko yang jelas."
+      "reason": "Ollama: Isi berita tentang persiapan untuk penggantian unit dalam refinery PT Pertamina Patra Niaga dan tidak menarik secara positif atau negatif."
     },
     {
       "title": "BNI Perkuat Pengembangan SDM Melalui Sertifikasi dan Standar Internasional",
@@ -263,11 +263,11 @@
       "media": "Tempo Bisnis",
       "content": "INFO TEMPO - PT Bank Negara Indonesia (Persero) Tbk atau BNI memperoleh Sertifikat Lisensi Lembaga Sertifikasi Profesi (LSP) BNI dari Badan Nasional Sertifikasi Profesi (BNSP) serta Sertifikat ISO 21001:2018 dan Letter of Compliance ISO 30422:2022 melalui BNI Corporate University. Perolehan sertifikasi tersebut memperkuat tata kelola pengembangan sumber daya manusia di BNI melalui pengoperasian LSP BNI berlisensi BNSP dan penerapan standar internasional di BNI Corporate University.\n\nKetiga capaian tersebut dikukuhkan dalam seremoni di Grha BNI, Jakarta, pada Kamis, 6 Agustus 2026. Dalam seremoni tersebut, Ketua BNSP Syamsi Hari menyerahkan Sertifikat Lisensi LSP BNI kepada Direktur Human Capital & Compliance BNI Munadi Herlambang sebagai perwakilan BNI.\n\nLSP BNI telah memperoleh lisensi dari BNSP pada 19 Juni 2026. Lisensi tersebut memungkinkan LSP BNI menyelenggarakan sertifikasi kompetensi kerja secara profesional, obyektif, independen, dan akuntabel sesuai dengan standar kompetensi yang berlaku.\n\nPada tahap awal, LSP BNI menyediakan tujuh skema sertifikasi yang mencakup bidang strategis, dari general banking hingga audit internal. Cakupan sertifikasi selanjutnya akan diperluas mengikuti perkembangan industri, termasuk pada bidang digital banking, artificial intelligence, manajemen risiko, dan teknologi informasi.\n\nDirektur Human Capital & Compliance BNI Munadi Herlambang mengatakan keberadaan LSP menjadi bagian penting dalam memastikan pengembangan kompetensi pegawai dilakukan secara terukur dan relevan dengan kebutuhan industri perbankan.\n\n\"LSP BNI menjadi fondasi penting dalam membangun SDM yang kompeten sekaligus memperkuat tata kelola perusahaan. Sertifikasi kompetensi memastikan setiap insan BNI memiliki standar profesionalisme yang mampu mendukung transformasi bisnis perusahaan,\" ujarnya dalam keterangan tertulis.\n\nSelain memperkuat sertifikasi kompetensi, BNI Corporate University memperoleh Sertifikat ISO 21001:2018 pada 15 Mei 2026 dan Letter of Compliance ISO 30422:2022 pada Selasa, 4 Agustus 2026. Pengakuan tersebut menegaskan penerapan tata kelola pembelajaran dan pengembangan talenta yang makin sistematis, berorientasi pada kebutuhan peserta didik, serta mengacu pada praktik terbaik internasional.\n\nMenurut Munadi, BNI akan terus meningkatkan mutu dan kapabilitas LSP agar tidak hanya mendukung kebutuhan internal, tapi juga dapat menjadi salah satu referensi dalam pengembangan sumber daya manusia di industri perbankan nasional.\n\nPenguatan ekosistem pembelajaran dan sertifikasi tersebut sejalan dengan arah transformasi badan usaha milik negara di bawah koordinasi Badan Pengelola Investasi Daya Anagata Nusantara (BPI) Danantara yang menempatkan people development, corporate culture, inovasi, dan penciptaan nilai sebagai bagian penting dalam membangun perusahaan negara yang makin sehat, kompetitif, dan berdaya saing global. (*)",
       "fetched_ok": true,
-      "sentiment_score": 0.95,
-      "sentiment_label": "Positif",
-      "risk_score": 75,
-      "risk_label": "Sedang",
-      "reason": "Ollama: PT Bank Negara Indonesia (Persero) Tbk memperkuat pengembangan sumber daya manusia dengan memperoleh sertifikat dan standar internasional, menunjukkan perkembangan yang positif dalam tata kelola dan manajemen perusahaan."
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 20,
+      "risk_label": "Rendah",
+      "reason": "Ollama: The text is neutral in sentiment and does not indicate any specific risk factors."
     },
     {
       "title": "PT Pertamina Patra Niaga RU Cilacap Buka Tender Penggantian Column Assy 11C-1",
@@ -279,9 +279,9 @@
       "fetched_ok": true,
       "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 85,
-      "risk_label": "Tinggi",
-      "reason": "Ollama: Informasi umum tentang upaya pertambangan dan ekspansi dilakukan, tanpa konteks negatif atau positif yang spesifik."
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Ollama: berita ini adalah informasi perusahaan dan berisi tentang tender, tidak ada aspek positif atau negatif yang dapat ditangani."
     },
     {
       "title": "Ketua Baznas Tekankan Peran PUSDAI Jawa Barat sebagai Penggerak Umat",
@@ -291,11 +291,11 @@
       "media": "Tempo Bisnis",
       "content": "INFO TEMPO - Ketua Badan Amil Zakat Nasional (Baznas) Sodik Mudjahid mendorong Pusat Dakwah Islam (PUSDAI) Jawa Barat terus memperkuat perannya sebagai motor penggerak gerakan umat. Menurut dia, peran tersebut dapat diwujudkan dengan mengoptimalkan empat fungsi PUSDAI, yakni sebagai fasilitator, koordinator, dinamisator, dan inovator.\n\n“Pada awal-awal pembentukan PUSDAI, dengan kesenioran Pak Miftah, ilmu Pak Miftah, hikmah Pak Miftah, dan saya yang lebih muda dengan semangat orang muda yang profesional, kita lakukan empat fungsi utama itu. Nah, mudah-mudahan sekarang juga dengan duet yang dahsyat, Jujun dan Ijang, semoga PUSDAI lebih maju,” kata Sodik, yang juga Wakil Pimpinan PUSDAI Jawa Barat periode pertama, saat menghadiri peresmian Paviliun Sodik Mudjahid dan Paviliun Miftah di kompleks PUSDAI Jabar, Kota Bandung, Selasa, 11 Agustus 2026.\n\nSodik mengatakan optimalisasi fungsi-fungsi tersebut dinilai menjadi fondasi penting dalam memfasilitasi sarana dakwah, menyelaraskan potensi pergerakan, menghidupkan dinamika keumatan, serta melahirkan berbagai inovasi program sosial pendidikan. Ia berharap kepengurusan baru PUSDAI Jabar dapat terus mempertahankan dan merawat rekam jejak peran strategis tersebut dalam menjawab tantangan zaman.\n\nSementara itu, Pimpinan PUSDAI periode pertama, Miftah Faridl, mengapresiasi dedikasi dan keikhlasan para tokoh pendiri serta pejabat daerah yang telah memprakarsai lahirnya PUSDAI. Ia mengajak generasi muda terus menjaga komitmen terhadap agama dan bangsa melalui berbagai peran ijtihad kegiatan, baik di bidang dakwah, politik, maupun ekonomi.\n\n“Saya ingin mengajak yang muda-muda, teruskan komitmen kita. Kita berkomitmen kepada agama kita untuk terus menyebarkan agama kita. Tentu komitmen kita kepada bangsa kita yang sama-sama kita cintai,” katanya.\n\nKegiatan tersebut dihadiri sejumlah pejabat dan tokoh, antara lain Ketua DKM PUSDAI Jawa Barat Jujun Junaedi, Sekretaris Daerah Jawa Barat Herman Suryatman, Wali Kota Bandung Muhammad Farhan, serta Ketua Dewan Pewakilan Rakyat Daerah Jawa Barat Buky Wibawa Karya Guna. Hadir pula Pangdam III/Siliwangi Mayor Jenderal Kosasih, Kepala Kepolsian Daerah Jawa Barat Inspektur Jenderal Polisi Pipit Rismanto, serta Kepala Kantor Wilayah Kementerian Agaman Jawa Barat Dudu Rohman.\n\nDari kalangan akademikus, hadir Rektor Unisba A. Harits Nu'man dan Rektor Universitas Muhammadiyah Bandung Herry Suhardiyanto. (*)",
       "fetched_ok": true,
-      "sentiment_score": 0.5,
-      "sentiment_label": "Netral",
-      "risk_score": 45,
+      "sentiment_score": 0.85,
+      "sentiment_label": "Positif",
+      "risk_score": 50,
       "risk_label": "Sedang",
-      "reason": "Ollama: Judul dan isi berita mempertemukan tokoh dari berbagai kalangan, mulai dari pejabat, tokoh agama, dan tokoh masyarakat, serta mengkaitkan mereka dengan peran PUSDAI Jawa Barat dalam gerakan umat. Ini mencerminkan konten yang netral dalam konteks berita umum."
+      "reason": "Ollama: Berita ini menekankan peran PUSDAI Jawa Barat sebagai motor penggerak umat, menunjukkan kepentingan dan tanggung jawab mereka dalam bidang dakwah dan sosial. Ini menambahkan nilai positif dalam bidang pemenuhan norma sosial dan etika dalam masyarakat."
     },
     {
       "title": "Iftitah Sulaiman Dorong Kampus Hadirkan Inovasi di Kawasan Transmigrasi",
@@ -305,11 +305,11 @@
       "media": "Tempo Bisnis",
       "content": "INFO TEMPO - Menteri Transmigrasi M. Iftitah Sulaiman Suryanagara mendorong perguruan tinggi menjadikan kawasan transmigrasi sebagai ruang penerapan ilmu pengetahuan, riset, dan inovasi. Menurut dia, kehadiran kampus dapat mengembangkan potensi lokal serta menciptakan sumber pendapatan dan lapangan kerja baru bagi masyarakat.\n\n“Tidak ada jalan selain menghadirkan sumber daya manusia unggul dalam transformasi transmigrasi. Harus ada banjir ilmu pengetahuan dan teknologi dalam pembangunan kawasan transmigrasi,” katanya saat memberikan kuliah umum di Universitas Hasanuddin, Makassar, Sulawesi Selatan, Selasa, 11 Agustus 2026.\n\nScroll ke bawah untuk melanjutkan membaca\n\nMenurut Iftitah, ilmu pengetahuan tidak boleh berhenti di ruang kuliah, jurnal, atau laboratorium, melainkan harus hadir dan memberi manfaat langsung kepada masyarakat.\n\nUntuk mewujudkan gagasan tersebut, Kementerian Transmigrasi mendorong pengembangan kampus satelit dengan menjadikan kawasan transmigrasi sebagai living laboratory atau laboratorium hidup. Lewat pengembangan tersebut, mahasiswa dan akademikus dari berbagai disiplin ilmu dapat melakukan riset, menguji pengetahuan, dan menghasilkan inovasi berdasarkan persoalan yang benar-benar dihadapi masyarakat.\n\nKolaborasi itu mencakup berbagai bidang, dari pertanian, kesehatan, pendidikan, ekonomi, teknologi, hingga lingkungan.\n\n“Bukan hanya kesehatan dan kedokteran. Kita juga ingin menghadirkan berbagai disiplin ilmu di kawasan transmigrasi, salah satunya melalui Tim Ekspedisi Patriot,” ujarnya.\n\nSeperti pengembangan komoditas kopi, kata Iftitah, masyarakat membutuhkan pendampingan berbasis ilmu pengetahuan untuk menghasilkan kopi berkualitas dan bernilai jual tinggi. Pendampingan tersebut diperlukan sejak tahap pembibitan, perawatan, pemetikan, pengolahan, pengemasan, hingga pemasaran.\n\nPendekatan serupa dapat diterapkan terhadap berbagai komoditas unggulan di kawasan transmigrasi. Dengan demikian, kekayaan alam tidak berhenti dijual sebagai bahan mentah, tapi juga diolah menjadi produk bernilai tambah yang memberi keuntungan lebih besar kepada masyarakat.\n\n“Kalau di sana tumbuh kegiatan ekonomi, ekosistemnya juga harus dibangun. Masyarakat lokal tidak boleh hanya menjadi penonton ketika investasi hadir di tanahnya sendiri,” tutur Iftitah.\n\nKarena itu, investasi harus berjalan beriringan dengan peningkatan kapasitas masyarakat. Warga lokal harus dipersiapkan menjadi tenaga terampil, pelaku usaha, pemasok, bahkan bagian dari kepemilikan ekosistem ekonomi yang berkembang di wilayahnya.\n\nMelalui transformasi tersebut, masyarakat di kawasan transmigrasi diharapkan mengalami peningkatan keterampilan, produktivitas, pendapatan, dan kualitas pelayanan dasar. Pada saat yang sama, makin banyak kesempatan kerja dan usaha yang dapat dinikmati masyarakat setempat.\n\nDalam pengelolaan talenta, Indonesia juga dapat mempelajari praktik brain circulation yang diterapkan Tiongkok. Pelajar dan tenaga ahli diberi kesempatan belajar serta melakukan riset di luar negeri, kemudian kembali membawa pengetahuan, pengalaman, dan jejaring untuk membangun negaranya.\n\nIftitah juga menegaskan bahwa pembangunan kawasan transmigrasi harus dilakukan secara berkelanjutan dengan tetap menjaga lingkungan dan menghormati budaya masyarakat setempat. Kabupaten Kutai Kartanegara misalnya, sebagian kawasannya telah berkembang menjadi hutan dan area konservasi orangutan serta beruang madu, sekaligus memiliki potensi untuk dikembangkan sebagai destinasi wisata.\n\n“Pembangunan kawasan harus berkelanjutan. Tidak ada yang instan. Pembangunan juga tidak boleh mengabaikan lingkungan dan budaya masyarakat setempat,” ucapnya.\n\nKawasan transmigrasi tentunya dapat menjadi ruang riset, inovasi, dan pengabdian kepada masyarakat bagi perguruan tinggi. Begitu pun bagi mahasiswa, kawasan tersebut dapat menjadi tempat untuk memperoleh pengalaman nyata sekaligus mempersiapkan masa depan.\n\nSementara itu, bagi dunia usaha, kawasan ini menyediakan potensi ekonomi yang dapat dikembangkan secara terencana. Adapun bagi masyarakat, transformasi transmigrasi membuka kesempatan untuk meningkatkan keterampilan, memperoleh pekerjaan, membangun usaha, dan menikmati manfaat pertumbuhan ekonomi di daerahnya sendiri.\n\n“Transmigrasi bukan sekadar program, melainkan juga strategi untuk mewujudkan Indonesia maju. Makin berilmu, makin mampu kita melihat potensi, mengembangkannya menjadi kekuatan ekonomi, dan memastikan manfaatnya benar-benar dirasakan masyarakat,” kata Iftitah. (*)",
       "fetched_ok": true,
-      "sentiment_score": 0.8,
+      "sentiment_score": 0.95,
       "sentiment_label": "Positif",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Ollama: berita mengandungi informasi positif tentang upaya Menteri Transmigrasi dalam mendukung penerapan inovasi di kawasan transmigrasi, yang diharapkan akan meningkatkan keterampilan dan pendapatan masyarakat lokal."
+      "risk_score": 50,
+      "risk_label": "Sedang",
+      "reason": "Ollama: Informasi mengandung dukungan terhadap pemerintah dalam menghadirkan inovasi di kawasan transmigrasi."
     },
     {
       "title": "PT Pertamina Patra Niaga RU Cilacap Buka Tender Penggantian Column Assy 11C-1",
@@ -321,9 +321,9 @@
       "fetched_ok": true,
       "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 85,
-      "risk_label": "Tinggi",
-      "reason": "Ollama: berita tentang tender yang wajar dan informatif, tanpa emosi atau sentiment negatif"
+      "risk_score": 45,
+      "risk_label": "Sedang",
+      "reason": "Ollama: Informasi tentang proyek dan pendaftaran untuk berpartisipasi dalam tender tidak menunjukkan tingkat keadaan atau persepsi apakah proyek tersebut positif, negatif atau netral. Informasi utama adalah tentang proses dan detail dari proyek, dan ini tidak memiliki tingkat tertentu dalam konteks yang dapat diidentifikasi sebagai tinggi, sedang atau rendah risiko."
     },
     {
       "title": "KKP Selamatkan 1.286 Telur Penyu di Sambas",
@@ -335,9 +335,9 @@
       "fetched_ok": true,
       "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Ollama: Berita adalah berita sejarah yang memberikan informasi mengenai perlindungan terhadap telur penyu yang ditemukan di Kabupaten Sambas, Kalimantan Barat. Informasi ini tidak menunjukkan sentimen positif atau negatif spesifik, dan tidak berpotensi merujuk pada risiko khusus."
+      "risk_score": 45,
+      "risk_label": "Sedang",
+      "reason": "Ollama: Informasi berita mengandung fakta yang objektif dan tidak menampilkan emosi atau kecenderungan."
     },
     {
       "title": "PT Pertamina Patra Niaga RU Cilacap Buka Tender Penggantian Column Assy 11C-1",
@@ -347,11 +347,11 @@
       "media": "Tempo Bisnis",
       "content": "INFO TEMPO - PT Pertamina Patra Niaga Refinery Unit (RU) IV Cilacap secara resmi mengumumkan pelaksanaan tender terbuka untuk pekerjaan bertajuk “PENGGANTIAN COLUMN ASSY 11C-1 AREA FOC I PT. PERTAMINA PATRA NIAGA DI RU IV CILACAP”. Tender ini merupakan bagian dari upaya perusahaan dalam menjaga keandalan operasional serta memastikan keberlangsungan proses produksi di area Fuel Oil Complex (FOC) I. Tender ini dibuka hingga 24 Agustus 2026 pukul 23.59.\n\nMelalui mekanisme tender terbuka, Pertamina Patra Niaga memberikan kesempatan yang sama kepada perusahaan-perusahaan yang memenuhi persyaratan untuk berpartisipasi dalam proses pengadaan tersebut. Proses ini dilaksanakan secara transparan dan akuntabel sesuai dengan ketentuan dan tata kelola perusahaan.\n\nBagi penyedia barang dan jasa yang berminat mengikuti tender, pendaftaran dapat dilakukan secara daring melalui situs web resmi di https://ptm.id/daftarGEPSMART . Peserta diwajibkan melakukan registrasi sesuai dengan prosedur yang telah ditetapkan dalam sistem.\n\nInformasi lebih lengkap mengenai ruang lingkup pekerjaan, persyaratan administrasi, serta ketentuan teknis dapat diperoleh dengan mengunduh dokumen tender melalui tautan yang telah disediakan di sini . Pertamina Patra Niaga RU IV Cilacap mengimbau seluruh calon peserta mempelajari dokumen secara saksama sebelum mengajukan penawaran.\n\nSelain dokumen persyaratan tender, tautan tersebut telah menyertakan sejumlah lampiran yang wajib diisi oleh peserta tender dan menjadi persyaratan untuk mengikuti tender. (*)",
       "fetched_ok": true,
-      "sentiment_score": 0.5,
+      "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 35,
-      "risk_label": "Sedang",
-      "reason": "Ollama: Informasi yang disampaikan mengenai proses tender yang berjalan secara transparan dan akuntabel, serta perusahaan meminta calon peserta untuk mempelajari dan mengisi dokumen tender dengan teliti. Itu menunjukkan bahwa proses ini dilakukan dengan cara yang baik dan teratur."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "Ollama: Informasi yang diberikan secara umum mengenai proses tender dan persyaratan tidak memberikan indikasi khusus terhadap sentimen atau risiko yang mungkin timbul dari proses tersebut."
     },
     {
       "title": "Bank Mandiri Gandeng Paramount Dorong Pertumbuhan Properti Berkelanjutan",
@@ -361,11 +361,11 @@
       "media": "Tempo Bisnis",
       "content": "INFO TEMPO - Bank Mandiri menggandeng PT Paramount Enterprise International (Paramount) untuk menghadirkan solusi layanan perbankan terintegrasi sekaligus mendukung pengembangan kawasan properti yang berkelanjutan. Direktur Consumer Banking Bank Mandiri Saptari mengatakan kolaborasi ini merupakan wujud komitmen Bank Mandiri menghadirkan solusi finansial terintegrasi bagi pelaku usaha di berbagai sektor strategis.\n\nMenurut dia, sinergi dengan Paramount bukan sekadar memperluas kerja sama bisnis, melainkan juga menciptakan nilai tambah yang dapat memperkuat ekosistem industri properti sekaligus memberi manfaat lebih luas bagi masyarakat. “Sebagai bagian dari ekosistem Danantara Indonesia, Bank Mandiri terus memperkuat peran sebagai mitra strategis pemerintah dalam mendorong pertumbuhan ekonomi nasional melalui sektor-sektor produktif, termasuk properti yang memiliki multiplier effect besar terhadap berbagai industri,\" kata Saptari dalam keterangan resmi, Ahad, 9 Agustus 2026.\n\nSaptari menuturkan, melalui integrasi solusi keuangan, layanan digital, hingga pembiayaan yang komprehensif, Bank Mandiri ingin menghadirkan nilai tambah bagi semua pemangku kepentingan. \"Kami pun mendukung Paramount mengembangkan kawasan yang tidak hanya menjadi pusat hunian dan bisnis, tapi juga mampu meningkatkan kualitas hidup masyarakat secara berkelanjutan,\" ucapnya.\n\nKolaborasi tersebut ditandai dengan penandatanganan dua nota kesepahaman (MoU) pada Rabu, 5 Agustus 2026. MoU pertama mengenai kerja sama kawasan dan penggunaan jasa atau produk perusahaan. Nota kesepahaman ini ditandatangani Direktur Network & Retail Funding Bank Mandiri Jan Winston Tambunan dan SEVP Corporate Banking 1 Bank Mandiri Eny Kurniasih M. Mukarromah bersama President Director Paramount M. Nawawi dan Director Paramount Chrissandy Dave Winata.\n\nMoU kedua mengenai kerja sama pemasaran dan penggunaan jasa atau produk perusahaan yang ditandatangani Direktur Consumer Banking Bank Mandiri Saptari bersama Director Paramount Santi Meilawati. Penandatanganan tersebut turut disaksikan Direktur Risk Management Bank Mandiri Danis Subyantoro dan SEVP Risk Management Bank Mandiri Wildan Sanjoyo serta Board of Advisor Paramount Ervan Adi Nugroho dan Nurmiyanti Said bersama Director Paramount Norman S. Daulay.\n\nKerja sama ini menjadi langkah strategis kedua perusahaan dalam memperkuat integrasi layanan keuangan sekaligus mendukung pengembangan kawasan yang makin modern, produktif, dan berdaya saing. Melalui kolaborasi tersebut, Bank Mandiri akan menghadirkan layanan perbankan komprehensif untuk mendukung kebutuhan Paramount Group beserta entitas afiliasinya, dari pengelolaan transaksi dan operasional perusahaan, digitalisasi layanan keuangan, hingga solusi pembiayaan bagi konsumen melalui fasilitas kredit pemilikan rumah (KPR).\n\nMenurut Saptari, sektor properti merupakan salah satu motor penggerak ekonomi nasional karena memiliki efek berganda terhadap lebih dari 180 subsektor industri. Karena itu, Bank Mandiri akan terus memperluas kolaborasi dengan berbagai pelaku usaha untuk memperkuat akses pembiayaan, mendorong pengembangan ekosistem bisnis, serta mendukung pembangunan kawasan yang mampu menciptakan dampak ekonomi lebih luas.\n\nSaptari menambahkan, kemitraan Bank Mandiri dan Paramount telah berkembang melalui berbagai inisiatif strategis, dari pengelolaan layanan payroll, digitalisasi sistem pembayaran kawasan melalui integrasi layanan perbankan, dukungan pembiayaan bagi pengembangan bisnis dan konsumen, hingga implementasi berbagai inisiatif keberlanjutan. Penandatanganan nota kesepahaman ini menjadi tonggak penting untuk memperluas sinergi tersebut dan memberi nilai tambah yang lebih besar bagi semua pemangku kepentingan.\n\nBank Mandiri juga menyediakan solusi KPR terdigitalisasi, yakni New Livin' KPR melalui aplikasi Livin' by Mandiri. Inovasi ini dirancang untuk memudahkan dan mempercepat proses pembelian properti bagi masyarakat di berbagai proyek Paramount, termasuk Paramount Serpong dan Paramount Petals.\n\nSejalan dengan komitmen terhadap prinsip environmental, social, and governance (ESG), Bank Mandiri juga menyerahkan Sertifikat Pengurangan Emisi Gas Rumah Kaca (SPE-GRK) sebesar 89 ton COe sebagai dukungan terhadap upaya penyeimbangan emisi dari pengembangan kawasan hunian Matera Lakeside di Gading Serpong.\n\n“Kolaborasi ini mencerminkan komitmen bersama dalam menghadirkan pembangunan yang tidak hanya memberikan nilai ekonomi, tapi juga manfaat nyata bagi lingkungan. Kami yakin sinergi yang mengedepankan prinsip keberlanjutan akan menjadi fondasi penting dalam menciptakan pertumbuhan yang berkualitas sekaligus mendukung transisi menuju masa depan yang lebih hijau dan rendah karbon,” kata Saptari.\n\nSebagai salah satu pengembang properti terkemuka di Indonesia, Paramount memiliki portofolio bisnis yang mencakup pengembangan kawasan mandiri, area komersial, hospitality, penyediaan energi, hingga layanan kesehatan premium melalui Bethsaida Hospital dan Seraphim Medical Center. Dengan kekuatan ekosistem tersebut, kerja sama dengan Bank Mandiri diharapkan mampu memperluas sinergi lintas sektor, mendorong pertumbuhan ekonomi nasional, serta menghadirkan nilai tambah bagi masyarakat.\n\nKe depan, Bank Mandiri akan terus memperkuat kolaborasi dengan berbagai pelaku industri sebagai bagian dari strategi memperkokoh ekosistem bisnis nasional. Sebagai bagian dari ekosistem Danantara Indonesia, Bank Mandiri optimistis sinergi bersama mitra strategis akan mempercepat pembangunan yang inklusif, meningkatkan daya saing sektor-sektor produktif, serta mendukung pertumbuhan ekonomi Indonesia yang berkelanjutan. (*)",
       "fetched_ok": true,
-      "sentiment_score": 0.5,
-      "sentiment_label": "Netral",
-      "risk_score": 75,
+      "sentiment_score": 0.95,
+      "sentiment_label": "Positif",
+      "risk_score": 80,
       "risk_label": "Tinggi",
-      "reason": "Ollama: alasan singkat dalam Bahasa Indonesia: Berita menyoroti kekuatan ekosistem industri properti dan perekonomian nasional, serta menekankan pentingnya kolaborasi antara bank dan perusahaan properti untuk mendukung pertumbuhan ekonomi dan kawasan properti berkelanjutan."
+      "reason": "Ollama: Bank Mandiri mendukung kawasan properti berkelanjutan dengan kolaborasi yang positif, mencerminkan komitmen untuk pertumbuhan ekonomi dan perekonomian properti yang berkelanjutan, yang diharapkan meningkatkan nilai tambah bagi masyarakat dan ekosistem industri."
     },
     {
       "title": "Bea Cukai Gagalkan Penyelundupan 10 Kilogram Ganja dari Thailand di Bandara Ngurah Rai",
@@ -375,11 +375,11 @@
       "media": "Tempo Bisnis",
       "content": "INFO TEMPO - Bea Cukai Ngurah Rai bersama Satuan Reserse Narkoba Polres Kawasan Bandara I Gusti Ngurah Rai menggagalkan penyelundupan lebih dari 10 kilogram narkotika golongan I jenis Delta-9 Tetrahydrocannabinol (ganja) yang dibawa dua warga negara India pada Senin, 3 Agustus 2026.\n\nPengungkapan bermula sekitar pukul 10.30 WITA ketika pesawat Scoot Air nomor penerbangan TR280 dengan rute Koh Samui (Thailand)–Singapura–Denpasar tiba di Bandara Internasional I Gusti Ngurah Rai. Seluruh penumpang kemudian menjalani pemeriksaan rutin oleh petugas Bea Cukai Ngurah Rai di area kedatangan internasional.\n\nSekitar pukul 11.25 WITA, berdasarkan hasil analisis citra mesin X-ray dan manajemen risiko, petugas Bea Cukai mencurigai barang bawaan dua penumpang berkewarganegaraan India berinisial AR, seorang manajer, dan PC, seorang guru. Kecurigaan tersebut ditindaklanjuti dengan pemeriksaan mendalam terhadap koper milik keduanya.\n\nDari koper milik AR, petugas menemukan delapan kotak yang berisi total 62 kemasan serbuk tanaman kering berwarna hijau kecokelatan yang setelah dilakukan pengujian terbukti mengandung narkotika golongan I jenis Delta-9 Tetrahydrocannabinol (ganja), dengan berat 6.399 gram bruto atau 6.275 gram netto. Sementara itu, dari koper milik PC ditemukan enam kotak berisi 38 kemasan dengan jenis barang serupa, dengan berat mencapai 3.911 gram bruto atau 3.835 gram netto.\n\nSecara keseluruhan, petugas mengamankan 100 kemasan narkotika jenis ganja dengan berat total 10.310 gram bruto atau 10.110 gram netto. Hasil pengujian Laboratorium Bea dan Cukai Ngurah Rai melalui Laporan Hasil Pengujian Nomor SHPIB-77/BLBC.3.02/2026 dan SHPIB-78/BLBC.3.02/2026 tanggal 3 Agustus 2026 memastikan seluruh barang bukti tersebut positif mengandung narkotika golongan I jenis Delta-9 Tetrahydrocannabinol (ganja).\n\n\"Berdasarkan hasil pemeriksaan awal, kedua terduga pelaku mengaku datang ke Bali untuk berlibur selama tiga hari bersama keluarga. Mereka juga mengakui memperoleh barang tersebut dari seseorang di Thailand sebelum membawanya ke Indonesia. Untuk mengelabui petugas, narkotika disamarkan sebagai oleh-oleh makanan yang dikemas dalam beberapa kardus dan dicampurkan bersama barang bawaan lainnya di dalam koper,\" kata Kepala Kantor Bea Cukai Ngurah Rai Wawan Dharmawan.\n\nSetelah barang bukti ditemukan, Bea Cukai Ngurah Rai segera berkoordinasi dengan Satresnarkoba Polres Kawasan Bandara I Gusti Ngurah Rai. Selanjutnya dilakukan serah terima tersangka, barang bukti, dan penanganan perkara di Kantor Bea Cukai Ngurah Rai.\n\nTim gabungan kemudian dibentuk untuk melaksanakan controlled delivery sebagai bagian dari upaya pengembangan kasus dan pengungkapan jaringan yang lebih luas. Setelah itu, kedua pelaku beserta barang bukti dibawa ke Polres Kawasan Bandara I Gusti Ngurah Rai untuk menjalani proses penyidikan lebih lanjut.\n\nWawan mengatakan pengungkapan kasus tersebut menunjukkan kolaborasi Bea Cukai dan Kepolisian menjadi garda terdepan dalam mengamankan pintu masuk negara dari ancaman penyelundupan narkotika. Penindakan itu diperkirakan telah menyelamatkan lebih dari 2.076 jiwa dari dampak penyalahgunaan narkotika serta mencegah potensi kerugian ekonomi masyarakat hingga Rp 3,3 miliar.\n\n\"Kolaborasi antarpenegak hukum akan terus diperkuat melalui pertukaran informasi, pengawasan berbasis intelijen, serta operasi terpadu guna melindungi masyarakat dan menjaga Indonesia dari ancaman jaringan peredaran gelap narkotika internasional,\" katanya. (*)",
       "fetched_ok": true,
-      "sentiment_score": 0.0,
-      "sentiment_label": "Netral",
-      "risk_score": 75,
-      "risk_label": "Tinggi",
-      "reason": "Ollama: berita mengandung informasi positif tentang penghentian penyelundupan narkotika, serta negative karena ada konsekuensi luaran seperti potensi kerugian ekonomi dan dampak penyelamatan hidup dari narkotika."
+      "sentiment_score": 0.95,
+      "sentiment_label": "Positif",
+      "risk_score": 50,
+      "risk_label": "Sedang",
+      "reason": "Ollama: Berita mengandung informasi serius tentang serangan narkotika, menekankan pentingnya kolaborasi antarpenegak hukum dalam melindungi negara dan masyarakat."
     },
     {
       "title": "Pemkab Bogor: Serah Terima PSU Sentul City Rampung, Tinggal Tunggu Sertifikat BPN",
@@ -391,9 +391,9 @@
       "fetched_ok": true,
       "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Ollama: Alasan singkat dalam Bahasa Indonesia: Berita fokus pada pengelolaan dan serah terima PTI di kawasan Sentul City, yang tidak memiliki tingkat emosi positif atau negatif."
+      "risk_score": 90,
+      "risk_label": "Tinggi",
+      "reason": "Ollama: Kesepakatan untuk pengelolaan dan sertifikasi PSU yang belum selesai menghasilkan kekhawatiran terkait masa depan aset dan legalitas."
     },
     {
       "title": "APMF 2026 Dorong Industri Bangun Kolaborasi Berkelanjutan",
@@ -403,11 +403,11 @@
       "media": "Tempo Bisnis",
       "content": "INFO TEMPO - Asia Pacific Media Forum (APMF) 2026 mendorong pelaku industri untuk menggeser fokus dari sekadar menciptakan kampanye yang menarik perhatian menuju pembangunan sistem kolaborasi dan pengambilan keputusan yang mampu bertahan dalam jangka panjang. Pergeseran ini dinilai penting seiring perubahan perilaku konsumen yang dipicu pesatnya perkembangan teknologi, kemunculan konten kreator, serta semakin terfragmentasinya media digital, yang membuat usia sebuah kampanye pemasaran kian pendek.\n\nChairman APMF Andi Sadha mengatakan tantangan industri saat ini tidak lagi terletak pada minimnya ide atau insight. Menurut dia, organisasi justru dihadapkan pada kebutuhan untuk membangun fondasi yang mampu menghasilkan nilai secara berkelanjutan, bahkan setelah sebuah kampanye berakhir.\n\n\"Sebagian besar dari kita pernah menjalankan kampanye yang berhasil menarik perhatian pasar. Impression datang, percakapan meningkat, tetapi beberapa minggu atau beberapa bulan kemudian semuanya menghilang. Campaigns fade. Itu memang sifat alami sebuah kampanye. Blueprint the Beyond adalah penolakan terhadap anggapan bahwa di situlah pekerjaan kita selesai,\" ujar Andi saat membuka APMF 2026 di Bali Nusa Dua Convention Center (BNDCC) pada 5 hingga 7 Agustus 2026.\n\nAdapun APMF merupakan forum yang telah diselenggarakan sejak 2005 untuk mempertemukan para pemimpin industri dari berbagai sektor, mulai dari brand, media, teknologi, agensi, platform digital, hingga ekonomi kreatif. Forum ini membahas perkembangan pemasaran dan consumer engagement di kawasan Asia Pasifik. Pada 2026, APMF mengusung tema “Blueprint the Beyond”.\n\nTema Blueprint the Beyond lahir dari satu pertanyaan mendasar yang menjadi pijakan penyelenggaraan APMF tahun ini, yakni bagaimana mendorong lahirnya kolaborasi nyata dan kemitraan bisnis yang berkelanjutan. Atas dasar itu, seluruh rangkaian forum dirancang tidak hanya sebagai ruang berbagi pengetahuan, tetapi juga sebagai tempat mempertemukan para pengambil keputusan dari berbagai sektor.\n\n\"Selama tiga hari kami tidak mengajak peserta sekadar mengagumi ide-ide baru. Kami mengajak untuk membangun sesuatu yang tetap hidup setelah konferensi ini berakhir. Orang yang duduk di sebelah Anda bisa menjadi alasan sebuah ide besar diwujudkan atau sebuah kerja sama akhirnya tercapai,\" kata Andi.\n\nSaat pembukaan peserta diajak berinteraksi dengan peserta lain sejak awal acara. Pendekatan tersebut mencerminkan gagasan utama APMF tahun ini, yakni bahwa kolaborasi sering kali bermula dari percakapan sederhana yang membuka peluang kerja sama di masa depan.\n\nAndi menilai, di tengah kondisi ekonomi yang semakin dinamis, organisasi memiliki dua pilihan, yakni bertahan dengan cara lama atau menyesuaikan diri melalui kolaborasi. Karena itu, APMF tidak dirancang sebagai forum yang hanya menghadirkan inspirasi, melainkan ruang untuk membangun hubungan profesional yang dapat berkembang menjadi kemitraan jangka panjang.\n\n\"Kami percaya masa depan industri tidak dibangun oleh satu organisasi saja. Masa depan dibentuk melalui percakapan yang terbuka mengenai apa yang sedang kita bangun, apa yang kita butuhkan, dan apa yang dapat kita tawarkan kepada pihak lain. Semakin terbuka kita berbagi, semakin besar peluang kolaborasi itu terwujud,\" ujar Andi.\n\nAndi mengajak peserta memanfaatkan APMF sebagai ruang untuk membangun kerja sama yang melampaui penyelenggaraan konferensi. \"Jangan habiskan tiga hari ini sebagai pengamat. Jadilah pembangun. Mulailah percakapan dengan orang yang sudah Anda kenal, lalu dengan satu orang yang belum Anda kenal. Tanyakan satu hal sederhana: apa yang bisa kita bangun bersama? Karena pada akhirnya, kampanye akan berlalu, tetapi struktur yang dibangun bersama akan bertahan,\" katanya.\n\nSelama tiga hari penyelenggaraan, APMF 2026 menghadirkan empat pengalaman utama, yakni Applied Intelligence Lab, Conference Stage, Innovation & Experience Showcase, serta Leadership Gatherings. Keempatnya dirancang untuk mempertemukan pemimpin industri dengan perspektif, teknologi, dan peluang kolaborasi baru dalam menghadapi perubahan lanskap marketing.\n\nAPMF 2026 menghadirkan lebih dari 50 pembicara dari berbagai negara, diantaranya Regional Chief Creative Officer IMPACT BBDO Ali Rez, Filmmaker sekaligus Co-founder Imajinari Ernest Prakasa, Managing Editor WARC APAC Rica Facundo, Co-Founder EnMasse Sunny Gho, serta Managing Director, Design and Digital Products Lead Accenture Song Tuomas Peltoniemi. (*)",
       "fetched_ok": true,
-      "sentiment_score": 0.9,
-      "sentiment_label": "Positif",
-      "risk_score": 20,
-      "risk_label": "Rendah",
-      "reason": "Ollama: Forum mendukung dan mempromosikan kolaborasi dan pengambilan keputusan yang mampu bertahan dalam jangka panjang, menunjukkan optimisme dan dukungan untuk industri."
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 75,
+      "risk_label": "Tinggi",
+      "reason": "Ollama: berita mengandung fokus pada analisis dan pembahasan tentang forum APMF 2026 dan diskusi yang terjadi di dalamnya. Berita ini fokus pada pengaruh perubahan perilaku konsumen dan pembangunan sistem kolaborasi yang mampu bertahan dalam jangka panjang, serta tidak memiliki aspek negatif atau positif spesifik."
     },
     {
       "title": "Sektor Jasa Keuangan Stabil, Kredit Perbankan Melesat",
@@ -419,9 +419,9 @@
       "fetched_ok": true,
       "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 75,
-      "risk_label": "Tinggi",
-      "reason": "Ollama: berita menyebutkan kondisi sektor jasa keuangan stabil dengan pertumbuhan kredit yang melesat, tetapi juga menekankan tingkat risiko dan likuiditas yang sedang berada di atas batas minimal."
+      "risk_score": 50,
+      "risk_label": "Sedang",
+      "reason": "Ollama: Kondisi sekret jasa keuangan dianggap stabil dengan pertumbuhan kredit perbankan melesat dan kinerja industri jasa keuangan tumbuh positif. Alasan positif ini menunjukkan bahwa industri jasa keuangan di Indonesia masih stabil dan memiliki kekuatan untuk menghadapi tekanan eksternal."
     },
     {
       "title": "Kebutuhan akan Layanan Pengelolaan Kekayaan Terus Berkembang, OCBC Perkuat Kapabilitas Wealth Management",
@@ -431,11 +431,11 @@
       "media": "Tempo Bisnis",
       "content": "INFO TEMPO - Bisnis wealth management di Indonesia terus berkembang seiring dengan meningkatnya minat masyarakat terhadap investasi, proteksi, dan perencanaan keuangan. Menangkap tren tersebut, PT Bank OCBC NISP Tbk ( OCBC ) memperkuat layanan wealth management melalui kapabilitas digital serta solusi investasi dan proteksi yang terintegrasi.\n\nSeiring dengan perubahan kebutuhan tersebut, nasabah tidak hanya mencari akses terhadap berbagai instrumen investasi, tapi juga layanan yang aman, terintegrasi, dan mampu mendukung pengelolaan kekayaan dalam jangka panjang. Menjawab kebutuhan tersebut, PT Bank OCBC NISP Tbk (OCBC) terus memperkuat layanan wealth management yang dimiliki. Didukung kapabilitas digital yang makin berkembang serta ekosistem layanan yang terintegrasi, OCBC berupaya menghadirkan pengalaman pengelolaan kekayaan yang lebih nyaman bagi nasabah, dari transaksi perbankan, investasi, proteksi, hingga perencanaan keuangan.\n\nSejalan dengan penguatan tersebut, OCBC juga meraih sejumlah penghargaan internasional, termasuk Euromoney Private Banking Award 2026 sebagai Indonesia's Best for Succession Planning selama tujuh tahun berturut-turut serta penghargaan dari Global Banking and Finance Review Awards 2026 sebagai Best Private Bank 2026, Best Forex Bank Indonesia 2026, dan Best SME Bank Indonesia 2026.\n\nPengelolaan kekayaan yang optimal tidak hanya bergantung pada ketersediaan produk investasi dan layanan keuangan yang beragam. Keamanan pun menjadi salah satu fondasi penting dalam membangun pengalaman wealth management yang nyaman dan berkelanjutan. Untuk itu, OCBC terus melakukan upaya untuk memperkuat berbagai lapisan perlindungan melalui pengembangan teknologi, sistem keamanan digital, serta edukasi kepada nasabah. Langkah ini dilakukan untuk membantu menciptakan ekosistem layanan yang aman sehingga nasabah dapat mengelola kebutuhan transaksi, investasi, dan perencanaan keuangan dengan lebih percaya diri. Salah satu lapisan keamanan itu diterapkan pada OCBC mobile , aplikasi mobile banking yang memungkinkan nasabah mengakses berbagai layanan perbankan dan investasi secara terintegrasi. OCBC mobile menggunakan sistem verifikasi dua langkah atau two-factor authentication (2FA). Sistem ini mengombinasikan lebih dari satu metode autentikasi untuk mengakses akun ataupun melakukan transaksi sehingga membantu meningkatkan perlindungan terhadap akses yang tidak sah.\n\nSelain itu, terdapat fitur Money Lock di OCBC mobile untuk membantu melindungi saldo tabungan dari transaksi yang tidak diinginkan. Fitur ini memiliki benefit aman karena saldo tabungan terkunci dan dilengkapi dengan verifikasi wajah. Praktis untuk buka kunci instan dan mudah dari OCBC mobile serta untung karena tetap mendapatkan bunga tabungan dan Poinseru. Selain menggunakan password untuk login, nasabah dapat memanfaatkan fitur biometrik, seperti Fingerprint atau Face ID, pada perangkat yang mendukung. Untuk setiap transaksi, nasabah juga memerlukan PIN transaksi sebagai bentuk otorisasi tambahan. Selain penguatan autentikasi, OCBC secara aktif mengedukasi nasabah mengenai berbagai modus penipuan digital melalui program DigiSecure dan kampanye Must Say No. Melalui inisiatif ini, nasabah diberi pemahaman mengenai risiko phishing, penyalahgunaan data pribadi, serta berbagai bentuk kejahatan siber yang dapat mengancam keamanan rekening. OCBC juga mengingatkan nasabah untuk tidak pernah membagikan password, PIN Transaksi, kode OTP, maupun informasi perbankan kepada pihak mana pun, termasuk pihak yang mengaku sebagai petugas bank. Dari sisi teknologi, nasabah disarankan untuk selalu menggunakan aplikasi perbankan versi terbaru dan menghindari penggunaan perangkat yang telah di -root atau jailbreak. Langkah ini penting untuk membantu mengurangi risiko keamanan dan potensi penyalahgunaan perangkat oleh pihak yang tidak bertanggung jawab. “Senantiasa berkomitmen untuk selalu menjaga kepercayaan nasabah dengan menjamin dana nasabah selalu aman sesuai dengan ketentuan yang berlaku,” kata Presiden Direktur PT Bank OCBC NISP Tbk (OCBC) Parwati Surjaudaja.\n\nWealth Management OCBC untuk Kelola Kekayaan\n\nWealth Management OCBC untuk Kelola Kekayaan\n\nMelalui solusi Wealth Management OCBC, nasabah dapat mengakses berbagai instrumen investasi, seperti reksa dana, obligasi, emas, serta layanan proteksi dan perencanaan keuangan dalam satu ekosistem yang terintegrasi. Kenyamanan juga makin terasa karena berbagai kebutuhan finansial dapat diakses dalam satu platform yang saling terhubung. Melalui OCBC mobile, nasabah tidak hanya dapat melakukan transaksi perbankan sehari-hari, tapi juga mengakses layanan investasi, transaksi valuta asing, memantau perkembangan portofolio, serta memperoleh berbagai informasi pasar yang dapat mendukung pengambilan keputusan keuangan. Bagi nasabah yang membutuhkan pendampingan pengelolaan kekayaan secara lebih personal, OCBC Premier Banking menghadirkan layanan wealth advisory melalui Relationship Manager yang terakreditasi. Informasi lebih lanjut mengenai manfaat dan layanan OCBC Premier Banking dapat dilihat di situs web resmi OCBC. Selain menghadirkan solusi investasi, OCBCmelengkapi layanan wealth management dengan berbagai pilihan proteksi dan Nasabah Premier mendapatkan benefit wealth advisory dari Relationship Manager yang terakreditasi, melalui proses Wealth Discovery. Nasabah akan melalui lima tahapan yang dimulai dari mengenali profil risiko, menetapkan tujuan, dan mengetahui profil keuangan. Hal itu membantu Nasabah dalam menentukan strategi serta instrumen investasi yang sesuai dengan profil risiko untuk mencapai tujuan investasi. Lalu Nasabah juga dibantu untuk peninjauan secara berkala dan mendapat reviu aset melalui Wealth Report. Wealth Report adalah laporan informasi menyeluruh mengenai kinerja portfolio wealth, sehingga memudahkan nasabah dalam membuat keputusan investasi di masa depan. Tidak hanya itu saja, nasabah dapat melihat analisis portfolio dan mengidentifikasi ”gap” untuk mengoptimalkan kinerja portfolio. Dengan demikian, nasabah tidak hanya memiliki kesempatan untuk mengembangkan aset, tapi juga dapat mempersiapkan perlindungan terhadap berbagai risiko yang mungkin mempengaruhi kondisi keuangan di masa depan. Informasi lebih lanjut mengenai berbagai solusi investasi, proteksi, dan pengelolaan kekayaan dapat diakses melalui solusi Wealth Management OCBC. (*)",
       "fetched_ok": true,
-      "sentiment_score": 0.95,
-      "sentiment_label": "Positif",
-      "risk_score": 50,
-      "risk_label": "Sedang",
-      "reason": "Ollama: Informasi positif tentang perusahaan menunjukkan peningkatan dalam ketersediaan layanan wealth management, penghargaan internasional, serta langkah-langkah untuk memperkuat keamanan nasabah. Kependurunan penilaian dan tingkat keakraban terhadap platform digital (OCBC mobile) dan layanan Wealth Advisory menunjukkan tren positif dalam pemahaman nasabah tentang penggunaan teknologi dalam pengelolaan kekayaan."
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "Ollama: Informasi yang fokus pada penawaran dan prestasi khusus dari PT Bank OCBC NISP Tbk (OCBC), dengan notasi tinggi tentang keamanan transaksi dan edukasi nasabah. Meskipun konten positif, fokus pada penawaran dan prestasi mengarah pada pengecualian yang lebih tinggi dari risiko komparatif."
     },
     {
       "title": "Efek Komisi Ojol, GoTo Ungkap Penyesuaian Bisnis Mobilitas",
@@ -447,9 +447,9 @@
       "fetched_ok": true,
       "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Ollama: Berita ini mengandung informasi tentang perusahaan GoTo Gojek dan GoPay dan mengulas rencana implementasi komisi 8 persen. Informasi yang disajikan adalah hasil analisis dan penjelasan dari laporan resmi yang telah ditandatangani, sehingga seringkali neutral dan tidak memiliki aspek negatif atau positif yang jelas."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "Ollama: Berita menekankan implementasi komisi 8 persen yang telah diberlakukan oleh PT GoTo Gojek Tokopedia Tbk. Ini merupakan kebijakan baru yang diwujudkan oleh pemerintah dan memiliki dampak signifikan terhadap operasi perusahaan, termasuk Gojek dan GoPay. Penekanan berita terhadap dampak ini berarti tingkat risiko positif terkait kebijakan tersebut."
     },
     {
       "title": "Mengapa Pertamina Menurunkan Harga BBM Nonsubsidi",
@@ -459,11 +459,11 @@
       "media": "Tempo Bisnis",
       "content": "PT Pertamina Patra Niaga mengumumkan penyesuaian harga Bahan Bakar Minyak (BBM) nonsubsidi yang berlaku mulai 1 Agustus 2026. BBM jenis Pertamax Turbo, Pertamax Green 95, dan Pertamax atau RON 92 turun harga.\n\nVP Corporate Communication Pertamina Patra Niaga, Kitty Andhora, menyatakan perubahan berkala ini dilakukan mengikuti tren harga rata-rata harga minyak dunia serta mempertimbangkan nilai tukar rupiah. Penyesuaian harga BBM nonsubsidi dilakukan mengikuti ketentuan dan arahan pemerintah dengan tetap memperhatikan daya beli masyarakat.\n\n“Langkah ini juga merupakan bagian dari upaya menjaga ketersediaan pasokan BBM nasional agar tetap terjamin bagi masyarakat,” ucap Kitty dalam keterangan resmi pada Sabtu, 1 Agustus 2026.\n\nData terkini anak usaha Pertamina yang fokus pada penyaluran, serta pemasaran produk energi ini menunjukkan tiga jenis bahan bakar turun sedangkan dua lainnya tetap. Harga Pertamax Turbo turun Rp 1.000 dari semula Rp 19.300 per liter menjadi Rp 18.300 per liter.\n\nSedangkan harga jenis Pertamax Green 95 turun Rp 400 rupiah dari sebelumnya Rp 17.000 per liter menjadi Rp 16.600 per liter. Adapun jenis Pertamax (RON 92) turun Rp 300 dari Rp 16.250 menjadi Rp 15.950 per liter.\n\nSementara itu, harga Pertamina Dex tetap senilai Rp 21.150 per liter sedangkan jenis Dexlite tetap Rp 19.700 per liter. Menurut Pertamina, harga tersebut berlaku untuk wilayah dengan Pajak Bahan Bakar Kendaraan Bermotor (PBBKB) sebesar 5 persen, seperti DKI Jakarta.\n\nPertamina awalnya mulai menaikkan harga BBM jenis Pertamax Turbo, Dexlite, dan Pertamina Dex mulai Sabtu, 18 April 2026. Disusul kenaikan Pertamax Green 95 dan Pertamax (RON 92) pada Juni 2026. Penyesuaian harga dilakukan imbas lonjakan harga minyak dunia di tengah ketegangan di Timur Tengah.\n\nSejak Maret 2026, harga minyak dunia mengalami fluktuasi dan sempat beberapa kali bertengger di atas US$ 100 per barel. Hingga akhir Juli 2026, harga minyak dunia mencapai sekitar US$ 88 per barel.",
       "fetched_ok": true,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 85,
-      "risk_label": "Tinggi",
-      "reason": "Ollama: penghapusan minyak"
+      "risk_score": 40,
+      "risk_label": "Sedang",
+      "reason": "Ollama: PT Pertamina menyesuaikan harga BBM nonsubsidi berdasarkan kenaikan harga minyak dunia dan fluktuasi rupiah."
     },
     {
       "title": "Kata OJK soal Penerbitan Panda Bond dan Patriot Bond",
@@ -473,11 +473,11 @@
       "media": "Tempo Bisnis",
       "content": "OTORITAS Jasa Keuangan ( OJK ) menjelaskan soal status kewajiban dan administrasi surat utang pemerintah dalam mata uang Yuan Cina atau Renminbi yakni Panda Bond dan surat utang khusus yang diterbitkan oleh Danantara , Patriot Bond. Kepala Eksekutif Pengawas Pasar Modal, Keuangan Derivatif dan Bursa Karbon OJK, Hasan Fawzi menyatakan terdapat pengecualian aturan untuk dokumen penerbitan Panda Bond.\n\nPanda Bond tak tunduk pada prosedur pendaftaran obligasi di OJK. “Penerbitan Panda Bond oleh Pemerintah Republik Indonesia tidak perlu menyampaikan dokumen Pernyataan Pendaftaran kepada OJK,” ucap Hasan lewat jawaban tertulis hasil Rapat Dewan Komisioner Bulanan OJK yang dikutip Sabtu, 1 Agustus 2026.\n\nBerbeda dengan Panda Bond, dokumen penerbitan Patriot Bond oleh PT Danantara Investment Management (DIM) dilaporkan atau terdaftar di OJK. Lebih lanjut, Hasan membeberkan pada PT DIM telah menerbitkan Surat Utang Jangka Panjang (SUJP) pertama Patriot Bond pada 2025.\n\n“Pada bulan Maret 2026, DIM telah menerbitkan SUJP II tahap I. Untuk penerbitan berikutnya belum terdapat dokumen yang disampaikan kepada OJK,” ucap Hasan.\n\nAdapun Panda Bond merupakan surat utang berdenominasi Yuan Cina yang diluncurkan Kementerian Keuangan pada 23 Juli 2026. Obligasi ini terbit dalam dua seri dengan tenor 3 dan 5 tahun dan ditawarkan kepada publik di pasar obligasi domestik Tiongkok. Hasil penerbitan ini akan digunakan untuk memenuhi kebutuhan pembiayaan APBN Tahun Anggaran 2026.\n\nSementara itu, Patriot Bond diterbitkan oleh Danantara lewat mekanisme private placement atau penawaran terbatas. Obligasi ini dirancang sebagai kerja sama pendanaan pemerintah dan sektor swasta dan menyediakan tenor 5 dan 7 tahun.\n\nSurat utang Danantara ini sempat memicu perdebatan karena muncul dalam revisi Undang-undang Pengembangan dan Penguatan Sektor Keuangan (UU P2SK). Salah satu pasal dalam UU nomor 4 tahun 2026 tentang revisi P2SK menyatakan pembeli obligasi Danantara yakni Patriot Bond dan Merah Putih Bond mendapat perlindungan negara dari tuntutan pidana.",
       "fetched_ok": true,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 85,
-      "risk_label": "Tinggi",
-      "reason": "Ollama: berita berkaitan dengan aturan dan regulasi dalam jasa keuangan, dengan adanya perubahan aturan yang dikeluarkan oleh OJK mengarah pada perdebatan dan pertanyaan yang penting tentang konsistensi dan keabsahan data yang dikeluarkan."
+      "risk_score": 50,
+      "risk_label": "Sedang",
+      "reason": "Ollama: Kata OJK menjelaskan aturan terkait Panda Bond dan Patriot Bond, menekankan pengecualian khusus atas dokumen penerbitan dan surat tersebut. Ini berhubungan dengan revisi undang-undang dan konteks penerbitan obligasi dalam mata uang Yuan Cina, yang menunjukkan perubahan dalam aturan jasa keuangan. Namun, data dan pernyataan ini tidak mencerminkan mood atau feeling spesifik terhadap salah satu pihak."
     },
     {
       "title": "IHSG Sepekan Menguat Tipis ke Level 6.236,1",
@@ -487,11 +487,11 @@
       "media": "Tempo Bisnis",
       "content": "INDEKS Harga Saham Gabungan ( IHSG ) selama sepekan atau periode perdagangan 27 hingga 31 Juli 2026 ditutup sedikit menguat. Berdasarkan data Bursa Efek Indonesia (BEI), indeks sepekan naik 0,64 persen dibandingkan dengan perdagangan pekan sebelumnya.\n\nIHSG pada pekan ini ditutup pada level 6.236,12 atau meningkat dibandingkan dengan posisi pekan sebelumnya yang tercatat di level 6.196,43. “Kapitalisasi pasar BEI juga meningkat 0,48 persen menjadi Rp10.923 triliun dari Rp10.870 triliun pada pekan lalu,” demikian dikutip dari keterangan resmi BEI, Ahad, 1 Agustus 2026.\n\nBEI mencatat rata-rata perdagangan selama pekan ini ditutup dengan kinerja yang bervariasi. Rata-rata nilai transaksi harian pekan ini merosot 21,86 persen menjadi Rp 15,44 triliun dari Rp 19,76 triliun pada pekan sebelumnya. Sedangkan rata-rata volume transaksi harian BEI pekan ini juga turun 31,23 persen menjadi 30,04 miliar lembar saham dari sebelumnya 43,68 miliar lembar saham.\n\nAdapun rata-rata frekuensi transaksi harian pekan ini juga mengalami penurunan 31,88 persen menjadi 1,82 juta kali transaksi dari 2,67 juta kali transaksi pada pekan lalu. Pada penutupan perdagangan Jumat, 31 Juli 2026, investor asing mencatatkan nilai jual bersih Rp 250,58 miliar dan sepanjang tahun 2026 investor asing telah mencatatkan nilai jual bersih sebesar Rp 72,987 triliun.\n\nPergerakan IHSG seiring menguatnya mayoritas bursa regional Asia. Associate Director of Research and Investment Pilarmas Investindo Sekuritas, Maximilianus Nico Demus, menyatakan, pelaku pasar merespons rilis data ekonomi Amerika Serikat (AS) dan hasil pertemuan biro politik atau Politbiro Cina.\n\nData ekonomi AS menunjukkan inflasi Personal Consumption Expenditures (PCE) AS pada Juni 2026 melandai ke angka 3,7 persen secara tahunan atau year on year (yoy). Sedangkan pertumbuhan ekonomi kuartal II-2026 negara Abang Sam melambat di level 1,5 persen (yoy).\n\n\"Kondisi itu memicu spekulasi investor bahwa The Fed akan mengalihkan fokusnya dari pengendalian inflasi ke mitigasi kelesuan ekonomi. Sehingga pasar berekspektasi bahwa The Fed akan kembali menahan suku bunga pada rapat kebijakan di bulan September 2026,\" ujar Nico seperti dikutip dari Antara .",
       "fetched_ok": true,
-      "sentiment_score": 0.5,
+      "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 80,
-      "risk_label": "Tinggi",
-      "reason": "Ollama: Perkembangan ekonomi AS dan pertemuan Politbiro Cina yang menekankan fokus pada mitigasi kelesuan ekonomi, yang mengarah pada koreksi di pasar saham."
+      "risk_score": 50,
+      "risk_label": "Sedang",
+      "reason": "Ollama: Analisis data dan berita menunjukkan pergerakan indeks IHSG yang stabil dan tidak menunjukkan trend besar. Data ekonomi AS dan penyebaran spekulasi investor mengarah pada upaya regulasi inflasi dan mitigasi kelesuan ekonomi oleh The Fed, yang mempengaruhi pergerakan pasar tapi tidak menunjukkan pergerakan yang signifikan."
     },
     {
       "title": "Hyundai Targetkan Prototipe Mobil Neira Capai TKDN 80 Persen",
@@ -501,11 +501,11 @@
       "media": "Tempo Bisnis",
       "content": "HYUNDAI memperkenalkan mobil prototipe tujuh penumpang yang terinspirasi dari nama Banda Neira di Provinsi Maluku. Chief Operating Officer PT Hyundai Motors Indonesia Fransiscus Soerjopranoto mengatakan Tingkat Komponen Dalam Negeri ( TKDN ) produk itu sudah dominan lokal.\n\n“TKDN-nya saya sampaikan pasti di atas 60 persen, kira-kira 80 persen kurang lebih akan tercapai,” katanya saat ditemui di stan Hyundai di ICE BSD City, Tangerang, Rabu, 29 Juli 2026.\n\nMobil listrik bernama Neira itu dipamerkan sejak Rabu, sehari sebelum pembukaan Gaikindo Indonesia International Auto Show atau GIIAS 2026. Kendaraan itu diperkenalkan langsung oleh President Director dari Hyundai Motors Indonesia Kenny Lee dalam presentasinya selama dua menit.\n\nMenurut Fransiscus, Neira akan menjadi kendaraan EV Hyundai di masa depan. Mobil yang dipamerkan tersebut dipastikan sudah tidak ada lagi perubahan.\n\nNamun, Neira hanya dipajang dalam waktu terbatas pada 29 dan 30 Juli saja. Selama masih prototipe, mobil tersebut belum dipastikan kapan bisa dipesan. “Rasanya belum bisa,” ujarnya.\n\nBerdasarkan pantauan Tempo , mobil tersebut didesain untuk kebutuhan sehari-hari dan cocok untuk mobilitas di perkotaan. Bagian kabin mobil menggunakan kombinasi warna hitam dan putih krem, termasuk bagian setir.\n\nBaris kedua penumpang terdapat dua kursi besar di pinggir pintu dan satu kursi kecil di tengah. Kemudian di baris ketiga hanya terdapat dua kursi yang ukurannya tidak sebesar di baris kedua.\n\nMenurut President Director dari Hyundai Motors Indonesia, Kenny Lee, prototipe ini akan terus disempurnakan dan dikembangkan agar lebih sesuai dengan kebutuhan dan gaya hidup masyarakat Indonesia.“Kami berharap Neira akan memainkan peran bermakna dalam mempercepat transisi Indonesia menuju elektrifikasi,” ucapnya.",
       "fetched_ok": true,
-      "sentiment_score": 0.95,
-      "sentiment_label": "Positif",
-      "risk_score": 25,
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 20,
       "risk_label": "Rendah",
-      "reason": "Ollama: Berita mengandung informasi positif tentang target produk dari Hyundai, termasuk peningkatan TKDN di atas 60 persen."
+      "reason": "Ollama: Informasi serbaguna, fokus pada fitur dan produk"
     },
     {
       "title": "Garuda Ungkap Perkembangan Merger dengan Pelita Air",
@@ -517,9 +517,9 @@
       "fetched_ok": true,
       "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 80,
+      "risk_score": 75,
       "risk_label": "Tinggi",
-      "reason": "Ollama: Isi berita fokus pada peristiwa dan perihal yang berhubungan dengan merger antara PT Garuda Indonesia (Persero) Tbk dan Pelita Air, yang tampaknya memiliki dampak signifikan pada perusahaan-perusahaan yang terlibat. Ini dianggap sebagai peristiwa penting yang menggambarkan tren perdagangan global dan perkembangan yang berkembang di industri penerbangan, yang membutuhkan analisis yang lebih lanjut dan penyelesaian masalah yang jelas."
+      "reason": "Ollama: Informasi tentang rencana merger tidak memberikan indikasi positif atau negatif terhadap perusahaan, tetapi menunjukkan beberapa aspek yang perlu diperhatikan oleh investor, seperti perubahan struktur kepemilikan dan analisis dampak operasional."
     },
     {
       "title": "PLN Bakal Serap Listrik 40,79 MW dari PSEL Legok Nangka",
@@ -529,11 +529,11 @@
       "media": "Tempo Bisnis",
       "content": "TEMPO.CO , Jakarta - PT PLN (Persero ) menyatakan siap menyerap seluruh listrik yang dihasilkan dari proyek Pengolah Sampah menjadi Energi Listrik (PSEL ) Legok Nangka di Kabupaten Bandung, Jawa Barat. Fasilitas yang kini memasuki tahap konstruksi itu ditargetkan mulai beroperasi pada 2029 dengan kapasitas pembangkit 40,79 Megawatt (MW) atau sekitar 310 Gigawatt-hour (GWh) per tahun.\n\nDirektur Manajemen Proyek dan Energi Baru Terbarukan PLN Suroso Isnandar mengatakan perusahaan siap mendukung pengembangan PSEL sebagai solusi penanganan sampah sekaligus penyedia energi terbarukan.\n\nPSEL Legok Nangka dirancang mampu mengolah hingga 2.131 ton sampah per hari yang berasal dari enam kabupaten dan kota di Jawa Barat. \"PLN siap mengeksekusi PJBL sesuai arahan pemerintah. Kami akan menyerap produksi listrik yang dihasilkan dari pengolahan sampah ini dan menyalurkannya kepada masyarakat,\" ujarnya dikutip dari keterangan tertulis, Jumat, 31 Juli 2026.\n\nPLN telah menandatangani Perjanjian Jual Beli Listrik (PJBL) dengan PT Jabar Environmental Solutions pada Maret 2026. Perjanjian dengan jangka waktu 20 tahun itu memberi kepastian pembelian listrik dari PSEL Legok Nangka sehingga mendukung keberlanjutan proyek.\n\nPembangunan PSEL Legok Nangka dimulai melalui prosesi peletakan batu pertama pada 29 Juli 2026. Wakil Menteri Energi dan Sumber Daya Mineral Yuliot Tanjung mengatakan proyek tersebut merupakan bagian dari upaya pemerintah mempercepat penyelesaian persoalan sampah perkotaan sekaligus mengembangkan pemanfaatannya menjadi energi.\n\nMenurut Yuliot, proyek ini sejalan dengan arahan Presiden Prabowo Subianto untuk menuntaskan persoalan sampah perkotaan sebelum 2029 melalui pengelolaan dari hulu hingga hilir.\n\nIa berharap PSEL Legok Nangka dapat menjadi model pengembangan proyek pengolahan sampah menjadi energi di berbagai daerah. Menurut dia, proyek ini akan mengurangi volume sampah sekaligus menghasilkan energi bersih, menciptakan lapangan kerja, meningkatkan aktivitas ekonomi daerah, serta menekan emisi gas rumah kaca.\n\nKendati demikian, peneliti Institute for Energy Economics and Financial Analysis (IEEFA) Mutya Yustika menilai biaya investasi awal pembangkit berbasis waste-to-energy masih relatif tinggi. Menurut dia, investasi PSEL mencapai lebih dari US$ 4 juta atau sekitar Rp 71,6 miliar per MW, lebih mahal dibandingkan pembangkit listrik tenaga surya (PLTS) yang sekitar US$ 900 ribu per MW maupun pembangkit listrik tenaga air (PLTA) sekitar US$ 2,5 juta per MW.\n\nSelain itu, Mutya mengatakan keberhasilan PSEL sangat bergantung pada ketersediaan pasokan sampah yang stabil dan sesuai dengan kebutuhan teknologi pembangkit. Tanpa volume dan kualitas sampah yang memadai, biaya operasional berpotensi meningkat dan kinerja pembangkit menurun.\n\nMenurut Mutya, Indonesia juga perlu memperkuat sistem pengelolaan sampah sebelum memperluas pembangunan PSEL. \"PSEL hanya akan berjalan dengan optimal apabila pemilahan sampah di Indonesia sudah berjalan dengan baik,\" ujarnya.",
       "fetched_ok": true,
-      "sentiment_score": 0.5,
+      "sentiment_score": 0.0,
       "sentiment_label": "Netral",
       "risk_score": 85,
       "risk_label": "Tinggi",
-      "reason": "Ollama: Pendekatan netral berdasarkan fakta yang diberikan tentang pembangunan proyek dan dampak yang diharapkan. Ada beberapa aspek yang tampak positif, seperti penanganan sampah menjadi energi, keberlanjutan, dan penekanan pada energi bersih, namun ada juga aspek yang tampak negatif seperti biaya investasi awal yang tinggi dan ketersediaan sampah yang kurang."
+      "reason": "Ollama: Isi berita mengulas proyek PLN yang menyerap listrik dari PSEL Legok Nangka, menekankan pembangunan solusi energi terbarukan dari sampah dan dampak positifnya. Peneliti IEEFA menekankan ketergantungan pada investasi awal berbasis waste-to-energy dan ketersediaan pasokan sampah stabil dan sesuai teknologi pembangkit."
     },
     {
       "title": "Pembangunan Pipa Gas Dumai-Sei Mangkei Capai 32 Persen",
@@ -543,11 +543,11 @@
       "media": "Tempo Bisnis",
       "content": "KEMENTERIAN Energi dan Sumber Daya Mineral ( ESDM ) menyatakan pembangunan Proyek Strategis Nasional ( PSN ) Pipa Gas Bumi Dumai–Sei Mangkei (Dusem) terus menunjukkan kemajuan. Hingga akhir Juli 2026, progres fisik pembangunan Segmen 2 telah mencapai 32 persen atau melampaui target yang ditetapkan dalam jadwal proyek.\n\nDirektur Jenderal Minyak dan Gas Bumi Laode Sulaeman mengatakan capaian tersebut menjadi bagian dari upaya pemerintah mempercepat integrasi jaringan infrastruktur gas bumi nasional. Menurut dia, proyek itu juga mencatatkan 300 ribu jam kerja aman tanpa kecelakaan kerja dengan melibatkan sekitar 447 tenaga kerja.\n\n\"Capaian ini diraih dengan mencatatkan 300 ribu jam kerja aman tanpa kecelakaan kerja,\" kata Laode dikutip dari keterangan tertulis, Jumat, 31 Juli 2026.\n\nLaode menilai pembangunan Pipa Transmisi Gas Bumi Dusem menjadi salah satu proyek penting untuk mengoptimalkan pemanfaatan gas bumi nasional. Integrasi jaringan pipa dari Sumatera Utara hingga Riau dapat memperkuat ketahanan energi nasional sekaligus memperluas pemerataan pasokan energi yang lebih bersih bagi sektor industri maupun masyarakat.\n\nPipa Transmisi Gas Bumi Dusem dirancang membentang dari Stasiun Kompresor Gas (SKG) Belawan, Sumatera Utara, hingga Duri, Riau. Total panjangnya sekitar 535,4 kilometer. Proyek ini ditargetkan selesai pada akhir 2027 hingga awal 2028.\n\nPembangunan pipa dibagi menjadi dua segmen yang dikerjakan secara paralel. Segmen 1 menghubungkan Belawan hingga Stasiun Labuhan Batu, sedangkan Segmen 2 menghubungkan Stasiun Labuhan Batu hingga Fasilitas Duri sepanjang 266,8 kilometer.\n\nSegmen 2 dikerjakan oleh konsorsium KSO PT Remaja Bangun Kencana Kontraktor, PT Brantas Abipraya (Persero), PT Sumber Bangun Sentosa, dan PT Singgar Mulia.\n\nLaode mengingatkan percepatan pembangunan tidak boleh mengorbankan aspek keselamatan kerja maupun kualitas konstruksi. Ia meminta seluruh personel menerapkan standar Health, Safety, Security, and Environment (HSSE) secara ketat serta memitigasi setiap potensi bahaya sejak dini.\n\nSelain itu, ia menekankan pekerjaan penggalian terbuka (open cut) harus memenuhi spesifikasi kedalaman sesuai ketentuan teknis. Menurut dia, kepatuhan terhadap standar tersebut penting untuk menjamin keamanan pipa dalam jangka panjang sekaligus menjadi salah satu aspek yang akan dinilai dalam uji kelayakan teknis maupun audit Badan Pemeriksa Keuangan (BPK).\n\n\"Percepatan fisik tidak boleh mengorbankan aspek keselamatan dan kualitas teknis pekerjaan,\" ujar Laode.",
       "fetched_ok": true,
-      "sentiment_score": 0.0,
-      "sentiment_label": "Netral",
-      "risk_score": 70,
-      "risk_label": "Tinggi",
-      "reason": "Ollama: Pembangunan Pipa Gas Dumai-Sei Mangkei terus melampaui target yang ditetapkan, dengan capaian 32% yang mencapai 300 ribu jam kerja aman tanpa kecelakaan, menunjukkan perbaikan dalam implementasi proyek dan efisiensi dalam penggunaan tenaga kerja."
+      "sentiment_score": 0.95,
+      "sentiment_label": "Positif",
+      "risk_score": 60,
+      "risk_label": "Sedang",
+      "reason": "Ollama: progres fisik pembangunan Segmen 2 mencapai 32 persen, melewati target dan dilaporkan dengan 300 ribu jam kerja aman tanpa kecelakaan kerja, mempengaruhi kesempatan nasional dan memperluas pemerataan pasokan energi yang lebih bersih bagi sektor industri maupun masyarakat."
     },
     {
       "title": "Proyek PSEL di Jawa Barat Senilai Rp 7,2 T Mulai Dibangun",
@@ -557,11 +557,11 @@
       "media": "Tempo Bisnis",
       "content": "KEMENTERIAN Energi dan Sumber Daya Mineral memulai pembangunan fasilitas Pengolah Sampah menjadi Energi Listrik ( PSEL ) Legok Nangka di Kabupaten Bandung, Jawa Barat. Proyek senilai US$ 400 juta atau sekitar Rp 7,2 triliun itu ditargetkan bisa mengolah 2.131 ton sampah per hari dari enam kabupaten dan kota di Jawa Barat menjadi listrik berkapasitas 40,79 megawatt.\n\nProsesi peletakan batu pertama dilakukan pada Rabu, 29 Juli 2026, di kawasan Tempat Pengolahan dan Pemrosesan Akhir Sampah Regional (TPPAS) Legok Nangka. Acara tersebut dihadiri Wakil Menteri ESDM Yuliot Tanjung dan Gubernur Jawa Barat Dedi Mulyadi.\n\nYuliot mengatakan pembangunan PLTSa Legok Nangka merupakan bagian dari upaya pemerintah mempercepat penyelesaian persoalan sampah perkotaan sekaligus meningkatkan pemanfaatan sampah sebagai sumber energi.\n\nMenurut dia, Presiden Prabowo Subianto telah menginstruksikan penyelesaian persoalan sampah perkotaan secara menyeluruh sebelum 2029 melalui pendekatan dari hulu hingga hilir, termasuk mengembangkan skema waste to energy .\n\n\" Groundbreaking hari ini bukan sekadar menandai dimulainya pembangunan sebuah infrastruktur, tetapi juga menjadi simbol komitmen bersama untuk mewujudkan masa depan Indonesia yang lebih bersih, lebih hijau, dan berkelanjutan,\" kata Yuliot.\n\nIa berharap PLTSa Legok Nangka dapat menjadi model pengembangan proyek pengolahan sampah menjadi energi di berbagai daerah. Selain mengurangi volume sampah yang berakhir di tempat pemrosesan akhir, proyek tersebut juga diharapkan menghasilkan energi bersih, menekan emisi gas rumah kaca, menciptakan lapangan kerja, serta mendorong pertumbuhan ekonomi daerah.\n\nGubernur Jawa Barat Dedi Mulyadi mengatakan PLTSa Legok Nangka ditargetkan mulai beroperasi pada 2029. Menurut dia, proyek tersebut akan memberikan tiga manfaat utama, yakni mengurangi persoalan sampah di kawasan Bandung Raya, memasok listrik bagi masyarakat dan industri, serta meningkatkan kualitas lingkungan.\n\nSelama masa konstruksi yang diperkirakan berlangsung 41 bulan, proyek ini diproyeksikan menyerap sekitar 1.565 tenaga kerja. Setelah beroperasi, PLTSa Legok Nangka diperkirakan mampu mengurangi emisi gas rumah kaca hingga 311.874 ton karbon dioksida (CO) ekuivalen setiap tahun.\n\nPSEL Legok Nangka digarap konsorsium asal Jepang, Sumitomo Hitachi Zosen. Konsorsium tersebut merupakan bagian dari proyek kerja sama yang didukung oleh Japan International Cooperation Agency (JICA), lembaga kerja sama internasional milik Pemerintah Jepang.",
       "fetched_ok": true,
-      "sentiment_score": 0.9,
-      "sentiment_label": "Positif",
-      "risk_score": 45,
-      "risk_label": "Sedang",
-      "reason": "Ollama: Proyek PLTSa Legok Nangka membawa manfaat ekonomi dan lingkungan, menekan emisi dan mempercepat pengolahan sampah, serta mendukung pertumbuhan ekonomi daerah."
+      "sentiment_score": 0.0,
+      "sentiment_label": "Netral",
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "Ollama: Proses pembangunan dan investasi yang besar, terkait potensi penurunan ekonomi sebelum proyek benar-benar beroperasi."
     },
     {
       "title": "Bandara Soekarno-Hatta Bersiap Pendaratan Airbus A380-800",
@@ -575,7 +575,7 @@
       "sentiment_label": "Netral",
       "risk_score": 85,
       "risk_label": "Tinggi",
-      "reason": "Ollama: berita adalah berita teknis dan teknis, dengan informasi mengenai penerbangan dan bandara. Tidak ada elemen emosi atau perasaan yang muncul dalam berita ini."
+      "reason": "Ollama: Isi yang tidak mencerminkan sentimen positif atau negatif yang jelas."
     },
     {
       "title": "Agung Podomoro Land Bukukan Pendapatan Rp 3,66 T",
@@ -585,11 +585,11 @@
       "media": "Tempo Bisnis",
       "content": "Perusahaan real estat dan properti , PT Agung Podomoro Land Tbk., membukukan penjualan dan pendapatan Rp 3,66 triliun pada semester I 2026. Pendapatan perusahaan dengan kode saham APLN ini meningkat 117 persen dibanding periode yang sama tahun lalu yang tercatat Rp 1,69 triliun.\n\nCorporate Secretary Agung Podomoro Justini Omas, mengatakan capaian ini menunjukkan strategi perseroan menjaga fundamental bisnis di tengah berbagai dinamika ekonomi global dan domestik, berjalan sesuai rencana. \"Kinerja semester pertama tahun ini menunjukkan bahwa implementasi dari strategi bisnis berjalan sesuai arah yang kami tetapkan,” ucapnya lewat keterangan tertulis pada Kamis, 30 Juli 2026..\n\nPertumbuhan itu, menurut Justini, memberi keyakinan bagi manajemen untuk terus menjaga momentum pertumbuhan hingga akhir tahun. Selain itu, kinerja pendapatan, perseroan juga dilaporkan membalikkan rugi komprehensif pada semester I tahun lalu menjadi laba komprehensif periode berjalan sebesar Rp 523,5 miliar.\n\nManajemen menyatakan perbaikan kinerja sejalan dengan meningkatnya pengakuan penjualan dari proyek-proyek unggulan, optimalisasi portofolio aset, serta pengelolaan operasional yang semakin efisien. Hingga Juni 2026, marketing sales tercatat sebesar Rp 603 miliar dari target tahun 2026 sebesar Rp 1,4 triliun.\n\nCapaian ini didorong oleh permintaan yang tetap kuat terhadap produk hunian, khususnya rumah tapak, serta proyek mixed-use milik perseroan.\n\nJustini juga menyatakan pada semester I, perseroan melaporkan pengakuan penjualan Mall Deli Park Medan senilai Rp 2,2 triliun kepada kepada PT DPM Assets Indonesia (DPMAI), melalui anak usaha APLN, yakni PT Sinar Menara Deli (SMD).\n\nMenurut dia, penjualan tersebut merupakan bagian dari strategi Perseroan dalam melakukan optimalisasi dan rebalancing portofolio aset, sehingga Perseroan dapat fokus pada pengembangan dan pengelolaan aset-aset yang berkontribusi tinggi terhadap kinerja jangka panjang.\n\n“ Monetizing aset bernilai tinggi menjadi bukti bahwa APLN mampu membangun value tinggi terhadap aset-asetnya. Sebagai perusahaan properti, tentunya Agung Podomoro akan terus membangun dan mengembangkan proyek-proyek baru yang memberikan nilai dan dampak ekonomi positif secara berkelanjutan,” tutur Justini.\n\nPerbaikan kinerja Agung Podomoro, menurut dia, juga tergambar dari total liabilitas perseroan yang terus menurun. Pada semester I 2026, liabilitas atau beban utang perusahaan tercatat Rp 10,37 triliun, lebih rendah dibandingkan posisi akhir 2025 sebesar Rp 11,28 triliun.\n\nSelama 2,5 tahun terakhir, perseroan secara agresif terus menurunkan beban-beban hutangnya. Sebagai gambaran, pada akhir tahun 2023 total liabilitas Perseroan masih tercatat sebesar Rp 14,87 triliun. Artinya, selama 2,5 tahun Agung Podomoro mampu melunasi utang hingga senilai Rp 4,50 triliun.\n\nHingga akhir Juni 2026, posisi kas dan setara kas meningkat menjadi Rp 1,13 triliun, sementara arus kas dari aktivitas operasi mencapai Rp 1,51 triliun. \"Kami terus berfokus pada pengembangan proyek yang memiliki permintaan tinggi, mempercepat penyelesaian proyek, serta mengelola aset secara optimal agar mampu menciptakan nilai tambah sekaligus menjaga profitabilitas dan kesehatan keuangan perseroan,\" ucap Justini.",
       "fetched_ok": true,
-      "sentiment_score": 0.8,
-      "sentiment_label": "Positif",
-      "risk_score": 60,
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 40,
       "risk_label": "Sedang",
-      "reason": "Ollama: Pendapatan menunjukkan keberhasilan strategi Bisnis dan menunjukkan kinerja yang positif dengan peningkatan yang signifikan dan perbaikan dari penjualan yang lalu."
+      "reason": "Ollama: Agung Podomoro Land membukukan pendapatan yang signifikan, menunjukkan kinerja positif, tetapi ada tambahan yang mencerminkan beberapa proses yang masih dilakukan, seperti penurunan beban utang, yang dianggap netral."
     },
     {
       "title": "MRT Jakarta Kembangkan Bisnis TOD, Pendanaan di Luar APBD",
@@ -601,9 +601,9 @@
       "fetched_ok": true,
       "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 85,
-      "risk_label": "Tinggi",
-      "reason": "Ollama: berita mengeksplisit mengenai pembangunan kawasan TOD yang menggunakan pendanaan alternatif, tetapi tidak menjelaskan secara detail bagaimana syarat dan ketentuan pencairan dana tersebut, termasuk apakah diperbolehkan untuk mengambil pinjaman dari badan publik lain seperti Kementerian Perhubungan atau KAI."
+      "risk_score": 50,
+      "risk_label": "Netral",
+      "reason": "Ollama: The text discusses a neutral topic about MRT Jakarta's TOD projects and their financial strategies without expressing strong positive or negative sentiments. The content is informative and provides details on how the company is raising funds for its TOD projects."
     },
     {
       "title": "APPBI Perpanjang Indonesia Shopping Festival 2026",
@@ -615,9 +615,9 @@
       "fetched_ok": true,
       "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 50,
-      "risk_label": "Sedang",
-      "reason": "Ollama: Judul dan isi yang menunjukkan informasi yang masuk akal dan biasa, dengan kata-kata yang ringan dan tidak menarik perhatian."
+      "risk_score": 90,
+      "risk_label": "Tinggi",
+      "reason": "Ollama: Isi berita adalah tentang persyaratan dan program dari festival belanja yang akan dilakukan di tahun 2026. Ini sejalan dengan fokus pembangunan ekonomi nasional, bukan mempengaruhi tingkat keadaan pasar atau reaksi pasar secara umum. Ada beberapa penekanan pada festival yang akan dilakukan dan program promosi yang ditawarkan. Meskipun ada beberapa komentar positif tentang program, ada juga penekanan pada efek positif pada ekonomi dan pertumbuhan industri ritel, yang berhubungan erat dengan trend global dan nasional."
     },
     {
       "title": "BPJS Kesehatan Percepat Implementasi Klaim Elektronik Terintegrasi SATUSEHAT",
@@ -629,9 +629,9 @@
       "fetched_ok": true,
       "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 50,
-      "risk_label": "Sedang",
-      "reason": "Ollama: berita fokus pada implementasi teknologi dalam sistem klaim BPJS Kesehatan tanpa menyoroti masalah ekonomi atau politik, sehingga sentiment neutral dan tingkat risiko sedang."
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Ollama: Alasan singkat dalam Bahasa Indonesia:"
     },
     {
       "title": "Menperin: Penjualan Kendaraan Listrik Pesat",
@@ -641,11 +641,11 @@
       "media": "Tempo Bisnis",
       "content": "TEMPO.CO , Jakarta - MENTERI Perindustrian ( Menperin ) Agus Gumiwang Kartasasmita mengatakan transformasi menuju kendaraan rendah emisi di Indonesia berlangsung lebih cepat dari perkiraan. Hal itu tercermin dari penjualan kendaraan elektrifikasi yang terus meningkat pesat sepanjang semester I 2026.\n\nAgus menyebut penjualan kendaraan listrik mencapai 117 ribu unit pada paruh pertama tahun ini atau naik 69,4 persen secara tahunan. \"Artinya, satu dari setiap empat mobil penumpang yang dibeli masyarakat Indonesia saat ini sudah merupakan kendaraan elektrifikasi. Lima tahun lalu angka itu bahkan belum terlihat,\" ujarnya saat membuka Gaikindo Indonesia International Auto Show ( GIIAS ) 2026 di BSD City, Tangerang, Banten, Kamis, 30 Juli 2026.\n\nMeski demikian, Agus menegaskan pemerintah tidak mengutamakan satu teknologi dibandingkan teknologi lainnya. Menurut dia, kendaraan listrik berbasis baterai (BEV), hybrid , plug-in hybrid electric vehicle (PHEV), mesin pembakaran internal (ICE) yang semakin efisien, hingga pemanfaatan biodiesel dan bioetanol memiliki tujuan yang sama, yakni menekan emisi sekaligus memperkuat ketahanan energi. \"Yang ingin kita percepat adalah pencapaian tujuannya, bukan menyeragamkan caranya,\" kata dia.\n\nSekretaris Umum Gabungan Industri Kendaraan Bermotor Indonesia (Gaikindo) Kukuh Kumara memperkirakan penjualan mobil plug-in hybrid electric vehicle (PHEV) masih akan terus meningkat. Data Gaikindo menunjukkan penjualan PHEV secara wholesale pada Januari-Mei 2026 mencapai 2.601 unit atau melonjak 416,1 persen dibandingkan periode yang sama tahun lalu.\n\nMenurut Kukuh, pertumbuhan tersebut didorong karakteristik PHEV yang tetap dapat menggunakan bahan bakar fosil sehingga lebih fleksibel bagi konsumen. Keunggulan itu menjadi daya tarik di tengah keterbatasan infrastruktur stasiun pengisian kendaraan listrik umum (SPKLU) yang masih terkonsentrasi di kota-kota besar.\n\nDi sisi lain, Wakil Ketua Bidang Pengembangan dan Penelitian Periklindo Prabowo Kartoleksono mencatat penjualan mobil listrik berbasis baterai (BEV) secara wholesale juga meningkat pesat. Sepanjang Januari-Mei 2026, penjualan BEV mencapai 57.087 unit atau tumbuh 80 persen dibandingkan periode yang sama tahun lalu.\n\nPrabowo mengatakan lonjakan tersebut didorong oleh semakin agresifnya produsen menghadirkan kendaraan listrik dengan teknologi yang lebih canggih dan harga yang semakin kompetitif.\n\n\"Bahkan kadang bisa lebih murah dibanding kendaraan bensin (ICE) sekelasnya,\" kata Prabowo dalam keterangan tertulis.",
       "fetched_ok": true,
-      "sentiment_score": 0.0,
-      "sentiment_label": "Netral",
-      "risk_score": 80,
-      "risk_label": "Tinggi",
-      "reason": "Ollama: Isi berita mengulas perkembangan penjualan kendaraan listrik di Indonesia dan menyoroti tren yang positif dalam hal pemanfaatan energi terbarukan, sementara juga menyoroti tantangan seperti infrastruktur SPKLU yang masih kurang."
+      "sentiment_score": 0.9,
+      "sentiment_label": "Positif",
+      "risk_score": 50,
+      "risk_label": "Sedang",
+      "reason": "Ollama: Indonesia mulai mengejar industri kendaraan listrik dan memiliki potensi besar untuk menjadi salah satu negara yang paling cepat berkembang dalam bidang ini."
     },
     {
       "title": "Pegadaian Kantongi SK PKB 2026-2028, Perkuat Kepastian Hukum Ketenagakerjaan",
@@ -655,11 +655,11 @@
       "media": "Tempo Bisnis",
       "content": "INFO TEMPO -PT Pegadaian (Persero) menerima Surat Keputusan (SK) Perjanjian Kerja Bersama (PKB) Periode 2026–2028 dari Kementerian Ketenagakerjaan (Kemenaker) Republik Indonesia pada Rabu, 29 Juli 2026.\n\nAcara penyerahan SK PKB Periode 2026–2028 ini dihadiri oleh Menteri Ketenagakerjaan Republik Indonesia, Yassierli, bersama jajaran pejabat tinggi Kemenaker RI, di antaranya Staf Khusus Menteri Ketenagakerjaan Republik Indonesia Bidang Hubungan Industrial, Dialog Sosial dengan Serikat Buruh, Kebijakan Pengupahan, serta Pengawasan Ketenagakerjaan dan Keselamatan Kesehatan Kerja (K3), Indra, serta Direktur Hubungan Kerja dan Pengupahan di Kementerian Ketenagakerjaan, Dhatun Kuswandari.\n\nSelain Tim Perunding yang terdiri dari gabungan unsur manajemen dan Serikat Pekerja PT Pegadaian (Persero), turut hadir pada kegiatan tersebut jajaran pimpinan serikat pekerja dari berbagai BUMN, termasuk Ketua Umum Federasi Serikat Pekerja (FSP) BUMN, FSP Pertamina Bersatu, FSP Perkeretaapian, SP PLN, SP Bank Mandiri, SP Kimia Farma Apotek, SP Bank BRI, SP Jasa Raharja, hingga Sekar Telkom.\n\nDirektur Utama PT Pegadaian (Persero), Damar Latri Setiawan mengatakan bahwa adanya SK PKB ini menjadi wujud nyata kesepakatan resmi antara manajemen dan SP Pegadaian untuk mewujudkan iklim kerja yang kondusif dan dinamis.\n\n“Dengan diserahkannya SK PKB ini menjadi penanda berlakunya landasan hukum dan aturan baru ketenagakerjaan di lingkungan Pegadaian untuk tiga tahun ke depan. Pengesahan SK ini juga menjadi wujud nyata kesepakatan resmi antara manajemen dan Serikat Pekerja Pegadaian, yang harapannya dapat menciptakan iklim kerja yang kondusif, dinamis, serta memberikan kepastian hak dan kewajiban bagi seluruh insan Pegadaian di seluruh Indonesia,” ujar Damar.\n\nPenyusunan hingga pengesahan PKB Periode 2026–2028 ini membawa tiga tujuan utama bagi keberlanjutan bisnis dan kesejahteraan pekerja di PT Pegadaian, di antaranya kepastian hukum dan regulasi terbarukan untuk periode tiga tahun mendatang, hubungan industrial yang harmonis dan berkeadilan guna memperkuat komitmen kolektif antara manajemen dan Serikat Pekerja, serta peningkatan produktivitas korporasi untuk memberikan rasa aman dan kejelasan hak serta kewajiban bagi karyawan.\n\n\"Perjanjian Kerja Bersama bukan sekadar dokumen administratif formal, melainkan simbol kemitraan strategis dan mutual trust antara manajemen dan seluruh insan Pegadaian. Dengan kepastian hukum dan iklim kerja yang harmonis ini, kami meyakini seluruh elemen perusahaan dapat semakin fokus memberikan performa terbaik demi mendukung pertumbuhan perusahaan yang berkelanjutan dan berkontribusi nyata bagi perekonomian nasional,\" kata Damar.\n\nMelalui penyerahan SK PKB Periode 2026–2028 dari Kemenaker ini, PT Pegadaian mempertegas komitmennya untuk menjadi salah satu BUMN yang berada di bawah naungan Danantara dengan tata kelola hubungan industrial yang baik di Indonesia. Pegadaian akan terus berupaya memprioritaskan kesejahteraan SDM sebagai aset paling berharga dalam mencapai visi bisnis perusahaan di masa depan untuk mengEMASkan Indonesia. (*)",
       "fetched_ok": true,
-      "sentiment_score": 0.95,
+      "sentiment_score": 0.9,
       "sentiment_label": "Positif",
-      "risk_score": 80,
+      "risk_score": 85,
       "risk_label": "Tinggi",
-      "reason": "Ollama: Penyampaian informasi penting mengenai perjanjian kerja bersama yang melibatkan PT Pegadaian dan Kementerian Ketenagakerjaan, serta pengakuan resmi atas kerjasama ini yang diharapkan untuk mendukung kesejahteraan dan konsistensi kerja di perusahaan."
+      "reason": "Ollama: PT Pegadaian mendapatkan SK PKB yang menekankan kepastian hukum dan kesejahteraan pekerja, menunjukkan komitmen resmi dalam berbagai aspek industri dan kesejahteraan tenaga kerja."
     },
     {
       "title": "Danamon Bukukan Laba Bersih Rp 2,4 Triliun pada Semester I",
@@ -669,11 +669,11 @@
       "media": "Tempo Bisnis",
       "content": "PT BANK Danamon Indonesia Tbk. membukukan laba bersih periode berjalan konsolidasian sebesar Rp 2,4 triliun pada semester I 2026. Nilai tersebut meningkat 33 persen dibandingkan laba bersih pada periode sama tahun sebelumnya yang tercatat sebesar Rp 1,8 triliun.\n\nAdapun laba operasional sebelum pencadangan atau pre-provision operating profit (PPOP) Danamon pada semester pertama tercatat sebesar Rp 5,9 triliun, tumbuh 13 persen dibandingkan tahun lalu yang tercatat sebesar Rp 5,2 triliun.\n\n“Pertumbuhan laba bersih tersebut didorong oleh peningkatan pendapatan dan didukung perbaikan kualitas kredit yang tercemin pada penurunan biaya kredit atau cost of credit sebesar 12 persen year on year ,” kata Chief Financial Officer Bank Danamon Theresia Adriana dalam konferensi pers daring pada Kamis, 30 Juli 2026.\n\nDari segi rentabilitas, Danamon membukukan margin bunga bersih atau NIM konsolidasian sebesar 8,1 persen. Angka tersebut menurun dibandingkan periode sama tahun lalu yang tercatat sebesar 8,5 persen. Sementara itu, rasio Loan at Risk (LAR) tercatat menurun menjadi 7,8 persen dibandingkan 10,2 persen pada periode sama tahun lalu.\n\nPer 30 Juni 2026, total kredit yang disalurkan Danamon mencapai Rp 230,1 triliun. Angka tersebut tumbuh 12 persen dibandingkan dengan tahun sebelumnya yang tercatat sebesar Rp 205,8 triliun. “Pertumbuhan dalam sisi kredit ini ditopang oleh pertumbuhan kredit seluruh lini bisnis, enterprise banking , dan financial institution (EBFI), SME (usaha kecil dan menengah) banking , consumer banking , dan anak perusahaan Danamon,” kata Theresia.\n\nJika dirinci, penyaluran kredit wholesale yang terdiri dari EBFI dan SME mencapai RP 137,8 triliun atau tumbuh 16 persen dibandingkan periode sama tahun lalu yang tercatat sebesar Rp 118,8 triliun. Sedangkan penyaluran kredit ritel yang terdiri dari consumer banking dan anak usaha Danamon mencapai Rp 92,3 triliun atau tumbuh 6 persen dibandingkan Rp 87 triliun pada periode sama tahun lalu.\n\nSementara itu, pada sisi penghimpunan dana, Danamon membukukan total rekening giro, rekening tabungan, dan deposito konsolidasian sebesar Rp 181,7 Triliun. Jumlah itu meningkat 14 persen dibandingkan periode yang sama pada tahun sebelumnya yang tercatat sebesar Rp 159,8 triliun.",
       "fetched_ok": true,
-      "sentiment_score": 0.9,
+      "sentiment_score": 0.85,
       "sentiment_label": "Positif",
-      "risk_score": 33,
-      "risk_label": "Rendah",
-      "reason": "Ollama: PT Bank Danamon membukukan laba bersih yang besar dan positif pada periode konsolidasian 2026, dengan peningkatan pada sektor laba operasional dan margin bunga bersih, serta penambahan kredit dan penghimpunan dana yang signifikan."
+      "risk_score": 95,
+      "risk_label": "Tinggi",
+      "reason": "Ollama: PT Bank Danamon Indonesia Tbk. membukukan laba bersih periode berjalan konsolidasian yang besar, dengan pertumbuhan laba bersih yang tajam, ditambah dengan peningkatan dalam kredit dan peningkatan kinerja operasional yang signifikan. Dengan laporan ini, Bank Danamon memberikan bukti kinerja yang baik dan menunjukkan peningkatan dalam tindakan manajemen dan ekonomi yang efektif."
     },
     {
       "title": "Rans Belum Tunjuk Pengganti Direktur yang Mundur",
@@ -685,9 +685,9 @@
       "fetched_ok": true,
       "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 80,
-      "risk_label": "Tinggi",
-      "reason": "Ollama: Informasi tentang alasan pengunduran diri Grandy Prajayakti dan proses pemisahan dari PT Rans Entertainmen Indonesia Tbk. Ini mencakup detail pernyataan dan pengambilan keputusan yang tidak biasa, mengandung unsur kerentanan dan potensi pertanyaan yang mungkin berdampak pada reputasi perusahaan dan investor."
+      "risk_score": 40,
+      "risk_label": "Sedang",
+      "reason": "Ollama: alasan singkat dalam Bahasa Indonesia: Kondisi tersebut mencerminkan bahwa Rans Entertainmen Indonesia Tbk (RANS) telah mencari alternatif untuk Grandy Prajayakti sebagai Direktur yang lama, yang mengundurkan diri setelah penutupan IPO sejak 2026. Hal ini menunjukkan perubahan dalam manajemen perusahaan, namun tidak berarti yang lebih besar dalam konteks perusahaan dan industri."
     },
     {
       "title": "Pemerintah Optimistis Produksi Mobil Tembus 850 Ribu Unit",
@@ -697,11 +697,11 @@
       "media": "Tempo Bisnis",
       "content": "MENTERI Perindustrian Agus Gumiwang Kartasasmita optimistis produksi mobil nasional sepanjang 2026 dapat melampaui 850 ribu unit. Target tersebut dinilai realistis setelah produksi kendaraan pada semester I 2026 mencapai 615 ribu unit.\n\nMenurut Agus, capaian itu menunjukkan industri otomotif nasional mulai bergerak dari basis pasar menuju basis produksi. \"Indonesia sedang dalam proses berpindah dari yang awalnya basis pasar menjadi basis produksi,\" kata Agus saat membuka GIIAS 2026 di BSD, Tangerang, Banten, Kamis, 30 Juli 2026.\n\nIa mengatakan produksi mobil pada semester I 2026 tumbuh 11,3 persen dibandingkan periode yang sama tahun lalu. Di sisi lain, penjualan mobil secara wholesale juga meningkat 15,9 persen secara tahunan menjadi 436 ribu unit.\n\nMeski demikian, Agus menilai tingkat kepemilikan mobil di Indonesia masih jauh lebih rendah dibandingkan negara-negara lain di kawasan. Saat ini, rasio kepemilikan mobil di Indonesia baru mencapai 19 unit per 1.000 penduduk. Sebagai perbandingan, rasio kepemilikan mobil di Thailand mencapai 275 unit per 1.000 penduduk, sedangkan Malaysia mencapai 490 unit per 1.000 penduduk.\n\nMenurut Agus, rendahnya rasio kepemilikan tersebut justru menunjukkan potensi pertumbuhan pasar domestik masih sangat besar. Dengan jumlah penduduk yang hampir mencapai 290 juta jiwa, kenaikan satu unit rasio kepemilikan mobil per 1.000 penduduk akan menciptakan tambahan permintaan sekitar 280 ribu kendaraan. \"Jumlah itu hampir sepertiga dari seluruh pasar domestik kita pada hari ini,\" kata Agus.\n\nBerdasarkan data Gabungan Industri Kendaraan Bermotor Indonesia (Gaikindo), Toyota masih menjadi produsen mobil terbesar di Indonesia pada semester I 2026. Pabrikan tersebut membukukan produksi sebanyak 268.528 unit atau tumbuh 9,5 persen dibandingkan periode yang sama tahun lalu.\n\nPosisi kedua ditempati Mitsubishi Motors dengan produksi 93.558 unit dari fasilitas manufakturnya di Cikarang, Jawa Barat. Sementara itu, Daihatsu berada di peringkat ketiga dengan volume produksi mencapai 73.065 unit pada periode yang sama.",
       "fetched_ok": true,
-      "sentiment_score": 0.25,
+      "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 25,
+      "risk_score": 0,
       "risk_label": "Rendah",
-      "reason": "Ollama: Isi berita mengandung informasi positif tentang peningkatan produksi mobil dalam negeri, namun tidak berdasarkan pada data yang pasti, mengkondisikan hasil produksi tersebut sebagai realistis, dan menekankan potensi pasar yang belum terpenuhi. Kehadiran industri otomotif nasional di saat ini juga dikaitkan dengan potensi peningkatan tingkat pertumbuhan perekonomian, namun rasio kepemilikan mobil di Indonesia masih jauh lebih rendah dibandingkan negara-negara lain di kawasan dan masih memiliki potensi besar untuk pertumbuhan pasar."
+      "reason": "Ollama: berita tentang produksi mobil yang positif dan realistis, menekankan potensi pertumbuhan pasar domestik dan penjualan yang meningkat."
     }
   ],
   "ok_count": 50
