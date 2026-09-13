@@ -4,6 +4,34 @@
   "ok": true,
   "items": [
     {
+      "title": "Kedekatan Warga Jateng dan Kafilah MTQ Nasional Jadi Sorotan Positif",
+      "link": "https://nasional.tempo.co/read/2119461/kedekatan-warga-jateng-dan-kafilah-mtq-nasional-jadi-sorotan-positif",
+      "summary": "Keramahan masyarakat Jawa Tengah sejak kedatangan kafilah di Bandara Ahmad Yani hingga pelaksanaan MTQ Nasional XXXI di Semarang mendapat apresiasi peserta dari berbagai daerah karena menghadirkan suasana persaudaraan, religius, dan kebersamaan.",
+      "published": "",
+      "media": "Tempo news",
+      "content": "",
+      "fetched_ok": false,
+      "sentiment_score": 0.9,
+      "sentiment_label": "Positif",
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Ollama: Apresiasi dari peserta yang mengindikasikan kedekatan dan persaudaraan yang positif antara warga Jawa Tengah dan para kafilah dalam event tersebut."
+    },
+    {
+      "title": "Gubernur Bobby Minta Publik Hentikan Komentar Negatif terhadap Korban MBG di Karo",
+      "link": "https://nasional.tempo.co/read/2119460/gubernur-bobby-minta-publik-hentikan-komentar-negatif-terhadap-korban-mbg-di-karo",
+      "summary": "Gubernur Sumatera Utara Muhammad Bobby Afif Nasution meminta masyarakat dan media menghindari komentar negatif serta perundungan di media sosial agar pemulihan fisik dan psikologis siswa korban dugaan keracunan MBG di Kabupaten Karo dapat berjalan optimal.",
+      "published": "",
+      "media": "Tempo news",
+      "content": "",
+      "fetched_ok": false,
+      "sentiment_score": 0.0,
+      "sentiment_label": "Netral",
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Ollama: Isi berita berfokus pada tindakan yang dilakukan oleh Gubernur dalam menghadapi masalah yang sedang berlangsung."
+    },
+    {
       "title": "Transformasi Layanan Haji Harus Terukur dari Biaya hingga Perlindungan Jemaah",
       "link": "https://nasional.tempo.co/read/2119246/transformasi-layanan-haji-harus-terukur-dari-biaya-hingga-perlindungan-jemaah",
       "summary": "Pembenahan kelembagaan perlu menghasilkan layanan yang lebih transparan, ramah lansia, dan siap menghadapi risiko di setiap tahapan ibadah.",
@@ -11,11 +39,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 75,
-      "risk_label": "Tinggi",
-      "reason": "Ollama: Alasan singkat dalam Bahasa Indonesia: Dalam artikel ini, tidak ada sentimen positif atau negatif terkait tema yang disebabkan oleh pernyataan yang netral mengenai Transformasi Layanan Haji."
+      "risk_score": 65,
+      "risk_label": "Sedang",
+      "reason": "Ollama: Analisis berita menunjukkan perspektif netral terkait kelembagaan perubahan dalam layanan haji. Sentimen tidak terlihat positif maupun negatif justru berada di kisaran neutral. Dari sisi risiko, penekanan pada 'siap menghadapi risiko' menunjukkan tingkat risiko sedang dalam upaya transformasi perubahan tersebut."
     },
     {
       "title": "Gubernur Lampung Alihkan KBM ke Daring Akibat Sebaran Abu Anak Krakatau",
@@ -27,9 +55,9 @@
       "fetched_ok": false,
       "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 50,
+      "risk_score": 45,
       "risk_label": "Sedang",
-      "reason": "Ollama: berita mengandung informasi positif (pengalihan kegiatan belajar mengajar menjadi pembelajaran daring) dan negatif (dampak sebaran abu vulkanik Gunung Anak Krakatau)."
+      "reason": "Ollama: Sebaran abu vulkanik Gunung Anak Krakatau dapat merugikan sejumlah penduduk di sekitar Gunung Krakatau."
     },
     {
       "title": "Resmikan Jembatan Bailey di Tapteng, Bobby Nasution Janji Beri Modal Usaha untuk Warga",
@@ -41,9 +69,9 @@
       "fetched_ok": false,
       "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Ollama: Berita mengandung informasi konkrit tentang rencana penggunaan dana oleh pejabat daerah, namun tidak menarik atau menyebabkan perasaan emosional positif atau negatif."
+      "risk_score": 75,
+      "risk_label": "Tinggi",
+      "reason": "Ollama: Bobby Nasution tidak mencapai target yang disampaikan dan rencana kegiatan tidak diimplementasikan secara baik."
     },
     {
       "title": "Jastip Barang Luar Negeri untuk Belanja di Amazon, eBay, AliExpress, dan USA",
@@ -55,9 +83,9 @@
       "fetched_ok": false,
       "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 50,
-      "risk_label": "Sedang",
-      "reason": "Ollama: Alasan singkat dalam Bahasa Indonesia: Berita tersebut menangkap informasi tentang solusi untuk konsumen Indonesia dalam mengatasi kendala dalam belanja luar negeri, yang dijelaskan oleh pengguna aplikasi titip barang. Tanpa menekankan pada aspek positif atau negatif spesifik, berita ini tampak netral dan biasanya dikategorikan sedang risikonya."
+      "risk_score": 20,
+      "risk_label": "Rendah",
+      "reason": "Ollama: Informasi berita netral dengan tingkat risiko yang tidak berat. Konten fokus pada manfaat dari jasa titip barang luar negeri untuk pembelian melalui toko online di luar negeri dan toko online di Amerika Serikat. Hasil jual beli dilakukan secara online antar kota sehingga tidak ada transaksi fisik. Jasa ini tidak mengandung informasi yang dapat merugikan konsumen dalam hal keamanan atau pembayaran internasional. Karena informasi ini merupakan berita umum yang berkaitan dengan usaha jual beli, tingkat risiko untuk konsumen rendah dan tingkat neutral dalam menilai informasi ini."
     },
     {
       "title": "Gubernur Mirza Dorong Teknologi Tepat Guna Percepat Hilirisasi Komoditas Lampung",
@@ -67,11 +95,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Ollama: Isi berita fokus pada topik perubahan yang positif terkait infrastruktur dan ekonomi desa, tanpa menunjukkan aspek negatif. Informasi utama menekankan pentingnya pemanfaatan teknologi dalam upaya perekonomian desa dan kemajuan administrasi gubernisi."
+      "risk_score": 35,
+      "risk_label": "Sedang",
+      "reason": "Ollama: gubernur mengingatkan pentingnya integrasi teknologi dengan pertanian dan SDM untuk mempercepat pembangunan"
     },
     {
       "title": "Pemprov Lampung Perkuat Generasi Desa melalui Program Sarjana STEM dan Hafiz Qur'an",
@@ -81,11 +109,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.5,
+      "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 45,
-      "risk_label": "Sedang",
-      "reason": "Ollama: Alasan singkat dalam Bahasa Indonesia: Berita ini menekankan keterkaitan antara ilmu pengetahuan dan ilmu al-Qur'an dalam pembentukan karakter dan kualitas generasi muda desa, namun tanpa menyertakan sentimen atau risiko yang jelas."
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Ollama: alasan singkat dalam Bahasa Indonesia: Berita ini mengandung informasi fakta tentang program melatih generasi muda desa di Lampung, tanpa menekankan emosi positif atau negatif."
     },
     {
       "title": "Gubernur Mirza Ajak Perempuan Lampung Jadi Penggerak Ekonomi Daerah",
@@ -95,11 +123,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Ollama: Gubernur mencalonkan peran penting bagi perempuan dalam ekonomi daerah tanpa menciptakan emosi atau perasaan positif atau negatif."
+      "risk_score": 80,
+      "risk_label": "Tinggi",
+      "reason": "Ollama: Gubernur mengajak perempuan untuk menjadi penggerak ekonomi daerah, yang merupakan rekomendasi positif, tetapi ada kekhawatiran terkait penyalahgunaan pemberi tanda yang tidak sesuai untuk target yang tepat (perusahaan perempuan)."
     },
     {
       "title": "Kemendagri Dorong Daerah yang Cukup Pasokan Sampah dan Kapasitas Finansial untuk Menjalankan PSEL",
@@ -113,7 +141,7 @@
       "sentiment_label": "Netral",
       "risk_score": 0,
       "risk_label": "Rendah",
-      "reason": "Ollama: Isi berita fokus pada upaya kemendagri untuk mempromosikan pemerintahan daerah dalam mewujudkan PSEL, tanpa menekankan pada alasan negatif atau positif."
+      "reason": "Ollama: Isi berita kurang detail dan tidak mencerminkan sentimen atau risiko yang khusus."
     },
     {
       "title": "BNI dan BI Edukasi Pengunjung wondrX 2026 Waspadai Kejahatan Siber",
@@ -123,11 +151,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Tinggi",
-      "reason": "Ollama: Penggunaan teknologi digital semakin tinggi, namun masyarakat belum sepenuhnya memahami bagaimana menjaga keamanan data dan transaksi."
+      "risk_score": 30,
+      "risk_label": "Sedang",
+      "reason": "Ollama: Isi berita mengandung informasi yang penting tentang keamanan digital, tetapi tidak mencakup ekspresi emosional atau analisis kritis."
     },
     {
       "title": "Kemendagri Perkuat Kolaborasi Lintas Kementerian dan Lembaga dalam Apresiasi Pemerintah Daerah Berprestasi",
@@ -137,11 +165,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
-      "sentiment_label": "Netral",
+      "sentiment_score": 0.85,
+      "sentiment_label": "Positif",
       "risk_score": 0,
       "risk_label": "Rendah",
-      "reason": "Ollama: Isi berita fokus pada keterlibatan Kemendagri dalam program apresiasi pemerintah daerah, tanpa menekankan pada aspek negatif atau positif yang spesifik."
+      "reason": "Ollama: Dengan peristiwa ini, pemerintah daerah dapat mendapatkan dukungan dari pemerintah untuk mengeksekusi program atau alokasi khusus mereka, yang kemungkinan akan meningkatkan kinerjanya."
     },
     {
       "title": "Empat Kategori Baru dalam Apresiasi Pemerintah Daerah Berprestasi 2026 Sejalan dengan Asta Cita",
@@ -151,11 +179,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
-      "sentiment_label": "Netral",
-      "risk_score": 30,
-      "risk_label": "Sedang",
-      "reason": "Ollama: Alasan singkat dalam Bahasa Indonesia: Isi berita tidak menunjukkan sentimen yang kuat (netral) atau memiliki tingkat risiko yang tinggi."
+      "sentiment_score": 0.9,
+      "sentiment_label": "Positif",
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Ollama: berita ini mengandungi informasi positif tentang peningkatan kategori apresiasi kepada pemerintah daerah yang berprestasi. Informasi ini mencerminkan kebijakan pemerintah untuk meningkatkan kinerja daerah dan mendorong mereka untuk lebih berinovasi dalam mencapai target nasional. Hal ini dianggap positif karena menunjukkan peningkatan kinerja pemerintah daerah dalam mewujudkan visi dan misi nasional."
     },
     {
       "title": "Moto Prix Piala Wali Kota Pekanbaru Jadi Ajang Balap Sekaligus Aksi Sosial",
@@ -165,11 +193,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.8,
+      "sentiment_score": 0.85,
       "sentiment_label": "Positif",
-      "risk_score": 60,
-      "risk_label": "Sedang",
-      "reason": "Ollama: Event mempromosikan persaingan antar pembalap, mendukung UMKM dan menjadi langkah kepedulian sosial."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "Ollama: Pendekatan yang menyumbang positif dalam melindungi UMKM dan memberikan aksi sosial di tengah bencana, dengan tingkat dukungan yang tinggi."
     },
     {
       "title": "Megawati: Surabaya adalah Dapur Nasionalisme Bung Karno",
@@ -179,11 +207,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
-      "sentiment_label": "Netral",
-      "risk_score": 25,
+      "sentiment_score": 0.85,
+      "sentiment_label": "Positif",
+      "risk_score": 50,
       "risk_label": "Sedang",
-      "reason": "Ollama: Judul dan isi berita tidak menunjukkan sentimen negatif atau positif yang kuat. Meskipun Megawati menekankan pentingnya Jawa Timur dan Surabaya, tidak ada kata-kata yang menunjukkan emosi yang kuat. Isi berita juga lebih fokus pada penekanan pada kesempatan untuk memperkuat akar rumput oleh Bung Karno dibandingkan dengan dampak atau efeknya pada pemikiran atau praktik kader PDIP."
+      "reason": "Ollama: Megawati menekankan kepentingan Jawa Timur dan Surabaya dalam pembentukan pemikiran Bung Karno, yang dilihat sebagai alasan positif dalam konteks ini."
     },
     {
       "title": "Berburu Promo di BNI wondrX 2026, Pengunjung Nikmati Diskon Sepatu hingga 40 Persen",
@@ -193,11 +221,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.85,
+      "sentiment_score": 0.9,
       "sentiment_label": "Positif",
-      "risk_score": 75,
-      "risk_label": "Tinggi",
-      "reason": "Ollama: Penawaran diskon sepatu yang besar dan menarik banyak pengunjung, sementara itu menunjukkan BNI wondrX 2026 sebagai tempat yang menguntungkan."
+      "risk_score": 25,
+      "risk_label": "Rendah",
+      "reason": "Ollama: Berita ini mengandung informasi tentang diskon sepatu hingga 40 persen yang dijelaskan dengan jelas dan menarik, yang menunjukkan pemasaran yang efektif dan menarik."
     },
     {
       "title": "BNI Gelar Lelang rejeki wondr Setiap Hari di wondrX 2026",
@@ -207,11 +235,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.95,
-      "sentiment_label": "Positif",
-      "risk_score": 85,
-      "risk_label": "Tinggi",
-      "reason": "Ollama: Berita ini menyebutkan tentang program BNI yang menawarkan kesempatan kepada pengunjung untuk memperoleh berbagai produk menggunakan BNI POIN+. Ini tampak positif karena memberikan peluang kepada masyarakat yang kurang berpenghasilan."
+      "sentiment_score": 0.0,
+      "sentiment_label": "Netral",
+      "risk_score": 50,
+      "risk_label": "Sedang",
+      "reason": "Ollama: Informasi mengenai program khusus tidak menunjukkan dampak langsung positif atau negatif terhadap penumpang atau pelanggan, sehingga dibandingkan dengan statistik normal, dapat dikatakan sedang risiko dalam konteks penyebaran informasi."
     },
     {
       "title": "Ketua Harian PSI Ahmad Ali: Kalau Politik Jadi Tempat Mencari Nafkah, Sudah Pasti Salah",
@@ -221,11 +249,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 1,
-      "sentiment_label": "Positif",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Ollama: Ahmad Ali menjelaskan secara jelas dan tidak mengubah visi mendidik dan masyarakat yang ingin dijalankan. Ini menunjukkan kepemimpinannya dalam menyumbangkan visi dan prinsipnya kepada generasi muda dan masyarakat secara umum."
+      "sentiment_score": 0.0,
+      "sentiment_label": "Netral",
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "Ollama: Ahmad Ali mengkritik jabatan politik sebagai sumber penghasilan, yang kemudian dibiarkan oleh Ahmadi untuk kiprah sosial di bidang pendidikan dan keagamaan. Ini menunjukkan sikap netral dan tidak terlibat dalam kritik yang berisi kritik langsung."
     },
     {
       "title": "Bupati Bogor Hadiahi Tim Angklung SDN Cibatok 03 Wisata ke Taman Safari",
@@ -235,11 +263,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.9,
-      "sentiment_label": "Positif",
-      "risk_score": 30,
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 50,
       "risk_label": "Rendah",
-      "reason": "Ollama: Bupati Bogor Rudy Susmanto menyertakan hadiah wisata dan alat musik, yang merupakan tanggapan positif dan memotivasi kepada kinerja tim angklung."
+      "reason": "Ollama: Bupati Bogor Rudy Susmanto mengapresiasi penampilan tim angklung SDN Cibatok 03 dengan memberikan hadiah wisata ke Taman Safari Indonesia dan satu set alat musik angklung. Hal ini menunjukkan keakraban dan keterlibatan dalam kegiatan positif."
     },
     {
       "title": "Pemkab Bogor Siapkan Bus Listrik hingga Depok dan Puncak",
@@ -249,11 +277,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.8,
+      "sentiment_score": 0.85,
       "sentiment_label": "Positif",
-      "risk_score": 0,
+      "risk_score": 5,
       "risk_label": "Rendah",
-      "reason": "Ollama: Berita ini mengandung informasi positif tentang Pemkab Bogor menyiapkan bus listrik untuk transportasi publik ramah lingkungan dan mendukung konektivitas destinasi wisata, dengan tingkat penilaian sentiment 0.8 yang tinggi dan tingkat risiko 0 yang rendah."
+      "reason": "Ollama: Pemkab Bogor menganggap perluasan rute bus listrik untuk meningkatkan pelayanan transportasi publik ramah lingkungan dan mengurangi polusi, serta mempercepat akses bagi wisatawan untuk menikmati destinasi di kawasan Depok dan Puncak."
     },
     {
       "title": "Jalan Tegar Beriman-Bomang Ditargetkan Tersambung melalui Flyover pada 2027",
@@ -265,9 +293,9 @@
       "fetched_ok": false,
       "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 50,
-      "risk_label": "Sedang",
-      "reason": "Ollama: Jenis-jenis pemanggilan yang diberikan melibatkan pembangunan Flyover dan pemeriksaan jarak antara dua jalur tanah yang berbeda, namun informasi terkait tindakan keamanan atau keamanan tidak diberikan, sehingga tidak dapat dianggap sebagai tindakan terkait ancaman atau risiko. Oleh karena itu, alasan 'sedang' adalah yang paling tepat untuk situasi ini."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "Ollama: Isi berita menampilkan target pembangunan Flyover di tahun 2027 untuk memperkuat akses masyarakat menuju pusat pemerintahan di Cibinong, yang merupakan rencana teknis dan infrastruktur. Meskipun ini tergolong proyek urban, isinya tidak mengandung unsur-sifat negatif atau positif dalam konteks yang kritis, tetapi rencana ini tetap berisiko tinggi karena konsep Flyover dan pembangunan infrastruktur di jalan-jalan kota merupakan tugas pemkabupaten yang mempunyai kewajiban dan tanggung jawab dalam pengelolaan dan pembangunan infrastruktur di wilayah kota."
     },
     {
       "title": "BNI wondrX 2026 Bawa Penggemar Lebih Dekat dengan Atlet Bulu Tangkis",
@@ -277,11 +305,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.5,
+      "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 50,
-      "risk_label": "Sedang",
-      "reason": "Ollama: berita menangkasan acara promosi produk dan tidak terkait dengan berita pribadi atau kritik."
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Ollama: Judul dan isi berita sederhana dan informatif, tidak mencerminkan feeling positif atau negatif dan tidak menyebabkan risiko tinggi dalam konteks berita"
     },
     {
       "title": "BNI Hadirkan wondrZ, Tabungan Digital untuk Anak dan Remaja",
@@ -291,11 +319,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.9,
-      "sentiment_label": "Positif",
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
       "risk_score": 50,
       "risk_label": "Sedang",
-      "reason": "Ollama: BNI menawarkan layanan tabungan digital bagi anak dan remaja dengan pendampingan dan pemantauan orang tua, yang sesuai dengan preferensi anak muda dalam konteks pertumbuhan ekonomi digital."
+      "reason": "Ollama: Judul dan isi berita fokus pada penawaran produk baru dari BNI untuk anak dan remaja dengan pendekatan edukatif yang positif, namun kurang detail tentang risiko atau dampak negatif. Terdapat beberapa asumsi seperti penawaran produk baru untuk kalangan anak dan remaja, namun tidak jelas apakah produk ini berbeda dari yang lain dari BNI atau produk lainnya yang dimiliki. Selain itu, penawaran produk ini tidak jelas mengenai proses pembayaran dan metode penggunaan aplikasi yang dipromosikan. Oleh karena itu, tingkat risiko adalah sedang dan tingkat kepercayaan adalah netral."
     },
     {
       "title": "Wali Kota Padang Berikan Bantuan Rendang untuk Korban Gempa NTT",
@@ -305,11 +333,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.9,
-      "sentiment_label": "Positif",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Ollama: Pemerintah mengirimkan bantuan rendang untuk korban gempa, yang merupakan tindakan bermanfaat dan mendukung kesejahteraan masyarakat."
+      "sentiment_score": 0.0,
+      "sentiment_label": "Netral",
+      "risk_score": 50,
+      "risk_label": "Sedang",
+      "reason": "Ollama: Berita menyuarakan bantuan pemerintah dan masyarakat untuk memenuhi kebutuhan pangan korban gempa, yang merupakan hal baik dan positif. Tapi, tidak ada elemen yang menunjukkan tingkat risik atau kecemasan. Karena itu, dianggap netral."
     },
     {
       "title": "PNM Asah Daya Juang Karyawan melalui Grand Final PORSENI 2026",
@@ -319,11 +347,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
-      "sentiment_label": "Netral",
-      "risk_score": 90,
+      "sentiment_score": 0.85,
+      "sentiment_label": "Positif",
+      "risk_score": 95,
       "risk_label": "Tinggi",
-      "reason": "Ollama: Isi berita menyajikan informasi umum tentang acara Grand Final PORSENI 2026, tanpa mengandung perasaan positif atau negatif. Namun, acara ini memiliki potensi risiko karena merupakan event penting bagi tim PNM untuk mengasah daya juang dan meningkatkan prestasi di kompetisi serupa."
+      "reason": "Ollama: Grand Final PORSENI PNM 2026 mempresentasikan kerja sama positif antarinas, sinergi yang kuat, dan minat serius untuk memperkaya kualitas karyawan PNM."
     },
     {
       "title": "Simpeda Capai Rp 75 Triliun, Asbanda Dorong Transformasi Menjadi Tabungan Digital yang Makin Dekat dengan Masyarakat",
@@ -335,9 +363,9 @@
       "fetched_ok": false,
       "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 50,
-      "risk_label": "Sedang",
-      "reason": "Ollama: Isi berita tidak menampilkan unsur positif, negatif atau netral dalam konteks empat langkah analisis sentiment dan risk."
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Ollama: Informasi tidak menunjukkan sentimen positif atau negatif. Ini hanya deskripsi tentang strategi transformasi digital dalam tabungan, tanpa menarik perhatian atau menyinggung topik sensitif."
     },
     {
       "title": "Ini Kementerian Pertama yang Ambil Bagian dalam Apresiasi Pemerintah Daerah Berprestasi 2026",
@@ -351,7 +379,7 @@
       "sentiment_label": "Netral",
       "risk_score": 0,
       "risk_label": "Rendah",
-      "reason": "Ollama: Isi berita tidak menunjukkan sentimen positif, negatif atau netral. Adalah ruang kolaborasi yang dimaksudkan dan informasi tentang apresiasi pemerintah daerah."
+      "reason": "Ollama: Alasan singkat dalam Bahasa Indonesia: Berita ini fokus pada isu apresiasi pemerintah daerah yang merujuk pada kementerian pertama yang berpartisipasi dalam acara ini, tanpa menekankan pada aspek negatif atau positif."
     },
     {
       "title": "5 Benefit untuk Pemda dalam Apresiasi Pemerintah Daerah Berprestasi 2026",
@@ -361,11 +389,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 30,
+      "risk_score": 35,
       "risk_label": "Sedang",
-      "reason": "Ollama: Isi berita mengandung sedikit informasi positif tentang apresiasi ke prestasi pemerintah daerah, namun tidak menekankan dampak positif secara khusus dan tidak menunjukkan sentimen negatif apa pun."
+      "reason": "Ollama: Isi berita menangkap pentingnya apresiasi Pemerintah Daerah Berprestasi dan bagaimana ia berkontribusi pada pembangunan daerah, tanpa menekankan sentiment terhadap keberhasilan atau gagalannya dalam apresiasi tersebut."
     },
     {
       "title": "PNM Sediakan Akses Air Bersih untuk Warga Terdampak Gempa di NTT",
@@ -377,9 +405,9 @@
       "fetched_ok": false,
       "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 85,
-      "risk_label": "Tinggi",
-      "reason": "Ollama: PNM memberikan bantuan kepada warga terdampak gempa, namun jumlah yang dikeluarkan terbatas dan tidak mencapai sebagian besar penduduk wilayah."
+      "risk_score": 45,
+      "risk_label": "Sedang",
+      "reason": "Ollama: dibandingkan dengan konten positif dan negatif, informasi ini memiliki tingkat neutral dan risk score sedang karena informasi ini membahas tentang penyediaan air bersih yang bersifat netral dalam konteks gempa dan pengungsi."
     },
     {
       "title": "Pemkot Malang Gelar Pendampingan Pelaporan Data Produksi Industri Hasil Tembakau",
@@ -391,9 +419,9 @@
       "fetched_ok": false,
       "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 75,
-      "risk_label": "Tinggi",
-      "reason": "Ollama: Isi berita berhubungan dengan kebijakan dan pelaksanaan program pemerintah, yang tidak memiliki tingkat sentimen tertentu namun berada pada rentang tinggi risk score."
+      "risk_score": 60,
+      "risk_label": "Sedang",
+      "reason": "Ollama: berita tentang gelaran pendampingan pelaporan data industri, tidak menunjukkan sentiment positif atau negatif"
     },
     {
       "title": "Pemkot Malang Gelar Bimbingan Teknis Penerapan GMP untuk Perkuat Tata Kelola Industri Rokok",
@@ -405,9 +433,9 @@
       "fetched_ok": false,
       "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 40,
-      "risk_label": "Sedang",
-      "reason": "Ollama: berita mengandung informasi tentang gelaran bimbingan teknis dan upaya pemerintah untuk memastikan perusahaan industri rokok menjalankan proses produksi sesuai dengan ketentuan dan tata kelola yang baik."
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Ollama: berita neutral dengan informasi fakta yang jelas tentang upacara bimbingan teknis untuk penerapan GMP di Malang."
     },
     {
       "title": "Pemkot Malang Gelar Pelatihan Pembuatan Minuman Kekinian untuk Karyawan Industri Hasil Tembakau",
@@ -417,11 +445,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.9,
-      "sentiment_label": "Positif",
+      "sentiment_score": 0.0,
+      "sentiment_label": "Netral",
       "risk_score": 0,
       "risk_label": "Rendah",
-      "reason": "Ollama: Pemkot Malang mengadakan pelatihan untuk karyawan industri hasil tembakau dengan tujuan positif untuk memperluas peluang usaha dan meningkatkan kemandirian ekonomi, yang dirasakan sebagai hal yang baik."
+      "reason": "Ollama: Isi berita adalah deskripsi singkat tentang pelatihan karyawan industri hasil tembakau, tanpa menekankan pada kebaikan atau buruknya berita. Oleh karena itu, dianalyse sebagai neutral."
     },
     {
       "title": "Dorong Kemandirian Ekonomi, Pemkot Malang Bekali Pekerja Industri Tembakau Keterampilan OIah Ikan",
@@ -431,11 +459,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.95,
+      "sentiment_score": 0.85,
       "sentiment_label": "Positif",
-      "risk_score": 60,
-      "risk_label": "Sedang",
-      "reason": "Ollama: Pemkot Malang menawarkan pelatihan keterampilan kepada pekerja industri tembakau, yang dapat meningkatkan produktivitas dan memperkuat kemandirian ekonomi, sesuai dengan program kemandirian ekonomi yang disebutkan dalam judul."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "Ollama: Dokumentasi berita mendeskripsikan peningkatan ekonomi melalui pelatihan keterampilan yang sesuai dengan kebutuhan pasar."
     },
     {
       "title": "Pemkot Malang Manfaatkan Hasil Cukai Tembakau, Alokasikan Rp 34 Miliar untuk Kesejahteraan Masyarakat",
@@ -447,9 +475,9 @@
       "fetched_ok": false,
       "sentiment_score": 0.85,
       "sentiment_label": "Positif",
-      "risk_score": 30,
+      "risk_score": 5,
       "risk_label": "Rendah",
-      "reason": "Ollama: Pemkot Malang menggunakan uang hasil tembakau untuk program kesejahteraan dan infrastruktur, yang dianggap positif karena menangani kebutuhan masyarakat dan membantu infrastruktur."
+      "reason": "Ollama: Pemkot Malang menggunakan dana hasil tembakau untuk berbagai kepentingan masyarakat yang positif, tidak menimbulkan risiko negatif."
     },
     {
       "title": "Bogor Akan Bangun Embarkasi Haji dan Umrah di Masjid Raya Nurul Wathon Beranggaran Rp 142 Miliar",
@@ -461,9 +489,9 @@
       "fetched_ok": false,
       "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Ollama: Pengenalan dan informasi yang benar mengenai proyek pembangunan embarkasi haji dan umrah."
+      "risk_score": 90,
+      "risk_label": "Tinggi",
+      "reason": "Ollama: berita mengandung informasi khusus tentang pembangunan infrastruktur umum di sebuah kota, yang secara resmi dinyatakan dalam judul dan isi berita. Ini biasanya dinyatakan sebagai berita positif atau netral, tidak memiliki unsur risiko atau kekhawatiran."
     },
     {
       "title": "HUT Kemerdekaan RI, Ketua Harian DPP PSI Ahmad Ali Ingin Indonesia Diurus Bersama",
@@ -475,9 +503,9 @@
       "fetched_ok": false,
       "sentiment_score": 0.85,
       "sentiment_label": "Positif",
-      "risk_score": 55,
-      "risk_label": "Sedang",
-      "reason": "Ollama: Ahmad Ali, sebagai Ketua Harian DPP PSI, mengungkapkan harapan untuk Indonesia diurus bersama, menunjukkan rasa kebanggaan dan dukungan yang kuat terhadap kemerdekaan Indonesia. Hal ini dianggap positif karena memberikan impak positif terhadap perekonomian dan kemajuan negara."
+      "risk_score": 95,
+      "risk_label": "Tinggi",
+      "reason": "Ollama: Ahmad Ali menyampaikan harapan untuk Indonesia diurus bersama dengan kefahaman dan keterlibatan rakyat, yang dianggap positif dan tidak berisiko tinggi dalam konteks HUT Kemerdekaan."
     },
     {
       "title": "Wali Kota Pekanbaru Padamkan Karhutla Seluas 5 Hektare, Imbau Warga Jangan Bakar Lahan",
@@ -487,11 +515,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.8,
-      "sentiment_label": "Positif",
-      "risk_score": 60,
-      "risk_label": "Tinggi",
-      "reason": "Ollama: Pemadam karhutla dilakukan secara serius dan warga dianjurkan untuk tidak membuang sampah di lahan."
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Ollama: berita adalah berita seputar pemberitahuan langsung dari pemerintah terkait kondisi alam di daerah, tidak ada kejadian serius yang diinformasikan dan tidak ada sumber daya yang tersedia untuk memberikan alasan spesifik"
     },
     {
       "title": "Bantah Curi Start Pemilu 2029, Ahmad Ali: PSI Start Duluan",
@@ -501,11 +529,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 1.0,
-      "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Tinggi",
-      "reason": "Ollama: PSI memperkuat struktur partai dan membangun mesin pemenangan untuk sukses menembus Senayan, tetapi tidak mengekang aspirasi bantuan."
+      "sentiment_score": 0.9,
+      "sentiment_label": "Positif",
+      "risk_score": 55,
+      "risk_label": "Sedang",
+      "reason": "Ollama: Ahmad Ali, sebagai pemimpin PSI, menunjukkan kepercayaan dan kejelasan dalam menentukan strategi untuk Pemilu 2029, terutama dalam membahas 'start duluan'. Ini menunjukkan komitmen terhadap tujuan dan pencapaian yang jelas, yang membantu mempromosikan partai dan menyediakan peluang untuk pertempuran politik yang berkelanjutan."
     },
     {
       "title": "Kata Menko Polkam dan DPR tentang Apresiasi Pemerintah Daerah Berprestasi",
@@ -517,9 +545,9 @@
       "fetched_ok": false,
       "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 85,
+      "risk_score": 75,
       "risk_label": "Tinggi",
-      "reason": "Ollama: Pendapat singkat yang berdasarkan informasi dan konteks yang tersedia. Penulis mengakui tidak ada kecenderungan positif atau negatif dalam konteks ini karena informasi yang tersedia tentang kegiatan tersebut. Meski demikian, tingkat kesadaran dan pemberitaan publik terhadap peran dan tanggung jawab pemerintah daerah dalam kebijakan pembangunan regional sangat tinggi, sehingga risk score berada di bawah rata-rata untuk pertemuan atau diskusi umum ini."
+      "reason": "Ollama: Dalam balasan, tidak ada sisi positif atau negatif yang terlihat dalam konteks berita yang diberikan."
     },
     {
       "title": "Apresiasi Pemerintah Daerah Berprestasi Batch II Digelar, Ini 4 Kategori Penilaiannya",
@@ -529,11 +557,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.8,
-      "sentiment_label": "Positif",
-      "risk_score": 30,
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 20,
       "risk_label": "Rendah",
-      "reason": "Ollama: Kemendagri kembali menyelenggarakan penilaian tingkat tinggi seperti Apresiasi Pemerintah Daerah Berprestasi Batch II, menunjukkan kepercayaan dalam bidang tersebut dan harapan untuk meningkatkan prestasi."
+      "reason": "Ollama: Komentar netral dengan skor sentiment sedikit terbalik, namun tidak mencapai rentang yang bisa dilihat sebagai risk score. Hal ini disebabkan oleh fakta bahwa informasi tentang penilaian kategori ini diapresiasi secara netral."
     },
     {
       "title": "Kementerian Transmigrasi Dorong Maluku Utara Cetak Sawah Baru, Perkuat Swasembada Beras dan Lapangan Kerja",
@@ -543,11 +571,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Ollama: Judul dan isi berita fokus pada komunikasi positif antara pemerintah dan masyarakat, dan tidak menunjukkan sentimen negatif atau tingkat risiko yang signifikan dalam konteks berita."
+      "risk_score": 40,
+      "risk_label": "Sedang",
+      "reason": "Ollama: Pengetesan sawah baru di Maluku Utara tidak langsung merespon tingkat keberhasilan dalam mengatasi kebutuhan beras dan memperkuat lapangan kerja, tetapi memiliki potensi untuk meningkatkan ekonomi dan mendorong perbaikan infrastruktur pertanian."
     },
     {
       "title": "Baznas Salurkan 1.900 Porsi Makanan Siap Saji untuk Korban Gempa NTT",
@@ -561,7 +589,7 @@
       "sentiment_label": "Netral",
       "risk_score": 85,
       "risk_label": "Tinggi",
-      "reason": "Ollama: Informasi neutral mengenai pertukaran antara Baznas dan warga terdampak gempa di NTT, tetapi tingkat keamanan sangat tinggi karena informasi positif tentang penyediaan makanan siap saji untuk memenuhi kebutuhan pangan dan kesehatan warga."
+      "reason": "Ollama: berita tentang penyediaan makanan siap saji oleh Baznas untuk korban gempa di NTT, yang merupakan fakta positif dengan sedikit konten yang menunjukkan ketidakpuasan atau ancaman yang tidak jelas."
     },
     {
       "title": "Dukcapil Jemput Bola, Pastikan Korban Gempa NTT Tak Kehilangan Dokumen Kependudukan",
@@ -573,9 +601,9 @@
       "fetched_ok": false,
       "sentiment_score": 0.9,
       "sentiment_label": "Positif",
-      "risk_score": 85,
-      "risk_label": "Tinggi",
-      "reason": "Ollama: layanan administrasi kependudukan secara jemput bola untuk memastikan masyarakat terdampak gempa NTT dapat memperoleh kembali dokumen kependudukan dengan cepat, mudah, dan gratis"
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Ollama: Dukcapil memberikan layanan jemput bola untuk memastikan masyarakat NTT dapat mengembalikan dokumen kependudukan."
     },
     {
       "title": "Baznas Bersama GPI Dorong Penguatan Zakat dan Pemberdayaan Umat",
@@ -589,7 +617,7 @@
       "sentiment_label": "Netral",
       "risk_score": 60,
       "risk_label": "Sedang",
-      "reason": "Ollama: Dokumentasi positif, tindak lanjut nyata dalam hal kinerja yang baik, namun ada sedikit dampak negatif dari kerentanan keuangan dan potensi keabsahan data."
+      "reason": "Ollama: Kerja sama ini mengkombinasikan penguatan zakat dengan pemberdayaan umat, namun informasi spesifik tentang alasan tergolong netral."
     },
     {
       "title": "Pegadaian Hadirkan Solusi Cicil Tabungan Emas",
@@ -603,7 +631,7 @@
       "sentiment_label": "Netral",
       "risk_score": 0,
       "risk_label": "Rendah",
-      "reason": "Ollama: Isi berita tidak menekankan pujian atau kritik, berdasarkan informasi yang diberikan"
+      "reason": "Ollama: Isi berita yang fokus pada informasi tentang solusi pembiayaan untuk emas, tanpa rekomendasi atau opinion yang kuat."
     },
     {
       "title": "Kolaborasi Nasabah dan Karyawan PNM Perluas Dampak Pemberdayaan",
@@ -613,11 +641,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.8,
-      "sentiment_label": "Positif",
-      "risk_score": 40,
-      "risk_label": "Sedang",
-      "reason": "Ollama: Pemberdayaan dilakukan dengan cara kolaborasi dengan nasabah dan karyawan, yang membantu membangun masa depan yang lebih inklusif."
+      "sentiment_score": 0.0,
+      "sentiment_label": "Netral",
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Ollama: Berita ini mengandungi informasi netral tentang pemberdayaan yang dilakukan oleh PNM, dengan tidak ada elemen positif atau negatif yang jelas."
     },
     {
       "title": "Asbanda Dorong Penguatan Peran BPD sebagai Penggerak Ekonomi Daerah",
@@ -629,9 +657,9 @@
       "fetched_ok": false,
       "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 50,
-      "risk_label": "Sedang",
-      "reason": "Ollama: berita tentang peran BPD sebagai Regional Development Bank yang positif, namun tidak mencapai tingkat peningkatan ekonomi yang kritis."
+      "risk_score": 20,
+      "risk_label": "Rendah",
+      "reason": "Ollama: Balasan berita tidak menunjukkan sentimen positif, negatif atau netral secara spesifik, tetapi lebih bersifat netral dengan tingkat risiko sedang."
     },
     {
       "title": "Penyelundupan 2,6 Ton Sabu Cair dari MV Ocean Porter di Kepri Berhasil Digagalkan",
@@ -641,11 +669,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.2,
       "sentiment_label": "Netral",
-      "risk_score": 90,
+      "risk_score": 75,
       "risk_label": "Tinggi",
-      "reason": "Ollama: Bea Cukai, BNN RI, dan Polda Kepulauan Riau menangani pengecekan dan pengembangan terhadap temuan 2,6 ton sabu cair."
+      "reason": "Ollama: Bea Cukai, BNN RI, dan Polda Kepulauan Riau akan terus melakukan pengembangan terhadap temuan, menunjukkan ketertarikan dan resiko tinggi dalam hal ini."
     },
     {
       "title": "PPP Siapkan Tim Hukum yang Kuat Hadapi Pemilu 2029",
@@ -655,11 +683,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.5,
-      "sentiment_label": "Netral",
-      "risk_score": 50,
-      "risk_label": "Sedang",
-      "reason": "Ollama: Babak Pemilu 2029 masih jauh dari pengumuman akhir dan tidak ada bukti langsung bahwa PPP akan mendukung pendaftaran tersebut."
+      "sentiment_score": 0.95,
+      "sentiment_label": "Positif",
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "Ollama: Mantan Ketua Mahkamah Konstitusi menilai Partai PPP penting dalam politik Indonesia."
     },
     {
       "title": "Andrea Bocelli Bakal Tampil di Indonesia, BNI Siapkan Tiket Presale",
@@ -673,35 +701,7 @@
       "sentiment_label": "Netral",
       "risk_score": 0,
       "risk_label": "Rendah",
-      "reason": "Ollama: Tidak ada sentiment positif atau negatif dalam isi berita, kecuali untuk informasi penawaran diskon."
-    },
-    {
-      "title": "Ketua Harian PSI Ahmad Ali: PSI Pemenang Ketiga Pemilu, Itu Baru Berita",
-      "link": "https://nasional.tempo.co/read/2118023/ketua-harian-psi-ahmad-ali-psi-pemenang-ketiga-pemilu-itu-baru-berita",
-      "summary": "Ahmad Ali mengungkap strategi PSI membangun fondasi dan konsolidasi partai, belajar dari dua kegagalan pemilu, serta tekad membawa PSI lolos ke Senayan dan menjadi pemenang ketiga dalam Pemilu 2029.",
-      "published": "",
-      "media": "Tempo news",
-      "content": "",
-      "fetched_ok": false,
-      "sentiment_score": 0.5,
-      "sentiment_label": "Netral",
-      "risk_score": 30,
-      "risk_label": "Sedang",
-      "reason": "Ollama: Isi berita fokus pada pengakuan Ahmad Ali tentang strategi partai dan prestasi politik, yang dianggap netral dalam konteks berita politik."
-    },
-    {
-      "title": "Bank Bjb Buka Early Access Jersey PERSIB 2026/2027",
-      "link": "https://nasional.tempo.co/read/2118021/bank-bjb-buka-early-access-jersey-persib-20262027",
-      "summary": "Bank bjb berharap kehadirannya bersama PERSIB dapat terus memberikan nilai tambah bagi nasabah sekaligus memperkuat hubungan dengan komunitas dan masyarakat.",
-      "published": "",
-      "media": "Tempo news",
-      "content": "",
-      "fetched_ok": false,
-      "sentiment_score": 0.5,
-      "sentiment_label": "Netral",
-      "risk_score": 45,
-      "risk_label": "Sedang",
-      "reason": "Ollama: Isi yang konsisten dengan fokus pada potensi peluang dan penawaran positif untuk komunitas PERSIB."
+      "reason": "Ollama: Informasi umum yang tidak menunjukkan sentimen positif atau negatif dan risiko yang rendah."
     }
   ],
   "ok_count": 0
