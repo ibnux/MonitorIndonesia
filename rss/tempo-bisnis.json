@@ -11,11 +11,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.5,
-      "sentiment_label": "Netral",
-      "risk_score": 50,
-      "risk_label": "Sedang",
-      "reason": "Ollama: Isi berita fokus pada upaya khusus yang diadakan oleh Pegadaian untuk menghargai pelanggan mereka, yang tampak positif tetapi tidak secara langsung mengarah pada tingkat empataan atau risiko yang dapat diidentifikasi. Hasil dari metode analisis ini adalah netral dan menunjukkan tingkat risiko sedang karena upaya tersebut merupakan bentuk apresiasi kepada nasabah yang sedang berlangsung."
+      "sentiment_score": 0.8,
+      "sentiment_label": "Positif",
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Ollama: Pegadaian menghadirkan apresiasi kepada nasabah melalui acara bernasional dan platform digital, menunjukkan komitmen dan kebersamaan."
     },
     {
       "title": "Arfadia Taruh Tiga Laporan Risetnya di Zenodo",
@@ -27,9 +27,9 @@
       "fetched_ok": false,
       "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 85,
-      "risk_label": "Tinggi",
-      "reason": "Ollama: Isi berita fokus pada manfaat sistem versioning dan publikasi data, yang tampak positif untuk stakeholder. Namun, tidak ada alasan khusus dalam teks yang menunjukkan tingkat risiko tinggi seperti penipuan atau manipulasi data."
+      "risk_score": 50,
+      "risk_label": "Sedang",
+      "reason": "Ollama: Sistem versioning dan publikasi data mendeskripsikan tindakan yang netral dan berisiko sedang."
     },
     {
       "title": "PT Pertamina Patra Niaga RU Cilacap Buka Tender Penggantian Column Assy 11C-1",
@@ -41,9 +41,9 @@
       "fetched_ok": false,
       "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Ollama: Alasan singkat dalam Bahasa Indonesia: Berita tentang pengumuman pelaksanaan tender yang netral dan tidak memiliki aspek negatif atau positif yang terlihat."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "Ollama: Isi berita tentang pelaksanaan tender terbuka oleh PT Pertamina Patra Niaga Refinery Unit (RU) IV Cilacap untuk pekerjaan 'PENGGANTIAN COLUMN ASSY 11C-1 AREA FOC I PT. PERTAMINA PATRA NIAGA DI RU IV CILACAP'."
     },
     {
       "title": "Jelang Danantara Housing Expo, BNI Hadirkan Area Properti di wondrX 2026",
@@ -55,9 +55,9 @@
       "fetched_ok": false,
       "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 45,
-      "risk_label": "Sedang",
-      "reason": "Ollama: Informasi mendalam tentang pengaturan dan program yang akan dirayakan dalam expo properti."
+      "risk_score": 75,
+      "risk_label": "Tinggi",
+      "reason": "Ollama: Informasi mengenai perkembangan properti di wondrX 2026 dan pemasaran produk dari BNI yang muncul secara tidak biasa dan menarik perhatian masyarakat"
     },
     {
       "title": "BNI Hadirkan Deretan Musikus Tanah Air di wondrX 2026",
@@ -69,9 +69,9 @@
       "fetched_ok": false,
       "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 50,
-      "risk_label": "Sedang",
-      "reason": "Ollama: berita netral mengandung informasi tentang pameran hiburan dengan musikarang"
+      "risk_score": 55,
+      "risk_label": "Tinggi",
+      "reason": "Ollama: Berita tersebut menekankan tentang presentasi dan kesempatan untuk mendengar musik lokal yang merupakan sebuah prestasi dan informasi positif."
     },
     {
       "title": "KRL hingga Shuttle Bus Gratis, Pilihan Transportasi Menuju BNI wondrX 2026",
@@ -81,11 +81,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.25,
+      "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 65,
-      "risk_label": "Sedang",
-      "reason": "Ollama: Pilihan transportasi yang disebutkan adalah variasi dari transportasi publik dan non-penggunaan kendaraan pribadi, yang mengindikasikan persentase transportasi non-motorized yang tinggi, yang mempengaruhi pelanggan."
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Ollama: The text provides information about the various modes of transportation available, but does not contain any positive or negative sentiment expressed by the user. It is a neutral statement about the options available."
     },
     {
       "title": "BNI wondrX 2026 Hadirkan Zona Travel sebagai Solusi Kebutuhan Perjalanan",
@@ -95,11 +95,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.5,
+      "sentiment_score": 0.1,
       "sentiment_label": "Netral",
-      "risk_score": 10,
+      "risk_score": 15,
       "risk_label": "Rendah",
-      "reason": "Ollama: Isi berita secara fokus mengandung informasi tentang produk baru dari BNI dan tidak menyebabkan perasaan tertarik atau iri."
+      "reason": "Ollama: Isi berita mengandung informasi positif tentang layanan baru dari BNI di BNI wondrX 2026, namun tidak mencerminkan perasaan atau sentiment spesifik dari pemakaiannya yang tidak jelas. Contoh lain adalah informasi tentang layanan berupa 'hadirkan Zona Travel', namun informasi tersebut kurang detail dan tidak mendeskripsikan manfaat atau keuntungan yang akan diberikan kepada pengguna. Karena informasi ini kurang detail dan tidak menunjukkan perasaan atau sentiment dari penasihatannya, saya memilih label 'netral' dan angka sentiment score 0.1 yang berarti sedang tidak jelas atau neutral. Risk score yang sedang tidak jelas ditentukan oleh tingkat detail dan detail informasi yang ditanggapi. Karena informasi tentang layanan ini kurang detail dan tidak mendeskripsikan manfaat atau keuntungan yang akan diberikan kepada pengguna, tingkat risiko ditentukan pada 15 yang berarti rendah."
     },
     {
       "title": "PT Pertamina Patra Niaga RU Cilacap Buka Tender Penggantian Column Assy 11C-1",
@@ -111,9 +111,9 @@
       "fetched_ok": false,
       "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 90,
-      "risk_label": "Tinggi",
-      "reason": "Ollama: Informasi yang diberikan tentang pelaksanaan tender tidak menekankan pada sisi positif atau negatif spesifik, tetapi mencakup informasi umum yang biasanya tidak memiliki dampak emosional tinggi atau tinggi risiko."
+      "risk_score": 25,
+      "risk_label": "Rendah",
+      "reason": "Ollama: Informasi tentang pengumuman tender tanpa komentar spesifik mengenai kepentingan atau indikasi risiko yang terkait dengan informasi tersebut."
     },
     {
       "title": "Indonesia Bullion Market Association Resmi Diluncurkan, Perkuat Ekosistem dan Industri Emas Nasional",
@@ -123,11 +123,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.5,
-      "sentiment_label": "Netral",
-      "risk_score": 65,
+      "sentiment_score": 0.8,
+      "sentiment_label": "Positif",
+      "risk_score": 85,
       "risk_label": "Tinggi",
-      "reason": "Ollama: Berita tersebut menekankan peran IBMA dalam memperkuat ekosistem dan industri emas Indonesia, dengan kekuatan ekonomi internasional di industri emas global."
+      "reason": "Ollama: IBMA resmi diluncurkan untuk memperkuat ekosistem emas Indonesia dan meningkatkan posisi negara dalam pasar global."
     },
     {
       "title": "ASUS ExpertBook B9406CAA  Tawarkan Nilai Investasi Optimal",
@@ -137,11 +137,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 30,
-      "risk_label": "Sedang",
-      "reason": "Ollama: Isi berita fokus pada bagian penting dari investasi teknologi, yang merupakan topik netral dan memiliki tingkat risiko sedang."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "Ollama: Tekanan dari laporan menekankan pada perlindungan data sebagai aspek penting dari investasi dalam laptop, namun laporan tidak menyebutkan tingkat tinggi risiko yang seharusnya dipahami."
     },
     {
       "title": "PT Pertamina Patra Niaga RU Cilacap Buka Tender Penggantian Column Assy 11C-1",
@@ -155,7 +155,7 @@
       "sentiment_label": "Netral",
       "risk_score": 0,
       "risk_label": "Rendah",
-      "reason": "Ollama: Isi berita tidak menunjukkan sentiment positif atau negatif dan tidak mengandung informasi yang dapat diinterpretasikan sebagai risiko"
+      "reason": "Ollama: Informasi yang disampaikan melibatkan proses administratif dan teknis dalam dunia pertambangan dan petrokimia, tidak memiliki tingkat emosi positif atau negatif yang jelas."
     },
     {
       "title": "PT Pertamina Patra Niaga RU Cilacap Buka Tender Penggantian Column Assy 11C-1",
@@ -165,11 +165,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 45,
-      "risk_label": "Sedang",
-      "reason": "Ollama: berita ini mengandung informasi perihal pelaksanaan tender untuk pekerjaan pertukaran partikel, yang dapat dipengaruhi oleh berbagai faktor positif atau negatif yang terkait dengan pengadaan atau penggantian peralatan industri."
+      "risk_score": 75,
+      "risk_label": "Tinggi",
+      "reason": "Ollama: Dalam isinya, tidak terdapat isu yang mengandung sentimen positif atau negatif. Kita hanya mengetahui bahwa sebuah tender terbuka sedang berlangsung untuk pekerjaan tertentu. Ini mengindikasikan tidak ada risiko yang signifikan dalam hal ini."
     },
     {
       "title": "PT Pertamina Patra Niaga RU Cilacap Buka Tender Penggantian Column Assy 11C-1",
@@ -179,11 +179,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.1,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 75,
+      "risk_score": 80,
       "risk_label": "Tinggi",
-      "reason": "Ollama: Informasi tentang tender yang resmi, namun tanpa detail jelas mengenai aturan atau persyaratan lebih lanjut, yang membuat kritik terhadap keterbukaan informasi."
+      "reason": "Ollama: Alasan singkat dalam Bahasa Indonesia: Berita ini mengandung informasi tentang tender untuk pekerjaan penggantian di ruang pertambangan Pertamina Patra Niaga, tetapi tidak mengekspresikan sentimen positif atau negatif spesifik terhadap proyek tersebut. Sementara itu, tingkat risiko tinggi ini menunjukkan bahwa ada tantangan dalam memprediksi apakah proyek ini akan dilaksanakan dengan baik atau tidak, yang sejatinya merupakan aspek umum dari tender pengadaan proyek infrastruktur. Oleh karena itu, sentimen dalam berita ini netral dan tingkat risiko tinggi, karena informasi yang diberikan kurang dari yang diperlukan untuk diinterpretasikan secara mendalam."
     },
     {
       "title": "Kembali Berkolaborasi, bank bjb Jadi Official Banking Partner Persib Musim 2026/2027",
@@ -193,11 +193,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.85,
-      "sentiment_label": "Positif",
-      "risk_score": 65,
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 85,
       "risk_label": "Tinggi",
-      "reason": "Ollama: Kolaborasi antara bank bjb dan Persib yang dianggap positif oleh para analis, dengan tingkat risiko yang tinggi karena potensi keberhasilan yang signifikan dan potensi pengaruh positif bagi perusahaan dan masyarakat. Dilihat dari tingkat prediksi dan analisis, tingkat positif (85%) dan tingkat risiko yang tinggi (65%) menunjukkan tingkat kejelasan dan keakuratan dalam memprediksi aspek ini."
+      "reason": "Ollama: Kolaborasi antara bank bjb dan Persib tidak menghasilkan reaksi negatif atau positif dari sisi publik atau analis. Ini disebabkan oleh kurangnya konteks perspektif dan latar belakang budaya yang relevan."
     },
     {
       "title": "Bahas Pertanggungjawaban APBD 2025, DPRD Kota Bogor Soroti SiLPA dan Biskita",
@@ -209,9 +209,9 @@
       "fetched_ok": false,
       "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 90,
-      "risk_label": "Tinggi",
-      "reason": "Ollama: Isi berita fokus pada pertanyaan tentang penggunaan anggaran APBD 2025 dan tidak menekankan secara langsung atau tidak langsung pada hal-hal negatif, netralitas berita terlihat dari konten yang fokus pada pertanyaan berdasarkan harapan dari pemerintah daerah."
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Ollama: Berita fokus pada pertanyaan dan rekomendasi kepada Pemerintah Kota Bogor untuk memperbaiki perencanaan belanja dan efisiensi, tanpa menunjukkan sentimen atau risiko spesifik."
     },
     {
       "title": "NeutraDC Gandeng PLN Siapkan Energi untuk Ekspansi Data Center 200 MW",
@@ -221,11 +221,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.5,
+      "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 75,
-      "risk_label": "Tinggi",
-      "reason": "Ollama: Isi berita menekankan manfaat ekspansi data center untuk pertumbuhan AI dan cloud computing, namun tidak mencakup alasan atau dampak negatif yang mungkin timbul dari proyek ini. Hasil ini tergolong netral dalam konteks berita yang fokus pada potensi manfaat."
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Ollama: Isi berita mengandung informasi factual dan tidak terkait dengan sentimen negatif atau positif, serta tidak menunjukkan tingkat risiko yang tinggi."
     },
     {
       "title": "Pegadaian Gandeng Kadin Perluas Ekosistem Emas",
@@ -237,13 +237,41 @@
       "fetched_ok": false,
       "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 90,
+      "risk_score": 85,
       "risk_label": "Tinggi",
-      "reason": "Ollama: Isi berita fokus pada kolaborasi yang dilakukan oleh dua perusahaan dalam industri emas, namun tidak menyebutkan respon atau perspektif negatif atau positif dari sisi pemerintah atau masyarakat yang berbeda."
+      "reason": "Ollama: Isi berita fokus pada potensi manfaat kolaborasi antara Pegadaian dan Kadin untuk ekosistem emas, tanpa ada komentar kritis atau positif negatif yang jelas."
     },
     {
       "title": "PT Pertamina Patra Niaga RU Cilacap Buka Tender Penggantian Column Assy 11C-1",
       "link": "https://bisnis.tempo.co/read/2117192/pt-pertamina-patra-niaga-ru-cilacap-buka-tender-penggantian-column-assy-11c-1",
+      "summary": "PT Pertamina Patra Niaga Refinery Unit (RU) IV Cilacap secara resmi mengumumkan pelaksanaan tender terbuka untuk pekerjaan bertajuk \"PENGGANTIAN COLUMN ASSY 11C-1 AREA FOC I PT. PERTAMINA PATRA NIAGA DI RU IV CILACAP\".",
+      "published": "",
+      "media": "Tempo Bisnis",
+      "content": "",
+      "fetched_ok": false,
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Ollama: Isi berita tidak mencakup informasi yang mendukung atau mereduk skor negatif positif"
+    },
+    {
+      "title": "BNI Perkuat Pengembangan SDM Melalui Sertifikasi dan Standar Internasional",
+      "link": "https://bisnis.tempo.co/read/2117401/bni-perkuat-pengembangan-sdm-melalui-sertifikasi-dan-standar-internasional",
+      "summary": "BNI memperkuat pengembangan sumber daya manusia melalui lisensi LSP BNI dan penerapan standar internasional di BNI Corporate University.",
+      "published": "",
+      "media": "Tempo Bisnis",
+      "content": "",
+      "fetched_ok": false,
+      "sentiment_score": 0.0,
+      "sentiment_label": "Netral",
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Ollama: Isi berita fokus pada perusahaan dan program yang positif, tanpa menunjukkan sentimen negatif."
+    },
+    {
+      "title": "PT Pertamina Patra Niaga RU Cilacap Buka Tender Penggantian Column Assy 11C-1",
+      "link": "https://bisnis.tempo.co/read/2117188/pt-pertamina-patra-niaga-ru-cilacap-buka-tender-penggantian-column-assy-11c-1",
       "summary": "PT Pertamina Patra Niaga Refinery Unit (RU) IV Cilacap secara resmi mengumumkan pelaksanaan tender terbuka untuk pekerjaan bertajuk \"PENGGANTIAN COLUMN ASSY 11C-1 AREA FOC I PT. PERTAMINA PATRA NIAGA DI RU IV CILACAP\".",
       "published": "",
       "media": "Tempo Bisnis",
@@ -256,34 +284,6 @@
       "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
     },
     {
-      "title": "BNI Perkuat Pengembangan SDM Melalui Sertifikasi dan Standar Internasional",
-      "link": "https://bisnis.tempo.co/read/2117401/bni-perkuat-pengembangan-sdm-melalui-sertifikasi-dan-standar-internasional",
-      "summary": "BNI memperkuat pengembangan sumber daya manusia melalui lisensi LSP BNI dan penerapan standar internasional di BNI Corporate University.",
-      "published": "",
-      "media": "Tempo Bisnis",
-      "content": "",
-      "fetched_ok": false,
-      "sentiment_score": 0.9,
-      "sentiment_label": "Positif",
-      "risk_score": 95,
-      "risk_label": "Tinggi",
-      "reason": "Ollama: BNI memperkuat sumber daya manusia melalui lisensi dan standar internasional, mengindikasikan upaya positif dalam pengembangan dan peningkatan kualitas pekerja."
-    },
-    {
-      "title": "PT Pertamina Patra Niaga RU Cilacap Buka Tender Penggantian Column Assy 11C-1",
-      "link": "https://bisnis.tempo.co/read/2117188/pt-pertamina-patra-niaga-ru-cilacap-buka-tender-penggantian-column-assy-11c-1",
-      "summary": "PT Pertamina Patra Niaga Refinery Unit (RU) IV Cilacap secara resmi mengumumkan pelaksanaan tender terbuka untuk pekerjaan bertajuk \"PENGGANTIAN COLUMN ASSY 11C-1 AREA FOC I PT. PERTAMINA PATRA NIAGA DI RU IV CILACAP\".",
-      "published": "",
-      "media": "Tempo Bisnis",
-      "content": "",
-      "fetched_ok": false,
-      "sentiment_score": 0.5,
-      "sentiment_label": "Netral",
-      "risk_score": 80,
-      "risk_label": "Tinggi",
-      "reason": "Ollama: Berita tentang tender untuk penggantian column pada unit pertambangan pertanian Pertamina Patra Niaga di Cilacap. Ini adalah acara profesi dan tidak memiliki tingkat emosi yang terkait dengan sumber daya alam atau kehidupan."
-    },
-    {
       "title": "Ketua Baznas Tekankan Peran PUSDAI Jawa Barat sebagai Penggerak Umat",
       "link": "https://bisnis.tempo.co/read/2117354/ketua-baznas-tekankan-peran-pusdai-jawa-barat-sebagai-penggerak-umat",
       "summary": "Ketua Badan Amil Zakat Nasional (Baznas) sekaligus Wakil Pimpinan Pusat Dakwah Islam (PUSDAI) Jawa Barat periode pertama, Sodik Mudjahid, mengatakan PUSDAI Jawa Barat harus terus menjadi motor penggerak gerakan umat. Hal itu dilakukan melalui pengoptimalan empat fungsi utama, yaitu sebagai fasilitator, koordinator, dinamisator, dan inovator gerakan umat.",
@@ -291,11 +291,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 50,
+      "risk_score": 40,
       "risk_label": "Sedang",
-      "reason": "Ollama: Isi berita adalah kritik tentang fungsionalitas PUSDAI Jawa Barat dalam gerakan umat, tanpa menciptakan kesan netral atau positif."
+      "reason": "Ollama: pengakuan positif oleh kepala Baznas dalam peran PUSDAI Jawa Barat sebagai motor penggerak gerakan umat, dengan menekankan empat fungsi utama."
     },
     {
       "title": "Iftitah Sulaiman Dorong Kampus Hadirkan Inovasi di Kawasan Transmigrasi",
@@ -307,9 +307,9 @@
       "fetched_ok": false,
       "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 45,
+      "risk_label": "Sedang",
+      "reason": "Ollama: Menerangkan upaya Menteri Transmigrasi dalam mendukung pengembangan kawasan transmigrasi melalui riset dan inovasi dalam perguruan tinggi."
     },
     {
       "title": "PT Pertamina Patra Niaga RU Cilacap Buka Tender Penggantian Column Assy 11C-1",
@@ -323,7 +323,7 @@
       "sentiment_label": "Netral",
       "risk_score": 50,
       "risk_label": "Sedang",
-      "reason": "Ollama: Berdasarkan informasi yang diberikan, pertemuan ini bukanlah berita positif atau negatif. Adapun, berita ini merupakan sebuah pelaksanaan tender yang menggantikan beberapa component pada PT Pertamina Patra Niaga Ru Cilacap. Karena itu, berita ini dikategorikan sebagai berita netral dan memiliki tingkat risiko sedang."
+      "reason": "Ollama: Berita ini mengandung informasi tentang tender untuk pekerjaan dalam industri, yang biasanya menghasilkan dorongan positif untuk pasar kerja dan pertumbuhan industri."
     },
     {
       "title": "KKP Selamatkan 1.286 Telur Penyu di Sambas",
@@ -333,11 +333,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.5,
+      "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 45,
+      "risk_score": 40,
       "risk_label": "Sedang",
-      "reason": "Ollama: berita merupakan berita positif tentang penyelamatan kawasan hutan yang berpotensi berdampak positif untuk keberlanjutan ekosistem hutan di Sambas."
+      "reason": "Ollama: Berita membahas kumpulan telur penyu yang ditangani oleh Kepolisian Kompleks Pemakaman (KKP) dan ditemukan di dua lokasi. Ini merupakan peristiwa alam yang menekankan pentingnya konservasi dan pengelolaan telur penyu, walaupun berita ini tidak menekankan kebahagiaan atau kekecewaan dalam konteks publik."
     },
     {
       "title": "PT Pertamina Patra Niaga RU Cilacap Buka Tender Penggantian Column Assy 11C-1",
@@ -349,9 +349,9 @@
       "fetched_ok": false,
       "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 20,
+      "risk_score": 25,
       "risk_label": "Rendah",
-      "reason": "Ollama: Dokumentasi dan informasi publik diumumkan secara resmi, namun tidak ada sinyal eksternal yang menunjukkan penekanan atau risiko tambahan."
+      "reason": "Ollama: Isi yang diberikan adalah informasi umum tentang usaha perusahaan pertambangan yang dilakukan untuk memperbarui kolom yang rusak di PT Pertamina Patra Niaga Refinery Unit (RU) IV Cilacap. Informasi ini tidak menunjukkan sentimen apapun dan tidak berisiko."
     },
     {
       "title": "Bank Mandiri Gandeng Paramount Dorong Pertumbuhan Properti Berkelanjutan",
@@ -363,9 +363,9 @@
       "fetched_ok": false,
       "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 85,
-      "risk_label": "Tinggi",
-      "reason": "Ollama: Dibandingkan dengan penekanan pada kerja sama bisnis, artikel ini lebih fokus pada manfaat eksternal yang diperoleh oleh Bank Mandiri dari hubungan ini. Hal ini menunjukkan permainan yang dihadapi oleh Bank Mandiri dan Paramount dalam bisnis properti berkelanjutan."
+      "risk_score": 15,
+      "risk_label": "Rendah",
+      "reason": "Ollama: The text is neutral and does not contain strong positive or negative sentiment. The risk score is low due to its neutral nature. However, the risk score is subjective and can vary based on the context and specific audience. In this case, it's likely the text doesn't raise any significant risks."
     },
     {
       "title": "Bea Cukai Gagalkan Penyelundupan 10 Kilogram Ganja dari Thailand di Bandara Ngurah Rai",
@@ -375,11 +375,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 75,
-      "risk_label": "Tinggi",
-      "reason": "Ollama: Gagal mendeteksi dan menghentikan transaksi ilegal melalui Bandara, mungkin berisiko terhadap keselamatan dan keamanan rute transitasi."
+      "risk_score": 50,
+      "risk_label": "Sedang",
+      "reason": "Ollama: Bea Cukai Gagal Menahan Penyelundupan 10 Kg Ganja Dari Thailand Melalui Bandara"
     },
     {
       "title": "Pemkab Bogor: Serah Terima PSU Sentul City Rampung, Tinggal Tunggu Sertifikat BPN",
@@ -391,9 +391,9 @@
       "fetched_ok": false,
       "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Ollama: Isi berita memberikan informasi umum tanpa tingkah laku atau analisis terhadap masalah atau kebijakan yang dijelaskan."
+      "risk_score": 90,
+      "risk_label": "Tinggi",
+      "reason": "Ollama: Informasi tentang progres serah terima PSU Sentul City yang masih dalam tahap sertifikasi dan klaster yang belum dapat dilakukan penyerahan."
     },
     {
       "title": "APMF 2026 Dorong Industri Bangun Kolaborasi Berkelanjutan",
@@ -405,9 +405,9 @@
       "fetched_ok": false,
       "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 50,
-      "risk_label": "Sedang",
-      "reason": "Ollama: Isi berita melibatkan topik konvergensi dan kolaborasi antar industri, yang seringkali dikenal dengan konsep 'industry convergence'. Ini mengarah pada potensi peningkatan kerjasama dan kemitraan yang lebih efektif dalam jangka panjang, yang umumnya dianggap sebagai hal netral."
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Ollama: Isi berita netral dan fokus pada konsepsi strategis, tanpa komentar atau analisis pribadi."
     },
     {
       "title": "Sektor Jasa Keuangan Stabil, Kredit Perbankan Melesat",
@@ -419,9 +419,9 @@
       "fetched_ok": false,
       "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Ollama: Isi berita tidak mencerminkan sentimen positif atau negatif dan tidak menunjukkan tingkat risiko."
+      "risk_score": 50,
+      "risk_label": "Sedang",
+      "reason": "Ollama: Isi berita mengandung fakta dan analisis statistik tentang stabilitas sektor jasa keuangan dan pertumbuhan ekonomi, tanpa menekankan pada aspek positif atau negatif yang bisa dianggap sensitif."
     },
     {
       "title": "Kebutuhan akan Layanan Pengelolaan Kekayaan Terus Berkembang, OCBC Perkuat Kapabilitas Wealth Management",
@@ -433,9 +433,9 @@
       "fetched_ok": false,
       "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 50,
+      "risk_label": "Sedang",
+      "reason": "Ollama: Kesempatan mengembangkan aset dan persiapan perlindungan terhadap risiko merupakan kebutuhan penting dalam era modern, menunjukkan perspektif netral dan sedang risiko."
     },
     {
       "title": "Efek Komisi Ojol, GoTo Ungkap Penyesuaian Bisnis Mobilitas",
@@ -445,11 +445,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
+      "risk_score": 30,
       "risk_label": "Rendah",
-      "reason": "Ollama: Alasan singkat dalam Bahasa Indonesia: Berita ini fokus pada penyesuaian bisnis GoTo yang positif dan tidak menyertakan unsur sumber daya, rekor, atau rencana tertutup yang bisa merujuk pada dampak negatif."
+      "reason": "Ollama: Alasan singkat dalam Bahasa Indonesia: Berita ini menampilkan informasi yang neutral mengenai perubahan dalam bisnis GoTo, tanpa mencemarkan komitmen baik kinerja maupun kesejahteraan mitra. Terdapat sedikit kecepatan dalam perubahan bisnis, yang menunjukkan pergerakan yang stabil."
     },
     {
       "title": "Mengapa Pertamina Menurunkan Harga BBM Nonsubsidi",
@@ -459,11 +459,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.5,
+      "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 75,
-      "risk_label": "Tinggi",
-      "reason": "Ollama: berita ini fokus pada penurunan harga BBM oleh Pertamina dan tidak mengandung sentimen negatif atau positif spesifik."
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Ollama: Tentang perubahan harga BBM Pertamina, tanpa sentimen negatif atau positif dan tingkat risiko rendah."
     },
     {
       "title": "Kata OJK soal Penerbitan Panda Bond dan Patriot Bond",
@@ -473,11 +473,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 85,
-      "risk_label": "Tinggi",
-      "reason": "Ollama: Berita mengandung informasi yang tidak resmi dan tidak jelas, dengan tidak ada pengecualian terhadap sumber yang diterima."
+      "risk_score": 50,
+      "risk_label": "Sedang",
+      "reason": "Ollama: Kata OJK merujuk pada dokumen penerbitan Panda Bond dan Patriot Bond oleh PT Danantara Investment Management (DIM) dan menyatakan bahwa Patriot Bond telah dilaporkan atau terdaftar di OJK. Ini berarti bahwa Patriot Bond memiliki lisensi dan izin dari OJK, yang merupakan keamanan tambahan bagi pemegang saham."
     },
     {
       "title": "IHSG Sepekan Menguat Tipis ke Level 6.236,1",
@@ -489,9 +489,9 @@
       "fetched_ok": false,
       "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 75,
+      "risk_score": 50,
       "risk_label": "Tinggi",
-      "reason": "Ollama: Pergerakan IHSG sepekan tipis, berada di atas level 6.236,1."
+      "reason": "Ollama: Isi berita kurang khas dan fokus pada pergerakan pasar, sehingga mudah dilihat sebagai berita netral tanpa reaksi yang kuat positif atau negatif."
     },
     {
       "title": "Hyundai Targetkan Prototipe Mobil Neira Capai TKDN 80 Persen",
@@ -503,9 +503,9 @@
       "fetched_ok": false,
       "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Ollama: Judul dan isi yang fokus pada data teknis dan kebijakan, dengan nada objektif."
+      "risk_score": 100,
+      "risk_label": "Tinggi",
+      "reason": "Ollama: Alasan: Informasi mengandung fakta dan tidak menampilkan sentimen positif atau negatif."
     },
     {
       "title": "Garuda Ungkap Perkembangan Merger dengan Pelita Air",
@@ -515,11 +515,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 70,
-      "risk_label": "Tinggi",
-      "reason": "Ollama: Perkembangan merga yang diamati oleh Garuda bisa menimbulkan risiko kepada kinerja operasional dan keuangan dari sisi negatif."
+      "risk_score": 50,
+      "risk_label": "Sedang",
+      "reason": "Ollama: berita fokus pada perkembangan merger antar perusahaan dan tidak mencakup aspek emosional atau risiko kesehatan"
     },
     {
       "title": "PLN Bakal Serap Listrik 40,79 MW dari PSEL Legok Nangka",
@@ -529,11 +529,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.5,
+      "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 20,
-      "risk_label": "Rendah",
-      "reason": "Ollama: Perjanjian antara PLN dan PSEL Legok Nangka yang berlangsung jangka waktu 20 tahun, dengan PLN berhak membeli listrik dari PSEL Legok Nangka."
+      "risk_score": 50,
+      "risk_label": "Sedang",
+      "reason": "Ollama: Perjanjian jual beli listrik dengan PLN, sementara ini tidak menunjukkan perubahan signifikan dalam kondisi ekonomi atau pertumbuhan perekonomian di Indonesia."
     },
     {
       "title": "Pembangunan Pipa Gas Dumai-Sei Mangkei Capai 32 Persen",
@@ -543,11 +543,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.5,
+      "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 45,
-      "risk_label": "Sedang",
-      "reason": "Ollama: Pembangunan Pipa Gas Dumai-Sei Mangkei selesai 32% dalam periode 2023, menunjukkan keterkaitan dengan proyek infrastruktur yang terus berlangsung. Proses ini menunjukkan keberlanjutan proyek tersebut dengan tingkat tinggi."
+      "risk_score": 80,
+      "risk_label": "Tinggi",
+      "reason": "Ollama: Alasan singkat dalam Bahasa Indonesia: Informasi berkaitan dengan pembangunan infrastruktur gas, yang memang konten netral dan tidak memiliki aspek positive atau negative khusus."
     },
     {
       "title": "Proyek PSEL di Jawa Barat Senilai Rp 7,2 T Mulai Dibangun",
@@ -557,11 +557,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
       "risk_score": 75,
       "risk_label": "Tinggi",
-      "reason": "Ollama: proyek yang besar dalam besaran dengan nilai investasi besar"
+      "reason": "Ollama: Isi berita fokus pada proyek teknis dan ekonomis, tidak mencakup aspek emosional yang cukup tinggi untuk label sentiment."
     },
     {
       "title": "Bandara Soekarno-Hatta Bersiap Pendaratan Airbus A380-800",
@@ -571,11 +571,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 45,
-      "risk_label": "Sedang",
-      "reason": "Ollama: Berita mengandung informasi tentang bandara dan penerbangan bukan berita politik."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "Ollama: berita tentang operasional pertama Airbus A380 di bandara, terdapat unsur positif dalam menyambut debut pesawat tersebut."
     },
     {
       "title": "Agung Podomoro Land Bukukan Pendapatan Rp 3,66 T",
@@ -585,11 +585,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.1,
       "sentiment_label": "Netral",
-      "risk_score": 50,
-      "risk_label": "Sedang",
-      "reason": "Ollama: Ditemukan peningkatan pendapatan yang signifikan dibandingkan periode sama tahun sebelumnya, menunjukkan pertumbuhan yang positif, namun tingkat pertumbuhan ini tidak segera diartikan sebagai peningkatan yang signifikan dalam keadaan finansial yang lebih besar. Jika ini dipengaruhi oleh pembelian tanpa keuntungan (PBU) atau aset yang masuk, maka pertumbuhan ini mungkin terkait dengan keuntungan yang tidak segera dapat diidentifikasi."
+      "risk_score": 25,
+      "risk_label": "Rendah",
+      "reason": "Ollama: Pendapatan meningkat 117 persen, tetapi informasi utama mengenai peningkatan tersebut tidak mencerminkan perkembangan atau trend yang jelas"
     },
     {
       "title": "MRT Jakarta Kembangkan Bisnis TOD, Pendanaan di Luar APBD",
@@ -599,11 +599,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.25,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 60,
+      "risk_label": "Sedang",
+      "reason": "Ollama: MRT Jakarta menggunakan skema pembiayaan yang tidak berada dalam anggaran APBD untuk mengembangkan bisnis kawasan TOD, yang dianggap sedang risiko karena potensi pengeluaran yang lebih besar dari dana yang dimiliki oleh APBD."
     },
     {
       "title": "APPBI Perpanjang Indonesia Shopping Festival 2026",
@@ -615,9 +615,9 @@
       "fetched_ok": false,
       "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 70,
-      "risk_label": "Tinggi",
-      "reason": "Ollama: Penyelenggaraan waktu dan lokasi tidak menentu, dengan penambahan hari yang tidak didukung secara khusus."
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Ollama: Penyelenggaraan ISF diperpanjang menjadi 17 hari, yang berlangsung pada 7-23 Agustus 2026, tidak memiliki alasan yang kuat untuk menunjukkan perasaan negatif atau positif."
     },
     {
       "title": "BPJS Kesehatan Percepat Implementasi Klaim Elektronik Terintegrasi SATUSEHAT",
@@ -627,11 +627,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.5,
-      "sentiment_label": "Netral",
-      "risk_score": 80,
-      "risk_label": "Tinggi",
-      "reason": "Ollama: rumah sakit mitra BPJS Kesehatan diberi waktu untuk mengubah protokol klaim dari dokumen PDF ke RME, mengharuskan mereka untuk memodifikasi sistem mereka, yang tampaknya memerlukan investasi ekonomi dan waktu."
+      "sentiment_score": 0.95,
+      "sentiment_label": "Positif",
+      "risk_score": 5,
+      "risk_label": "Rendah",
+      "reason": "Ollama: Program ini mempercepat implementasi klaim elektronik, yang merupakan kebijakan positif yang akan memudahkan layanan kesehatan dan meningkatkan efisiensi."
     },
     {
       "title": "Menperin: Penjualan Kendaraan Listrik Pesat",
@@ -641,11 +641,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.5,
-      "sentiment_label": "Netral",
-      "risk_score": 40,
-      "risk_label": "Sedang",
-      "reason": "Ollama: Isi berita menangkap tren positif dalam pasar kendaraan listrik yang dirangkai oleh data penjualan, tetapi juga mengkaitkan data tersebut dengan tingkat pertumbuhan yang tinggi, yang mungkin menunjukkan tingkat risiko yang sedang."
+      "sentiment_score": 0.9,
+      "sentiment_label": "Positif",
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "Ollama: Menperin Agus Guwimang menyebut penjualan mobil listrik naik 69,4 persen secara tahunan, yang menunjukkan peningkatan yang signifikan dalam pasar ini."
     },
     {
       "title": "Pegadaian Kantongi SK PKB 2026-2028, Perkuat Kepastian Hukum Ketenagakerjaan",
@@ -655,11 +655,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
       "risk_score": 50,
       "risk_label": "Sedang",
-      "reason": "Ollama: Isi berita adalah deskripsi seputar sebuah surat keputusan dan kesepakatan, yang merupakan berita konvensional dan tidak memiliki aspek yang positif atau negatif yang berarti tingkat risiko."
+      "reason": "Ollama: Isi berita fokus pada pembuatan surat keputusan perjanjian kerja bersama yang dilakukan oleh PT Pegadaian, tanpa menunjukkan sentimen negatif atau positif terhadap berita tersebut."
     },
     {
       "title": "Danamon Bukukan Laba Bersih Rp 2,4 Triliun pada Semester I",
@@ -669,11 +669,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.5,
+      "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 85,
-      "risk_label": "Tinggi",
-      "reason": "Ollama: Laba bersih besar menunjukkan kinerja positif, tetapi tingkat risiko tinggi berkaitan dengan dampak krisis global dan kestabilan ekonomi."
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Ollama: Isi berita fokus pada angka laba bersih dan tidak menunjukkan tingkat keberanian atau kecemasan."
     },
     {
       "title": "Rans Belum Tunjuk Pengganti Direktur yang Mundur",
@@ -683,9 +683,9 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
+      "risk_score": 10,
       "risk_label": "Rendah",
       "reason": "Ollama: Grandy Prajayakti mundur dari posisinya sebagai Direktur Rans Entertainment karena alasan pribadi."
     },
@@ -697,11 +697,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.8,
-      "sentiment_label": "Positif",
-      "risk_score": 70,
-      "risk_label": "Sedang",
-      "reason": "Ollama: Menteri Agus Gumiwang Kartasasmita menyatakan bahwa Indonesia sedang bertransisi sebagai salah satu basis produksi mobil di dunia, mengindikasikan optimisme terhadap industri otomotif."
+      "sentiment_score": 0.0,
+      "sentiment_label": "Netral",
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Ollama: Isi berita fokus pada perspektif resmi (Menteri Agus Gumiwang Kartasasmita) dan tidak menekankan aspek yang berpotensi negatif atau positif dalam konteks berita."
     }
   ],
   "ok_count": 0
