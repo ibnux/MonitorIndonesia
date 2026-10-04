@@ -373,13 +373,13 @@
       "summary": "PT Pertamina Patra Niaga Refinery Unit (RU) IV Cilacap secara resmi mengumumkan pelaksanaan tender terbuka untuk pekerjaan bertajuk \"PENGGANTIAN COLUMN ASSY 11C-1 AREA FOC I PT. PERTAMINA PATRA NIAGA DI RU IV CILACAP\".",
       "published": "",
       "media": "Tempo Bisnis",
-      "content": "",
-      "fetched_ok": false,
+      "content": "INFO TEMPO - PT Pertamina Patra Niaga Refinery Unit (RU) IV Cilacap secara resmi mengumumkan pelaksanaan tender terbuka untuk pekerjaan bertajuk “PENGGANTIAN COLUMN ASSY 11C-1 AREA FOC I PT. PERTAMINA PATRA NIAGA DI RU IV CILACAP”. Tender ini merupakan bagian dari upaya perusahaan dalam menjaga keandalan operasional serta memastikan keberlangsungan proses produksi di area Fuel Oil Complex (FOC) I. Tender ini dibuka hingga 24 Agustus 2026 pukul 23.59.\n\nMelalui mekanisme tender terbuka, Pertamina Patra Niaga memberikan kesempatan yang sama kepada perusahaan-perusahaan yang memenuhi persyaratan untuk berpartisipasi dalam proses pengadaan tersebut. Proses ini dilaksanakan secara transparan dan akuntabel sesuai dengan ketentuan dan tata kelola perusahaan.\n\nBagi penyedia barang dan jasa yang berminat mengikuti tender, pendaftaran dapat dilakukan secara daring melalui situs web resmi di https://ptm.id/daftarGEPSMART . Peserta diwajibkan melakukan registrasi sesuai dengan prosedur yang telah ditetapkan dalam sistem.\n\nInformasi lebih lengkap mengenai ruang lingkup pekerjaan, persyaratan administrasi, serta ketentuan teknis dapat diperoleh dengan mengunduh dokumen tender melalui tautan yang telah disediakan di sini . Pertamina Patra Niaga RU IV Cilacap mengimbau seluruh calon peserta mempelajari dokumen secara saksama sebelum mengajukan penawaran.\n\nSelain dokumen persyaratan tender, tautan tersebut telah menyertakan sejumlah lampiran yang wajib diisi oleh peserta tender dan menjadi persyaratan untuk mengikuti tender. (*)",
+      "fetched_ok": true,
       "sentiment_score": 0.5,
       "sentiment_label": "Netral",
       "risk_score": 85,
       "risk_label": "Tinggi",
-      "reason": "AI: Berita ini mengandung informasi tentang tender yang dilakukan oleh PT Pertamina Patra Niaga, yang merupakan perusahaan pertambangan dan pertanian. Informasi ini tidak menunjukkan sentimen positif atau negatif terhadap perusahaan atau industri tersebut."
+      "reason": "AI: Informasi tentang tender dan prosesnya adalah deskripsi umum dan tidak menunjukkan tingkat kepentingan atau risiko yang spesifik."
     },
     {
       "title": "Bank Mandiri Gandeng Paramount Dorong Pertumbuhan Properti Berkelanjutan",
@@ -415,13 +415,13 @@
       "summary": "Eko mengatakan ada klaster-klaster tertentu yang bahkan sudah lebih dulu menjalani proses penyerahan pengelolaan, terlepas dari status sertifikasi yang masih berjalan secara keseluruhan.",
       "published": "",
       "media": "Tempo Bisnis",
-      "content": "",
-      "fetched_ok": false,
+      "content": "INFO BISNIS - Proses peralihan status Prasarana, Sarana, dan Utilitas Umum (PSU) di kawasan Sentul City dari pengembang ke pemerintah daerah dipastikan telah selesai secara administratif. Kepastian ini disampaikan langsung oleh Dinas Perumahan dan Kawasan Permukiman (DPKP) Kabupaten Bogor.\n\nKepala DPKP Kabupaten Bogor, Eko Mujiarto, menegaskan bahwa penyerahan PSU Sentul City telah dilakukan sesuai mekanisme dan aturan yang berlaku. \"Iya sudah, jadi sekarang semua PSU Sentul secara administrasi sudah diserahkan ke Pemda,\" katanya pada Selasa, 4 Agustus 2026.\n\nDengan pernyataan tersebut, praktis tidak ada lagi PSU di Sentul City yang berstatus milik pengembang. Seluruhnya kini tercatat sebagai bagian dari aset yang dikelola pemerintah daerah.\n\nKendati status administratif sudah kelar, Eko mengingatkan bahwa ada satu proses lagi yang belum tuntas, yaitu sertifikasi lahan. Proses ini tengah dikerjakan oleh ATR/BPN Kabupaten Bogor untuk menerbitkan sertifikat resmi atas nama pemerintah daerah. \"Sudah diserahkan ke Pemda. Nah, saat ini PSU-PSU tersebut lahannya sedang proses sertifikasi-sertifikasi di BPN atas nama Pemda,\" ungkapnya.\n\nTidak semua kawasan di Sentul City mengikuti alur yang sama. Eko menyebut ada klaster-klaster tertentu yang bahkan sudah lebih dulu menjalani proses penyerahan pengelolaan, terlepas dari status sertifikasi yang masih berjalan secara keseluruhan.\n\"Selain itu sebagian klaster yang ada di Sentul itu sudah ada juga penyerahan pengelolaan,\" tuturnya.\n\nSebagai tindak lanjut, Pemkab Bogor kini fokus menyusun aturan pengelolaan agar PSU yang telah diserahkan dapat dirasakan manfaatnya secara nyata oleh masyarakat sekitar. \"Nah, sekarang Pemda lagi ngatur-ngatur berkaitan dengan pengelolaan sarana prasarana itu sendiri,\" ucap Eko. (*)",
+      "fetched_ok": true,
       "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 85,
-      "risk_label": "Tinggi",
-      "reason": "AI: Isi berita fokus pada proses serah terima dan tidak menekankan dampak negatif atau positif terhadap masyarakat atau infrastruktur."
+      "risk_score": 50,
+      "risk_label": "Sedang",
+      "reason": "AI: Informasi tentang proses penyerahan PSU di Sentul City telah selesai secara administratif, tetapi masih ada proses sertifikasi lahan yang belum selesai, yang berpotensi mengganggu penggunaan PSU oleh masyarakat."
     },
     {
       "title": "APMF 2026 Dorong Industri Bangun Kolaborasi Berkelanjutan",
@@ -704,5 +704,5 @@
       "reason": "AI: PT Bank Danamon Indonesia Tbk. mencapai laba bersih yang besar pada periode konsolidasian, yang menunjukkan keberhasilan dalam operasional dan manajemen bisnis."
     }
   ],
-  "ok_count": 0
+  "ok_count": 2
 }
