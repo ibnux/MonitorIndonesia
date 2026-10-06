@@ -4,37 +4,9 @@
   "ok": true,
   "items": [
     {
-      "title": "BMKG Peringatkan Adanya Gelombang Tinggi dan Banjir Rob, Waspada Wilayah Ini",
-      "link": "https://kabar24.bisnis.com/read/20261006/15/2010132/bmkg-peringatkan-adanya-gelombang-tinggi-dan-banjir-rob-waspada-wilayah-ini",
-      "summary": "<img src=\"https://images.bisnis.com/posts/2026/10/06/2010132/banjir_jakarta_hari_ini_1769129557.jpg\"/>\n                        BMKG peringatkan gelombang tinggi hingga 4 meter dan banjir rob di pesisir Sumatera, Jawa, dan Kalimantan pada 6 Oktober 2026. Waspadai cuaca ekstrem!",
-      "published": "",
-      "media": "Bisnis",
-      "content": "",
-      "fetched_ok": false,
-      "sentiment_score": 0.5,
-      "sentiment_label": "Netral",
-      "risk_score": 85,
-      "risk_label": "Tinggi",
-      "reason": "AI: Gelombang tinggi dan banjir rob di beberapa wilayah Indonesia diprediksi pada 6 Oktober 2026, dengan cuaca ekstrem yang perlu diperhatikan."
-    },
-    {
-      "title": "MRT Ungkap Progres Fase 2A Bundaran HI-Kota Capai 63,04% September 2026",
-      "link": "https://ekonomi.bisnis.com/read/20261006/98/2010119/mrt-ungkap-progres-fase-2a-bundaran-hi-kota-capai-6304-september-2026",
-      "summary": "<img src=\"https://images.bisnis.com/posts/2026/10/06/2010119/stasiun_mrt_monas_1784723658.jpg\"/>\n                        Proyek MRT Jakarta fase 2A Bundaran HI-Kota mencapai 65,10% per September 2026, ditargetkan selesai 2029. Pembangunan mengusung konsep TOD untuk integrasi transportasi.",
-      "published": "",
-      "media": "Bisnis",
-      "content": "",
-      "fetched_ok": false,
-      "sentiment_score": 0.5,
-      "sentiment_label": "Netral",
-      "risk_score": 85,
-      "risk_label": "Tinggi",
-      "reason": "AI: Progres proyek MRT Jakarta pada fase 2A Bundaran HI-Kota mencapai 65,10% pada September 2026, dengan target selesai 2029. Konsep TOD (Transportasi Otonom Dengan Integrasi) digunakan untuk integrasi transportasi."
-    },
-    {
-      "title": "Data Center KEK Digital Bintan Sold Out, Airlangga Ungkap Rencana Ekspansi",
-      "link": "https://teknologi.bisnis.com/read/20261006/101/2010104/data-center-kek-digital-bintan-sold-out-airlangga-ungkap-rencana-ekspansi",
-      "summary": "<img src=\"https://images.bisnis.com/posts/2026/10/06/2010104/airlangga_bisnis_2_1791261408.jpg\"/>\n                        Kapasitas data center di KEK Digital Bintan disebut Airlangga Hartarto telah terserap seluruhnya, sehingga pengembangan pusat data akan diperluas.",
+      "title": "BPK Soroti Ketidakjelasan Status Kelembagaan SKK Migas",
+      "link": "https://ekonomi.bisnis.com/read/20261006/44/2010246/bpk-soroti-ketidakjelasan-status-kelembagaan-skk-migas",
+      "summary": "<img src=\"https://images.bisnis.com/posts/2026/10/06/2010246/minyak_bumi_1750134926.jpg\"/>\n                        BPK menyoroti ketidakjelasan status kelembagaan SKK Migas yang dinilai dapat menghambat tata kelola dan investasi hulu migas.",
       "published": "",
       "media": "Bisnis",
       "content": "",
@@ -43,26 +15,96 @@
       "sentiment_label": "Netral",
       "risk_score": 50,
       "risk_label": "Sedang",
-      "reason": "AI: Data center KEK Digital Bintan telah terserap seluruhnya, mengindikasikan penyelesaian masalah dan tidak ada masalah yang berbahaya."
+      "reason": "AI: Isi berita fokus pada isu kelembagaan SKK Migas yang dinilai penting untuk tata kelola hulu migas, namun tidak mencakup aspek yang mendalam atau mendukung atau menyinggung pihak tertentu."
     },
     {
-      "title": "Nilai Tukar Rupiah Terhadap Dolar AS Hari Ini Selasa 6 Oktober 2026",
-      "link": "https://market.bisnis.com/read/20261006/93/2010004/nilai-tukar-rupiah-terhadap-dolar-as-hari-ini-selasa-6-oktober-2026",
-      "summary": "<img src=\"https://images.bisnis.com/posts/2026/10/06/2010004/05052026-BI-HIL-21-DOLAR-02_1777976115.jpg\"/>\n                        Rupiah diperkirakan bergerak dalam tekanan terhadap dolar AS pada Selasa, 6 Oktober 2026, dengan proyeksi di Rp17.850 hingga Rp18.000 per dolar AS.",
+      "title": "Pupuk Indonesia Kembangkan Hilirisasi Gas Jadi Metanol, Nilai Tambah 2,98 Kali",
+      "link": "https://ekonomi.bisnis.com/read/20261006/257/2010255/pupuk-indonesia-kembangkan-hilirisasi-gas-jadi-metanol-nilai-tambah-298-kali",
+      "summary": "<img src=\"https://images.bisnis.com/posts/2026/10/06/2010255/06102026-bi-arf-22-big_downstream_sesi_kedua-1_1_1791275871.jpg\"/>\n                        Pupuk Indonesia kembangkan hilirisasi gas bumi ke metanol, tingkatkan nilai tambah hingga 2,98 kali.",
       "published": "",
       "media": "Bisnis",
       "content": "",
       "fetched_ok": false,
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Berita mengandung informasi teknis dan ekonomi yang positif, namun tidak ada alasan yang jelas untuk tingkat tinggi risiko."
+    },
+    {
+      "title": "HIPMI Sambut Positif UU Ketenagakerjaan Baru, Tekankan Keseimbangan Hubungan Industrial",
+      "link": "https://ekonomi.bisnis.com/read/20261006/12/2010238/hipmi-sambut-positif-uu-ketenagakerjaan-baru-tekankan-keseimbangan-hubungan-industrial",
+      "summary": "<img src=\"https://images.bisnis.com/posts/2026/10/06/2010238/06102026-BI-BIO-24-PARIPURNA_DPR_UU_KETENAGAKERJAAN__9_1791281308.jpg\"/>\n                        HIPMI sambut pengesahan UU Pelindungan Ketenagakerjaan dan menilai aturan baru perlu menjaga keseimbangan perlindungan pekerja serta keberlanjutan dunia usaha.",
+      "published": "",
+      "media": "Bisnis",
+      "content": "",
+      "fetched_ok": false,
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 50,
+      "risk_label": "Sedang",
+      "reason": "AI: The text is neutral and does not express strong positive or negative sentiments. It discusses the positive outlook of HIPMI on the new labor protection law and the need for balancing labor protection and business sustainability."
+    },
+    {
+      "title": "KPK akan Periksa Menteri ATR/BPN Nusron Wahid Pekan Ini",
+      "link": "https://kabar24.bisnis.com/read/20261006/16/2010228/kpk-akan-periksa-menteri-atrbpn-nusron-wahid-pekan-ini",
+      "summary": "<img src=\"https://images.bisnis.com/posts/2026/10/06/2010228/jubir_kpk_1769409865.jpg\"/>\n                        KPK akan memeriksa Menteri ATR/BPN Nusron Wahid terkait dugaan aliran dana korupsi Rp106,3 miliar pekan ini, menyusul penyelidikan kasus suap tanah.",
+      "published": "",
+      "media": "Bisnis",
+      "content": "",
+      "fetched_ok": false,
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: KPK akan memeriksa Menteri ATR/BPN Nusron Wahid, yang merupakan isu yang serius dan berpotensi mengakibatkan masalah keuangan publik."
+    },
+    {
+      "title": "Andi Gani Klaim UU Ketenagakerjaaan Serap 90% Aspirasi Buruh",
+      "link": "https://ekonomi.bisnis.com/read/20261006/12/2010262/andi-gani-klaim-uu-ketenagakerjaaan-serap-90-aspirasi-buruh",
+      "summary": "<img src=\"https://images.bisnis.com/posts/2026/10/06/2010262/dasco_buruh_1791266440.jpg\"/>\n                        RUU Pelindungan Ketenagakerjaan disahkan DPR, klaim akomodasi 90% aspirasi buruh, termasuk jaminan pesangon, aturan outsourcing, dan ketentuan kontrak kerja.",
+      "published": "",
+      "media": "Bisnis",
+      "content": "",
+      "fetched_ok": false,
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Isi berita tidak menunjukkan sentimen positif atau negatif, tetapi fokus pada pelaksanaan RUU Pelindungan Ketenagakerjaan yang disahkan oleh DPR."
+    },
+    {
+      "title": "Syahganda Ungkap Strategi Bakom Jadi Orkestrator Komunikasi Pemerintah",
+      "link": "https://kabar24.bisnis.com/read/20261006/15/2010280/syahganda-ungkap-strategi-bakom-jadi-orkestrator-komunikasi-pemerintah",
+      "summary": "<img src=\"https://images.bisnis.com/posts/2026/10/06/2010280/syahganda_1_1791282220.jpg\"/>\n                        Syahganda Nainggolan, Kepala Bakom, ditugaskan Presiden Prabowo untuk memperkuat Bakom sebagai saluran komunikasi dua arah, mendengar suara rakyat dan menjadi orkestrator komunikasi pemerintah.",
+      "published": "",
+      "media": "Bisnis",
+      "content": "",
+      "fetched_ok": false,
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 50,
+      "risk_label": "Sedang",
+      "reason": "AI: Syahganda Nainggolan, Kepala Bakom, ditugaskan Presiden Prabowo untuk memperkuat Bakom sebagai saluran komunikasi dua arah, mendengar suara rakyat dan menjadi orkestrator komunikasi pemerintah."
+    },
+    {
+      "title": "Danantara Guyur Modal US$250 Juta ke Produsen Migas di Texas AS",
+      "link": "https://market.bisnis.com/read/20261006/192/2010284/danantara-guyur-modal-us250-juta-ke-produsen-migas-di-texas-as",
+      "summary": "<img src=\"https://images.bisnis.com/posts/2026/10/06/2010284/06082026-BI-DUL-23-DANANTARA-3_1786007970.jpg\"/>\n                        Danantara Indonesia investasi US$250 juta ke HighPeak Energy di Texas, memperkuat portofolio energi dan mendukung pengembangan sektor energi Indonesia.",
+      "published": "",
+      "media": "Bisnis",
+      "content": "Bisnis.com , JAKARTA — Danantara Indonesia memperluas portofolio investasi energi ke Amerika Serikat dengan menggelontorkan US$250 juta ke HighPeak Energy, Inc., perusahaan produsen minyak dan gas bumi yang beroperasi di Permian Basin, Texas.\n\nBerdasarkan siaran pers, Selasa (6/10/2026), investasi melalui PT Danantara Investment Management (DIM) tersebut dilakukan melalui penerbitan saham preferen konvertibel ( convertible preferred stocks ) dalam beberapa tahap. Transaksi ini memberikan DIM eksposur terhadap aset yang didominasi minyak di salah satu wilayah penghasil minyak terbesar di AS.\n\nCEO Danantara Investment Management, Pandu Sjahrir mengatakan investasi tersebut sejalan dengan mandat DIM untuk berinvestasi pada sektor strategis yang memberikan imbal hasil jangka panjang sekaligus mendukung kepentingan nasional Indonesia.\n\n“Investasi ini sejalan dengan mandat kami untuk berinvestasi di sektor strategis yang memberikan imbal hasil berkelanjutan dalam jangka panjang sekaligus mendukung kepentingan nasional Indonesia. Posisi strategis HighPeak di salah satu pasar hulu minyak dan gas bumi paling maju di dunia menjadikannya peluang investasi yang potensial seiring dengan upaya kami membangun platform investasi yang terdiversifikasi secara global,” katanya.\n\nAdapun, HighPeak akan menggunakan dana investasi tersebut untuk memperkuat struktur permodalan dan fleksibilitas keuangan perusahaan. Dana tersebut juga akan mendukung pengembangan serta pertumbuhan portofolio aset HighPeak di Permian Basin.\n\nInvestasi ini, lanjutnya, menjadi bagian dari mandat DIM untuk menempatkan dana pada sektor-sektor strategis yang dinilai dapat memberikan imbal hasil berkelanjutan dalam jangka panjang. Pada saat yang sama, investasi tersebut membuka akses Indonesia terhadap pengalaman pengembangan lapangan migas di AS.\n\nPandu menambahkan kerja sama tersebut juga diharapkan membuka ruang transfer pengetahuan yang dapat mendukung pengembangan sektor energi Indonesia. Selain memperoleh eksposur terhadap aset migas HighPeak, investasi tersebut akan diikuti dengan program pengembangan kapabilitas tenaga kerja Indonesia.\n\nSetelah transaksi diselesaikan, HighPeak akan mengembangkan program pelatihan dan penugasan kerja atau secondment bagi tenaga kerja Indonesia. Program tersebut ditujukan untuk mendukung pertukaran keahlian teknis antara kedua negara.\n\n“Kami berharap kerja sama ini dapat memfasilitasi transfer pengetahuan yang mendukung pengembangan sektor energi Indonesia, sekaligus memperkuat hubungan energi dan ekonomi yang telah lama terjalin antara Indonesia dan Amerika Serikat,” ujarnya.\n\nPermian Basin menyumbang sekitar 48% dari total produksi minyak mentah AS sepanjang 2025. Pertumbuhan produksi di kawasan tersebut sejak 2007 terutama didorong oleh penerapan pengeboran horizontal dan rekahan hidrolik atau hydraulic fracturing.\n\nTeknologi tersebut dinilai memiliki relevansi bagi pengembangan lapangan migas darat di Indonesia yang telah memasuki fase matang. Dengan kondisi reservoir yang mendukung, teknik serupa dapat digunakan untuk meningkatkan produktivitas sumur dan perolehan minyak dan gas bumi.\n\nDari sisi struktur investasi, DIM juga memperoleh perlindungan terhadap penurunan nilai investasi. DIM memiliki peluang untuk mendapatkan manfaat dari kenaikan nilai ekuitas HighPeak pada masa mendatang melalui konversi saham preferen menjadi saham biasa.\n\nDIM juga memiliki opsi untuk berpartisipasi dalam penawaran saham HighPeak berikutnya melalui private placement. Selain itu, DIM akan menempatkan satu perwakilan pada jajaran direksi HighPeak.\n\nPresiden dan CEO HighPeak Michael Hollis mengatakan kemitraan dengan DIM akan mendukung percepatan pengembangan aset perusahaan di Permian Basin.\n\n“HighPeak mengoperasikan portofolio aset berskala besar yang didominasi minyak di Permian Basin. Kami percaya kerja sama dengan DIM akan mengakselerasi pengembangan aset tersebut melalui investasi berkelanjutan, termasuk perluasan program pengeboran,” ujarnya.\n\nMenurutnya, kerja sama tersebut mempertemukan investor jangka panjang dengan komitmen yang sama terhadap pertumbuhan dan penciptaan nilai berkelanjutan.\n\nInvestasi DIM tersebut sekaligus memperluas jejak investasi energi Indonesia di luar negeri. Posisi HighPeak di Permian Basin memberikan DIM akses terhadap portofolio aset minyak dan gas di kawasan yang menjadi salah satu pusat produksi energi utama AS.",
+      "fetched_ok": true,
       "sentiment_score": 0.0,
       "sentiment_label": "Netral",
       "risk_score": 50,
       "risk_label": "Sedang",
-      "reason": "AI: Isi berita tidak menunjukkan sentimen positif atau negatif dan tidak menyebabkan risiko ekonomi atau finansial."
+      "reason": "AI: Investasi dilakukan dengan modal besar dan dilakukan melalui saham preferen, yang menunjukkan keinginan untuk mendapatkan keuntungan jangka panjang dan memperkuat eksposur terhadap aset energi di Amerika Serikat."
     },
     {
-      "title": "Menko Airlangga: AI Kerek Produk Nikel 182 Ton per Tahun, Tingkatkan Kepatuhan",
-      "link": "https://teknologi.bisnis.com/read/20261006/84/2010110/menko-airlangga-ai-kerek-produk-nikel-182-ton-per-tahun-tingkatkan-kepatuhan",
-      "summary": "<img src=\"https://images.bisnis.com/posts/2026/10/06/2010110/menko_airlangga_-_big_downstream_insight_2026-10-06_bisniscom_1791258046.jpg\"/>\n                        AI tingkatkan produksi nikel 182 ton/tahun di Indonesia, tingkatkan kepatuhan operasional dari 89% ke 95%, kata Menko Airlangga.",
+      "title": "Tangkap Peluang Pariwisata, DOKU Gandeng Entitas Garuda (GIAA)",
+      "link": "https://market.bisnis.com/read/20261006/192/2010279/tangkap-peluang-pariwisata-doku-gandeng-entitas-garuda-giaa",
+      "summary": "<img src=\"https://images.bisnis.com/posts/2026/10/06/2010279/doku_1791281538.jpg\"/>\n                        DOKU dan Sabre Indonesia, anak usaha Garuda, berkolaborasi mengintegrasikan sistem pembayaran untuk mendukung pertumbuhan pariwisata dengan layanan yang lebih fleksibel.",
       "published": "",
       "media": "Bisnis",
       "content": "",
@@ -71,12 +113,12 @@
       "sentiment_label": "Netral",
       "risk_score": 85,
       "risk_label": "Tinggi",
-      "reason": "AI: Berita mengandung informasi positif tentang peningkatan produksi nikel dan meningkatkan kepatuhan operasional, namun juga menekankan tingkat kepatuhan yang masih rendah."
+      "reason": "AI: Kolaborasi antara dua perusahaan dalam industri pariwisata dapat membuka peluang baru dalam pengembangan sistem pembayaran yang fleksibel, namun juga menimbulkan risiko dalam integrasi sistem yang mungkin mengakibatkan masalah teknis atau komunikasi yang tidak lancar."
     },
     {
-      "title": "MRT Optimistis Rute Bundaran HI-Kota Beroperasi Akhir 2029, Begini Progresnya",
-      "link": "https://ekonomi.bisnis.com/read/20261006/98/2010118/mrt-optimistis-rute-bundaran-hi-kota-beroperasi-akhir-2029-begini-progresnya",
-      "summary": "<img src=\"https://images.bisnis.com/posts/2026/10/06/2010118/16052026-BI-ARF-22-MRT-5_1779074389.jpg\"/>\n                        MRT Jakarta optimistis fase 2A Bundaran HI-Kota beroperasi akhir 2029. Proyek ini menghubungkan tujuh stasiun bawah tanah sepanjang 5,8 km.",
+      "title": "Pengusaha Kapal Sebut Uji Coba Zero ODOL Kerek Pendatapan 9%",
+      "link": "https://ekonomi.bisnis.com/read/20261006/98/2010140/pengusaha-kapal-sebut-uji-coba-zero-odol-kerek-pendatapan-9",
+      "summary": "<img src=\"https://images.bisnis.com/posts/2026/10/06/2010140/kapal_feri_asdp_1716383581.jpeg\"/>\n                        Penertiban ODOL di jalur penyeberangan disebut turut meningkatkan pendapatan operator kapal hingga 9%.",
       "published": "",
       "media": "Bisnis",
       "content": "",
@@ -85,26 +127,12 @@
       "sentiment_label": "Netral",
       "risk_score": 50,
       "risk_label": "Sedang",
-      "reason": "AI: Berita mengandung informasi positif tentang progres projek MRT, namun tidak mencakup detail atau evaluasi terkait risiko atau dampak potensial."
+      "reason": "AI: Penggunaan ODOL dijalur penyeberangan meningkatkan pendapatan operator kapal, yang merupakan isu positif yang dianggap penting oleh sebagian besar penggunaan ODOL."
     },
     {
-      "title": "Perbedaaan Bansos BSU dan PKH/BPNT: Nominal Diterima dan Status Programnya pada 2026",
-      "link": "https://kabar24.bisnis.com/read/20261006/243/2010122/perbedaaan-bansos-bsu-dan-pkhbpnt-nominal-diterima-dan-status-programnya-pada-2026",
-      "summary": "<img src=\"https://images.bisnis.com/posts/2026/10/06/2010122/jibi_21052024-bi-arf-22-bantuan-beras-6_20240521043210493_1777896737.jpg\"/>\n                        BSU 2026 untuk pekerja, Rp900.000 sekali bayar. PKH/BPNT bantu keluarga miskin, nominal bervariasi. Cek status di situs resmi Kemnaker dan Kemensos.",
-      "published": "",
-      "media": "Bisnis",
-      "content": "",
-      "fetched_ok": false,
-      "sentiment_score": 0.5,
-      "sentiment_label": "Netral",
-      "risk_score": 50,
-      "risk_label": "Sedang",
-      "reason": "AI: Informasi tentang perbedaan bantuan sosial yang tersedia untuk pekerja dan keluarga miskin pada tahun 2026, dengan informasi yang tersedia dalam berita dan situs resmi Kemnaker dan Kemensos."
-    },
-    {
-      "title": "Investasi Hilirisasi RI Makin Diminati, 3 Sektor Ini Jadi Incaran",
-      "link": "https://ekonomi.bisnis.com/read/20261006/44/2010105/investasi-hilirisasi-ri-makin-diminati-3-sektor-ini-jadi-incaran",
-      "summary": "<img src=\"https://images.bisnis.com/posts/2026/10/06/2010105/plts_gilimanuk_1787635531.jpg\"/>\n                        Sektor industri hilirisasi menyumbang sekitar sepertiga dari keseluruhan realisasi investasi Indonesia. Berikut tiga sektor utama yang menjadi tujuan utama para investor ke Indonesia",
+      "title": "Qodari Ungkap Empat Fondasi Bakom Selama 5 Bulan Kepemimpinannya",
+      "link": "https://kabar24.bisnis.com/read/20261006/15/2010270/qodari-ungkap-empat-fondasi-bakom-selama-5-bulan-kepemimpinannya",
+      "summary": "<img src=\"https://images.bisnis.com/posts/2026/10/06/2010270/img_9279_1791280516.jpg\"/>\n                        Muhammad Qodari menyerahkan kepemimpinan Bakom kepada Syahganda Nainggolan setelah lima bulan membangun empat fondasi utama komunikasi pemerintah.",
       "published": "",
       "media": "Bisnis",
       "content": "",
@@ -113,12 +141,12 @@
       "sentiment_label": "Netral",
       "risk_score": 85,
       "risk_label": "Tinggi",
-      "reason": "AI: Investasi hilirisasi di Indonesia semakin diminati karena tiga sektor utama yang menjadi incaran investor, termasuk industri hilirisasi yang menyumbang sekitar sepertiga dari keseluruhan realisasi investasi Indonesia."
+      "reason": "AI: Berita fokus pada penyerahan kepemimpinan oleh Qodari kepada Syahganda Nainggolan, yang merupakan isu penting dalam konteks politik dan pemerintahan. Hasil penelitian menunjukkan bahwa penyerahan kepemimpinan adalah isu yang memiliki tingkat risiko tinggi karena dapat mempengaruhi hubungan pemerintah dengan masyarakat dan dapat memicu perdebatan politik."
     },
     {
-      "title": "Perbedaan Bansos PKH, BPNT dan PBI JKN: Penerima, Nominal &amp; Penyalurannya",
-      "link": "https://kabar24.bisnis.com/read/20261006/243/2010099/perbedaan-bansos-pkh-bpnt-dan-pbi-jkn-penerima-nominal-penyalurannya",
-      "summary": "<img src=\"https://images.bisnis.com/posts/2026/10/06/2010099/19062023-bi-dul-23-bpjs_kesehatan-5_1770715546.jpg\"/>\n                        Bansos PKH, BPNT, dan PBI JKN disalurkan untuk keluarga miskin dengan syarat dan mekanisme berbeda. Berikut perbedaannya.",
+      "title": "Flip Error 4 Hari, Pengguna Waswas dan Minta Refund",
+      "link": "https://teknologi.bisnis.com/read/20261006/84/2010269/flip-error-4-hari-pengguna-waswas-dan-minta-refund",
+      "summary": "<img src=\"https://images.bisnis.com/posts/2026/10/06/2010269/logo_flip_1704900414.jpg\"/>\n                        Flip mengalami gangguan layanan sejak awal Oktober 2026, menyebabkan pengguna waswas dan menuntut refund. Flip menjamin dana aman, namun belum menjelaskan penyebab gangguan.",
       "published": "",
       "media": "Bisnis",
       "content": "",
@@ -127,12 +155,26 @@
       "sentiment_label": "Netral",
       "risk_score": 85,
       "risk_label": "Tinggi",
-      "reason": "AI: Perbedaan dalam syarat dan mekanisme penyaluran bansos PKH, BPNT, dan PBI JKN dapat mempengaruhi penerimaan dan efektivitas program ini."
+      "reason": "AI: Flip mengalami gangguan layanan yang disebabkan oleh masalah teknis, yang belum dikeluhkan oleh perusahaan, menimbulkan kekhawatiran dan keinginan dari pengguna untuk mendapatkan refund."
     },
     {
-      "title": "PTPP Raih Kontrak Baru Rp9,3 Triliun hingga Agustus 2026",
-      "link": "https://ekonomi.bisnis.com/read/20261006/45/2010121/ptpp-raih-kontrak-baru-rp93-triliun-hingga-agustus-2026",
-      "summary": "<img src=\"https://images.bisnis.com/posts/2026/10/06/2010121/whatsapp_image_2026-10-06_at_11.01.04_1791260479.jpg\"/>\n                        PT PP (Persero) Tbk raih kontrak baru Rp9,3 triliun hingga Agustus 2026, fokus pada proyek pemerintah dan infrastruktur, mendukung strategi Back to Core",
+      "title": "Perjalanan Ferry Dermawan Besarkan Joyland Festival",
+      "link": "https://entrepreneur.bisnis.com/read/20261006/265/2009932/perjalanan-ferry-dermawan-besarkan-joyland-festival",
+      "summary": "<img src=\"https://images.bisnis.com/posts/2026/10/06/2009932/img_9252_1791201546.jpg\"/>\n                        Ferry Dermawan, co-founder Plainsong Live, mengembangkan Joyland Festival dari Djakarta Artmosphere, menggabungkan musik, seni, dan kreativitas sejak 2012.",
+      "published": "",
+      "media": "Bisnis",
+      "content": "",
+      "fetched_ok": false,
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 50,
+      "risk_label": "Sedang",
+      "reason": "AI: Isi berita fokus pada perjalanan Ferry Dermawan dalam mengembangkan Joyland Festival, tanpa menekankan pada aspek positif atau negatif yang jelas."
+    },
+    {
+      "title": "Inalum Waspadai Oversupply Aluminium pada 2030-2031, Ini Sebabnya",
+      "link": "https://ekonomi.bisnis.com/read/20261006/44/2010237/inalum-waspadai-oversupply-aluminium-pada-2030-2031-ini-sebabnya",
+      "summary": "<img src=\"https://images.bisnis.com/posts/2026/10/06/2010237/06102026-bi-arf-22-big_downstream_sesi_kedua-1_1_1791275871.jpg\"/>\n                        Inalum memprediksi terdapat kelebihan pasok atau oversupply aluminium secara global pada 2030–2031.",
       "published": "",
       "media": "Bisnis",
       "content": "",
@@ -141,26 +183,12 @@
       "sentiment_label": "Netral",
       "risk_score": 85,
       "risk_label": "Tinggi",
-      "reason": "AI: PT PP (Persero) Tbk mencapai kontrak baru dengan nilai besar, menunjukkan keberhasilan dalam menargetkan proyek pemerintah dan infrastruktur, yang merupakan bagian dari strategi 'Back to Core'."
+      "reason": "AI: Inalum memprediksi kelebihan pasokan aluminium global pada tahun 2030-2031, yang berpotensi mengakibatkan penurunan harga dan dampak negatif pada industri aluminium."
     },
     {
-      "title": "Jarak Pandang 2 Km, Penerbangan Bandara SSK II Pekanbaru Berjalan Normal",
-      "link": "https://sumatra.bisnis.com/read/20261006/533/2010092/jarak-pandang-2-km-penerbangan-bandara-ssk-ii-pekanbaru-berjalan-normal",
-      "summary": "<img src=\"https://images.bisnis.com/posts/2026/10/06/2010092/bandara_sultan_syarif_kasim_1735291751.jpg\"/>\n                        Penerbangan di Bandara SSK II Pekanbaru tetap normal meski kabut asap, dengan jarak pandang 2.500-2.800 meter. Pemantauan cuaca dilakukan bersama BMKG.",
-      "published": "",
-      "media": "Bisnis",
-      "content": "",
-      "fetched_ok": false,
-      "sentiment_score": 0.5,
-      "sentiment_label": "Netral",
-      "risk_score": 50,
-      "risk_label": "Sedang",
-      "reason": "AI: Penerbangan tetap normal meski ada kabut asap, dengan jarak pandang normal."
-    },
-    {
-      "title": "Perang Tarif, Baja Indonesia Kena Bea Masuk 50% di AS-Eropa",
-      "link": "https://ekonomi.bisnis.com/read/20261006/12/2010098/perang-tarif-baja-indonesia-kena-bea-masuk-50-di-as-eropa",
-      "summary": "<img src=\"https://images.bisnis.com/posts/2026/10/06/2010098/airlangga_bisnis_1791260005.jpg\"/>\n                        Airlangga menyebut baja Indonesia menghadapi tarif 50% dari AS, Uni Eropa, dan Inggris, serta hambatan nontarif berbasis lingkungan seperti CBAM.",
+      "title": "UU Ketenagakerjaan Baru Atur soal Pekerja Platform Digital, Ini Respons idEA",
+      "link": "https://ekonomi.bisnis.com/read/20261006/12/2010223/uu-ketenagakerjaan-baru-atur-soal-pekerja-platform-digital-ini-respons-idea",
+      "summary": "<img src=\"https://images.bisnis.com/posts/2026/10/06/2010223/20052025-bi-hil-21-demo_ojol-12_1747734321.jpg\"/>\n                        idEA menilai aturan mengenai pekerja platform digital dalam UU Ketenagakerjaan baru perlu sesuai dengan karakteristik hubungan kerja &amp; model bisnis digital",
       "published": "",
       "media": "Bisnis",
       "content": "",
@@ -169,40 +197,12 @@
       "sentiment_label": "Netral",
       "risk_score": 85,
       "risk_label": "Tinggi",
-      "reason": "AI: Airlangga menyebutkan tarif 50% dari AS, Uni Eropa, dan Inggris, serta hambatan nontarif berbasis lingkungan seperti CBAM, yang menunjukkan perang tarif dan hambatan dalam perdagangan antarabangsa."
+      "reason": "AI: The article discusses the need for the new labor law to be aligned with the characteristics of digital work and the business model, which may lead to a high risk of legal issues."
     },
     {
-      "title": "OJK Harap IBMA Dapat Perkuat Sinergi dan Ekosistem Bullion Nasional",
-      "link": "https://ekonomi.bisnis.com/read/20261006/9/2010113/ojk-harap-ibma-dapat-perkuat-sinergi-dan-ekosistem-bullion-nasional",
-      "summary": "<img src=\"https://images.bisnis.com/posts/2026/10/06/2010113/20082026-BI-ARF-22-IBMA-2_1787278566.jpg\"/>\n                        OJK berharap IBMA memperkuat sinergi dan ekosistem bullion nasional, mendukung pasar yang efisien dan terintegrasi, serta meningkatkan daya saing industri emas.",
-      "published": "",
-      "media": "Bisnis",
-      "content": "",
-      "fetched_ok": false,
-      "sentiment_score": 0.5,
-      "sentiment_label": "Netral",
-      "risk_score": 50,
-      "risk_label": "Sedang",
-      "reason": "AI: Isi berita fokus pada harapan dari OJK terhadap IBMA, namun tidak menunjukkan sentimen positif atau negatif yang kuat."
-    },
-    {
-      "title": "Prime Plaza Hotel Purwakarta Rayakan 30 Tahun dengan Fun Run 5K",
-      "link": "https://lifestyle.bisnis.com/read/20261006/102/2010116/prime-plaza-hotel-purwakarta-rayakan-30-tahun-dengan-fun-run-5k",
-      "summary": "<img src=\"https://images.bisnis.com/posts/2026/10/06/2010116/whatsapp_image_2026-10-06_at_11.14.35_1791260187.jpg\"/>\n                        Prime Plaza Hotel Purwakarta merayakan 30 tahun dengan menggelar Prime Plaza Run 2026, fun run 5K pada 6 September 2026, diikuti 650 peserta dari berbagai kota",
-      "published": "",
-      "media": "Bisnis",
-      "content": "",
-      "fetched_ok": false,
-      "sentiment_score": 0.5,
-      "sentiment_label": "Netral",
-      "risk_score": 50,
-      "risk_label": "Sedang",
-      "reason": "AI: berita tentang perayaan tahunan dengan acara olahraga, yang umumnya dianggap netral dan tidak memiliki tingkat risiko yang tinggi."
-    },
-    {
-      "title": "Pertarungan Asia dan Eropa Berebut Pasokan LNG",
-      "link": "https://premium.bisnis.com/read/20261006/658/2010076/pertarungan-asia-dan-eropa-berebut-pasokan-lng",
-      "summary": "<img src=\"https://images.bisnis.com/posts/2026/10/06/2010076/fsru-lampung_2_1791256253.jpg\"/>\n                        Eropa dan Asia bersaing ketat memperebutkan LNG saat musim dingin, dengan harga Asia lebih tinggi.",
+      "title": "Memotret Tekanan Pariwisata Sumsel di Tengah Kepungan Kabut Asap",
+      "link": "https://sumatra.bisnis.com/read/20261006/533/2010205/memotret-tekanan-pariwisata-sumsel-di-tengah-kepungan-kabut-asap",
+      "summary": "<img src=\"https://images.bisnis.com/posts/2026/10/06/2010205/antarafoto-kabut-asap-di-kabupaten-banyuasin-sumatera-selatan-1788487525_1_1788487918.jpg\"/>\n                        Kabut asap mengganggu pariwisata Sumsel, menurunkan okupansi hotel hingga 50% dan menghambat penerbangan, memaksa industri beradaptasi dengan aktivitas indoor.",
       "published": "",
       "media": "Bisnis",
       "content": "",
@@ -211,12 +211,12 @@
       "sentiment_label": "Netral",
       "risk_score": 85,
       "risk_label": "Tinggi",
-      "reason": "AI: Eropa dan Asia bersaing untuk membeli dan menjual LNG, dengan harga Asia lebih tinggi yang menunjukkan ketatnya persaingan dan potensi risiko dalam perdagangan LNG."
+      "reason": "AI: Kabut asap mengganggu pariwisata dan menghambat aktivitas penerbangan, menurunkan ekonomi pariwisata dan mengakibatkan kerugian bagi industri hotel dan penerbangan."
     },
     {
-      "title": "Harga Buyback Emas Antam Hari Ini 6 Oktober 2026 Turun ke Rp2.376.000, Masih Naik dari Awal Tahun",
-      "link": "https://market.bisnis.com/read/20261006/235/2010109/harga-buyback-emas-antam-hari-ini-6-oktober-2026-turun-ke-rp2376000-masih-naik-dari-awal-tahun",
-      "summary": "<img src=\"https://images.bisnis.com/posts/2026/10/06/2010109/jibi_21102025-bi-fny-25-emas_antam-4_20251021061243943_1_1_1788915204.jpg\"/>\n                        Harga buyback emas Antam pada 6 Oktober 2026 turun ke Rp2.376.000 per gram, namun masih naik Rp16.000 dari awal tahun. Koreksi terjadi sejak pertengahan September.",
+      "title": "Disaksikan Prabowo, Satgas PKH Setor Uang Rp13,2 Triliun Tahap ke-8 ke Kemenkeu",
+      "link": "https://kabar24.bisnis.com/read/20261006/16/2010266/disaksikan-prabowo-satgas-pkh-setor-uang-rp132-triliun-tahap-ke-8-ke-kemenkeu",
+      "summary": "<img src=\"https://images.bisnis.com/posts/2026/10/06/2010266/img_9277_1791279399.jpg\"/>\n                        Satgas PKH setor Rp13,2 triliun ke Kemenkeu, disaksikan Prabowo, dari denda kehutanan, PNBP, dan pajak. Kawasan hutan 259.230 ha juga diserahkan ke Kemenhut.",
       "published": "",
       "media": "Bisnis",
       "content": "",
@@ -225,12 +225,12 @@
       "sentiment_label": "Netral",
       "risk_score": 50,
       "risk_label": "Sedang",
-      "reason": "AI: Harga buyback emas Antam bergerak sesuai tren global dan kondisi pasar, dengan penurunan yang ringan dan masih di atas level support."
+      "reason": "AI: Berita mengandung informasi positif tentang penyerahan dana ke Kemenkeu dan keberhasilan dalam mengelola hutan, namun tidak mencakup detail atau interpretasi yang mendalam."
     },
     {
-      "title": "Airlangga Ungkap Kunci RI Kejar Vietnam, Tak Cukup Andalkan Hilirisasi",
-      "link": "https://ekonomi.bisnis.com/read/20261006/9/2010083/airlangga-ungkap-kunci-ri-kejar-vietnam-tak-cukup-andalkan-hilirisasi",
-      "summary": "<img src=\"https://images.bisnis.com/posts/2026/10/06/2010083/menko_airlangga_-_big_downstream_insight_2026-10-06_bisniscom_1791258046.jpg\"/>\n                        Airlangga: RI perlu dorong digitalisasi, semikonduktor, dan AI untuk kejar pertumbuhan ekonomi Vietnam yang hampir 9%, tak cukup andalkan hilirisasi saja.",
+      "title": "Aturan Baru Pengupahan di UU Ketenagakerjaan, Formula UMP 2027 Berubah?",
+      "link": "https://ekonomi.bisnis.com/read/20261006/12/2010247/aturan-baru-pengupahan-di-uu-ketenagakerjaan-formula-ump-2027-berubah",
+      "summary": "<img src=\"https://images.bisnis.com/posts/2026/10/06/2010247/buruh_5_1756364743.jpg\"/>\n                        Kemnaker mengumumkan aturan baru pengupahan dalam UU Ketenagakerjaan, dengan KHL sebagai pertimbangan. UMP 2027 masih mengikuti PP No. 51/2023.",
       "published": "",
       "media": "Bisnis",
       "content": "",
@@ -239,12 +239,12 @@
       "sentiment_label": "Netral",
       "risk_score": 85,
       "risk_label": "Tinggi",
-      "reason": "AI: Airlangga menekankan pentingnya digitalisasi, semikonduktor, dan AI untuk pertumbuhan ekonomi Vietnam, yang dianggap lebih penting dari hanya menekankan hilirisasi."
+      "reason": "AI: Aturan baru pengupahan dalam UU Ketenagakerjaan mengubah formula UMP 2027, yang berpotensi mempengaruhi kesejahteraan karyawan dan dampak ekonomi perusahaan."
     },
     {
-      "title": "Pramono Soroti Ancaman Bencana di Jakarta, BPBD Diminta Siaga",
-      "link": "https://jakarta.bisnis.com/read/20261006/77/2010093/pramono-soroti-ancaman-bencana-di-jakarta-bpbd-diminta-siaga",
-      "summary": "<img src=\"https://images.bisnis.com/posts/2026/10/06/2010093/gubernur_dki_jakarta_pramono_anung_saat_memberikan_sambutan_sekaligus_membuka_acara_rapat_koordinasi_1791257856.jpg\"/>\n                        Gubernur DKI Jakarta Pramono Anung meminta BPBD siaga hadapi bencana, menekankan pentingnya mitigasi dan sinergi antarpihak untuk penanggulangan efektif.",
+      "title": "Sahid Raya Yogyakarta Hadirkan Konser Jikustik dan Pongki Barata",
+      "link": "https://semarang.bisnis.com/read/20261006/535/2010265/sahid-raya-yogyakarta-hadirkan-konser-jikustik-dan-pongki-barata",
+      "summary": "<img src=\"https://images.bisnis.com/posts/2026/10/06/2010265/whatsapp_image_2026-10-06_at_15.27.25_1791279101.jpg\"/>\n                        Tiket Sahid Raya Exclusive Concert &quot;Meet &amp; Greet&quot; ditawarkan dengan harga Rp150.000 per orang.",
       "published": "",
       "media": "Bisnis",
       "content": "",
@@ -253,12 +253,12 @@
       "sentiment_label": "Netral",
       "risk_score": 50,
       "risk_label": "Sedang",
-      "reason": "AI: Gubernur meminta BPBD siaga, menekankan pentingnya mitigasi dan sinergi, yang merupakan tindakan yang netral dan tidak mendukung atau menyinggung pihak lain."
+      "reason": "AI: Isi berita tidak menunjukkan sentimen positif atau negatif, tetapi fokus pada informasi tentang konser."
     },
     {
-      "title": "Kabel Fiber Optik Diputus Pemkot, Apjatel: Sebagian Internet Bandung Masih Down",
-      "link": "https://teknologi.bisnis.com/read/20261006/101/2010091/kabel-fiber-optik-diputus-pemkot-apjatel-sebagian-internet-bandung-masih-down",
-      "summary": "<img src=\"https://images.bisnis.com/posts/2026/10/06/2010091/06052026-bi-arf-22-kabel-1_1783940256.jpg\"/>\n                        Pemutusan sepihak kabel fiber optik oleh Pemkot Bandung membuat internet di Bandung terganggu. Apjatel mendesak dialog untuk solusi cepat atas masalah ini.",
+      "title": "Desil Penerima PKH/BPNT dan PBI-JKN: Cek Perbedaan &amp; Daftar Prioritasnya",
+      "link": "https://kabar24.bisnis.com/read/20261006/243/2010261/desil-penerima-pkhbpnt-dan-pbi-jkn-cek-perbedaan-daftar-prioritasnya",
+      "summary": "<img src=\"https://images.bisnis.com/posts/2026/10/06/2010261/jibi_13052024-bi-hil-21-bansos-6_20240513030157118_1777896603.jpg\"/>\n                        Pemerintah menggunakan desil 1-4 untuk PKH/BPNT dan desil 5 untuk PBI-JK, berdasarkan Data Tunggal Sosial dan Ekonomi Nasional (DTSEN). Pembaruan data dapat dilakukan.",
       "published": "",
       "media": "Bisnis",
       "content": "",
@@ -267,22 +267,22 @@
       "sentiment_label": "Netral",
       "risk_score": 50,
       "risk_label": "Sedang",
-      "reason": "AI: Pemkot Bandung mengalami masalah teknis dengan kabel fiber optik, menyebabkan gangguan internet di kota tersebut. Apjatel meminta dialog untuk solusi cepat."
+      "reason": "AI: Pemerintah menggunakan desil 1-4 untuk PKH/BPNT dan desil 5 untuk PBI-JK, berdasarkan Data Tunggal Sosial dan Ekonomi Nasional (DTSEN). Pembaruan data dapat dilakukan."
     },
     {
-      "title": "7 Fakta Laga Indonesia vs Thailand di Final FIFA ASEAN Cup 2026",
-      "link": "https://bola.bisnis.com/read/20261006/398/2010103/7-fakta-laga-indonesia-vs-thailand-di-final-fifa-asean-cup-2026",
-      "summary": "<img src=\"https://images.bisnis.com/posts/2026/10/06/2010103/05102026-BI-ROB-01-FINAL_ASEAN_CUP_2026-03_1791223310.jpeg\"/>\n                        Indonesia menjuarai FIFA ASEAN Cup 2026 setelah mengalahkan Thailand 4-2 lewat adu penalti di SUGBK, Jakarta. Elkan Baggott dan Emil Audero jadi pahlawan.",
+      "title": "IHSG Ditutup Naik 1,21% ke 6.192, Saham GOTO, AMMN, INDY Melaju",
+      "link": "https://market.bisnis.com/read/20261006/7/2010259/ihsg-ditutup-naik-121-ke-6192-saham-goto-ammn-indy-melaju",
+      "summary": "<img src=\"https://images.bisnis.com/posts/2026/10/06/2010259/22092026-BI-HIL-21-IHSG-18_1790637330.jpg\"/>\n                        IHSG naik 1,21% ke 6.192, dipimpin saham GOTO, AMMN, INDY. Investor fokus pada FOMC Minutes yang dapat mempengaruhi kebijakan suku bunga The Fed.",
       "published": "",
       "media": "Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
       "risk_score": 50,
       "risk_label": "Sedang",
-      "reason": "AI: Berita tentang hasil pertandingan antar negara, tidak memiliki aspek yang menunjukkan sentimen positif atau negatif."
+      "reason": "AI: Isi berita tidak menunjukkan sentimen positif atau negatif, hanya mengekspresikan data statistik dan fokus pada saham tertentu."
     }
   ],
-  "ok_count": 0
+  "ok_count": 1
 }
