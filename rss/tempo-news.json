@@ -4,6 +4,20 @@
   "ok": true,
   "items": [
     {
+      "title": "BNI dan PBSI Dorong Lahirnya Juara Baru Bulu Tangkis Indonesia",
+      "link": "https://nasional.tempo.co/read/2121365/bni-dan-pbsi-dorong-lahirnya-juara-baru-bulu-tangkis-indonesia",
+      "summary": "BNI bersama PBSI terus memperkuat pembinaan dan regenerasi atlet bulu tangkis Indonesia guna melahirkan talenta muda yang mampu bersaing dan meraih prestasi di tingkat internasional.",
+      "published": "",
+      "media": "Tempo news",
+      "content": "",
+      "fetched_ok": false,
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 50,
+      "risk_label": "Sedang",
+      "reason": "AI: BNI dan PBSI menggalakkan pembinaan dan regenerasi atlet, yang merupakan langkah positif dalam pembangunan olahraga."
+    },
+    {
       "title": "BNI Hadirkan Pengalaman Istimewa bagi Nasabah di MotoGP Mandalika 2026",
       "link": "https://nasional.tempo.co/read/2121356/bni-hadirkan-pengalaman-istimewa-bagi-nasabah-di-motogp-mandalika-2026",
       "summary": "BNI memberikan pengalaman istimewa kepada nasabah terpilih untuk menyaksikan MotoGP Mandalika 2026 dari Bukit 360 dengan panorama sirkuit dan fasilitas eksklusif.",
@@ -688,20 +702,6 @@
       "risk_score": 85,
       "risk_label": "Tinggi",
       "reason": "AI: Pemkab Bogor menargetkan pembangunan Flyover Bomang pada 2027 untuk menghubungkan Jalan Tegar Beriman dengan jalur Bojonggede-Kemang, yang merupakan proyek infrastruktur penting untuk memperkuat akses masyarakat menuju pusat pemerintahan di Cibinong. Namun, proyek ini juga memiliki potensi risiko seperti pembangunan Flyover dapat mengakibatkan kerusakan lingkungan dan potensi gangguan jalan yang mungkin terjadi."
-    },
-    {
-      "title": "BNI wondrX 2026 Bawa Penggemar Lebih Dekat dengan Atlet Bulu Tangkis",
-      "link": "https://nasional.tempo.co/read/2118137/bni-wondrx-2026-bawa-penggemar-lebih-dekat-dengan-atlet-bulu-tangkis",
-      "summary": "Melalui PBSI Experience, BNI wondrX 2026 menghadirkan kesempatan bagi masyarakat untuk bertemu langsung dengan legenda dan atlet bulu tangkis Indonesia serta menikmati beragam aktivitas dan penawaran khusus.",
-      "published": "",
-      "media": "Tempo news",
-      "content": "",
-      "fetched_ok": false,
-      "sentiment_score": 0.5,
-      "sentiment_label": "Netral",
-      "risk_score": 50,
-      "risk_label": "Sedang",
-      "reason": "AI: Isi berita fokus pada acara yang menarik dan menghibur, namun tidak menunjukkan sentimen spesifik positif atau negatif."
     }
   ],
   "ok_count": 0
