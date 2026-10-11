@@ -4,6 +4,20 @@
   "ok": true,
   "items": [
     {
+      "title": "BNI Hadirkan Pengalaman Istimewa bagi Nasabah di MotoGP Mandalika 2026",
+      "link": "https://nasional.tempo.co/read/2121356/bni-hadirkan-pengalaman-istimewa-bagi-nasabah-di-motogp-mandalika-2026",
+      "summary": "BNI memberikan pengalaman istimewa kepada nasabah terpilih untuk menyaksikan MotoGP Mandalika 2026 dari Bukit 360 dengan panorama sirkuit dan fasilitas eksklusif.",
+      "published": "",
+      "media": "Tempo news",
+      "content": "",
+      "fetched_ok": false,
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 50,
+      "risk_label": "Sedang",
+      "reason": "AI: Pengalaman istimewa yang ditawarkan oleh BNI untuk nasabah tidak memiliki tingkat sentimen positif atau negatif yang jelas, tetapi memiliki tingkat risiko sedang karena potensi peningkatan nilai nasabah."
+    },
+    {
       "title": "Bank Jatim Resmikan Kantor Cabang Balikpapan",
       "link": "https://nasional.tempo.co/read/2121339/bank-jatim-resmikan-kantor-cabang-balikpapan",
       "summary": "Bank Jatim resmi membuka Kantor Cabang Balikpapan untuk memperluas layanan perbankan, mendukung pertumbuhan UMKM, dan memperkuat kerja sama ekonomi antara Jawa Timur dan Kalimantan Timur.",
@@ -688,20 +702,6 @@
       "risk_score": 50,
       "risk_label": "Sedang",
       "reason": "AI: Isi berita fokus pada acara yang menarik dan menghibur, namun tidak menunjukkan sentimen spesifik positif atau negatif."
-    },
-    {
-      "title": "BNI Hadirkan wondrZ, Tabungan Digital untuk Anak dan Remaja",
-      "link": "https://nasional.tempo.co/read/2118136/bni-hadirkan-wondrz-tabungan-digital-untuk-anak-dan-remaja",
-      "summary": "BNI menghadirkan wondrZ sebagai layanan tabungan bagi anak dan remaja yang mendukung pembelajaran finansial sejak dini dengan pendampingan serta pemantauan dari orang tua.",
-      "published": "",
-      "media": "Tempo news",
-      "content": "",
-      "fetched_ok": false,
-      "sentiment_score": 0.5,
-      "sentiment_label": "Netral",
-      "risk_score": 50,
-      "risk_label": "Sedang",
-      "reason": "AI: Isi berita fokus pada penawaran produk finansial yang positif, namun tidak mencakup aspek negatif atau alasan yang mendalam."
     }
   ],
   "ok_count": 0
