@@ -4,6 +4,48 @@
   "ok": true,
   "items": [
     {
+      "title": "Bank Jatim Resmikan Kantor Cabang Balikpapan",
+      "link": "https://nasional.tempo.co/read/2121339/bank-jatim-resmikan-kantor-cabang-balikpapan",
+      "summary": "Bank Jatim resmi membuka Kantor Cabang Balikpapan untuk memperluas layanan perbankan, mendukung pertumbuhan UMKM, dan memperkuat kerja sama ekonomi antara Jawa Timur dan Kalimantan Timur.",
+      "published": "",
+      "media": "Tempo news",
+      "content": "",
+      "fetched_ok": false,
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 50,
+      "risk_label": "Sedang",
+      "reason": "AI: Berita ini menekankan kehadiran bank di daerah, yang merupakan isu netral dan tidak memiliki tingkat risiko yang tinggi."
+    },
+    {
+      "title": "Abubakar Abdullah Kaya Gagasan, Pendidikan Maluku Utara Menanti Bukti Nyata",
+      "link": "https://nasional.tempo.co/read/2121335/abubakar-abdullah-kaya-gagasan-pendidikan-maluku-utara-menanti-bukti-nyata",
+      "summary": "Dengan pengalaman panjang di birokrasi dan anggaran pendidikan lebih dari Rp 783 miliar, Abubakar Abdullah menghadapi tantangan mewujudkan berbagai gagasan menjadi perbaikan nyata bagi sekolah, guru, dan peserta didik di Maluku Utara.",
+      "published": "",
+      "media": "Tempo news",
+      "content": "",
+      "fetched_ok": false,
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Isi berita fokus pada tantangan Abubakar Abdullah dalam mewujudkan gagasan giat di Maluku Utara, namun tidak ada alasan yang jelas mengapa ini dianggap berbahaya atau berpotensi mengancam keamanan atau kesejahteraan publik."
+    },
+    {
+      "title": "Kabupaten Aceh Tenggara Targetkan Penyerapan TKD 100 Persen",
+      "link": "https://nasional.tempo.co/read/2121333/kabupaten-aceh-tenggara-targetkan-penyerapan-tkd-100-persen",
+      "summary": "Realisasi anggaran mencapai Rp5,2 miliar atau 41,5 persen dari alokasi transfer ke daerah sebesar Rp12,8 miliar.",
+      "published": "",
+      "media": "Tempo news",
+      "content": "",
+      "fetched_ok": false,
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Realisasi anggaran mencapai 41,5 persen dari alokasi transfer, yang masih jauh dari target 100 persen."
+    },
+    {
       "title": "Bobby Nasution Dorong IKM Sumut Kembangkan Ekonomi Syariah dan Industri Halal",
       "link": "https://nasional.tempo.co/read/2120394/bobby-nasution-dorong-ikm-sumut-kembangkan-ekonomi-syariah-dan-industri-halal",
       "summary": "Gubernur Sumatera Utara Bobby Nasution mengajak Ikatan Keluarga Minangkabau (IKM) Sumut memperkuat kolaborasi dengan pemerintah dalam mengembangkan ekonomi keumatan, perdagangan berbasis syariah, dan industri halal di Sumatera Utara.",
@@ -660,48 +702,6 @@
       "risk_score": 50,
       "risk_label": "Sedang",
       "reason": "AI: Isi berita fokus pada penawaran produk finansial yang positif, namun tidak mencakup aspek negatif atau alasan yang mendalam."
-    },
-    {
-      "title": "Wali Kota Padang Berikan Bantuan Rendang untuk Korban Gempa NTT",
-      "link": "https://nasional.tempo.co/read/2118134/wali-kota-padang-berikan-bantuan-rendang-untuk-korban-gempa-ntt",
-      "summary": "Pemerintah Kota Padang bersama sejumlah organisasi dan elemen masyarakat Sumatera Barat mengirimkan bantuan rendang untuk membantu memenuhi kebutuhan pangan korban gempa bumi di Nusa Tenggara Timur.",
-      "published": "",
-      "media": "Tempo news",
-      "content": "",
-      "fetched_ok": false,
-      "sentiment_score": 0.5,
-      "sentiment_label": "Netral",
-      "risk_score": 85,
-      "risk_label": "Tinggi",
-      "reason": "AI: Pemerintah Kota Padang dan organisasi masyarakat Sumatera Barat mengirimkan bantuan rendang untuk korban gempa bumi di NTT, yang merupakan tindakan positif yang dilakukan untuk membantu mereka."
-    },
-    {
-      "title": "PNM Asah Daya Juang Karyawan melalui Grand Final PORSENI 2026",
-      "link": "https://nasional.tempo.co/read/2118131/pnm-asah-daya-juang-karyawan-melalui-grand-final-porseni-2026",
-      "summary": "Grand Final PORSENI PNM 2026 menjadi wadah bagi ribuan insan PNM untuk mengasah daya juang, mempererat sinergi, serta menumbuhkan sportivitas dan kebanggaan sebagai bagian dari One PNM.",
-      "published": "",
-      "media": "Tempo news",
-      "content": "",
-      "fetched_ok": false,
-      "sentiment_score": 0.5,
-      "sentiment_label": "Netral",
-      "risk_score": 85,
-      "risk_label": "Tinggi",
-      "reason": "AI: Isi berita fokus pada acara yang positif dan menarik, namun tidak ada alasan yang mendukung atau menyinggung topik yang dapat dianggap sensitif."
-    },
-    {
-      "title": "Simpeda Capai Rp 75 Triliun, Asbanda Dorong Transformasi Menjadi Tabungan Digital yang Makin Dekat dengan Masyarakat",
-      "link": "https://nasional.tempo.co/read/2118130/simpeda-capai-rp-75-triliun-asbanda-dorong-transformasi-menjadi-tabungan-digital-yang-makin-dekat-dengan-masyarakat",
-      "summary": "Tabungan Simpeda dengan saldo Rp 74,86 triliun terus diperkuat melalui transformasi digital dan sinergi 27 BPD agar makin dekat dengan masyarakat serta mampu mendorong pertumbuhan ekonomi daerah.",
-      "published": "",
-      "media": "Tempo news",
-      "content": "",
-      "fetched_ok": false,
-      "sentiment_score": 0.5,
-      "sentiment_label": "Netral",
-      "risk_score": 85,
-      "risk_label": "Tinggi",
-      "reason": "AI: Isi berita mengandung informasi positif tentang peningkatan saldo Simpeda dan transformasi digital, namun tidak mencakup aspek negatif yang mungkin mengarah pada risiko."
     }
   ],
   "ok_count": 0
