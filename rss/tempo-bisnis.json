@@ -11,11 +11,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Komisi V DPR RI menyoroti gangguan operasional dan meminta pemerintah meningkatkan informasi kepada masyarakat, menunjukkan perhatian dan upaya untuk memperbaiki situasi."
     },
     {
       "title": "Perkuat Ekosistem Pesisir, KKP Bersama Pemerintah Kota Padang Tanam 1.000 Bibit Mangrove",
@@ -25,11 +25,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Isi berita menekankan kegiatan positif yang berkontribusi pada lingkungan, namun tidak mencakup detail atau alasan yang mendukung kebijakan ekonomi biru, yang mungkin mempengaruhi tingkat kepercayaan publik."
     },
     {
       "title": "Pegadaian Apresiasi Nasabah di Hari Pelanggan Nasional",
@@ -39,11 +39,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 50,
+      "risk_label": "Sedang",
+      "reason": "AI: Isi berita menunjukkan acara yang positif dan mengapresiasi nasabah, namun tidak ada alasan yang mendukung atau menyinggung aspek yang bisa dianggap berbahaya."
     },
     {
       "title": "Arfadia Taruh Tiga Laporan Risetnya di Zenodo",
@@ -53,11 +53,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Isi berita fokus pada manfaat sistem versioning dan publikasi data, yang tampak positif namun tidak mencakup alasan yang mendalam."
     },
     {
       "title": "PT Pertamina Patra Niaga RU Cilacap Buka Tender Penggantian Column Assy 11C-1",
@@ -67,11 +67,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Berita ini mengandung informasi tentang tender yang dilakukan oleh PT Pertamina Patra Niaga, yang merupakan perusahaan pertambangan dan pertanian. Informasi ini tidak menunjukkan sentimen positif atau negatif terhadap perusahaan atau industri tersebut."
     },
     {
       "title": "Jelang Danantara Housing Expo, BNI Hadirkan Area Properti di wondrX 2026",
@@ -81,11 +81,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: BNI, yang merupakan bank, menghadirkan layanan properti di wondrX 2026 untuk memenuhi kebutuhan masyarakat dalam mencari hunian dan mendapatkan informasi pembiayaan KPR, yang merupakan kepentingan penting bagi masyarakat dalam periode mendatang."
     },
     {
       "title": "BNI Hadirkan Deretan Musikus Tanah Air di wondrX 2026",
@@ -95,11 +95,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 50,
+      "risk_label": "Sedang",
+      "reason": "AI: BNI menghadirkan musikus Tanah Air dalam acara hiburan, yang merupakan kegiatan positif dan tidak berbahaya."
     },
     {
       "title": "KRL hingga Shuttle Bus Gratis, Pilihan Transportasi Menuju BNI wondrX 2026",
@@ -109,11 +109,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Informasi tentang pilihan transportasi yang tersedia untuk BNI wondrX 2026 di ICE BSD, termasuk KRL Commuter Line, Transjakarta, shuttle bus, bus gratis, dan kendaraan pribadi, menunjukkan bahwa transportasi alternatif tersedia namun tidak jelas tentang keamanan atau ketersediaan dari setiap pilihan."
     },
     {
       "title": "BNI wondrX 2026 Hadirkan Zona Travel sebagai Solusi Kebutuhan Perjalanan",
@@ -123,11 +123,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 50,
+      "risk_label": "Sedang",
+      "reason": "AI: Isi berita fokus pada informasi teknis dan produk yang ditawarkan oleh BNI, tanpa menekankan pada aspek positif atau negatif yang jelas."
     },
     {
       "title": "PT Pertamina Patra Niaga RU Cilacap Buka Tender Penggantian Column Assy 11C-1",
@@ -137,11 +137,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Berita ini mengandung informasi tentang tender yang dilakukan oleh PT Pertamina Patra Niaga, yang merupakan perusahaan pertambangan dan pertanian. Informasi ini tidak menunjukkan sentimen positif atau negatif terhadap perusahaan atau industri tersebut."
     },
     {
       "title": "Indonesia Bullion Market Association Resmi Diluncurkan, Perkuat Ekosistem dan Industri Emas Nasional",
@@ -151,11 +151,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: IBMA diluncurkan untuk memperkuat ekosistem emas, meningkatkan daya saing dan posisi Indonesia di pasar global, yang dianggap positif oleh analis."
     },
     {
       "title": "ASUS ExpertBook B9406CAA  Tawarkan Nilai Investasi Optimal",
@@ -165,11 +165,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Isi berita menekankan pentingnya perlindungan data dalam investasi teknologi, yang merupakan aspek positif yang tidak mengancam kebebasan berpikir."
     },
     {
       "title": "PT Pertamina Patra Niaga RU Cilacap Buka Tender Penggantian Column Assy 11C-1",
@@ -179,11 +179,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Berita ini mengandung informasi tentang tender yang dilakukan oleh PT Pertamina Patra Niaga, yang merupakan perusahaan pertambangan dan pertanian. Informasi ini tidak menunjukkan sentimen positif atau negatif terhadap perusahaan atau industri tersebut."
     },
     {
       "title": "PT Pertamina Patra Niaga RU Cilacap Buka Tender Penggantian Column Assy 11C-1",
@@ -193,11 +193,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Berita ini mengandung informasi tentang tender yang dilakukan oleh PT Pertamina Patra Niaga, yang merupakan perusahaan pertambangan dan pertanian. Informasi ini tidak menunjukkan sentimen positif atau negatif terhadap perusahaan atau industri tersebut."
     },
     {
       "title": "PT Pertamina Patra Niaga RU Cilacap Buka Tender Penggantian Column Assy 11C-1",
@@ -207,11 +207,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Berita ini mengandung informasi tentang tender yang dilakukan oleh PT Pertamina Patra Niaga, yang merupakan perusahaan pertambangan dan pertanian. Informasi ini tidak menunjukkan sentimen positif atau negatif terhadap perusahaan atau industri tersebut."
     },
     {
       "title": "Kembali Berkolaborasi, bank bjb Jadi Official Banking Partner Persib Musim 2026/2027",
@@ -221,11 +221,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 50,
+      "risk_label": "Sedang",
+      "reason": "AI: Kolaborasi antara bank bjb dan Persib untuk musim 2026/2027 dianggap netral dengan tingkat risiko sedang karena tidak ada sumber daya yang menunjukkan kepentingan atau keberhasilan dalam hal ini."
     },
     {
       "title": "Bahas Pertanggungjawaban APBD 2025, DPRD Kota Bogor Soroti SiLPA dan Biskita",
@@ -235,11 +235,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: DPRD Kota Bogor meminta perbaikan perencanaan dan efisiensi belanja, yang merupakan tuntutan yang netral dan tidak menunjukkan sentimen positif atau negatif."
     },
     {
       "title": "NeutraDC Gandeng PLN Siapkan Energi untuk Ekspansi Data Center 200 MW",
@@ -249,11 +249,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Ekspansi ini diharapkan memperkuat kesiapan Indonesia dalam menyediakan infrastruktur digital berskala besar, yang merupakan tren global dan penting untuk pertumbuhan ekonomi digital."
     },
     {
       "title": "Pegadaian Gandeng Kadin Perluas Ekosistem Emas",
@@ -263,11 +263,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Isi berita fokus pada potensi manfaat kolaborasi antara dua lembaga, namun tidak menekankan dampak langsung atau negatif yang mungkin ditimbulkan."
     },
     {
       "title": "PT Pertamina Patra Niaga RU Cilacap Buka Tender Penggantian Column Assy 11C-1",
@@ -277,11 +277,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Berita ini mengandung informasi tentang tender yang dilakukan oleh PT Pertamina Patra Niaga, yang merupakan perusahaan pertambangan dan pertanian. Informasi ini tidak menunjukkan sentimen positif atau negatif terhadap perusahaan atau industri tersebut."
     },
     {
       "title": "BNI Perkuat Pengembangan SDM Melalui Sertifikasi dan Standar Internasional",
@@ -291,11 +291,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: BNI memperkuat pengembangan sumber daya manusia melalui lisensi LSP BNI dan penerapan standar internasional di BNI Corporate University, yang merupakan langkah positif dalam upaya untuk memperkuat kualitas tenaga kerja dan memperluas jaringan kerja di Indonesia."
     },
     {
       "title": "PT Pertamina Patra Niaga RU Cilacap Buka Tender Penggantian Column Assy 11C-1",
@@ -305,11 +305,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Berita ini mengandung informasi tentang tender yang dilakukan oleh PT Pertamina Patra Niaga, yang merupakan perusahaan pertambangan dan pertanian. Informasi ini tidak menunjukkan sentimen positif atau negatif terhadap perusahaan atau industri tersebut."
     },
     {
       "title": "Ketua Baznas Tekankan Peran PUSDAI Jawa Barat sebagai Penggerak Umat",
@@ -319,11 +319,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 30,
+      "risk_label": "Sedang",
+      "reason": "AI: Ketua Baznas mengungkapkan pentingnya PUSDAI Jawa Barat sebagai motor penggerak umat, menekankan peran pentingnya dalam mengoptimalkan empat fungsi utama: fasilitator, koordinator, dinamisator, dan inovator gerakan umat."
     },
     {
       "title": "Iftitah Sulaiman Dorong Kampus Hadirkan Inovasi di Kawasan Transmigrasi",
@@ -333,11 +333,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Iftitah Sulaiman mengingatkan pentingnya perguruan tinggi dalam pengembangan kawasan transmigrasi, menunjukkan kefokusan dan tanggung jawab dalam hal ini."
     },
     {
       "title": "PT Pertamina Patra Niaga RU Cilacap Buka Tender Penggantian Column Assy 11C-1",
@@ -347,11 +347,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Berita ini mengandung informasi tentang tender yang dilakukan oleh PT Pertamina Patra Niaga, yang merupakan perusahaan pertambangan dan pertanian. Informasi ini tidak menunjukkan sentimen positif atau negatif terhadap perusahaan atau industri tersebut."
     },
     {
       "title": "KKP Selamatkan 1.286 Telur Penyu di Sambas",
@@ -361,11 +361,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 50,
+      "risk_label": "Sedang",
+      "reason": "AI: berita mengandung informasi positif tentang penyelamatan telur penyu, namun tidak mencakup detail atau interpretasi yang mendalam."
     },
     {
       "title": "PT Pertamina Patra Niaga RU Cilacap Buka Tender Penggantian Column Assy 11C-1",
@@ -375,11 +375,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Berita ini mengandung informasi tentang tender yang dilakukan oleh PT Pertamina Patra Niaga, yang merupakan perusahaan pertambangan dan pertanian. Informasi ini tidak menunjukkan sentimen positif atau negatif terhadap perusahaan atau industri tersebut."
     },
     {
       "title": "Bank Mandiri Gandeng Paramount Dorong Pertumbuhan Properti Berkelanjutan",
@@ -389,11 +389,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Isi berita fokus pada kerja sama bisnis dan pertumbuhan properti, yang terkait dengan industri yang memiliki potensi tinggi dalam hal risiko dan keberhasilan."
     },
     {
       "title": "Bea Cukai Gagalkan Penyelundupan 10 Kilogram Ganja dari Thailand di Bandara Ngurah Rai",
@@ -403,11 +403,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Berita ini menekankan suatu kejadian yang telah terjadi, namun tidak menunjukkan sentimen positif atau negatif terhadap kejadian tersebut."
     },
     {
       "title": "Pemkab Bogor: Serah Terima PSU Sentul City Rampung, Tinggal Tunggu Sertifikat BPN",
@@ -417,11 +417,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Isi berita fokus pada proses serah terima dan tidak menekankan dampak negatif atau positif terhadap masyarakat atau infrastruktur."
     },
     {
       "title": "APMF 2026 Dorong Industri Bangun Kolaborasi Berkelanjutan",
@@ -431,11 +431,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Isi berita menekankan pentingnya kolaborasi dan kemitraan dalam industri, yang merupakan tren positif namun berpotensi tinggi risiko jika tidak dilakukan dengan baik."
     },
     {
       "title": "Sektor Jasa Keuangan Stabil, Kredit Perbankan Melesat",
@@ -445,11 +445,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 1.0,
-      "sentiment_label": "Positif",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 3 positif, 0 negatif, 0 kata berisiko."
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 75,
+      "risk_label": "Tinggi",
+      "reason": "AI: Stabilitas sektor jasa keuangan didukung oleh kinerja industri yang tumbuh positif dan berkontribusi terhadap pertumbuhan ekonomi nasional."
     },
     {
       "title": "Kebutuhan akan Layanan Pengelolaan Kekayaan Terus Berkembang, OCBC Perkuat Kapabilitas Wealth Management",
@@ -459,11 +459,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Isi berita menekankan pentingnya layanan pengelolaan kekayaan, yang merupakan tren yang berkembang, namun tidak menyebutkan tingkat keamanan atau risiko yang dihadapi."
     },
     {
       "title": "Efek Komisi Ojol, GoTo Ungkap Penyesuaian Bisnis Mobilitas",
@@ -473,11 +473,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: GoTo menangkap isu penting tentang komisi ojol dan penyesuaian bisnis mobilitas, yang mempengaruhi kesejahteraan mitra."
     },
     {
       "title": "Mengapa Pertamina Menurunkan Harga BBM Nonsubsidi",
@@ -487,11 +487,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": -1.0,
-      "sentiment_label": "Negatif",
-      "risk_score": 10,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 1 negatif, 0 kata berisiko."
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Pertamina menurunkan harga BBM untuk menarik konsumen dari penurunan harga BBM nonsubsidi."
     },
     {
       "title": "Kata OJK soal Penerbitan Panda Bond dan Patriot Bond",
@@ -501,11 +501,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 75,
+      "risk_label": "Tinggi",
+      "reason": "AI: OJK meninjau dokumen penerbitan dan memastikan bahwa informasi yang diberikan sesuai dengan undang-undang dan regulasi yang berlaku."
     },
     {
       "title": "IHSG Sepekan Menguat Tipis ke Level 6.236,1",
@@ -515,11 +515,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 1.0,
-      "sentiment_label": "Positif",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 1 positif, 0 negatif, 0 kata berisiko."
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Pergerakan IHSG tipis dan tidak signifikan, menunjukkan konsistensi dalam tren yang sebelumnya positif."
     },
     {
       "title": "Hyundai Targetkan Prototipe Mobil Neira Capai TKDN 80 Persen",
@@ -529,11 +529,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 1.0,
-      "sentiment_label": "Positif",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 1 positif, 0 negatif, 0 kata berisiko."
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: The statement indicates that the target is 80% local content, which is a significant shift towards local production, suggesting a positive outlook for the company's future plans."
     },
     {
       "title": "Garuda Ungkap Perkembangan Merger dengan Pelita Air",
@@ -543,11 +543,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 75,
+      "risk_label": "Tinggi",
+      "reason": "AI: Isi berita fokus pada perkembangan merger antara Garuda Indonesia dan Pelita Air, yang tidak memiliki aspek positif atau negatif yang jelas."
     },
     {
       "title": "PLN Bakal Serap Listrik 40,79 MW dari PSEL Legok Nangka",
@@ -557,11 +557,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: PLN meneken PJBL ke PSEL Legok Nangka, yang merupakan perusahaan milik negara yang beroperasi di wilayah yang sama dengan PLN, mengindikasikan potensi konflik kepentingan."
     },
     {
       "title": "Pembangunan Pipa Gas Dumai-Sei Mangkei Capai 32 Persen",
@@ -571,11 +571,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 1.0,
-      "sentiment_label": "Positif",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 1 positif, 0 negatif, 0 kata berisiko."
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Pembangunan Pipa Gas Dumai-Sei Mangkei yang sedang berlangsung memiliki potensi risiko yang tinggi karena memerlukan investasi besar dan waktu yang lama."
     },
     {
       "title": "Proyek PSEL di Jawa Barat Senilai Rp 7,2 T Mulai Dibangun",
@@ -585,11 +585,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Proyek ini memiliki nilai ekonomi tinggi dan potensi pengangguran yang tinggi."
     },
     {
       "title": "Bandara Soekarno-Hatta Bersiap Pendaratan Airbus A380-800",
@@ -599,11 +599,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 50,
+      "risk_label": "Sedang",
+      "reason": "AI: berita tentang operasional baru di bandara, tidak menunjukkan sentimen tertentu"
     },
     {
       "title": "Agung Podomoro Land Bukukan Pendapatan Rp 3,66 T",
@@ -613,11 +613,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 1.0,
-      "sentiment_label": "Positif",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 1 positif, 0 negatif, 0 kata berisiko."
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Pendapatan Agung Podomoro Land naik 117 persen dibanding periode sama tahun sebelumnya, yang menunjukkan pertumbuhan yang signifikan."
     },
     {
       "title": "MRT Jakarta Kembangkan Bisnis TOD, Pendanaan di Luar APBD",
@@ -627,11 +627,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: MRT Jakarta menggunakan pendanaan yang tidak terkait dengan APBD untuk mengembangkan bisnis TOD, yang dianggap berisiko tinggi karena potensi kebijakan yang mungkin menghambat investasi dalam proyek ini."
     },
     {
       "title": "APPBI Perpanjang Indonesia Shopping Festival 2026",
@@ -641,11 +641,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Perpanjangan ISF dari 11 hari menjadi 17 hari dan penambahan tanggal 7-23 Agustus dapat menarik lebih banyak pengunjung dan meningkatkan kesempatan untuk menarik lebih banyak pelanggan, tetapi juga dapat meningkatkan risiko konflik atau ketegangan antar pihak."
     },
     {
       "title": "BPJS Kesehatan Percepat Implementasi Klaim Elektronik Terintegrasi SATUSEHAT",
@@ -655,11 +655,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 1.0,
-      "sentiment_label": "Positif",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 1 positif, 0 negatif, 0 kata berisiko."
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Rumah sakit mitra BPJS Kesehatan diberi waktu untuk mengadaptasi kebutuhan teknologi baru dalam klaim medis, yang mungkin mempengaruhi efisiensi dan efektivitas layanan kesehatan."
     },
     {
       "title": "Menperin: Penjualan Kendaraan Listrik Pesat",
@@ -669,11 +669,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 1.0,
-      "sentiment_label": "Positif",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 1 positif, 0 negatif, 0 kata berisiko."
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Menperin Agus Guwimang menyebut penjualan mobil listrik mencapai 117 ribu unit pada semester I 2026 atau naik 69,4 persen secara tahunan."
     },
     {
       "title": "Pegadaian Kantongi SK PKB 2026-2028, Perkuat Kepastian Hukum Ketenagakerjaan",
@@ -683,11 +683,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Isi berita fokus pada perjanjian kerja bersama yang menekankan kepastian hukum ketenagakerjaan, yang merupakan isu penting dalam industri dan industri kerja, dengan tingkat risiko yang tinggi karena potensi dampak negatif terhadap persaingan industri dan kesejahteraan tenaga kerja."
     },
     {
       "title": "Danamon Bukukan Laba Bersih Rp 2,4 Triliun pada Semester I",
@@ -697,11 +697,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 1.0,
-      "sentiment_label": "Positif",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 2 positif, 0 negatif, 0 kata berisiko."
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: PT Bank Danamon Indonesia Tbk. mencapai laba bersih yang besar pada periode konsolidasian, yang menunjukkan keberhasilan dalam operasional dan manajemen bisnis."
     }
   ],
   "ok_count": 0
