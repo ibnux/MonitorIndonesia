@@ -11,11 +11,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.5,
-      "sentiment_label": "Netral",
-      "risk_score": 85,
-      "risk_label": "Tinggi",
-      "reason": "AI: Berita ini menangkap keberhasilan dalam mengatasi masalah banjir, yang merupakan isu penting di wilayah tersebut. Namun, tingkat keberhasilan yang ditampilkan (1.198 sumur bor selesai dibangun) tidak sebanding dengan jumlah sumur bor yang masih dalam proses pengerjaan (639 sumur bor). Ini menunjukkan bahwa ada beberapa masalah yang belum terselesaikan dan perlu perhatian lebih lanjut."
+      "sentiment_score": -1.0,
+      "sentiment_label": "Negatif",
+      "risk_score": 11,
+      "risk_label": "Rendah",
+      "reason": "Leksikon: 0 positif, 1 negatif, 1 kata berisiko."
     },
     {
       "title": "BNI dan PBSI Dorong Lahirnya Juara Baru Bulu Tangkis Indonesia",
@@ -25,11 +25,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.5,
+      "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 50,
-      "risk_label": "Sedang",
-      "reason": "AI: BNI dan PBSI menggalakkan pembinaan dan regenerasi atlet, yang merupakan langkah positif dalam pembangunan olahraga."
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
     },
     {
       "title": "BNI Hadirkan Pengalaman Istimewa bagi Nasabah di MotoGP Mandalika 2026",
@@ -39,11 +39,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.5,
+      "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 50,
-      "risk_label": "Sedang",
-      "reason": "AI: Pengalaman istimewa yang ditawarkan oleh BNI untuk nasabah tidak memiliki tingkat sentimen positif atau negatif yang jelas, tetapi memiliki tingkat risiko sedang karena potensi peningkatan nilai nasabah."
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
     },
     {
       "title": "Bank Jatim Resmikan Kantor Cabang Balikpapan",
@@ -53,11 +53,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.5,
+      "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 50,
-      "risk_label": "Sedang",
-      "reason": "AI: Berita ini menekankan kehadiran bank di daerah, yang merupakan isu netral dan tidak memiliki tingkat risiko yang tinggi."
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
     },
     {
       "title": "Abubakar Abdullah Kaya Gagasan, Pendidikan Maluku Utara Menanti Bukti Nyata",
@@ -67,11 +67,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.5,
+      "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 85,
-      "risk_label": "Tinggi",
-      "reason": "AI: Isi berita fokus pada tantangan Abubakar Abdullah dalam mewujudkan gagasan giat di Maluku Utara, namun tidak ada alasan yang jelas mengapa ini dianggap berbahaya atau berpotensi mengancam keamanan atau kesejahteraan publik."
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
     },
     {
       "title": "Kabupaten Aceh Tenggara Targetkan Penyerapan TKD 100 Persen",
@@ -81,11 +81,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.5,
+      "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 85,
-      "risk_label": "Tinggi",
-      "reason": "AI: Realisasi anggaran mencapai 41,5 persen dari alokasi transfer, yang masih jauh dari target 100 persen."
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
     },
     {
       "title": "Bobby Nasution Dorong IKM Sumut Kembangkan Ekonomi Syariah dan Industri Halal",
@@ -95,11 +95,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.5,
+      "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 85,
-      "risk_label": "Tinggi",
-      "reason": "AI: Gubernur mengajak IKM untuk kolaborasi dengan pemerintah dalam mengembangkan ekonomi keumatan, perdagangan berbasis syariah, dan industri halal, yang merupakan isu yang positif namun memiliki tingkat risiko tinggi karena potensi konflik antar kelompok."
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
     },
     {
       "title": "Sekolah Rakyat Ngawi Mulai Beroperasi, Gus Ipul Tekankan Pendidikan Karakter Siswa",
@@ -109,11 +109,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.5,
+      "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 85,
-      "risk_label": "Tinggi",
-      "reason": "AI: Isi berita fokus pada keberhasilan sekolah rakyat dan tidak menekankan dampak negatif atau alasan lainnya."
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
     },
     {
       "title": "5 Hadiah Menarik War Trakcil GoPay, dari MacBook Neo hingga Tiket Konser Sal Priadi",
@@ -123,11 +123,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.5,
-      "sentiment_label": "Netral",
-      "risk_score": 50,
-      "risk_label": "Sedang",
-      "reason": "AI: Program menawarkan hadiah menarik dan potongan teka-teki yang menarik untuk pengguna GoPay."
+      "sentiment_score": -1.0,
+      "sentiment_label": "Negatif",
+      "risk_score": 9,
+      "risk_label": "Rendah",
+      "reason": "Leksikon: 0 positif, 2 negatif, 0 kata berisiko."
     },
     {
       "title": "Jawa Tengah Raih Juara II MTQ Nasional XXXI 2026",
@@ -137,11 +137,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.5,
+      "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 85,
-      "risk_label": "Tinggi",
-      "reason": "AI: berita tentang kemenangan di ajang nasional, yang biasanya dianggap positif, tetapi dalam konteks ini, kemenangan Jawa Tengah dianggap sebagai pembinaan yang baik dan kerja keras yang dilakukan oleh para kafilah, yang bisa dianggap sebagai hal yang positif."
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
     },
     {
       "title": "PNM Sulap Lorong Kota Jadi Kebun Produktif, Bantu Nasabah Mekaar Hemat Belanja",
@@ -151,11 +151,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.5,
+      "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 85,
-      "risk_label": "Tinggi",
-      "reason": "AI: Program ini memanfaatkan ruang terbatas di kawasan padat penduduk untuk budidaya sayuran, yang dapat membantu nasabah Mekaar memenuhi kebutuhan pangan keluarga dan membuka peluang tambahan pendapatan. Namun, program ini juga memanfaatkan ruang terbatas, yang dapat berpotensi mengakibatkan konflik dengan kepentingan lain."
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
     },
     {
       "title": "Baleg Serap Masukan Perubahan Status Jakarta hingga Pengurangan Anggota DPRD untuk Prolegnas 2027",
@@ -165,11 +165,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.5,
+      "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 85,
-      "risk_label": "Tinggi",
-      "reason": "AI: berita mengandung berbagai informasi penting tentang perubahan dalam sistem parlemen dan proses pemilihan legislatif, yang merupakan isu penting dan berpotensi mempengaruhi kebijakan dan keputusan dalam sejarah politik Indonesia."
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
     },
     {
       "title": "Ketua Pansus RUU Daerah Kepulauan: Pertumbuhan Ekonomi Harus Jamin Keberlanjutan Ekosistem",
@@ -179,11 +179,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.5,
+      "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 85,
-      "risk_label": "Tinggi",
-      "reason": "AI: Isi berita menekankan pentingnya keseimbangan antara pertumbuhan ekonomi, perlindungan ekologis, dan keadilan bagi masyarakat kepulauan, yang merupakan isu yang serius dan mempengaruhi keberlanjutan ekosistem."
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
     },
     {
       "title": "Tegaskan Komitmen Pembangunan Inklusif, Gubernur Kalimantan Selatan Raih Penghargaan Pemberdayaan Perempuan",
@@ -193,11 +193,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.5,
+      "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 85,
-      "risk_label": "Tinggi",
-      "reason": "AI: Gubernur Muhidin mendapatkan penghargaan atas komitmen dalam pemberdayaan perempuan dan pembangunan inklusif, yang merupakan isu positif dan tidak berbahaya."
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
     },
     {
       "title": "Rumah Layak dan Akses Pendidikan untuk Masyarakat Samarinda",
@@ -207,11 +207,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 1,
-      "sentiment_label": "Positif",
+      "sentiment_score": 0.0,
+      "sentiment_label": "Netral",
       "risk_score": 0,
       "risk_label": "Rendah",
-      "reason": "AI: Perhatian dan komitmen Andi Harun mendapatkan apresiasi dari Kementerian Dalam Negeri (Kemendagri) dalam Apresiasi Pemerintah Daerah Berprestasi 2026 Regional Kalimantan Batch II, menunjukkan keberhasilan dan kepedulian dalam memajukan masyarakat."
+      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
     },
     {
       "title": "Kota Samarinda Dapat Apresiasi Berturut dari Kemendagri",
@@ -221,11 +221,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.5,
+      "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 50,
-      "risk_label": "Sedang",
-      "reason": "AI: Isi berita fokus pada apresiasi dari Kementerian Dalam Negeri dan tidak menekankan pada aspek positif atau negatif yang lebih jelas."
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
     },
     {
       "title": "DPRD Kota Bogor Dorong Keberlanjutan Program Padat Karya, Bantu Ekonomi Masyarakat",
@@ -235,11 +235,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.5,
+      "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 50,
-      "risk_label": "Sedang",
-      "reason": "AI: Program Padat Karya Kota Bogor melibatkan warga untuk membantu pemeliharaan fasilitas publik dan memberikan penghasilan tambahan, yang merupakan upaya positif untuk meningkatkan ekonomi masyarakat."
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
     },
     {
       "title": "DPRD Kota Bogor Fasilitasi Solusi Relokasi Pedagang Tanaman Hias Jalan Semeru",
@@ -249,11 +249,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.5,
+      "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 50,
-      "risk_label": "Sedang",
-      "reason": "AI: berita mengandung informasi positif tentang solusi yang akan diberikan kepada pedagang tanaman hias, namun tidak mencakup detail atau perspektif negatif yang mungkin diperlukan untuk menilai tingkat risiko berita tersebut."
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
     },
     {
       "title": "DPRD Kota Bogor Ingatkan Rumah Sakit untuk Tidak Menolak Pasien Gawat Darurat",
@@ -263,11 +263,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.5,
+      "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 85,
-      "risk_label": "Tinggi",
-      "reason": "AI: Komisi IV DPRD Kota Bogor mengingatkan rumah sakit untuk menangani pasien gawat darurat dengan prosedur yang sesuai, namun tidak ada alasan yang jelas untuk menilai tingkat risiko berdasarkan informasi yang diberikan."
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
     },
     {
       "title": "DPRD Kota Bogor Dukung Rencana GMKB Gelar Bogor Bersholawat pada 21 November 2026",
@@ -277,11 +277,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.5,
-      "sentiment_label": "Netral",
-      "risk_score": 85,
-      "risk_label": "Tinggi",
-      "reason": "AI: DPRD mendukung rencana GMKB, yang merupakan kegiatan besar di Kota Bogor, dan ini dianggap positif oleh masyarakat."
+      "sentiment_score": 1.0,
+      "sentiment_label": "Positif",
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Leksikon: 1 positif, 0 negatif, 0 kata berisiko."
     },
     {
       "title": "HUT ke-12 RSUD Kota Bogor, DPRD Ajak Tingkatkan Kualitas Pelayanan Kesehatan",
@@ -291,11 +291,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.5,
+      "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 85,
-      "risk_label": "Tinggi",
-      "reason": "AI: Isi berita fokus pada ajakan untuk meningkatkan kualitas pelayanan kesehatan, yang merupakan topik positif dan tidak memiliki unsur negatif atau neutral dalam konteks berita tersebut."
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
     },
     {
       "title": "Pekanbaru Jadi Kota dengan Pertumbuhan Ekonomi Tertinggi pada Triwulan II 2026, Capai 7,39 Persen",
@@ -305,11 +305,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.5,
-      "sentiment_label": "Netral",
-      "risk_score": 85,
-      "risk_label": "Tinggi",
-      "reason": "AI: Pendapatan pertumbuhan ekonomi dianggap tinggi dan menunjukkan pertumbuhan yang signifikan, namun tidak ada alasan yang jelas untuk tingkat tinggi risiko."
+      "sentiment_score": 1.0,
+      "sentiment_label": "Positif",
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Leksikon: 1 positif, 0 negatif, 0 kata berisiko."
     },
     {
       "title": "Klungkung Menjawab Tantangan Kesehatan di Kepulauan",
@@ -319,11 +319,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.5,
+      "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 85,
-      "risk_label": "Tinggi",
-      "reason": "AI: Pemerintah Kabupaten Klungkung menekankan pada inovasi berbasis keluarga dan masyarakat yang mengurangi prevalensi stunting, menunjukkan upaya untuk meningkatkan kesehatan masyarakat."
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
     },
     {
       "title": "Menghadirkan Rumah Layak untuk Warga Banten",
@@ -333,11 +333,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.5,
+      "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 50,
-      "risk_label": "Sedang",
-      "reason": "AI: Pemerintah Provinsi Banten mendapatkan penghargaan untuk kategori Implementasi Program 3 Juta Rumah, yang merupakan keberhasilan dalam implementasi program kesejahteraan masyarakat."
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
     },
     {
       "title": "Pemerintah Kota Mojokerto: Perlindungan Paripurna untuk Kesehatan Warga",
@@ -347,11 +347,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.5,
+      "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 50,
-      "risk_label": "Sedang",
-      "reason": "AI: Kota Mojokerto mendapatkan prestasi dalam bidang kesehatan, namun tidak ada alasan yang mendukung atau menyinggung masalah tertentu."
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
     },
     {
       "title": "Tiga Juara untuk Surabaya",
@@ -361,11 +361,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.5,
+      "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 50,
-      "risk_label": "Sedang",
-      "reason": "AI: Isi berita fokus pada penghargaan yang diterima oleh pemerintah kota Surabaya dan tidak menekankan pada aspek negatif atau positif spesifik."
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
     },
     {
       "title": "KKP Tangani Paus Sperma Terdampar di Ternate",
@@ -375,11 +375,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.5,
+      "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 85,
-      "risk_label": "Tinggi",
-      "reason": "AI: berita tentang peristiwa yang sedang berlangsung dan tidak memiliki sisi positif atau negatif yang jelas."
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
     },
     {
       "title": "EVOCAT Luncurkan Cat's Favour, Wet Food Kucing Berstandar Global di IIPE 2026",
@@ -389,11 +389,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.5,
+      "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 85,
-      "risk_label": "Tinggi",
-      "reason": "AI: Berita ini menekankan tentang peluncuran produk kucing yang baru, namun tidak menyebutkan apakah produk ini memiliki kualitas atau manfaat yang spesifik."
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
     },
     {
       "title": "Elnusa Petrofin Tambah Armada dan Personel untuk Optimalkan Distribusi BBM di Makassar",
@@ -403,11 +403,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.5,
+      "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 85,
-      "risk_label": "Tinggi",
-      "reason": "AI: Elnusa Petrofin menambah armada dan personel untuk optimalkan distribusi BBM di Makassar, yang merupakan upaya untuk memastikan kelancaran distribusi minyak bumi kepada SPBU di wilayah tersebut."
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
     },
     {
       "title": "KKP Tetapkan Kawasan Konservasi Teon, Nila, dan Serua Seluas 683 Ribu Hektare",
@@ -419,9 +419,9 @@
       "fetched_ok": false,
       "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 85,
-      "risk_label": "Tinggi",
-      "reason": "AI: Kementerian Kelautan dan Perikanan menetapkan kawasan konservasi untuk memperkuat perlindungan ekosistem laut dan mendukung perikanan dan ekonomi masyarakat, yang merupakan kebijakan positif dalam konteks perlindungan lingkungan dan ekonomi lokal."
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
     },
     {
       "title": "Kedekatan Warga Jateng dan Kafilah MTQ Nasional Jadi Sorotan Positif",
@@ -431,11 +431,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 1,
+      "sentiment_score": 1.0,
       "sentiment_label": "Positif",
       "risk_score": 0,
       "risk_label": "Rendah",
-      "reason": "AI: Keramahan masyarakat Jawa Tengah mendapatkan apresiasi positif dari peserta MTQ Nasional."
+      "reason": "Leksikon: 1 positif, 0 negatif, 0 kata berisiko."
     },
     {
       "title": "Gubernur Bobby Minta Publik Hentikan Komentar Negatif terhadap Korban MBG di Karo",
@@ -445,11 +445,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.5,
-      "sentiment_label": "Netral",
-      "risk_score": 50,
-      "risk_label": "Sedang",
-      "reason": "AI: Gubernur meminta masyarakat dan media menghindari komentar negatif dan perundungan di media sosial untuk memudahkan pemulihan fisik dan psikologis siswa korban."
+      "sentiment_score": -1.0,
+      "sentiment_label": "Negatif",
+      "risk_score": 9,
+      "risk_label": "Rendah",
+      "reason": "Leksikon: 0 positif, 2 negatif, 0 kata berisiko."
     },
     {
       "title": "Transformasi Layanan Haji Harus Terukur dari Biaya hingga Perlindungan Jemaah",
@@ -459,11 +459,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.5,
+      "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 85,
-      "risk_label": "Tinggi",
-      "reason": "AI: Pembenahan kelembagaan perlu menghasilkan layanan yang lebih transparan, ramah lansia, dan siap menghadapi risiko di setiap tahapan ibadah."
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
     },
     {
       "title": "Gubernur Lampung Alihkan KBM ke Daring Akibat Sebaran Abu Anak Krakatau",
@@ -473,11 +473,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.5,
-      "sentiment_label": "Netral",
-      "risk_score": 85,
-      "risk_label": "Tinggi",
-      "reason": "AI: Pemerintah Provinsi Lampung mengambil tindakan khusus untuk mengantisipasi dampak sebaran abu vulkanik Gunung Anak Krakatau, yang merupakan isu yang sedang berita dan memiliki potensi risiko yang tinggi."
+      "sentiment_score": -1.0,
+      "sentiment_label": "Negatif",
+      "risk_score": 6,
+      "risk_label": "Rendah",
+      "reason": "Leksikon: 0 positif, 1 negatif, 0 kata berisiko."
     },
     {
       "title": "Resmikan Jembatan Bailey di Tapteng, Bobby Nasution Janji Beri Modal Usaha untuk Warga",
@@ -487,11 +487,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.5,
+      "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 50,
-      "risk_label": "Sedang",
-      "reason": "AI: Bobby Nasution mengumumkan rencana untuk memberikan modal usaha kepada masyarakat, yang merupakan kegiatan positif namun tidak memiliki alasan yang kuat untuk dianggap berbahaya."
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
     },
     {
       "title": "Jastip Barang Luar Negeri untuk Belanja di Amazon, eBay, AliExpress, dan USA",
@@ -501,11 +501,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.5,
+      "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 85,
-      "risk_label": "Tinggi",
-      "reason": "AI: Jasa titip barang luar negeri membantu konsumen Indonesia berbelanja dari toko online internasional, namun tidak mengurangi risiko pembayaran internasional atau pengiriman langsung ke Indonesia."
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
     },
     {
       "title": "Gubernur Mirza Dorong Teknologi Tepat Guna Percepat Hilirisasi Komoditas Lampung",
@@ -515,11 +515,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.5,
-      "sentiment_label": "Netral",
-      "risk_score": 85,
-      "risk_label": "Tinggi",
-      "reason": "AI: Gubernur Lampung mendukung teknologi tepat guna untuk mempercepat hilirisasi komoditas, yang merupakan kebijakan positif untuk pertumbuhan ekonomi."
+      "sentiment_score": 1.0,
+      "sentiment_label": "Positif",
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Leksikon: 1 positif, 0 negatif, 0 kata berisiko."
     },
     {
       "title": "Pemprov Lampung Perkuat Generasi Desa melalui Program Sarjana STEM dan Hafiz Qur'an",
@@ -529,11 +529,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.5,
+      "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 85,
-      "risk_label": "Tinggi",
-      "reason": "AI: Program tersebut menekankan kedua aspek penting dalam pembangunan desa, yaitu kecakapan intelektual dan karakter spiritual, yang merupakan komponen penting dalam pembangunan generasi muda desa."
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
     },
     {
       "title": "Gubernur Mirza Ajak Perempuan Lampung Jadi Penggerak Ekonomi Daerah",
@@ -543,11 +543,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.5,
+      "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 85,
-      "risk_label": "Tinggi",
-      "reason": "AI: Gubernur mengajak perempuan untuk menjadi penggerak ekonomi daerah, yang merupakan isu positif namun memiliki potensi risiko karena mungkin mengancam stabilitas ekonomi daerah."
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
     },
     {
       "title": "Kemendagri Dorong Daerah yang Cukup Pasokan Sampah dan Kapasitas Finansial untuk Menjalankan PSEL",
@@ -557,11 +557,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.5,
+      "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 85,
-      "risk_label": "Tinggi",
-      "reason": "AI: Direktur Kawasan, Perkotaan dan Batas Negara, Kementerian Dalam Negeri, Amran, menyampaikan bahwa pemerintah daerah menunjukkan antusiasme terhadap implementasi PSEL"
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
     },
     {
       "title": "BNI dan BI Edukasi Pengunjung wondrX 2026 Waspadai Kejahatan Siber",
@@ -571,11 +571,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.5,
+      "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 85,
-      "risk_label": "Tinggi",
-      "reason": "AI: Isi berita fokus pada pentingnya pemahaman masyarakat tentang keamanan data dan transaksi, yang merupakan isu yang sedang berkembang dan memiliki tingkat risiko tinggi."
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
     },
     {
       "title": "Kemendagri Perkuat Kolaborasi Lintas Kementerian dan Lembaga dalam Apresiasi Pemerintah Daerah Berprestasi",
@@ -585,11 +585,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.5,
-      "sentiment_label": "Netral",
-      "risk_score": 50,
-      "risk_label": "Sedang",
-      "reason": "AI: Isi berita adalah deskripsi umum dan tidak menunjukkan sentimen atau risiko spesifik."
+      "sentiment_score": 1.0,
+      "sentiment_label": "Positif",
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Leksikon: 1 positif, 0 negatif, 0 kata berisiko."
     },
     {
       "title": "Empat Kategori Baru dalam Apresiasi Pemerintah Daerah Berprestasi 2026 Sejalan dengan Asta Cita",
@@ -599,11 +599,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.5,
+      "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 50,
-      "risk_label": "Sedang",
-      "reason": "AI: Isi berita menekankan bahwa apresiasi pemerintah daerah berprestasi melibatkan kategori baru dan menekankan pada penyelesaian masalah nasional, yang tampak positif namun tidak mencerminkan tingkat kepentingan atau dampak yang jelas."
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
     },
     {
       "title": "Moto Prix Piala Wali Kota Pekanbaru Jadi Ajang Balap Sekaligus Aksi Sosial",
@@ -613,11 +613,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.5,
-      "sentiment_label": "Netral",
-      "risk_score": 85,
-      "risk_label": "Tinggi",
-      "reason": "AI: Isi berita menekankan positif tentang dampak positif dari event Moto Prix Piala Wali Kota Pekanbaru, termasuk dalam hal memberikan peluang untuk UMKM dan meningkatkan kepedulian sosial."
+      "sentiment_score": -0.333,
+      "sentiment_label": "Negatif",
+      "risk_score": 19,
+      "risk_label": "Rendah",
+      "reason": "Leksikon: 1 positif, 2 negatif, 1 kata berisiko."
     },
     {
       "title": "Megawati: Surabaya adalah Dapur Nasionalisme Bung Karno",
@@ -627,11 +627,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.5,
+      "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 85,
-      "risk_label": "Tinggi",
-      "reason": "AI: Megawati menekankan pentingnya Jawa Timur dan Surabaya dalam pembentukan pemikiran Bung Karno, yang merupakan topik sensitif dan kontroversial dalam konteks historis dan politik Indonesia."
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
     },
     {
       "title": "Berburu Promo di BNI wondrX 2026, Pengunjung Nikmati Diskon Sepatu hingga 40 Persen",
@@ -641,11 +641,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.5,
+      "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 85,
-      "risk_label": "Tinggi",
-      "reason": "AI: Berita ini menawarkan informasi tentang diskon yang diberikan oleh BNI wondrX 2026, yang tampaknya menarik perhatian pengunjung. Namun, tidak ada alasan yang jelas untuk menilai apakah ini berarti berita positif, negatif, atau netral."
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
     },
     {
       "title": "BNI Gelar Lelang rejeki wondr Setiap Hari di wondrX 2026",
@@ -655,11 +655,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.5,
+      "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 85,
-      "risk_label": "Tinggi",
-      "reason": "AI: Program BNI Lelang Rejeki wondr wondrX 2026 menawarkan kesempatan untuk pengunjung mendapatkan produk dengan potongan harga, yang dapat menarik minat penggunaan produk BNI POIN+. Namun, program ini juga memiliki potensi untuk mengakibatkan penurunan penjualan produk BNI jika tidak diatur dengan baik."
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
     },
     {
       "title": "Ketua Harian PSI Ahmad Ali: Kalau Politik Jadi Tempat Mencari Nafkah, Sudah Pasti Salah",
@@ -669,11 +669,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.5,
+      "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 50,
-      "risk_label": "Sedang",
-      "reason": "AI: Ahmad Ali menekankan bahwa jabatan politik bukan sumber penghasilan, menekankan pentingnya kiprah sosial dalam bidang pendidikan dan keagamaan untuk membuka jalan bagi generasi muda dan memberi manfaat bagi masyarakat."
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
     },
     {
       "title": "Bupati Bogor Hadiahi Tim Angklung SDN Cibatok 03 Wisata ke Taman Safari",
@@ -683,11 +683,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.5,
+      "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 30,
-      "risk_label": "Sedang",
-      "reason": "AI: Bupati Bogor mengapresiasi penampilan tim angklung dan memberikan hadiah, tetapi tidak ada alasan yang mendukung atau menyinggung topik yang penting."
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
     },
     {
       "title": "Pemkab Bogor Siapkan Bus Listrik hingga Depok dan Puncak",
@@ -697,11 +697,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.5,
+      "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 85,
-      "risk_label": "Tinggi",
-      "reason": "AI: Pemkab Bogor menyiapkan rute bus listrik untuk destinasi wisata, yang merupakan upaya untuk memperkuat transportasi publik ramah lingkungan dan mendukung konektivitas destinasi wisata."
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
     }
   ],
   "ok_count": 0
