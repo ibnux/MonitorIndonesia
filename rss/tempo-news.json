@@ -37,13 +37,13 @@
       "summary": "BNI memberikan pengalaman istimewa kepada nasabah terpilih untuk menyaksikan MotoGP Mandalika 2026 dari Bukit 360 dengan panorama sirkuit dan fasilitas eksklusif.",
       "published": "",
       "media": "Tempo news",
-      "content": "",
-      "fetched_ok": false,
-      "sentiment_score": 0.0,
-      "sentiment_label": "Netral",
+      "content": "INFO TEMPO - PT Bank Negara Indonesia (Persero) Tbk atau BNI memberikan pengalaman istimewa kepada nasabah terpilih melalui program apresiasi berupa kesempatan menyaksikan langsung MotoGP Pertamina Grand Prix of Indonesia 2026 di Pertamina Mandalika International Circuit, Lombok, Nusa Tenggara Barat, pada 9–11 Oktober 2026.\n\nMelalui program tersebut, BNI mengajak nasabah menikmati keseruan balapan dari Bukit 360, kawasan di dataran tinggi sekitar tikungan 8 hingga 11 Sirkuit Mandalika. Lokasi ini menawarkan sudut pandang luas terhadap lintasan balap sekaligus panorama alam kawasan Mandalika.\n\nDari ketinggian Bukit 360, para penonton dapat menyaksikan aksi pembalap dengan latar perbukitan, Bukit Seger, hingga Samudera Hindia. Kawasan tersebut juga dilengkapi tiga bale berlantai dua yang menjadi tempat bagi nasabah untuk menikmati jalannya balapan dengan lebih nyaman.\n\nSalah satu nasabah yang mendapatkan kesempatan tersebut adalah Orisatia Putra, 31 tahun, seorang wirausaha. Ia mengaku senang karena tahun ini menjadi kali keempat dirinya memperoleh undangan dari BNI untuk menyaksikan MotoGP Mandalika.\n\n“Senang sekali dan sangat memuaskan. Ini sudah keempat kalinya saya mendapat tiket atau undangan dari BNI untuk menonton MotoGP di Mandalika,” ujar Orisatia yang hadir bersama orang tua dan adiknya.\n\nMenurut Orisatia, penyelenggaraan MotoGP Mandalika tahun ini semakin baik, terutama dari sisi akses menuju sirkuit. Kehadiran fasilitas shuttle dan pengaturan area parkir dinilai mempermudah mobilitas penonton, termasuk mereka yang datang dari luar kota.\n\nIa juga mengapresiasi pelayanan yang diberikan BNI selama berada di Bukit 360. Berbagai fasilitas pendukung, termasuk sajian makanan dan minuman, turut menambah kenyamanan nasabah dalam menikmati ajang balap motor internasional tersebut.\n\nPengalaman serupa dirasakan Markahasa Muda Siregar, nasabah BNI lainnya yang turut menyaksikan balapan dari Bukit 360. Menurutnya, posisi kawasan tersebut memberikan keleluasaan bagi penonton untuk mengikuti jalannya perlombaan dari sudut pandang yang lebih luas.\n\nSelain menikmati atmosfer balapan, Markahasa menjadikan MotoGP Mandalika 2026 sebagai kesempatan untuk memberikan dukungan kepada pembalap Indonesia yang berlaga di tingkat internasional.\n\nIa secara khusus menaruh harapan kepada Mario Suryo Aji yang berkompetisi di kelas Moto2 serta Veda Ega Pratama di kelas Moto3. Markahasa berharap kedua pembalap muda tersebut terus mengembangkan kemampuan dan mampu mencatatkan prestasi membanggakan bagi Indonesia.\n\nProgram apresiasi ini menjadi bagian dari komitmen BNI dalam menghadirkan nilai tambah bagi nasabah melalui pengalaman yang selaras dengan minat dan gaya hidup mereka. Tidak hanya berfokus pada penyediaan produk dan layanan perbankan, BNI juga berupaya mempererat hubungan dengan nasabah melalui berbagai kegiatan yang memberikan pengalaman berkesan dan dapat dinikmati bersama keluarga.\n\nSejalan dengan perjalanan delapan dekade melayani Indonesia, BNI terus memperkuat inovasi layanan dan menghadirkan program apresiasi yang relevan dengan kebutuhan nasabah. Melalui inisiatif tersebut, BNI berharap dapat terus menjaga kepercayaan sekaligus membangun hubungan jangka panjang dengan nasabah di tengah perkembangan industri perbankan yang semakin dinamis.(*)",
+      "fetched_ok": true,
+      "sentiment_score": 1.0,
+      "sentiment_label": "Positif",
       "risk_score": 0,
       "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "reason": "Leksikon: 1 positif, 0 negatif, 0 kata berisiko."
     },
     {
       "title": "Bank Jatim Resmikan Kantor Cabang Balikpapan",
@@ -704,5 +704,5 @@
       "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
     }
   ],
-  "ok_count": 0
+  "ok_count": 1
 }
