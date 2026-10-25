@@ -4,6 +4,20 @@
   "ok": true,
   "items": [
     {
+      "title": "Konsep Glow in the Dark Warnai Pagelaran Gandrung Sewu 2026",
+      "link": "https://nasional.tempo.co/read/2122322/konsep-glow-in-the-dark-warnai-pagelaran-gandrung-sewu-2026",
+      "summary": "Untuk pertama kalinya digelar malam hari dengan konsep Glow in the Dark, festival ini menghadirkan 1.300 penari dengan perpaduan seni tradisional, tata cahaya modern, pertunjukan drone, dan kembang api.",
+      "published": "",
+      "media": "Tempo news",
+      "content": "",
+      "fetched_ok": false,
+      "sentiment_score": 0.0,
+      "sentiment_label": "Netral",
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+    },
+    {
       "title": "Ahmad Luthfi Dorong Percepatan Rehabilitasi Usai Karhutla Gunung Sumbing Padam",
       "link": "https://nasional.tempo.co/read/2122317/ahmad-luthfi-dorong-percepatan-rehabilitasi-usai-karhutla-gunung-sumbing-padam",
       "summary": "Gubernur Jawa Tengah Ahmad Luthfi meminta percepatan rehabilitasi kawasan Gunung Sumbing setelah kebakaran hutan dan lahan (karhutla) di wilayah tersebut berhasil dipadamkan.",
@@ -679,20 +693,6 @@
       "title": "Megawati: Surabaya adalah Dapur Nasionalisme Bung Karno",
       "link": "https://nasional.tempo.co/read/2118167/megawati-surabaya-adalah-dapur-nasionalisme-bung-karno",
       "summary": "Megawati Soekarnoputri menegaskan pentingnya Jawa Timur dan Surabaya dalam pembentukan pemikiran Bung Karno serta meminta kader PDIP menjadikan semangat perjuangannya sebagai energi untuk memperkuat akar rumput.",
-      "published": "",
-      "media": "Tempo news",
-      "content": "",
-      "fetched_ok": false,
-      "sentiment_score": 0.0,
-      "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
-    },
-    {
-      "title": "Berburu Promo di BNI wondrX 2026, Pengunjung Nikmati Diskon Sepatu hingga 40 Persen",
-      "link": "https://nasional.tempo.co/read/2118157/berburu-promo-di-bni-wondrx-2026-pengunjung-nikmati-diskon-sepatu-hingga-40-persen",
-      "summary": "BNI wondrX 2026 menarik antusiasme pengunjung melalui beragam penawaran, dari diskon sepatu hingga 40 persen, promo kuliner, tiket perjalanan, properti, otomotif, hingga layanan finansial.",
       "published": "",
       "media": "Tempo news",
       "content": "",
