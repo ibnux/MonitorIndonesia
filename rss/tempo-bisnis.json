@@ -107,13 +107,13 @@
       "summary": "BNI wondrX 2026 di ICE BSD dapat diakses dengan berbagai moda transportasi, mulai dari KRL Commuter Line, Transjakarta, shuttle bus, bus gratis, hingga kendaraan pribadi.",
       "published": "",
       "media": "Tempo Bisnis",
-      "content": "",
-      "fetched_ok": false,
-      "sentiment_score": 0.0,
-      "sentiment_label": "Netral",
-      "risk_score": 0,
+      "content": "INFO TEMPO - PT Bank Negara Indonesia (Persero) Tbk atau BNI menyediakan berbagai pilihan akses transportasi bagi masyarakat yang ingin mengunjungi BNI wondrX 2026. Kegiatan ini berlangsung di ICE BSD, Tangerang, pada 21 hingga 23 Agustus 2026.\n\nSalah satu pilihan transportasi yang digunakan pengunjung adalah KRL Commuter Line. Dewi, pengunjung yang berasal dari Radio Dalam, Jakarta Selatan, berangkat dari Stasiun Kebayoran menuju Stasiun Cisauk dengan waktu tempuh sekitar 30 menit. Dari Stasiun Cisauk, ia kemudian melanjutkan perjalanan menggunakan shuttle menuju ICE BSD.\n\nMenurut Dewi, pilihan transportasi publik membuat perjalanan menuju BNI wondrX 2026 menjadi lebih praktis. Setibanya di lokasi, ia dapat langsung menikmati berbagai aktivitas dalam gelaran bertajuk Experience the Xtraordinary tersebut.\n\nCorporate Secretary BNI Okki Rushartomo mengatakan, BNI berupaya memberikan kemudahan bagi pengunjung sejak perjalanan menuju lokasi hingga saat menikmati seluruh rangkaian acara.\n\n“Kami ingin masyarakat bisa datang dengan nyaman untuk menikmati berbagai aktivitas di BNI wondrX 2026. Karena itu, kami menyiapkan sejumlah pilihan akses dan transportasi yang dapat dimanfaatkan pengunjung untuk menuju ICE BSD,” ujar Okki dalam keterangan tertulis.\n\nBNI wondrX 2026 berlangsung di Hall 5–10 ICE BSD dan terbuka bagi masyarakat tanpa biaya masuk. Pengunjung dapat melakukan registrasi melalui aplikasi wondr by BNI dan akan memperoleh QR yang digunakan sebagai akses masuk ke area acara.\n\nBagi masyarakat yang menggunakan KRL Commuter Line dari arah Jakarta Kota, Bogor, Bekasi, Tangerang, maupun Rangkasbitung, perjalanan dapat dilanjutkan dengan turun di Stasiun Cisauk. Dari stasiun, pengunjung dapat berjalan kaki menuju Terminal Intermoda BSD dan menggunakan shuttle bus BSD Link menuju ICE BSD.\n\nShuttle bus BSD Link tersedia setiap dua jam mulai pukul 09.00 hingga 19.00 WIB. Sementara itu, layanan shuttle dari AEON tersedia setiap dua jam mulai pukul 09.40 hingga 19.40 WIB.\n\nBNI juga menyediakan empat bus gratis dari Menara BNI menuju ICE BSD. Bus 1 berangkat pukul 09.00, 12.00, 15.00, dan 18.00 WIB; Bus 2 pukul 09.30, 12.30, 15.30, dan 18.30 WIB; Bus 3 pukul 10.00, 13.00, 16.00, dan 19.00 WIB; serta Bus 4 pukul 10.30, 13.30, 16.30, dan 19.30 WIB.\n\nUntuk perjalanan kembali dari ICE BSD menuju Menara BNI, Bus 1 tersedia pukul 10.30, 13.30, 16.30, dan 19.30 WIB; Bus 2 pukul 11.00, 14.00, 17.00, dan 20.00 WIB; Bus 3 pukul 11.30, 14.30, 17.30, dan 20.30 WIB; sedangkan Bus 4 pukul 12.00, 15.00, 18.00, dan 21.00 WIB.\n\nPengunjung yang menggunakan Transjakarta dapat memilih rute S11 menuju BSD dan turun di Teras Kota, kemudian melanjutkan perjalanan menggunakan BSD Link rute The Breeze–ICE BSD.\n\nSementara bagi pengguna kendaraan pribadi, ICE BSD dapat diakses melalui Tol Jakarta–Tangerang dan keluar di Exit 18 Tangerang–Serpong, atau melalui Tol Jakarta Outer Ring Road (JORR)–Serpong dan keluar di Exit 16 ICE/BSD City.\n\n“Pengunjung cukup menunjukkan QR registrasi BNI wondrX 2026 kepada petugas sebelum naik bus yang kami sediakan. Layanan ini bebas biaya. Kami berharap kemudahan akses ini membuat semakin banyak masyarakat dapat datang dan menikmati BNI wondrX 2026,” kata Okki.\n\nSelain kemudahan akses, BNI wondrX 2026 menghadirkan berbagai aktivitas yang mencakup layanan perbankan, gaya hidup, properti, otomotif, kuliner, hingga hiburan selama tiga hari penyelenggaraan. (*)",
+      "fetched_ok": true,
+      "sentiment_score": -0.333,
+      "sentiment_label": "Negatif",
+      "risk_score": 1,
       "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "reason": "Leksikon: 1 positif, 2 negatif, 0 kata berisiko."
     },
     {
       "title": "BNI wondrX 2026 Hadirkan Zona Travel sebagai Solusi Kebutuhan Perjalanan",
@@ -345,8 +345,8 @@
       "summary": "PT Pertamina Patra Niaga Refinery Unit (RU) IV Cilacap secara resmi mengumumkan pelaksanaan tender terbuka untuk pekerjaan bertajuk \"PENGGANTIAN COLUMN ASSY 11C-1 AREA FOC I PT. PERTAMINA PATRA NIAGA DI RU IV CILACAP\".",
       "published": "",
       "media": "Tempo Bisnis",
-      "content": "",
-      "fetched_ok": false,
+      "content": "INFO TEMPO - PT Pertamina Patra Niaga Refinery Unit (RU) IV Cilacap secara resmi mengumumkan pelaksanaan tender terbuka untuk pekerjaan bertajuk “PENGGANTIAN COLUMN ASSY 11C-1 AREA FOC I PT. PERTAMINA PATRA NIAGA DI RU IV CILACAP”. Tender ini merupakan bagian dari upaya perusahaan dalam menjaga keandalan operasional serta memastikan keberlangsungan proses produksi di area Fuel Oil Complex (FOC) I. Tender ini dibuka hingga 24 Agustus 2026 pukul 23.59.\n\nMelalui mekanisme tender terbuka, Pertamina Patra Niaga memberikan kesempatan yang sama kepada perusahaan-perusahaan yang memenuhi persyaratan untuk berpartisipasi dalam proses pengadaan tersebut. Proses ini dilaksanakan secara transparan dan akuntabel sesuai dengan ketentuan dan tata kelola perusahaan.\n\nBagi penyedia barang dan jasa yang berminat mengikuti tender, pendaftaran dapat dilakukan secara daring melalui situs web resmi di https://ptm.id/daftarGEPSMART . Peserta diwajibkan melakukan registrasi sesuai dengan prosedur yang telah ditetapkan dalam sistem.\n\nInformasi lebih lengkap mengenai ruang lingkup pekerjaan, persyaratan administrasi, serta ketentuan teknis dapat diperoleh dengan mengunduh dokumen tender melalui tautan yang telah disediakan di sini . Pertamina Patra Niaga RU IV Cilacap mengimbau seluruh calon peserta mempelajari dokumen secara saksama sebelum mengajukan penawaran.\n\nSelain dokumen persyaratan tender, tautan tersebut telah menyertakan sejumlah lampiran yang wajib diisi oleh peserta tender dan menjadi persyaratan untuk mengikuti tender. (*)",
+      "fetched_ok": true,
       "sentiment_score": 0.0,
       "sentiment_label": "Netral",
       "risk_score": 0,
@@ -359,13 +359,13 @@
       "summary": "KKP menyelamatkan 1.286 butir telur penyu di Kabupaten Sambas, Kalimantan Barat, yang ditemukan di dua lokasi dan ditangani sesuai hasil identifikasi serta prosedur konservasi.",
       "published": "",
       "media": "Tempo Bisnis",
-      "content": "",
-      "fetched_ok": false,
-      "sentiment_score": 0.0,
-      "sentiment_label": "Netral",
+      "content": "INFO TEMPO - Kementerian Kelautan dan Perikanan (KKP) membantu menyelamatkan 1.286 butir telur penyu yang ditemukan di Kabupaten Sambas, Kalimantan Barat. Sebanyak 96 butir di antaranya ditemukan personel Satgas Pamtas TNI AD Gabma Temajok saat berpatroli di wilayah Temajuk. Sementara itu, 1.190 butir telur lainnya diamankan Badan Karantina Indonesia di Sintete, Kabupaten Sambas.\n\nTim Respon Cepat Balai Pengelolaan Kelautan Pontianak langsung melakukan pengumpulan bahan dan keterangan, pendataan, evakuasi, serta identifikasi bersama dokter hewan sebagai dasar penanganan lebih lanjut.\n\nDirektur Jenderal Pengelolaan Kelautan KKP Koswara mengatakan perlindungan penyu membutuhkan kolaborasi dari seluruh pihak. Menurut dia, kecepatan respons, koordinasi antarinstansi, serta kepatuhan terhadap prosedur menjadi kunci agar setiap temuan dapat ditangani dengan baik.\n\n\"Sekaligus mendukung kelestarian ekosistem laut,\" ujarnya dalam siaran resmi di Jakarta pada Selasa, 11 Agustus 2026.\n\nBerdasarkan hasil identifikasi dan pemeriksaan dokter hewan dari Sealife, 96 butir telur yang diamankan dari Temajuk terindikasi merupakan penyu hijau, masih dalam kondisi baik, dan menunjukkan tanda fertilitas sehingga direkomendasikan untuk ditetaskan dan kini telah diinkubasi di Kantor Balai PK Pontianak. Sementara itu, 1.190 butir telur yang diamankan dari Sintete terindikasi berasal dari penyu sisik dan penyu hijau, namun sampel tidak menunjukkan tanda fertilitas sehingga tidak direkomendasikan untuk diinkubasi dan selanjutnya ditangani sesuai mekanisme yang berlaku.\n\nKepala Balai Pengelolaan Kelautan Pontianak, Syarif Iwan Taruna Alkadrie, mengatakan seluruh tahapan penanganan dilakukan dengan memperhatikan aspek konservasi, teknis, administrasi, dan penegakan hukum.\n\n\"Setiap temuan penyu maupun telurnya harus ditangani secara hati-hati dan dapat dipertanggungjawabkan. Karena itu, kami terus memperkuat koordinasi dengan seluruh instansi terkait agar perlindungan terhadap jenis ikan dilindungi dapat berjalan secara optimal,\" ujarnya.\n\nIwan juga mengajak masyarakat untuk berperan aktif menjaga kelestarian penyu dengan tidak mengambil, memperjualbelikan, mengangkut, ataupun memanfaatkan penyu dan telurnya secara ilegal. Masyarakat diimbau segera melaporkan kepada petugas atau instansi berwenang apabila menemukan penyu, telur penyu, maupun aktivitas yang diduga melanggar ketentuan perlindungan jenis ikan.\n\nSebagai tindak lanjut, Balai Pengelolaan Kelautan Pontianak menyampaikan hasil identifikasi beserta dokumen pendukung kepada PSDKP Pontianak untuk diproses sesuai kewenangannya. Sementara itu, telur yang tidak direkomendasikan untuk ditetaskan akan ditangani berdasarkan mekanisme hukum yang berlaku. (*)",
+      "fetched_ok": true,
+      "sentiment_score": 1.0,
+      "sentiment_label": "Positif",
       "risk_score": 0,
       "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "reason": "Leksikon: 2 positif, 0 negatif, 0 kata berisiko."
     },
     {
       "title": "PT Pertamina Patra Niaga RU Cilacap Buka Tender Penggantian Column Assy 11C-1",
@@ -401,13 +401,13 @@
       "summary": "Bea Cukai Ngurah Rai menggagalkan penyelundupan 10 kilogram ganja dari Thailand yang dibawa dua warga negara India melalui Bandara I Gusti Ngurah Rai, Bali.",
       "published": "",
       "media": "Tempo Bisnis",
-      "content": "",
-      "fetched_ok": false,
-      "sentiment_score": 0.0,
-      "sentiment_label": "Netral",
-      "risk_score": 0,
+      "content": "INFO TEMPO - Bea Cukai Ngurah Rai bersama Satuan Reserse Narkoba Polres Kawasan Bandara I Gusti Ngurah Rai menggagalkan penyelundupan lebih dari 10 kilogram narkotika golongan I jenis Delta-9 Tetrahydrocannabinol (ganja) yang dibawa dua warga negara India pada Senin, 3 Agustus 2026.\n\nPengungkapan bermula sekitar pukul 10.30 WITA ketika pesawat Scoot Air nomor penerbangan TR280 dengan rute Koh Samui (Thailand)–Singapura–Denpasar tiba di Bandara Internasional I Gusti Ngurah Rai. Seluruh penumpang kemudian menjalani pemeriksaan rutin oleh petugas Bea Cukai Ngurah Rai di area kedatangan internasional.\n\nSekitar pukul 11.25 WITA, berdasarkan hasil analisis citra mesin X-ray dan manajemen risiko, petugas Bea Cukai mencurigai barang bawaan dua penumpang berkewarganegaraan India berinisial AR, seorang manajer, dan PC, seorang guru. Kecurigaan tersebut ditindaklanjuti dengan pemeriksaan mendalam terhadap koper milik keduanya.\n\nDari koper milik AR, petugas menemukan delapan kotak yang berisi total 62 kemasan serbuk tanaman kering berwarna hijau kecokelatan yang setelah dilakukan pengujian terbukti mengandung narkotika golongan I jenis Delta-9 Tetrahydrocannabinol (ganja), dengan berat 6.399 gram bruto atau 6.275 gram netto. Sementara itu, dari koper milik PC ditemukan enam kotak berisi 38 kemasan dengan jenis barang serupa, dengan berat mencapai 3.911 gram bruto atau 3.835 gram netto.\n\nSecara keseluruhan, petugas mengamankan 100 kemasan narkotika jenis ganja dengan berat total 10.310 gram bruto atau 10.110 gram netto. Hasil pengujian Laboratorium Bea dan Cukai Ngurah Rai melalui Laporan Hasil Pengujian Nomor SHPIB-77/BLBC.3.02/2026 dan SHPIB-78/BLBC.3.02/2026 tanggal 3 Agustus 2026 memastikan seluruh barang bukti tersebut positif mengandung narkotika golongan I jenis Delta-9 Tetrahydrocannabinol (ganja).\n\n\"Berdasarkan hasil pemeriksaan awal, kedua terduga pelaku mengaku datang ke Bali untuk berlibur selama tiga hari bersama keluarga. Mereka juga mengakui memperoleh barang tersebut dari seseorang di Thailand sebelum membawanya ke Indonesia. Untuk mengelabui petugas, narkotika disamarkan sebagai oleh-oleh makanan yang dikemas dalam beberapa kardus dan dicampurkan bersama barang bawaan lainnya di dalam koper,\" kata Kepala Kantor Bea Cukai Ngurah Rai Wawan Dharmawan.\n\nSetelah barang bukti ditemukan, Bea Cukai Ngurah Rai segera berkoordinasi dengan Satresnarkoba Polres Kawasan Bandara I Gusti Ngurah Rai. Selanjutnya dilakukan serah terima tersangka, barang bukti, dan penanganan perkara di Kantor Bea Cukai Ngurah Rai.\n\nTim gabungan kemudian dibentuk untuk melaksanakan controlled delivery sebagai bagian dari upaya pengembangan kasus dan pengungkapan jaringan yang lebih luas. Setelah itu, kedua pelaku beserta barang bukti dibawa ke Polres Kawasan Bandara I Gusti Ngurah Rai untuk menjalani proses penyidikan lebih lanjut.\n\nWawan mengatakan pengungkapan kasus tersebut menunjukkan kolaborasi Bea Cukai dan Kepolisian menjadi garda terdepan dalam mengamankan pintu masuk negara dari ancaman penyelundupan narkotika. Penindakan itu diperkirakan telah menyelamatkan lebih dari 2.076 jiwa dari dampak penyalahgunaan narkotika serta mencegah potensi kerugian ekonomi masyarakat hingga Rp 3,3 miliar.\n\n\"Kolaborasi antarpenegak hukum akan terus diperkuat melalui pertukaran informasi, pengawasan berbasis intelijen, serta operasi terpadu guna melindungi masyarakat dan menjaga Indonesia dari ancaman jaringan peredaran gelap narkotika internasional,\" katanya. (*)",
+      "fetched_ok": true,
+      "sentiment_score": -0.333,
+      "sentiment_label": "Negatif",
+      "risk_score": 1,
       "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "reason": "Leksikon: 1 positif, 2 negatif, 0 kata berisiko."
     },
     {
       "title": "Pemkab Bogor: Serah Terima PSU Sentul City Rampung, Tinggal Tunggu Sertifikat BPN",
@@ -485,13 +485,13 @@
       "summary": "Tiga jenis BBM Pertamina seperti Pertamax Turbo, Pertamax Green 95, dan Pertamax turun harga per 1 Agustus.",
       "published": "",
       "media": "Tempo Bisnis",
-      "content": "",
-      "fetched_ok": false,
+      "content": "PT Pertamina Patra Niaga mengumumkan penyesuaian harga Bahan Bakar Minyak (BBM) nonsubsidi yang berlaku mulai 1 Agustus 2026. BBM jenis Pertamax Turbo, Pertamax Green 95, dan Pertamax atau RON 92 turun harga.\n\nVP Corporate Communication Pertamina Patra Niaga, Kitty Andhora, menyatakan perubahan berkala ini dilakukan mengikuti tren harga rata-rata harga minyak dunia serta mempertimbangkan nilai tukar rupiah. Penyesuaian harga BBM nonsubsidi dilakukan mengikuti ketentuan dan arahan pemerintah dengan tetap memperhatikan daya beli masyarakat.\n\n“Langkah ini juga merupakan bagian dari upaya menjaga ketersediaan pasokan BBM nasional agar tetap terjamin bagi masyarakat,” ucap Kitty dalam keterangan resmi pada Sabtu, 1 Agustus 2026.\n\nData terkini anak usaha Pertamina yang fokus pada penyaluran, serta pemasaran produk energi ini menunjukkan tiga jenis bahan bakar turun sedangkan dua lainnya tetap. Harga Pertamax Turbo turun Rp 1.000 dari semula Rp 19.300 per liter menjadi Rp 18.300 per liter.\n\nSedangkan harga jenis Pertamax Green 95 turun Rp 400 rupiah dari sebelumnya Rp 17.000 per liter menjadi Rp 16.600 per liter. Adapun jenis Pertamax (RON 92) turun Rp 300 dari Rp 16.250 menjadi Rp 15.950 per liter.\n\nSementara itu, harga Pertamina Dex tetap senilai Rp 21.150 per liter sedangkan jenis Dexlite tetap Rp 19.700 per liter. Menurut Pertamina, harga tersebut berlaku untuk wilayah dengan Pajak Bahan Bakar Kendaraan Bermotor (PBBKB) sebesar 5 persen, seperti DKI Jakarta.\n\nPertamina awalnya mulai menaikkan harga BBM jenis Pertamax Turbo, Dexlite, dan Pertamina Dex mulai Sabtu, 18 April 2026. Disusul kenaikan Pertamax Green 95 dan Pertamax (RON 92) pada Juni 2026. Penyesuaian harga dilakukan imbas lonjakan harga minyak dunia di tengah ketegangan di Timur Tengah.\n\nSejak Maret 2026, harga minyak dunia mengalami fluktuasi dan sempat beberapa kali bertengger di atas US$ 100 per barel. Hingga akhir Juli 2026, harga minyak dunia mencapai sekitar US$ 88 per barel.",
+      "fetched_ok": true,
       "sentiment_score": -1.0,
       "sentiment_label": "Negatif",
-      "risk_score": 10,
+      "risk_score": 4,
       "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 1 negatif, 0 kata berisiko."
+      "reason": "Leksikon: 0 positif, 5 negatif, 0 kata berisiko."
     },
     {
       "title": "Kata OJK soal Penerbitan Panda Bond dan Patriot Bond",
@@ -513,13 +513,13 @@
       "summary": "Pergerakan IHSG seiring menguatnya mayoritas bursa regional Asia.",
       "published": "",
       "media": "Tempo Bisnis",
-      "content": "",
-      "fetched_ok": false,
-      "sentiment_score": 1.0,
-      "sentiment_label": "Positif",
-      "risk_score": 0,
+      "content": "INDEKS Harga Saham Gabungan ( IHSG ) selama sepekan atau periode perdagangan 27 hingga 31 Juli 2026 ditutup sedikit menguat. Berdasarkan data Bursa Efek Indonesia (BEI), indeks sepekan naik 0,64 persen dibandingkan dengan perdagangan pekan sebelumnya.\n\nIHSG pada pekan ini ditutup pada level 6.236,12 atau meningkat dibandingkan dengan posisi pekan sebelumnya yang tercatat di level 6.196,43. “Kapitalisasi pasar BEI juga meningkat 0,48 persen menjadi Rp10.923 triliun dari Rp10.870 triliun pada pekan lalu,” demikian dikutip dari keterangan resmi BEI, Ahad, 1 Agustus 2026.\n\nBEI mencatat rata-rata perdagangan selama pekan ini ditutup dengan kinerja yang bervariasi. Rata-rata nilai transaksi harian pekan ini merosot 21,86 persen menjadi Rp 15,44 triliun dari Rp 19,76 triliun pada pekan sebelumnya. Sedangkan rata-rata volume transaksi harian BEI pekan ini juga turun 31,23 persen menjadi 30,04 miliar lembar saham dari sebelumnya 43,68 miliar lembar saham.\n\nAdapun rata-rata frekuensi transaksi harian pekan ini juga mengalami penurunan 31,88 persen menjadi 1,82 juta kali transaksi dari 2,67 juta kali transaksi pada pekan lalu. Pada penutupan perdagangan Jumat, 31 Juli 2026, investor asing mencatatkan nilai jual bersih Rp 250,58 miliar dan sepanjang tahun 2026 investor asing telah mencatatkan nilai jual bersih sebesar Rp 72,987 triliun.\n\nPergerakan IHSG seiring menguatnya mayoritas bursa regional Asia. Associate Director of Research and Investment Pilarmas Investindo Sekuritas, Maximilianus Nico Demus, menyatakan, pelaku pasar merespons rilis data ekonomi Amerika Serikat (AS) dan hasil pertemuan biro politik atau Politbiro Cina.\n\nData ekonomi AS menunjukkan inflasi Personal Consumption Expenditures (PCE) AS pada Juni 2026 melandai ke angka 3,7 persen secara tahunan atau year on year (yoy). Sedangkan pertumbuhan ekonomi kuartal II-2026 negara Abang Sam melambat di level 1,5 persen (yoy).\n\n\"Kondisi itu memicu spekulasi investor bahwa The Fed akan mengalihkan fokusnya dari pengendalian inflasi ke mitigasi kelesuan ekonomi. Sehingga pasar berekspektasi bahwa The Fed akan kembali menahan suku bunga pada rapat kebijakan di bulan September 2026,\" ujar Nico seperti dikutip dari Antara .",
+      "fetched_ok": true,
+      "sentiment_score": 0.111,
+      "sentiment_label": "Netral",
+      "risk_score": 3,
       "risk_label": "Rendah",
-      "reason": "Leksikon: 1 positif, 0 negatif, 0 kata berisiko."
+      "reason": "Leksikon: 5 positif, 4 negatif, 0 kata berisiko."
     },
     {
       "title": "Hyundai Targetkan Prototipe Mobil Neira Capai TKDN 80 Persen",
@@ -583,8 +583,8 @@
       "summary": "PSEL Legok Nangka diproyeksikan menghasilkan listrik sebesar 40,79 megawatt.",
       "published": "",
       "media": "Tempo Bisnis",
-      "content": "",
-      "fetched_ok": false,
+      "content": "KEMENTERIAN Energi dan Sumber Daya Mineral memulai pembangunan fasilitas Pengolah Sampah menjadi Energi Listrik ( PSEL ) Legok Nangka di Kabupaten Bandung, Jawa Barat. Proyek senilai US$ 400 juta atau sekitar Rp 7,2 triliun itu ditargetkan bisa mengolah 2.131 ton sampah per hari dari enam kabupaten dan kota di Jawa Barat menjadi listrik berkapasitas 40,79 megawatt.\n\nProsesi peletakan batu pertama dilakukan pada Rabu, 29 Juli 2026, di kawasan Tempat Pengolahan dan Pemrosesan Akhir Sampah Regional (TPPAS) Legok Nangka. Acara tersebut dihadiri Wakil Menteri ESDM Yuliot Tanjung dan Gubernur Jawa Barat Dedi Mulyadi.\n\nYuliot mengatakan pembangunan PLTSa Legok Nangka merupakan bagian dari upaya pemerintah mempercepat penyelesaian persoalan sampah perkotaan sekaligus meningkatkan pemanfaatan sampah sebagai sumber energi.\n\nMenurut dia, Presiden Prabowo Subianto telah menginstruksikan penyelesaian persoalan sampah perkotaan secara menyeluruh sebelum 2029 melalui pendekatan dari hulu hingga hilir, termasuk mengembangkan skema waste to energy .\n\n\" Groundbreaking hari ini bukan sekadar menandai dimulainya pembangunan sebuah infrastruktur, tetapi juga menjadi simbol komitmen bersama untuk mewujudkan masa depan Indonesia yang lebih bersih, lebih hijau, dan berkelanjutan,\" kata Yuliot.\n\nIa berharap PLTSa Legok Nangka dapat menjadi model pengembangan proyek pengolahan sampah menjadi energi di berbagai daerah. Selain mengurangi volume sampah yang berakhir di tempat pemrosesan akhir, proyek tersebut juga diharapkan menghasilkan energi bersih, menekan emisi gas rumah kaca, menciptakan lapangan kerja, serta mendorong pertumbuhan ekonomi daerah.\n\nGubernur Jawa Barat Dedi Mulyadi mengatakan PLTSa Legok Nangka ditargetkan mulai beroperasi pada 2029. Menurut dia, proyek tersebut akan memberikan tiga manfaat utama, yakni mengurangi persoalan sampah di kawasan Bandung Raya, memasok listrik bagi masyarakat dan industri, serta meningkatkan kualitas lingkungan.\n\nSelama masa konstruksi yang diperkirakan berlangsung 41 bulan, proyek ini diproyeksikan menyerap sekitar 1.565 tenaga kerja. Setelah beroperasi, PLTSa Legok Nangka diperkirakan mampu mengurangi emisi gas rumah kaca hingga 311.874 ton karbon dioksida (CO) ekuivalen setiap tahun.\n\nPSEL Legok Nangka digarap konsorsium asal Jepang, Sumitomo Hitachi Zosen. Konsorsium tersebut merupakan bagian dari proyek kerja sama yang didukung oleh Japan International Cooperation Agency (JICA), lembaga kerja sama internasional milik Pemerintah Jepang.",
+      "fetched_ok": true,
       "sentiment_score": 0.0,
       "sentiment_label": "Netral",
       "risk_score": 0,
@@ -653,13 +653,13 @@
       "summary": "Melalui Surat Edaran Bersama (SEB) tentang Percepatan Implementasi Rekam Medis Elektronik (RME) Terintegrasi SATUSEHAT, rumah sakit mitra BPJS Kesehatan didorong untuk beralih dari klaim berbasis dokumen hasil pemindaian PDF menuju klaim elektronik berbasis data RME.",
       "published": "",
       "media": "Tempo Bisnis",
-      "content": "",
-      "fetched_ok": false,
-      "sentiment_score": 1.0,
-      "sentiment_label": "Positif",
-      "risk_score": 0,
+      "content": "INFO TEMPO - BPJS Kesehatan resmi menandatangani Surat Edaran Bersama (SEB) tentang Percepatan Implementasi Rekam Medis Elektronik (RME) Terintegrasi SATUSEHAT dalam Pengelolaan Klaim JKN pada Kamis, 30 Juli 2026. SEB tersebut ditandatangani bersama Kementerian Kesehatan, Kementerian Dalam Negeri, Komisi Pemberantasan Korupsi (KPK), dan Badan Siber dan Sandi Negara (BSSN).\n\nMelalui surat edaran ini, rumah sakit mitra BPJS Kesehatan didorong untuk beralih dari klaim berbasis dokumen hasil pemindaian PDF menuju klaim elektronik berbasis data RME.\n\nDeputi Bidang Pencegahan dan Monitoring KPK, Aminudin, mengatakan bahwa SEB tersebut mengunci standar teknis agar RME benar-benar menjadi satu-satunya sumber dokumen klaim JKN yang sah, utuh, dan diaudit. Ia pun menjelaskan bahwa kebijakan ini mulai diberlakukan pada Agustus 2026 sebagai masa transisi atau uji coba.\n\nHingga Mei 2026, KPK mencatat terdapat 2.400 rumah sakit yang telah mengirimkan data enam layanan RME ke SATUSEHAT.\n\n“Pada tahap ini, rumah sakit melakukan penyesuaian sistem, uji coba pengiriman data, penerapan tanda tangan elektronik, dan simulasi klaim elektronik tanpa mengganggu kesinambungan pembayaran layanan kesehatan. Selanjutnya, akan dilakukan evaluasi kembali pelaksanaannya. Jika dinilai sudah siap secara nasional, maka kebijakan ‘No RME, No Claim’ ditargetkan berlaku penuh pada 2027 mendatang,” kata Aminudin.\n\nRekam Medis Elektronik (RME) berbasis Nomor Induk Kependudukan (NIK) menghubungkan identitas pasien, diagnosis, tindakan, obat, tenaga kesehatan, waktu pelayanan, hingga dokumen pendukung lainnya dalam satu jejak digital. Integrasi tersebut dapat membantu mendeteksi potensi manipulasi data pasien maupun pola klaim yang tidak wajar.\n\nSementara itu, Direktur Perencanaan dan Pengembangan BPJS Kesehatan, Sutopo Patria Jati, menyampaikan bahwa implementasi RME yang terintegrasi dengan SATUSEHAT diharapkan mampu mewujudkan tata kelola verifikasi klaim yang lebih efektif, efisien, transparan, dan akuntabel. Di samping itu, juga dapat mengurangi risiko kesalahan administrasi maupun potensi kecurangan (fraud) dalam proses pengajuan klaim oleh rumah sakit.\n\n“Bersama Kementerian Kesehatan, kami siap mendukung pemanfaatan data RME yang terintegrasi SATUSEHAT untuk mend. Penerapan kebijakan ini dilakukan secara bertahap dan tidak mengganggu proses pelayanan rumah sakit bagi peserta. Integrasi ini merupakan salah satu upaya penguatan mekanisme pencegahan kecurangan dalam Program JKN, supaya proses verifikasi dan pembayaran klaim bisa lebih akurat dan transparan,” katanya.\n\nTurut hadir dalam acara tersebut, Direktur Jaminan Pelayanan Kesehatan BPJS Kesehatan, Abdi Kurniawan Purba; Direktur Teknologi Informasi BPJS Kesehatan, Setiaji;  Sekretaris Jenderal Kementerian Kesehatan, Kunta Wibaya Nugraha; Direktur Jenderal Kependudukan dan Pencatatan Sipil Kementerian Dalam Negeri, Teguh Setyabudi; dan Deputi Bidang Keamanan Siber dan Sandi Pemerintahan dan Pembangunan Manusia Badan Siber dan Sandi Negara, Sulistyo. (*)",
+      "fetched_ok": true,
+      "sentiment_score": 0.0,
+      "sentiment_label": "Netral",
+      "risk_score": 1,
       "risk_label": "Rendah",
-      "reason": "Leksikon: 1 positif, 0 negatif, 0 kata berisiko."
+      "reason": "Leksikon: 1 positif, 1 negatif, 0 kata berisiko."
     },
     {
       "title": "Menperin: Penjualan Kendaraan Listrik Pesat",
@@ -667,13 +667,13 @@
       "summary": "Menperin Agus Guwimang menyebut penjualan mobil listrik mencapai 117 ribu unit pada semester I 2026 atau naik 69,4 persen secara tahunan.",
       "published": "",
       "media": "Tempo Bisnis",
-      "content": "",
-      "fetched_ok": false,
+      "content": "TEMPO.CO , Jakarta - MENTERI Perindustrian ( Menperin ) Agus Gumiwang Kartasasmita mengatakan transformasi menuju kendaraan rendah emisi di Indonesia berlangsung lebih cepat dari perkiraan. Hal itu tercermin dari penjualan kendaraan elektrifikasi yang terus meningkat pesat sepanjang semester I 2026.\n\nAgus menyebut penjualan kendaraan listrik mencapai 117 ribu unit pada paruh pertama tahun ini atau naik 69,4 persen secara tahunan. \"Artinya, satu dari setiap empat mobil penumpang yang dibeli masyarakat Indonesia saat ini sudah merupakan kendaraan elektrifikasi. Lima tahun lalu angka itu bahkan belum terlihat,\" ujarnya saat membuka Gaikindo Indonesia International Auto Show ( GIIAS ) 2026 di BSD City, Tangerang, Banten, Kamis, 30 Juli 2026.\n\nMeski demikian, Agus menegaskan pemerintah tidak mengutamakan satu teknologi dibandingkan teknologi lainnya. Menurut dia, kendaraan listrik berbasis baterai (BEV), hybrid , plug-in hybrid electric vehicle (PHEV), mesin pembakaran internal (ICE) yang semakin efisien, hingga pemanfaatan biodiesel dan bioetanol memiliki tujuan yang sama, yakni menekan emisi sekaligus memperkuat ketahanan energi. \"Yang ingin kita percepat adalah pencapaian tujuannya, bukan menyeragamkan caranya,\" kata dia.\n\nSekretaris Umum Gabungan Industri Kendaraan Bermotor Indonesia (Gaikindo) Kukuh Kumara memperkirakan penjualan mobil plug-in hybrid electric vehicle (PHEV) masih akan terus meningkat. Data Gaikindo menunjukkan penjualan PHEV secara wholesale pada Januari-Mei 2026 mencapai 2.601 unit atau melonjak 416,1 persen dibandingkan periode yang sama tahun lalu.\n\nMenurut Kukuh, pertumbuhan tersebut didorong karakteristik PHEV yang tetap dapat menggunakan bahan bakar fosil sehingga lebih fleksibel bagi konsumen. Keunggulan itu menjadi daya tarik di tengah keterbatasan infrastruktur stasiun pengisian kendaraan listrik umum (SPKLU) yang masih terkonsentrasi di kota-kota besar.\n\nDi sisi lain, Wakil Ketua Bidang Pengembangan dan Penelitian Periklindo Prabowo Kartoleksono mencatat penjualan mobil listrik berbasis baterai (BEV) secara wholesale juga meningkat pesat. Sepanjang Januari-Mei 2026, penjualan BEV mencapai 57.087 unit atau tumbuh 80 persen dibandingkan periode yang sama tahun lalu.\n\nPrabowo mengatakan lonjakan tersebut didorong oleh semakin agresifnya produsen menghadirkan kendaraan listrik dengan teknologi yang lebih canggih dan harga yang semakin kompetitif.\n\n\"Bahkan kadang bisa lebih murah dibanding kendaraan bensin (ICE) sekelasnya,\" kata Prabowo dalam keterangan tertulis.",
+      "fetched_ok": true,
       "sentiment_score": 1.0,
       "sentiment_label": "Positif",
       "risk_score": 0,
       "risk_label": "Rendah",
-      "reason": "Leksikon: 1 positif, 0 negatif, 0 kata berisiko."
+      "reason": "Leksikon: 6 positif, 0 negatif, 0 kata berisiko."
     },
     {
       "title": "Pegadaian Kantongi SK PKB 2026-2028, Perkuat Kepastian Hukum Ketenagakerjaan",
@@ -681,13 +681,13 @@
       "summary": "PT Pegadaian (Persero) menerima Surat Keputusan Perjanjian Kerja Bersama (PKB) Periode 2026-2028 dari Kementerian Ketenagakerjaan sebagai landasan baru untuk memperkuat hubungan industrial dan kepastian hukum ketenagakerjaan di lingkungan perusahaan.",
       "published": "",
       "media": "Tempo Bisnis",
-      "content": "",
-      "fetched_ok": false,
-      "sentiment_score": 0.0,
-      "sentiment_label": "Netral",
+      "content": "INFO TEMPO -PT Pegadaian (Persero) menerima Surat Keputusan (SK) Perjanjian Kerja Bersama (PKB) Periode 2026–2028 dari Kementerian Ketenagakerjaan (Kemenaker) Republik Indonesia pada Rabu, 29 Juli 2026.\n\nAcara penyerahan SK PKB Periode 2026–2028 ini dihadiri oleh Menteri Ketenagakerjaan Republik Indonesia, Yassierli, bersama jajaran pejabat tinggi Kemenaker RI, di antaranya Staf Khusus Menteri Ketenagakerjaan Republik Indonesia Bidang Hubungan Industrial, Dialog Sosial dengan Serikat Buruh, Kebijakan Pengupahan, serta Pengawasan Ketenagakerjaan dan Keselamatan Kesehatan Kerja (K3), Indra, serta Direktur Hubungan Kerja dan Pengupahan di Kementerian Ketenagakerjaan, Dhatun Kuswandari.\n\nSelain Tim Perunding yang terdiri dari gabungan unsur manajemen dan Serikat Pekerja PT Pegadaian (Persero), turut hadir pada kegiatan tersebut jajaran pimpinan serikat pekerja dari berbagai BUMN, termasuk Ketua Umum Federasi Serikat Pekerja (FSP) BUMN, FSP Pertamina Bersatu, FSP Perkeretaapian, SP PLN, SP Bank Mandiri, SP Kimia Farma Apotek, SP Bank BRI, SP Jasa Raharja, hingga Sekar Telkom.\n\nDirektur Utama PT Pegadaian (Persero), Damar Latri Setiawan mengatakan bahwa adanya SK PKB ini menjadi wujud nyata kesepakatan resmi antara manajemen dan SP Pegadaian untuk mewujudkan iklim kerja yang kondusif dan dinamis.\n\n“Dengan diserahkannya SK PKB ini menjadi penanda berlakunya landasan hukum dan aturan baru ketenagakerjaan di lingkungan Pegadaian untuk tiga tahun ke depan. Pengesahan SK ini juga menjadi wujud nyata kesepakatan resmi antara manajemen dan Serikat Pekerja Pegadaian, yang harapannya dapat menciptakan iklim kerja yang kondusif, dinamis, serta memberikan kepastian hak dan kewajiban bagi seluruh insan Pegadaian di seluruh Indonesia,” ujar Damar.\n\nPenyusunan hingga pengesahan PKB Periode 2026–2028 ini membawa tiga tujuan utama bagi keberlanjutan bisnis dan kesejahteraan pekerja di PT Pegadaian, di antaranya kepastian hukum dan regulasi terbarukan untuk periode tiga tahun mendatang, hubungan industrial yang harmonis dan berkeadilan guna memperkuat komitmen kolektif antara manajemen dan Serikat Pekerja, serta peningkatan produktivitas korporasi untuk memberikan rasa aman dan kejelasan hak serta kewajiban bagi karyawan.\n\n\"Perjanjian Kerja Bersama bukan sekadar dokumen administratif formal, melainkan simbol kemitraan strategis dan mutual trust antara manajemen dan seluruh insan Pegadaian. Dengan kepastian hukum dan iklim kerja yang harmonis ini, kami meyakini seluruh elemen perusahaan dapat semakin fokus memberikan performa terbaik demi mendukung pertumbuhan perusahaan yang berkelanjutan dan berkontribusi nyata bagi perekonomian nasional,\" kata Damar.\n\nMelalui penyerahan SK PKB Periode 2026–2028 dari Kemenaker ini, PT Pegadaian mempertegas komitmennya untuk menjadi salah satu BUMN yang berada di bawah naungan Danantara dengan tata kelola hubungan industrial yang baik di Indonesia. Pegadaian akan terus berupaya memprioritaskan kesejahteraan SDM sebagai aset paling berharga dalam mencapai visi bisnis perusahaan di masa depan untuk mengEMASkan Indonesia. (*)",
+      "fetched_ok": true,
+      "sentiment_score": 1.0,
+      "sentiment_label": "Positif",
       "risk_score": 0,
       "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "reason": "Leksikon: 3 positif, 0 negatif, 0 kata berisiko."
     },
     {
       "title": "Danamon Bukukan Laba Bersih Rp 2,4 Triliun pada Semester I",
@@ -695,14 +695,14 @@
       "summary": "PT Bank Danamon Indonesia Tbk. membukukan laba bersih periode berjalan konsolidasian sebesar Rp 2,4 triliun pada semester I 2026.",
       "published": "",
       "media": "Tempo Bisnis",
-      "content": "",
-      "fetched_ok": false,
-      "sentiment_score": 1.0,
+      "content": "PT BANK Danamon Indonesia Tbk. membukukan laba bersih periode berjalan konsolidasian sebesar Rp 2,4 triliun pada semester I 2026. Nilai tersebut meningkat 33 persen dibandingkan laba bersih pada periode sama tahun sebelumnya yang tercatat sebesar Rp 1,8 triliun.\n\nAdapun laba operasional sebelum pencadangan atau pre-provision operating profit (PPOP) Danamon pada semester pertama tercatat sebesar Rp 5,9 triliun, tumbuh 13 persen dibandingkan tahun lalu yang tercatat sebesar Rp 5,2 triliun.\n\n“Pertumbuhan laba bersih tersebut didorong oleh peningkatan pendapatan dan didukung perbaikan kualitas kredit yang tercemin pada penurunan biaya kredit atau cost of credit sebesar 12 persen year on year ,” kata Chief Financial Officer Bank Danamon Theresia Adriana dalam konferensi pers daring pada Kamis, 30 Juli 2026.\n\nDari segi rentabilitas, Danamon membukukan margin bunga bersih atau NIM konsolidasian sebesar 8,1 persen. Angka tersebut menurun dibandingkan periode sama tahun lalu yang tercatat sebesar 8,5 persen. Sementara itu, rasio Loan at Risk (LAR) tercatat menurun menjadi 7,8 persen dibandingkan 10,2 persen pada periode sama tahun lalu.\n\nPer 30 Juni 2026, total kredit yang disalurkan Danamon mencapai Rp 230,1 triliun. Angka tersebut tumbuh 12 persen dibandingkan dengan tahun sebelumnya yang tercatat sebesar Rp 205,8 triliun. “Pertumbuhan dalam sisi kredit ini ditopang oleh pertumbuhan kredit seluruh lini bisnis, enterprise banking , dan financial institution (EBFI), SME (usaha kecil dan menengah) banking , consumer banking , dan anak perusahaan Danamon,” kata Theresia.\n\nJika dirinci, penyaluran kredit wholesale yang terdiri dari EBFI dan SME mencapai RP 137,8 triliun atau tumbuh 16 persen dibandingkan periode sama tahun lalu yang tercatat sebesar Rp 118,8 triliun. Sedangkan penyaluran kredit ritel yang terdiri dari consumer banking dan anak usaha Danamon mencapai Rp 92,3 triliun atau tumbuh 6 persen dibandingkan Rp 87 triliun pada periode sama tahun lalu.\n\nSementara itu, pada sisi penghimpunan dana, Danamon membukukan total rekening giro, rekening tabungan, dan deposito konsolidasian sebesar Rp 181,7 Triliun. Jumlah itu meningkat 14 persen dibandingkan periode yang sama pada tahun sebelumnya yang tercatat sebesar Rp 159,8 triliun.",
+      "fetched_ok": true,
+      "sentiment_score": 0.846,
       "sentiment_label": "Positif",
-      "risk_score": 0,
+      "risk_score": 1,
       "risk_label": "Rendah",
-      "reason": "Leksikon: 2 positif, 0 negatif, 0 kata berisiko."
+      "reason": "Leksikon: 12 positif, 1 negatif, 0 kata berisiko."
     }
   ],
-  "ok_count": 0
+  "ok_count": 11
 }
