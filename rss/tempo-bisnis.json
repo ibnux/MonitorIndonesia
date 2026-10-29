@@ -653,13 +653,13 @@
       "summary": "Melalui Surat Edaran Bersama (SEB) tentang Percepatan Implementasi Rekam Medis Elektronik (RME) Terintegrasi SATUSEHAT, rumah sakit mitra BPJS Kesehatan didorong untuk beralih dari klaim berbasis dokumen hasil pemindaian PDF menuju klaim elektronik berbasis data RME.",
       "published": "",
       "media": "Tempo Bisnis",
-      "content": "INFO TEMPO - BPJS Kesehatan resmi menandatangani Surat Edaran Bersama (SEB) tentang Percepatan Implementasi Rekam Medis Elektronik (RME) Terintegrasi SATUSEHAT dalam Pengelolaan Klaim JKN pada Kamis, 30 Juli 2026. SEB tersebut ditandatangani bersama Kementerian Kesehatan, Kementerian Dalam Negeri, Komisi Pemberantasan Korupsi (KPK), dan Badan Siber dan Sandi Negara (BSSN).\n\nMelalui surat edaran ini, rumah sakit mitra BPJS Kesehatan didorong untuk beralih dari klaim berbasis dokumen hasil pemindaian PDF menuju klaim elektronik berbasis data RME.\n\nDeputi Bidang Pencegahan dan Monitoring KPK, Aminudin, mengatakan bahwa SEB tersebut mengunci standar teknis agar RME benar-benar menjadi satu-satunya sumber dokumen klaim JKN yang sah, utuh, dan diaudit. Ia pun menjelaskan bahwa kebijakan ini mulai diberlakukan pada Agustus 2026 sebagai masa transisi atau uji coba.\n\nHingga Mei 2026, KPK mencatat terdapat 2.400 rumah sakit yang telah mengirimkan data enam layanan RME ke SATUSEHAT.\n\n“Pada tahap ini, rumah sakit melakukan penyesuaian sistem, uji coba pengiriman data, penerapan tanda tangan elektronik, dan simulasi klaim elektronik tanpa mengganggu kesinambungan pembayaran layanan kesehatan. Selanjutnya, akan dilakukan evaluasi kembali pelaksanaannya. Jika dinilai sudah siap secara nasional, maka kebijakan ‘No RME, No Claim’ ditargetkan berlaku penuh pada 2027 mendatang,” kata Aminudin.\n\nRekam Medis Elektronik (RME) berbasis Nomor Induk Kependudukan (NIK) menghubungkan identitas pasien, diagnosis, tindakan, obat, tenaga kesehatan, waktu pelayanan, hingga dokumen pendukung lainnya dalam satu jejak digital. Integrasi tersebut dapat membantu mendeteksi potensi manipulasi data pasien maupun pola klaim yang tidak wajar.\n\nSementara itu, Direktur Perencanaan dan Pengembangan BPJS Kesehatan, Sutopo Patria Jati, menyampaikan bahwa implementasi RME yang terintegrasi dengan SATUSEHAT diharapkan mampu mewujudkan tata kelola verifikasi klaim yang lebih efektif, efisien, transparan, dan akuntabel. Di samping itu, juga dapat mengurangi risiko kesalahan administrasi maupun potensi kecurangan (fraud) dalam proses pengajuan klaim oleh rumah sakit.\n\n“Bersama Kementerian Kesehatan, kami siap mendukung pemanfaatan data RME yang terintegrasi SATUSEHAT untuk mend. Penerapan kebijakan ini dilakukan secara bertahap dan tidak mengganggu proses pelayanan rumah sakit bagi peserta. Integrasi ini merupakan salah satu upaya penguatan mekanisme pencegahan kecurangan dalam Program JKN, supaya proses verifikasi dan pembayaran klaim bisa lebih akurat dan transparan,” katanya.\n\nTurut hadir dalam acara tersebut, Direktur Jaminan Pelayanan Kesehatan BPJS Kesehatan, Abdi Kurniawan Purba; Direktur Teknologi Informasi BPJS Kesehatan, Setiaji;  Sekretaris Jenderal Kementerian Kesehatan, Kunta Wibaya Nugraha; Direktur Jenderal Kependudukan dan Pencatatan Sipil Kementerian Dalam Negeri, Teguh Setyabudi; dan Deputi Bidang Keamanan Siber dan Sandi Pemerintahan dan Pembangunan Manusia Badan Siber dan Sandi Negara, Sulistyo. (*)",
-      "fetched_ok": true,
-      "sentiment_score": 0.0,
-      "sentiment_label": "Netral",
-      "risk_score": 1,
+      "content": "",
+      "fetched_ok": false,
+      "sentiment_score": 1.0,
+      "sentiment_label": "Positif",
+      "risk_score": 0,
       "risk_label": "Rendah",
-      "reason": "Leksikon: 1 positif, 1 negatif, 0 kata berisiko."
+      "reason": "Leksikon: 1 positif, 0 negatif, 0 kata berisiko."
     },
     {
       "title": "Menperin: Penjualan Kendaraan Listrik Pesat",
@@ -704,5 +704,5 @@
       "reason": "Leksikon: 2 positif, 0 negatif, 0 kata berisiko."
     }
   ],
-  "ok_count": 1
+  "ok_count": 0
 }
