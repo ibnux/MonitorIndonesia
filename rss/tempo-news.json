@@ -4,6 +4,48 @@
   "ok": true,
   "items": [
     {
+      "title": "Ceria Gandeng UMKM Lokal untuk Pengadaan Pakaian APD",
+      "link": "https://nasional.tempo.co/read/2122764/ceria-gandeng-umkm-lokal-untuk-pengadaan-pakaian-apd",
+      "summary": "PT Ceria Nugraha Indotama menggandeng UMKM penjahit lokal di Kecamatan Wolo, Kabupaten Kolaka, untuk memenuhi kebutuhan pakaian kerja karyawan sekaligus membuka peluang usaha dan memperkuat perekonomian masyarakat sekitar.",
+      "published": "",
+      "media": "Tempo news",
+      "content": "",
+      "fetched_ok": false,
+      "sentiment_score": 0.0,
+      "sentiment_label": "Netral",
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+    },
+    {
+      "title": "Pink Run 2026 di Kota Bogor, Langkah Bersama Menguatkan Pejuang Kanker",
+      "link": "https://nasional.tempo.co/read/2122755/pink-run-2026-di-kota-bogor-langkah-bersama-menguatkan-pejuang-kanker",
+      "summary": "Pink Run 2026 di Kota Bogor menjadi ruang kebersamaan bagi penyintas kanker dan masyarakat untuk saling menguatkan sekaligus menggaungkan pentingnya deteksi dini melalui edukasi dan pemeriksaan kesehatan gratis.",
+      "published": "",
+      "media": "Tempo news",
+      "content": "",
+      "fetched_ok": false,
+      "sentiment_score": 0.0,
+      "sentiment_label": "Netral",
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+    },
+    {
+      "title": "Kota Bogor Raih Dua Rekor MURI Lewat Gerakan Deteksi Dini Kanker Payudara",
+      "link": "https://nasional.tempo.co/read/2122742/kota-bogor-raih-dua-rekor-muri-lewat-gerakan-deteksi-dini-kanker-payudara",
+      "summary": "Yayasan Kanker Indonesia (YKI) Cabang Kota Bogor meraih dua rekor MURI setelah berhasil menggerakkan ribuan perempuan mengikuti pemeriksaan deteksi dini kanker secara gratis sepanjang Oktober 2026.",
+      "published": "",
+      "media": "Tempo news",
+      "content": "",
+      "fetched_ok": false,
+      "sentiment_score": 1.0,
+      "sentiment_label": "Positif",
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Leksikon: 2 positif, 0 negatif, 0 kata berisiko."
+    },
+    {
       "title": "Konsep Glow in the Dark Warnai Pagelaran Gandrung Sewu 2026",
       "link": "https://nasional.tempo.co/read/2122322/konsep-glow-in-the-dark-warnai-pagelaran-gandrung-sewu-2026",
       "summary": "Untuk pertama kalinya digelar malam hari dengan konsep Glow in the Dark, festival ini menghadirkan 1.300 penari dengan perpaduan seni tradisional, tata cahaya modern, pertunjukan drone, dan kembang api.",
@@ -660,48 +702,6 @@
       "risk_score": 0,
       "risk_label": "Rendah",
       "reason": "Leksikon: 1 positif, 0 negatif, 0 kata berisiko."
-    },
-    {
-      "title": "Empat Kategori Baru dalam Apresiasi Pemerintah Daerah Berprestasi 2026 Sejalan dengan Asta Cita",
-      "link": "https://nasional.tempo.co/read/2118190/empat-kategori-baru-dalam-apresiasi-pemerintah-daerah-berprestasi-2026-sejalan-dengan-asta-cita",
-      "summary": "Apresiasi Pemerintah Daerah Berprestasi Batch II tidak hanya mengukur capaian makro daerah, tapi juga mendorong pemerintah daerah menjawab sejumlah persoalan yang menjadi prioritas pembangunan nasional",
-      "published": "",
-      "media": "Tempo news",
-      "content": "",
-      "fetched_ok": false,
-      "sentiment_score": 0.0,
-      "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
-    },
-    {
-      "title": "Moto Prix Piala Wali Kota Pekanbaru Jadi Ajang Balap Sekaligus Aksi Sosial",
-      "link": "https://nasional.tempo.co/read/2118188/moto-prix-piala-wali-kota-pekanbaru-jadi-ajang-balap-sekaligus-aksi-sosial",
-      "summary": "Tak hanya menyuguhkan persaingan para pembalap, event ini juga memberikan dampak positif bagi UMKM sekaligus menjadi momentum kepedulian sosial untuk  korban bencana di NTT.",
-      "published": "",
-      "media": "Tempo news",
-      "content": "",
-      "fetched_ok": false,
-      "sentiment_score": -0.333,
-      "sentiment_label": "Negatif",
-      "risk_score": 19,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 1 positif, 2 negatif, 1 kata berisiko."
-    },
-    {
-      "title": "Megawati: Surabaya adalah Dapur Nasionalisme Bung Karno",
-      "link": "https://nasional.tempo.co/read/2118167/megawati-surabaya-adalah-dapur-nasionalisme-bung-karno",
-      "summary": "Megawati Soekarnoputri menegaskan pentingnya Jawa Timur dan Surabaya dalam pembentukan pemikiran Bung Karno serta meminta kader PDIP menjadikan semangat perjuangannya sebagai energi untuk memperkuat akar rumput.",
-      "published": "",
-      "media": "Tempo news",
-      "content": "",
-      "fetched_ok": false,
-      "sentiment_score": 0.0,
-      "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
     }
   ],
   "ok_count": 0
