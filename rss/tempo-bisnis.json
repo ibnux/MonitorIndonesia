@@ -4,6 +4,20 @@
   "ok": true,
   "items": [
     {
+      "title": "Lintasarta Dorong Kedaulatan Digital di Indonesia Melalui Merdeka AI",
+      "link": "https://bisnis.tempo.co/read/2123197/lintasarta-dorong-kedaulatan-digital-di-indonesia-melalui-merdeka-ai",
+      "summary": "Melalui pengembangan infrastruktur digital, layanan cloud, dan kapabilitas AI, Lintasarta mendukung pemanfaatan AI yang aman, bertanggung jawab, dan relevan dengan industri.",
+      "published": "",
+      "media": "Tempo Bisnis",
+      "content": "",
+      "fetched_ok": false,
+      "sentiment_score": 1.0,
+      "sentiment_label": "Positif",
+      "risk_score": 0,
+      "risk_label": "Rendah",
+      "reason": "Leksikon: 1 positif, 0 negatif, 0 kata berisiko."
+    },
+    {
       "title": "Soroti Gangguan Operasional di Stasiun Bogor, Komisi V DPR RI Minta Pemerintah Proaktif Perbarui Informasi ke Masyarakat",
       "link": "https://bisnis.tempo.co/read/2119557/soroti-gangguan-operasional-di-stasiun-bogor-komisi-v-dpr-ri-minta-pemerintah-proaktif-perbarui-informasi-ke-masyarakat",
       "summary": "Komisi V DPR RI menyoroti gangguan operasional kereta api di Stasiun Bogor dan meminta pemerintah serta pengelola meningkatkan penyampaian informasi terkini kepada masyarakat.",
@@ -688,20 +702,6 @@
       "risk_score": 0,
       "risk_label": "Rendah",
       "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
-    },
-    {
-      "title": "Danamon Bukukan Laba Bersih Rp 2,4 Triliun pada Semester I",
-      "link": "https://bisnis.tempo.co/read/2116168/danamon-bukukan-laba-bersih-rp-24-triliun-pada-semester-i",
-      "summary": "PT Bank Danamon Indonesia Tbk. membukukan laba bersih periode berjalan konsolidasian sebesar Rp 2,4 triliun pada semester I 2026.",
-      "published": "",
-      "media": "Tempo Bisnis",
-      "content": "",
-      "fetched_ok": false,
-      "sentiment_score": 1.0,
-      "sentiment_label": "Positif",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 2 positif, 0 negatif, 0 kata berisiko."
     }
   ],
   "ok_count": 0
