@@ -11,11 +11,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 1.0,
-      "sentiment_label": "Positif",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 1 positif, 0 negatif, 0 kata berisiko."
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Lintasarta mendukung pemanfaatan AI yang aman, bertanggung jawab, dan relevan dengan industri, yang merupakan isu yang sedang berkembang dan memiliki potensi tinggi dalam hal risiko."
     },
     {
       "title": "Soroti Gangguan Operasional di Stasiun Bogor, Komisi V DPR RI Minta Pemerintah Proaktif Perbarui Informasi ke Masyarakat",
@@ -25,11 +25,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Komisi V DPR RI menyoroti gangguan operasional dan meminta pemerintah meningkatkan informasi kepada masyarakat, menunjukkan perhatian dan upaya untuk memperbaiki situasi."
     },
     {
       "title": "Perkuat Ekosistem Pesisir, KKP Bersama Pemerintah Kota Padang Tanam 1.000 Bibit Mangrove",
@@ -37,13 +37,13 @@
       "summary": "KKP bersama Pemerintah Kota Padang menanam 1.000 bibit mangrove di Teluk Buo untuk memperkuat ekosistem pesisir dan mendukung kebijakan ekonomi biru.",
       "published": "",
       "media": "Tempo Bisnis",
-      "content": "",
-      "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "content": "INFO TEMPO - Kementerian Kelautan dan Perikanan (KKP) bersama Pemerintah Kota Padang menanam 1.000 bibit mangrove jenis Rhizophora di Pantai Desa Teluk Buo, Kecamatan Bungus Teluk Kabung, Kota Padang, pada Sabtu, 8 Agustus 2026. Kegiatan yang digelar Loka Pengelolaan Kelautan (LPK) Pekanbaru tersebut menjadi bagian dari komitmen KKP dalam memperkuat ekosistem pesisir sekaligus mendukung penerapan kebijakan ekonomi biru.\n\n“Penanaman mangrove ini merupakan wujud nyata upaya memperkuat restorasi ekosistem pesisir. Selain menjadi benteng alami pantai, mangrove berperan penting dalam menjaga keanekaragaman hayati, menyerap karbon, dan memberikan manfaat bagi masyarakat pesisir,” ujar Direktur Jenderal Pengelolaan Kelautan, Koswara, sesaat setelah kegiatan.\n\nKepala LPK Pekanbaru Rahmad Hidayat mengatakan kegiatan di Teluk Buo tidak sekadar berorientasi pada penanaman, tetapi juga menjadi sarana untuk membangun kepedulian dan keterlibatan masyarakat dalam menjaga lingkungan pesisir.\n\n“Kegiatan ini bukan sekadar menanam bibit, tetapi juga membangun kesadaran dan komitmen bersama untuk menjaga ekosistem pesisir dan laut secara berkelanjutan. Keterlibatan pemerintah daerah, TNI AL, dunia usaha, komunitas lingkungan, kelompok sadar wisata, hingga peserta Blue Ocean Minang Run menunjukkan pentingnya peran aktif berbagai pihak dalam pelestarian mangrove,” ujarnya.\n\nBerdasarkan Peta Mangrove Nasional 2025, kata Rahmad, potensi ekosistem mangrove di Sumatera Barat mencapai 17.164 hektare. Keberadaan ekosistem tersebut memiliki fungsi penting sebagai pelindung alami pesisir, habitat berbagai biota, serta penyerap dan penyimpan karbon yang turut memperkuat ketahanan wilayah pesisir dalam menghadapi perubahan iklim.\n\nWali Kota Padang Fadly Amran menyambut baik kegiatan tersebut dan optimistis dukungan KKP dapat memperkuat pengembangan potensi kawasan pesisir Kota Padang. “Kami meyakini dukungan KKP dapat menjadi pendorong pengembangan kawasan pesisir Kota Padang, termasuk dalam meningkatkan potensi wisata sekaligus mendukung kesejahteraan nelayan,” ucapnya.\n\nPenanaman mangrove tersebut merupakan bagian dari rangkaian Hari Jadi Kota Padang ke-357 yang berlangsung pada 6–9 Agustus 2026. Rangkaian kegiatan juga mencakup Waste Management Symposium di Universitas Bung Hatta dan Blue Ocean Minang Run 2026 yang diikuti hampir 4.000 peserta.\n\nKeterlibatan berbagai pihak dalam kegiatan tersebut sekaligus memperkuat pelaksanaan Program Restorasi Ekosistem dan Konservasi KKP, yang mendorong pemulihan dan perlindungan ekosistem pesisir melalui aksi nyata di lapangan. (*)",
+      "fetched_ok": true,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Penanaman bibit mangrove di pesisir Kota Padang merupakan kegiatan positif yang dilakukan oleh pemerintah dan kementerian, yang diharapkan dapat meningkatkan keanekaragaman hayati dan menjaga keberlanjutan lingkungan. Namun, tinggi risiko terkait dengan keberadaan mangrove di pesisir, yang dapat berpotensi mengancam keamanan dan kesehatan masyarakat jika tidak dilakukan dengan benar."
     },
     {
       "title": "Pegadaian Apresiasi Nasabah di Hari Pelanggan Nasional",
@@ -53,11 +53,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 50,
+      "risk_label": "Sedang",
+      "reason": "AI: Isi berita menunjukkan acara yang positif dan mengapresiasi nasabah, namun tidak ada alasan yang mendukung atau menyinggung aspek yang bisa dianggap berbahaya."
     },
     {
       "title": "Arfadia Taruh Tiga Laporan Risetnya di Zenodo",
@@ -67,11 +67,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Isi berita fokus pada manfaat sistem versioning dan publikasi data, yang tampak positif namun tidak mencakup alasan yang mendalam."
     },
     {
       "title": "PT Pertamina Patra Niaga RU Cilacap Buka Tender Penggantian Column Assy 11C-1",
@@ -81,11 +81,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Berita ini mengandung informasi tentang tender yang dilakukan oleh PT Pertamina Patra Niaga, yang merupakan perusahaan pertambangan dan pertanian. Informasi ini tidak menunjukkan sentimen positif atau negatif terhadap perusahaan atau industri tersebut."
     },
     {
       "title": "Jelang Danantara Housing Expo, BNI Hadirkan Area Properti di wondrX 2026",
@@ -95,11 +95,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: BNI, yang merupakan bank, menghadirkan layanan properti di wondrX 2026 untuk memenuhi kebutuhan masyarakat dalam mencari hunian dan mendapatkan informasi pembiayaan KPR, yang merupakan kepentingan penting bagi masyarakat dalam periode mendatang."
     },
     {
       "title": "BNI Hadirkan Deretan Musikus Tanah Air di wondrX 2026",
@@ -109,11 +109,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 50,
+      "risk_label": "Sedang",
+      "reason": "AI: BNI menghadirkan musikus Tanah Air dalam acara hiburan, yang merupakan kegiatan positif dan tidak berbahaya."
     },
     {
       "title": "KRL hingga Shuttle Bus Gratis, Pilihan Transportasi Menuju BNI wondrX 2026",
@@ -123,11 +123,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Informasi tentang pilihan transportasi yang tersedia untuk BNI wondrX 2026 di ICE BSD, termasuk KRL Commuter Line, Transjakarta, shuttle bus, bus gratis, dan kendaraan pribadi, menunjukkan bahwa transportasi alternatif tersedia namun tidak jelas tentang keamanan atau ketersediaan dari setiap pilihan."
     },
     {
       "title": "BNI wondrX 2026 Hadirkan Zona Travel sebagai Solusi Kebutuhan Perjalanan",
@@ -137,11 +137,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 50,
+      "risk_label": "Sedang",
+      "reason": "AI: Isi berita fokus pada informasi teknis dan produk yang ditawarkan oleh BNI, tanpa menekankan pada aspek positif atau negatif yang jelas."
     },
     {
       "title": "PT Pertamina Patra Niaga RU Cilacap Buka Tender Penggantian Column Assy 11C-1",
@@ -151,11 +151,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Berita ini mengandung informasi tentang tender yang dilakukan oleh PT Pertamina Patra Niaga, yang merupakan perusahaan pertambangan dan pertanian. Informasi ini tidak menunjukkan sentimen positif atau negatif terhadap perusahaan atau industri tersebut."
     },
     {
       "title": "Indonesia Bullion Market Association Resmi Diluncurkan, Perkuat Ekosistem dan Industri Emas Nasional",
@@ -165,11 +165,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: IBMA diluncurkan untuk memperkuat ekosistem emas, meningkatkan daya saing dan posisi Indonesia di pasar global, yang dianggap positif oleh analis."
     },
     {
       "title": "ASUS ExpertBook B9406CAA  Tawarkan Nilai Investasi Optimal",
@@ -179,11 +179,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Isi berita menekankan pentingnya perlindungan data dalam investasi teknologi, yang merupakan aspek positif yang tidak mengancam kebebasan berpikir."
     },
     {
       "title": "PT Pertamina Patra Niaga RU Cilacap Buka Tender Penggantian Column Assy 11C-1",
@@ -191,13 +191,13 @@
       "summary": "PT Pertamina Patra Niaga Refinery Unit (RU) IV Cilacap secara resmi mengumumkan pelaksanaan tender terbuka untuk pekerjaan bertajuk \"PENGGANTIAN COLUMN ASSY 11C-1 AREA FOC I PT. PERTAMINA PATRA NIAGA DI RU IV CILACAP\".",
       "published": "",
       "media": "Tempo Bisnis",
-      "content": "",
-      "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "content": "INFO TEMPO - PT Pertamina Patra Niaga Refinery Unit (RU) IV Cilacap secara resmi mengumumkan pelaksanaan tender terbuka untuk pekerjaan bertajuk “PENGGANTIAN COLUMN ASSY 11C-1 AREA FOC I PT. PERTAMINA PATRA NIAGA DI RU IV CILACAP”. Tender ini merupakan bagian dari upaya perusahaan dalam menjaga keandalan operasional serta memastikan keberlangsungan proses produksi di area Fuel Oil Complex (FOC) I. Tender ini dibuka hingga 24 Agustus 2026 pukul 23.59.\n\nMelalui mekanisme tender terbuka, Pertamina Patra Niaga memberikan kesempatan yang sama kepada perusahaan-perusahaan yang memenuhi persyaratan untuk berpartisipasi dalam proses pengadaan tersebut. Proses ini dilaksanakan secara transparan dan akuntabel sesuai dengan ketentuan dan tata kelola perusahaan.\n\nBagi penyedia barang dan jasa yang berminat mengikuti tender, pendaftaran dapat dilakukan secara daring melalui situs web resmi di https://ptm.id/daftarGEPSMART . Peserta diwajibkan melakukan registrasi sesuai dengan prosedur yang telah ditetapkan dalam sistem.\n\nInformasi lebih lengkap mengenai ruang lingkup pekerjaan, persyaratan administrasi, serta ketentuan teknis dapat diperoleh dengan mengunduh dokumen tender melalui tautan yang telah disediakan di sini . Pertamina Patra Niaga RU IV Cilacap mengimbau seluruh calon peserta mempelajari dokumen secara saksama sebelum mengajukan penawaran.\n\nSelain dokumen persyaratan tender, tautan tersebut telah menyertakan sejumlah lampiran yang wajib diisi oleh peserta tender dan menjadi persyaratan untuk mengikuti tender. (*)",
+      "fetched_ok": true,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Informasi tentang tender dan prosesnya adalah deskripsi umum dan tidak menunjukkan tingkat kepentingan atau risiko yang spesifik."
     },
     {
       "title": "PT Pertamina Patra Niaga RU Cilacap Buka Tender Penggantian Column Assy 11C-1",
@@ -207,11 +207,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Berita ini mengandung informasi tentang tender yang dilakukan oleh PT Pertamina Patra Niaga, yang merupakan perusahaan pertambangan dan pertanian. Informasi ini tidak menunjukkan sentimen positif atau negatif terhadap perusahaan atau industri tersebut."
     },
     {
       "title": "PT Pertamina Patra Niaga RU Cilacap Buka Tender Penggantian Column Assy 11C-1",
@@ -221,11 +221,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Berita ini mengandung informasi tentang tender yang dilakukan oleh PT Pertamina Patra Niaga, yang merupakan perusahaan pertambangan dan pertanian. Informasi ini tidak menunjukkan sentimen positif atau negatif terhadap perusahaan atau industri tersebut."
     },
     {
       "title": "Kembali Berkolaborasi, bank bjb Jadi Official Banking Partner Persib Musim 2026/2027",
@@ -235,11 +235,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 50,
+      "risk_label": "Sedang",
+      "reason": "AI: Kolaborasi antara bank bjb dan Persib untuk musim 2026/2027 dianggap netral dengan tingkat risiko sedang karena tidak ada sumber daya yang menunjukkan kepentingan atau keberhasilan dalam hal ini."
     },
     {
       "title": "Bahas Pertanggungjawaban APBD 2025, DPRD Kota Bogor Soroti SiLPA dan Biskita",
@@ -249,11 +249,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: DPRD Kota Bogor meminta perbaikan perencanaan dan efisiensi belanja, yang merupakan tuntutan yang netral dan tidak menunjukkan sentimen positif atau negatif."
     },
     {
       "title": "NeutraDC Gandeng PLN Siapkan Energi untuk Ekspansi Data Center 200 MW",
@@ -263,11 +263,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Ekspansi ini diharapkan memperkuat kesiapan Indonesia dalam menyediakan infrastruktur digital berskala besar, yang merupakan tren global dan penting untuk pertumbuhan ekonomi digital."
     },
     {
       "title": "Pegadaian Gandeng Kadin Perluas Ekosistem Emas",
@@ -275,13 +275,13 @@
       "summary": "Pegadaian dan Kadin berharap kolaborasi yang dilakukan dapat memperluas akses layanan keuangan, memperkuat pelaku usaha, serta mendorong pemanfaatan emas dalam kegiatan ekonomi.",
       "published": "",
       "media": "Tempo Bisnis",
-      "content": "",
-      "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "content": "INFO TEMPO - PT Pegadaian (Persero) menggandeng Kamar Dagang dan Industri (Kadin) Indonesia memperluas ekosistem emas sekaligus membuka akses pembiayaan dan layanan keuangan berbasis emas bagi dunia usaha.\n\nKerja sama tersebut dituangkan dalam nota kesepahaman (MoU) Program Pemberdayaan Ekonomi Terintegrasi bertajuk \"Kolaborasi Strategis Kadin dan Pegadaian untuk MengEMASkan Indonesia\". MoU ini ditandatangani Ketua Umum Kadin Indonesia Anindya Novyan Bakrie dan Direktur Utama Pegadaian Damar Latri Setiawan di Pegadaian Tower, Jakarta, Rabu, 12 Agustus 2026.\n\nDamar mengatakan kolaborasi tersebut mempertemukan dua lembaga yang memiliki jaringan luas di berbagai daerah. Menurut dia, jaringan Kadin dapat menjadi salah satu pintu untuk memperluas pemanfaatan produk dan layanan Pegadaian di kalangan pelaku usaha.\n\n\"Kadin ada di seluruh Indonesia, Pegadaian pun hadir di seluruh Indonesia. Sinergi ini sangat pas untuk memperluas pemanfaatan produk dan layanan Pegadaian di lingkungan dunia usaha,\" kata Damar.\n\nMenurut Damar, melalui kerja sama tersebut, anggota Kadin dan masyarakat dapat memanfaatkan berbagai layanan Pegadaian, termasuk transaksi emas melalui aplikasi Tring by Pegadaian. \"Melalui aplikasi Tring by Pegadaian, seluruh masyarakat dan anggota Kadin dapat mengelola urusan emas secara mudah, cepat, dan praktis dari mana saja,\" ujarnya.\n\nKerja sama ini mencakup pelaku usaha dari skala usaha mikro, kecil, dan menengah (UMKM) hingga korporasi. Pegadaian dan Kadin akan mendorong pemanfaatan emas sebagai instrumen simpanan dan investasi, sekaligus alternatif pendanaan bagi pelaku usaha.\n\nDamar mengatakan Pegadaian terus memperkuat ekosistem emas dari hulu hingga hilir. Selain memperluas layanan digital melalui aplikasi Tring, Pegadaian mengembangkan jaringan layanan transaksi emas secara fisik. Saat ini Pegadaian telah mengoperasikan 20 unit ATM Emas di sejumlah lokasi strategis di Indonesia.\n\nAnindya Novyan Bakrie mengapresiasi kerja sama tersebut. Menurut dia, emas dapat menjadi salah satu instrumen lindung nilai bagi dunia usaha karena relatif tahan terhadap inflasi dan fluktuasi nilai tukar.\n\n\"Ini adalah kerja sama strategis, paling tidak dari sisi saving atau simpanan untuk perusahaan ataupun individu, sekaligus cara yang baik untuk pendanaan ke depannya,\" ucapnya.\n\nAnin mengatakan kebutuhan pembiayaan dan penguatan tabungan masyarakat menjadi bagian penting dalam mendorong perekonomian nasional. \"Kebutuhan kita sebagai negara sangat besar, dan salah satu kunci keberhasilan Indonesia untuk keluar dari middle income trap adalah dengan menabung. Tabungan yang paling bagus adalah menabung emas,\" ujarnya.\n\nAnin juga mencoba fasilitas ATM Emas Pegadaian di Pegadaian Tower. Dia mengatakan fasilitas tersebut memberikan kemudahan bagi nasabah untuk memperoleh emas fisik dari saldo emas digital.\n\n\"Saya tadi mencoba sendiri di ATM Emas. Benar-benar kalau punya tabungan, kita bisa menarik fisik emasnya sendiri secara langsung. Ini memberikan kenyamanan dan kepastian bagi masyarakat,\" ucapnya.\n\nMelalui nota kesepahaman tersebut, Pegadaian dan Kadin menyepakati sejumlah ruang lingkup kerja sama. Di antaranya pemberdayaan UMKM dan pelaku usaha melalui pelatihan, pendampingan, serta pengembangan kapasitas usaha.\n\nKeduanya juga akan memperluas akses anggota Kadin terhadap produk pembiayaan, investasi, dan tabungan emas Pegadaian. Layanan tersebut ditujukan bagi karyawan, perusahaan anggota Kadin, hingga ekosistem pemasok yang berada di bawah naungan Kadin Indonesia.\n\nKerja sama juga mencakup peningkatan literasi dan inklusi keuangan melalui pelatihan, pendampingan bisnis, serta edukasi mengenai layanan keuangan berbasis emas.\n\nPegadaian dan Kadin berharap kolaborasi tersebut dapat memperluas akses layanan keuangan, memperkuat pelaku usaha, serta mendorong pemanfaatan emas dalam kegiatan ekonomi. Kerja sama ini juga diarahkan untuk mendukung agenda pembangunan berkelanjutan dan visi Indonesia Emas 2045. (*)",
+      "fetched_ok": true,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: The article discusses the collaboration between PT Pegadaian (Persero) and Kadin Indonesia, which is a positive development in the emerald ecosystem. However, the article also mentions the potential risks such as the high risk score of 85, indicating that the collaboration may not be without challenges."
     },
     {
       "title": "PT Pertamina Patra Niaga RU Cilacap Buka Tender Penggantian Column Assy 11C-1",
@@ -291,11 +291,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Berita ini mengandung informasi tentang tender yang dilakukan oleh PT Pertamina Patra Niaga, yang merupakan perusahaan pertambangan dan pertanian. Informasi ini tidak menunjukkan sentimen positif atau negatif terhadap perusahaan atau industri tersebut."
     },
     {
       "title": "BNI Perkuat Pengembangan SDM Melalui Sertifikasi dan Standar Internasional",
@@ -305,11 +305,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: BNI memperkuat pengembangan sumber daya manusia melalui lisensi LSP BNI dan penerapan standar internasional di BNI Corporate University, yang merupakan langkah positif dalam upaya untuk memperkuat kualitas tenaga kerja dan memperluas jaringan kerja di Indonesia."
     },
     {
       "title": "PT Pertamina Patra Niaga RU Cilacap Buka Tender Penggantian Column Assy 11C-1",
@@ -319,11 +319,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Berita ini mengandung informasi tentang tender yang dilakukan oleh PT Pertamina Patra Niaga, yang merupakan perusahaan pertambangan dan pertanian. Informasi ini tidak menunjukkan sentimen positif atau negatif terhadap perusahaan atau industri tersebut."
     },
     {
       "title": "Ketua Baznas Tekankan Peran PUSDAI Jawa Barat sebagai Penggerak Umat",
@@ -333,11 +333,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 30,
+      "risk_label": "Sedang",
+      "reason": "AI: Ketua Baznas mengungkapkan pentingnya PUSDAI Jawa Barat sebagai motor penggerak umat, menekankan peran pentingnya dalam mengoptimalkan empat fungsi utama: fasilitator, koordinator, dinamisator, dan inovator gerakan umat."
     },
     {
       "title": "Iftitah Sulaiman Dorong Kampus Hadirkan Inovasi di Kawasan Transmigrasi",
@@ -347,11 +347,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Iftitah Sulaiman mengingatkan pentingnya perguruan tinggi dalam pengembangan kawasan transmigrasi, menunjukkan kefokusan dan tanggung jawab dalam hal ini."
     },
     {
       "title": "PT Pertamina Patra Niaga RU Cilacap Buka Tender Penggantian Column Assy 11C-1",
@@ -361,11 +361,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Berita ini mengandung informasi tentang tender yang dilakukan oleh PT Pertamina Patra Niaga, yang merupakan perusahaan pertambangan dan pertanian. Informasi ini tidak menunjukkan sentimen positif atau negatif terhadap perusahaan atau industri tersebut."
     },
     {
       "title": "KKP Selamatkan 1.286 Telur Penyu di Sambas",
@@ -375,11 +375,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 50,
+      "risk_label": "Sedang",
+      "reason": "AI: berita mengandung informasi positif tentang penyelamatan telur penyu, namun tidak mencakup detail atau interpretasi yang mendalam."
     },
     {
       "title": "PT Pertamina Patra Niaga RU Cilacap Buka Tender Penggantian Column Assy 11C-1",
@@ -389,11 +389,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Berita ini mengandung informasi tentang tender yang dilakukan oleh PT Pertamina Patra Niaga, yang merupakan perusahaan pertambangan dan pertanian. Informasi ini tidak menunjukkan sentimen positif atau negatif terhadap perusahaan atau industri tersebut."
     },
     {
       "title": "Bank Mandiri Gandeng Paramount Dorong Pertumbuhan Properti Berkelanjutan",
@@ -403,11 +403,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Isi berita fokus pada kerja sama bisnis dan pertumbuhan properti, yang terkait dengan industri yang memiliki potensi tinggi dalam hal risiko dan keberhasilan."
     },
     {
       "title": "Bea Cukai Gagalkan Penyelundupan 10 Kilogram Ganja dari Thailand di Bandara Ngurah Rai",
@@ -417,11 +417,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Berita ini menekankan suatu kejadian yang telah terjadi, namun tidak menunjukkan sentimen positif atau negatif terhadap kejadian tersebut."
     },
     {
       "title": "Pemkab Bogor: Serah Terima PSU Sentul City Rampung, Tinggal Tunggu Sertifikat BPN",
@@ -429,13 +429,13 @@
       "summary": "Eko mengatakan ada klaster-klaster tertentu yang bahkan sudah lebih dulu menjalani proses penyerahan pengelolaan, terlepas dari status sertifikasi yang masih berjalan secara keseluruhan.",
       "published": "",
       "media": "Tempo Bisnis",
-      "content": "",
-      "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "content": "INFO BISNIS - Proses peralihan status Prasarana, Sarana, dan Utilitas Umum (PSU) di kawasan Sentul City dari pengembang ke pemerintah daerah dipastikan telah selesai secara administratif. Kepastian ini disampaikan langsung oleh Dinas Perumahan dan Kawasan Permukiman (DPKP) Kabupaten Bogor.\n\nKepala DPKP Kabupaten Bogor, Eko Mujiarto, menegaskan bahwa penyerahan PSU Sentul City telah dilakukan sesuai mekanisme dan aturan yang berlaku. \"Iya sudah, jadi sekarang semua PSU Sentul secara administrasi sudah diserahkan ke Pemda,\" katanya pada Selasa, 4 Agustus 2026.\n\nDengan pernyataan tersebut, praktis tidak ada lagi PSU di Sentul City yang berstatus milik pengembang. Seluruhnya kini tercatat sebagai bagian dari aset yang dikelola pemerintah daerah.\n\nKendati status administratif sudah kelar, Eko mengingatkan bahwa ada satu proses lagi yang belum tuntas, yaitu sertifikasi lahan. Proses ini tengah dikerjakan oleh ATR/BPN Kabupaten Bogor untuk menerbitkan sertifikat resmi atas nama pemerintah daerah. \"Sudah diserahkan ke Pemda. Nah, saat ini PSU-PSU tersebut lahannya sedang proses sertifikasi-sertifikasi di BPN atas nama Pemda,\" ungkapnya.\n\nTidak semua kawasan di Sentul City mengikuti alur yang sama. Eko menyebut ada klaster-klaster tertentu yang bahkan sudah lebih dulu menjalani proses penyerahan pengelolaan, terlepas dari status sertifikasi yang masih berjalan secara keseluruhan.\n\"Selain itu sebagian klaster yang ada di Sentul itu sudah ada juga penyerahan pengelolaan,\" tuturnya.\n\nSebagai tindak lanjut, Pemkab Bogor kini fokus menyusun aturan pengelolaan agar PSU yang telah diserahkan dapat dirasakan manfaatnya secara nyata oleh masyarakat sekitar. \"Nah, sekarang Pemda lagi ngatur-ngatur berkaitan dengan pengelolaan sarana prasarana itu sendiri,\" ucap Eko. (*)",
+      "fetched_ok": true,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 50,
+      "risk_label": "Sedang",
+      "reason": "AI: Informasi tentang proses penyerahan PSU di Sentul City telah selesai secara administratif, tetapi masih ada proses sertifikasi lahan yang belum selesai, yang berpotensi mengganggu penggunaan PSU oleh masyarakat."
     },
     {
       "title": "APMF 2026 Dorong Industri Bangun Kolaborasi Berkelanjutan",
@@ -445,11 +445,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Isi berita menekankan pentingnya kolaborasi dan kemitraan dalam industri, yang merupakan tren positif namun berpotensi tinggi risiko jika tidak dilakukan dengan baik."
     },
     {
       "title": "Sektor Jasa Keuangan Stabil, Kredit Perbankan Melesat",
@@ -457,13 +457,13 @@
       "summary": "Stabilitas sektor jasa keuangan didukung oleh kinerja industri yang tumbuh positif dan berkontribusi terhadap pertumbuhan ekonomi nasional.",
       "published": "",
       "media": "Tempo Bisnis",
-      "content": "",
-      "fetched_ok": false,
-      "sentiment_score": 1.0,
-      "sentiment_label": "Positif",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 3 positif, 0 negatif, 0 kata berisiko."
+      "content": "INFO TEMPO - Otoritas Jasa Keuangan (OJK) menyatakan kondisi Sektor Jasa Keuangan (SJK) dalam kondisi stabil dan terjaga di tengah ketidakpastian geopolitik dan tekanan inflasi. Pasar keuangan global bergerak mixed di tengah kembali tereskalasinya konflik di Timur Tengah. Di sisi domestik, tekanan harga mereda dengan inflasi Juli 2026 tercatat sebesar 2,88 persen yoy.\n\n“Berdasarkan perkembangan tersebut, stabilitas sektor keuangan tetap terjaga didukung oleh bauran kebijakan fiskal dan moneter yang memadai,” kata Ketua Dewan Komisioner OJK Friderica Widyasari Dewi dalam jumpa pers di Jakarta, Selasa 4 Agustus 2026.\n\nStabilitas sektor jasa keuangan didukung oleh kinerja industri yang tumbuh positif dan berkontribusi terhadap pertumbuhan ekonomi nasional.\n\nDi perbankan, kinerja intermediasi melanjutkan tren penguatan dengan profil risiko yang terjaga. Pertumbuhan kredit pada Juni 2026 tumbuh melesat ke 12,67 persen yoy menjadi sebesar Rp 9.081 triliun (Mei 2026: tumbuh sebesar 11,51 persen yoy).\n\nBerdasarkan jenis penggunaan, kredit investasi tumbuh tertinggi yaitu sebesar 24,9 persen, diikuti oleh kredit modal kerja sebesar 8,94 persen, sedangkan kredit konsumsi sebesar 5,75 persen.\n\nAdapun berdasarkan kategori debitur, kredit dengan pertumbuhan tertinggi adalah kredit korporasi yang tumbuh sebesar 20,45 persen yoy, sementara itu kredit UMKM melanjutkan tren peningkatan dengan tumbuh positif sebesar 1,05 persen yoy (Mei 2026: 0,60 persen yoy). Ditinjau dari kepemilikan, kredit bank BUMN tumbuh tertinggi yaitu sebesar 16,54 persen yoy.\n\nPorsi produk kredit Buy Now Pay Later (BNPL) perbankan tercatat sebesar 0,34 persen. Per Juni 2026, baki debet kredit BNPL sebagaimana dilaporkan dalam SLIK, tumbuh sebesar 33,54 persen yoy (Mei 2026: tumbuh 37,72 persen yoy) menjadi Rp30,7 triliun, dengan jumlah rekening mencapai 32,77 juta (Mei 2026: 32,54 juta).\n\nDi sisi lain, Dana Pihak Ketiga (DPK) tumbuh sebesar 10,21 persen yoy (Mei 2026: 13,47 persen yoy) menjadi Rp 10.282 triliun, dengan giro, deposito dan tabungan masing-masing tumbuh sebesar 9,95 persen yoy, 8,25 persen yoy, dan 12,16 persen yoy.\n\nPertumbuhan kredit yang lebih tinggi dibandingkan pertumbuhan DPK, menyebabkan rasio likuiditas industri perbankan pada Juni 2026 menurun, meskipun masih memadai. Rasio Alat Likuid/Non-Core Deposit (AL/NCD) dan Alat Likuid/Dana Pihak Ketiga (AL/DPK) masing-masing sebesar 101,92 persen (Mei 2026: 108,20 persen) dan 23,08 persen (Mei 2026: 24,74 persen) dan masih di atas threshold masing-masing sebesar 50 persen dan 10 persen. Adapun Liquidity Coverage Ratio (LCR) berada di level 182,75 persen.\n\nSementara itu, kualitas kredit membaik dengan rasio NPL gross turun ke 2,09 persen (Mei 2026: 2,17 persen) dan NPL net terjaga di 0,82 persen (Mei 2026: 0,84 persen). Loan at Risk (LaR) tercatat sebesar 8,47 persen (Mei 2026: 8,72 persen). Secara umum, tingkat profitabilitas bank (ROA) sebesar 2,47 persen (Mei 2026: 2,45 persen).\n\nKetahanan permodalan perbankan tercatat kuat dengan buffer mitigasi risiko yang memadai, tecermin dari CAR tercatat sebesar 23,70 persen (Mei 2026: 23,74 persen). (*)",
+      "fetched_ok": true,
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 50,
+      "risk_label": "Sedang",
+      "reason": "AI: Kondisi sektor jasa keuangan stabil dengan kredit perbankan melesat, menunjukkan kekuatan industri dan pertumbuhan ekonomi."
     },
     {
       "title": "Kebutuhan akan Layanan Pengelolaan Kekayaan Terus Berkembang, OCBC Perkuat Kapabilitas Wealth Management",
@@ -473,11 +473,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Isi berita menekankan pentingnya layanan pengelolaan kekayaan, yang merupakan tren yang berkembang, namun tidak menyebutkan tingkat keamanan atau risiko yang dihadapi."
     },
     {
       "title": "Efek Komisi Ojol, GoTo Ungkap Penyesuaian Bisnis Mobilitas",
@@ -485,13 +485,13 @@
       "summary": "Selain mempertahankan kinerja, GoTo tetap berkomitmen untuk meningkatkan kesejahteraan mitra.",
       "published": "",
       "media": "Tempo Bisnis",
-      "content": "TEMPO IMPACT - Perusahaan induk Gojek dan GoPay, PT GoTo Gojek Tokopedia Tbk (GoTo), mengungkapkan perusahaan akan menyesuaikan target bisnis mobilitas ( mobility ), yang memayungi layanan GoRide, GoCar, dan delivery sebagai efek dari implementasi komisi 8 persen. Meski demikian, GoTo tidak mengubah pedoman kinerja grup secara tahunan, ditopang oleh kinerja bisnis fintech GoPay yang terus menunjukkan pertumbuhan.\n\nDalam siaran resmi laporan kinerja keuangan kuartal II 2026, GoTo mengungkapkan perseroan menurunkan pedoman kinerja layanan o n-demand services untuk setahun penuh menjadi Rp 1,4-1,5 triliun, dari sebelumnya Rp 1,7-1,8 triliun, sebagai dampak dari implementasi komisi 8 persen, Di sisi lain, kinerja fintech atau GoPay diprediksi akan menopang sehingga GoTo menaikkan pedoman kinerja fintech untuk setahun penuh menjadi Rp 1,7-1,8 triliun, dari sebelumnya Rp 1,4-1,5 triliun.\n\nDengan strategi ini GoTo tidak mengubah pedoman EBITDA grup yang disesuaikan untuk setahun penuh, yakni masih di angka Rp 3,2-3,4 triliun. Direktur Utama GoTo Hans Patuwo memastikan perusahaan mampu mengatasi dampak kebijakan skema bagi hasil baru yang ditetapkan pemerintah.\n\n“Struktur ini berlaku untuk bisnis transportasi roda dua Gojek, yang menyumbang sekitar 7 persen dari pendapatan bersih grup. Namun, setelah satu bulan berjalan, kondisi bisnis tetap stabil. Penyesuaian ini tidak mudah, tapi kami percaya bisa mengatasi dampaknya,” ucap Hans seperti dikutip dari keterangan tertulis, Senin 3 Agustus 2026.\n\nSebelumnya, dalam laporan keuangan kuartal II 2026, GoTo kembali mencetak laba bersih pada kuartal II 2026 sebesar Rp 252 miliar. GoTo mencatatkan peningkatan gross transaction value (GTV) inti sebesar 83 persen secara tahunan, menjadi Rp 164 triliun dan pendapatan bersih yang meningkat 31 persen year-on-year menjadi Rp 5,7 triliun.\n\nPerforma tersebut ditopang oleh llni bisnis fintech alias layanan keuangan GoPay yang menunjukkan laju pertumbuhan pesat. Hal ini terlihat dari GTV inti fintech yang meroket hingga 82 persen secara tahunan (YoY) dan nilai transaksi bruto yang mencapai Rp 288 triliun sepanjang Januari hingga Juni 2026.\n\nPendapatan bersih dari lini bisnis fintech tercatat melonjak hingga 55 persen YoY, mencapai Rp 4 triliun pada semester I 2026. EBITDA yang disesuaikan untuk sektor fintech melonjak drastis hingga 526 persen YoY, mencapai Rp 845 miliar.\n\n“Bisnis fintech kami juga terus menunjukkan kinerja yang unggul. Kini profitabilitasnya telah melebihi bisnis on-demand services untuk pertama kalinya. Hal ini menunjukkan kekuatan dan keseimbangan ekosistem kami,” ujar Hans.\n\nSelain mempertahankan kinerja, GoTo tetap berkomitmen meningkatkan kesejahteraan mitra. Hans menyebutkan capaian yang diraih perseroan akan kembali diinvestasikan ke ekosistem GoTo untuk mendukung mitra driver melalui berbagai program Apresiasi Mitra.\n\n“Seiring dengan berkembangnya ekosistem, kami terus berinvestasi untuk mendukung pelanggan kami, termasuk mendukung mitra driver Gojek, di antaranya melalui perluasan program Apresiasi Mitra, mulai dari BPJS Kesehatan dan Ketenagakerjaan, beasiswa, hingga umrah gratis. Bagi kami, kesuksesan tidak hanya diukur dari pertumbuhan bisnis, tapi juga dari kemajuan semua pihak di dalam ekosistem GoTo,” tutur Hans\n\nDiketahui sebelumnya, berdasarkan Keputusan Menteri Perhubungan Nomor 532 Tahun 2026, Gojek sebagai aplikator berhak mendapat komisi 8 persen dari biaya perjalanan angkutan penumpang roda dua, turun dari sebelumnya sebesar 20 persen. (*)",
-      "fetched_ok": true,
+      "content": "",
+      "fetched_ok": false,
       "sentiment_score": 0.5,
-      "sentiment_label": "Positif",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 3 positif, 1 negatif, 0 kata berisiko."
+      "sentiment_label": "Netral",
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: GoTo menangkap isu penting tentang komisi ojol dan penyesuaian bisnis mobilitas, yang mempengaruhi kesejahteraan mitra."
     },
     {
       "title": "Mengapa Pertamina Menurunkan Harga BBM Nonsubsidi",
@@ -499,13 +499,13 @@
       "summary": "Tiga jenis BBM Pertamina seperti Pertamax Turbo, Pertamax Green 95, dan Pertamax turun harga per 1 Agustus.",
       "published": "",
       "media": "Tempo Bisnis",
-      "content": "",
-      "fetched_ok": false,
-      "sentiment_score": -1.0,
-      "sentiment_label": "Negatif",
-      "risk_score": 10,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 1 negatif, 0 kata berisiko."
+      "content": "PT Pertamina Patra Niaga mengumumkan penyesuaian harga Bahan Bakar Minyak (BBM) nonsubsidi yang berlaku mulai 1 Agustus 2026. BBM jenis Pertamax Turbo, Pertamax Green 95, dan Pertamax atau RON 92 turun harga.\n\nVP Corporate Communication Pertamina Patra Niaga, Kitty Andhora, menyatakan perubahan berkala ini dilakukan mengikuti tren harga rata-rata harga minyak dunia serta mempertimbangkan nilai tukar rupiah. Penyesuaian harga BBM nonsubsidi dilakukan mengikuti ketentuan dan arahan pemerintah dengan tetap memperhatikan daya beli masyarakat.\n\n“Langkah ini juga merupakan bagian dari upaya menjaga ketersediaan pasokan BBM nasional agar tetap terjamin bagi masyarakat,” ucap Kitty dalam keterangan resmi pada Sabtu, 1 Agustus 2026.\n\nData terkini anak usaha Pertamina yang fokus pada penyaluran, serta pemasaran produk energi ini menunjukkan tiga jenis bahan bakar turun sedangkan dua lainnya tetap. Harga Pertamax Turbo turun Rp 1.000 dari semula Rp 19.300 per liter menjadi Rp 18.300 per liter.\n\nSedangkan harga jenis Pertamax Green 95 turun Rp 400 rupiah dari sebelumnya Rp 17.000 per liter menjadi Rp 16.600 per liter. Adapun jenis Pertamax (RON 92) turun Rp 300 dari Rp 16.250 menjadi Rp 15.950 per liter.\n\nSementara itu, harga Pertamina Dex tetap senilai Rp 21.150 per liter sedangkan jenis Dexlite tetap Rp 19.700 per liter. Menurut Pertamina, harga tersebut berlaku untuk wilayah dengan Pajak Bahan Bakar Kendaraan Bermotor (PBBKB) sebesar 5 persen, seperti DKI Jakarta.\n\nPertamina awalnya mulai menaikkan harga BBM jenis Pertamax Turbo, Dexlite, dan Pertamina Dex mulai Sabtu, 18 April 2026. Disusul kenaikan Pertamax Green 95 dan Pertamax (RON 92) pada Juni 2026. Penyesuaian harga dilakukan imbas lonjakan harga minyak dunia di tengah ketegangan di Timur Tengah.\n\nSejak Maret 2026, harga minyak dunia mengalami fluktuasi dan sempat beberapa kali bertengger di atas US$ 100 per barel. Hingga akhir Juli 2026, harga minyak dunia mencapai sekitar US$ 88 per barel.",
+      "fetched_ok": true,
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: PT Pertamina Patra Niaga mengumumkan penyesuaian harga Bahan Bakar Minyak (BBM) nonsubsidi yang berlaku mulai 1 Agustus 2026. Ini merupakan langkah strategis untuk menjaga ketersediaan pasokan BBM nasional dan mempertimbangkan nilai tukar rupiah, serta mempertahankan daya beli masyarakat."
     },
     {
       "title": "Kata OJK soal Penerbitan Panda Bond dan Patriot Bond",
@@ -513,13 +513,13 @@
       "summary": "Berbeda dengan Panda Bond, dokumen penerbitan Patriot Bond oleh PT Danantara Investment Management (DIM) dilaporkan atau terdaftar di OJK.",
       "published": "",
       "media": "Tempo Bisnis",
-      "content": "",
-      "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "content": "OTORITAS Jasa Keuangan ( OJK ) menjelaskan soal status kewajiban dan administrasi surat utang pemerintah dalam mata uang Yuan Cina atau Renminbi yakni Panda Bond dan surat utang khusus yang diterbitkan oleh Danantara , Patriot Bond. Kepala Eksekutif Pengawas Pasar Modal, Keuangan Derivatif dan Bursa Karbon OJK, Hasan Fawzi menyatakan terdapat pengecualian aturan untuk dokumen penerbitan Panda Bond.\n\nPanda Bond tak tunduk pada prosedur pendaftaran obligasi di OJK. “Penerbitan Panda Bond oleh Pemerintah Republik Indonesia tidak perlu menyampaikan dokumen Pernyataan Pendaftaran kepada OJK,” ucap Hasan lewat jawaban tertulis hasil Rapat Dewan Komisioner Bulanan OJK yang dikutip Sabtu, 1 Agustus 2026.\n\nBerbeda dengan Panda Bond, dokumen penerbitan Patriot Bond oleh PT Danantara Investment Management (DIM) dilaporkan atau terdaftar di OJK. Lebih lanjut, Hasan membeberkan pada PT DIM telah menerbitkan Surat Utang Jangka Panjang (SUJP) pertama Patriot Bond pada 2025.\n\n“Pada bulan Maret 2026, DIM telah menerbitkan SUJP II tahap I. Untuk penerbitan berikutnya belum terdapat dokumen yang disampaikan kepada OJK,” ucap Hasan.\n\nAdapun Panda Bond merupakan surat utang berdenominasi Yuan Cina yang diluncurkan Kementerian Keuangan pada 23 Juli 2026. Obligasi ini terbit dalam dua seri dengan tenor 3 dan 5 tahun dan ditawarkan kepada publik di pasar obligasi domestik Tiongkok. Hasil penerbitan ini akan digunakan untuk memenuhi kebutuhan pembiayaan APBN Tahun Anggaran 2026.\n\nSementara itu, Patriot Bond diterbitkan oleh Danantara lewat mekanisme private placement atau penawaran terbatas. Obligasi ini dirancang sebagai kerja sama pendanaan pemerintah dan sektor swasta dan menyediakan tenor 5 dan 7 tahun.\n\nSurat utang Danantara ini sempat memicu perdebatan karena muncul dalam revisi Undang-undang Pengembangan dan Penguatan Sektor Keuangan (UU P2SK). Salah satu pasal dalam UU nomor 4 tahun 2026 tentang revisi P2SK menyatakan pembeli obligasi Danantara yakni Patriot Bond dan Merah Putih Bond mendapat perlindungan negara dari tuntutan pidana.",
+      "fetched_ok": true,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: OJK menjelaskan pengecualian aturan untuk dokumen penerbitan Panda Bond, yang berbeda dengan Patriot Bond yang dilaporkan atau terdaftar di OJK. Hasil penerbitan Panda Bond akan digunakan untuk memenuhi kebutuhan pembiayaan APBN Tahun Anggaran 2026, sedangkan Patriot Bond dirancang sebagai kerja sama pendanaan pemerintah dan sektor swasta dengan tenor 5 dan 7 tahun."
     },
     {
       "title": "IHSG Sepekan Menguat Tipis ke Level 6.236,1",
@@ -529,11 +529,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 1.0,
-      "sentiment_label": "Positif",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 1 positif, 0 negatif, 0 kata berisiko."
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Pergerakan IHSG tipis dan tidak signifikan, menunjukkan konsistensi dalam tren yang sebelumnya positif."
     },
     {
       "title": "Hyundai Targetkan Prototipe Mobil Neira Capai TKDN 80 Persen",
@@ -541,13 +541,13 @@
       "summary": "Chief Operating Officer PT Hyundai Motors Indonesia Fransiscus Soerjopranoto mengatakan TKDN produk itu sudah dominan lokal.",
       "published": "",
       "media": "Tempo Bisnis",
-      "content": "",
-      "fetched_ok": false,
-      "sentiment_score": 1.0,
-      "sentiment_label": "Positif",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 1 positif, 0 negatif, 0 kata berisiko."
+      "content": "HYUNDAI memperkenalkan mobil prototipe tujuh penumpang yang terinspirasi dari nama Banda Neira di Provinsi Maluku. Chief Operating Officer PT Hyundai Motors Indonesia Fransiscus Soerjopranoto mengatakan Tingkat Komponen Dalam Negeri ( TKDN ) produk itu sudah dominan lokal.\n\n“TKDN-nya saya sampaikan pasti di atas 60 persen, kira-kira 80 persen kurang lebih akan tercapai,” katanya saat ditemui di stan Hyundai di ICE BSD City, Tangerang, Rabu, 29 Juli 2026.\n\nMobil listrik bernama Neira itu dipamerkan sejak Rabu, sehari sebelum pembukaan Gaikindo Indonesia International Auto Show atau GIIAS 2026. Kendaraan itu diperkenalkan langsung oleh President Director dari Hyundai Motors Indonesia Kenny Lee dalam presentasinya selama dua menit.\n\nMenurut Fransiscus, Neira akan menjadi kendaraan EV Hyundai di masa depan. Mobil yang dipamerkan tersebut dipastikan sudah tidak ada lagi perubahan.\n\nNamun, Neira hanya dipajang dalam waktu terbatas pada 29 dan 30 Juli saja. Selama masih prototipe, mobil tersebut belum dipastikan kapan bisa dipesan. “Rasanya belum bisa,” ujarnya.\n\nBerdasarkan pantauan Tempo , mobil tersebut didesain untuk kebutuhan sehari-hari dan cocok untuk mobilitas di perkotaan. Bagian kabin mobil menggunakan kombinasi warna hitam dan putih krem, termasuk bagian setir.\n\nBaris kedua penumpang terdapat dua kursi besar di pinggir pintu dan satu kursi kecil di tengah. Kemudian di baris ketiga hanya terdapat dua kursi yang ukurannya tidak sebesar di baris kedua.\n\nMenurut President Director dari Hyundai Motors Indonesia, Kenny Lee, prototipe ini akan terus disempurnakan dan dikembangkan agar lebih sesuai dengan kebutuhan dan gaya hidup masyarakat Indonesia.“Kami berharap Neira akan memainkan peran bermakna dalam mempercepat transisi Indonesia menuju elektrifikasi,” ucapnya.",
+      "fetched_ok": true,
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: The article discusses the launch of a Hyundai prototype car inspired by the name of Banda Neira in Maluku, Indonesia, with a focus on the car's local content percentage, which is expected to be above 60% and likely reaching 80%."
     },
     {
       "title": "Garuda Ungkap Perkembangan Merger dengan Pelita Air",
@@ -557,11 +557,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 75,
+      "risk_label": "Tinggi",
+      "reason": "AI: Isi berita fokus pada perkembangan merger antara Garuda Indonesia dan Pelita Air, yang tidak memiliki aspek positif atau negatif yang jelas."
     },
     {
       "title": "PLN Bakal Serap Listrik 40,79 MW dari PSEL Legok Nangka",
@@ -571,11 +571,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: PLN meneken PJBL ke PSEL Legok Nangka, yang merupakan perusahaan milik negara yang beroperasi di wilayah yang sama dengan PLN, mengindikasikan potensi konflik kepentingan."
     },
     {
       "title": "Pembangunan Pipa Gas Dumai-Sei Mangkei Capai 32 Persen",
@@ -583,13 +583,13 @@
       "summary": "Pipa gas Dumai-Sei Mangkei (Dusem) akan membentang sepanjang 535 kilometer dan ditargetkan rampung pada awal 2028.",
       "published": "",
       "media": "Tempo Bisnis",
-      "content": "KEMENTERIAN Energi dan Sumber Daya Mineral ( ESDM ) menyatakan pembangunan Proyek Strategis Nasional ( PSN ) Pipa Gas Bumi Dumai–Sei Mangkei (Dusem) terus menunjukkan kemajuan. Hingga akhir Juli 2026, progres fisik pembangunan Segmen 2 telah mencapai 32 persen atau melampaui target yang ditetapkan dalam jadwal proyek.\n\nDirektur Jenderal Minyak dan Gas Bumi Laode Sulaeman mengatakan capaian tersebut menjadi bagian dari upaya pemerintah mempercepat integrasi jaringan infrastruktur gas bumi nasional. Menurut dia, proyek itu juga mencatatkan 300 ribu jam kerja aman tanpa kecelakaan kerja dengan melibatkan sekitar 447 tenaga kerja.\n\n\"Capaian ini diraih dengan mencatatkan 300 ribu jam kerja aman tanpa kecelakaan kerja,\" kata Laode dikutip dari keterangan tertulis, Jumat, 31 Juli 2026.\n\nLaode menilai pembangunan Pipa Transmisi Gas Bumi Dusem menjadi salah satu proyek penting untuk mengoptimalkan pemanfaatan gas bumi nasional. Integrasi jaringan pipa dari Sumatera Utara hingga Riau dapat memperkuat ketahanan energi nasional sekaligus memperluas pemerataan pasokan energi yang lebih bersih bagi sektor industri maupun masyarakat.\n\nPipa Transmisi Gas Bumi Dusem dirancang membentang dari Stasiun Kompresor Gas (SKG) Belawan, Sumatera Utara, hingga Duri, Riau. Total panjangnya sekitar 535,4 kilometer. Proyek ini ditargetkan selesai pada akhir 2027 hingga awal 2028.\n\nPembangunan pipa dibagi menjadi dua segmen yang dikerjakan secara paralel. Segmen 1 menghubungkan Belawan hingga Stasiun Labuhan Batu, sedangkan Segmen 2 menghubungkan Stasiun Labuhan Batu hingga Fasilitas Duri sepanjang 266,8 kilometer.\n\nSegmen 2 dikerjakan oleh konsorsium KSO PT Remaja Bangun Kencana Kontraktor, PT Brantas Abipraya (Persero), PT Sumber Bangun Sentosa, dan PT Singgar Mulia.\n\nLaode mengingatkan percepatan pembangunan tidak boleh mengorbankan aspek keselamatan kerja maupun kualitas konstruksi. Ia meminta seluruh personel menerapkan standar Health, Safety, Security, and Environment (HSSE) secara ketat serta memitigasi setiap potensi bahaya sejak dini.\n\nSelain itu, ia menekankan pekerjaan penggalian terbuka (open cut) harus memenuhi spesifikasi kedalaman sesuai ketentuan teknis. Menurut dia, kepatuhan terhadap standar tersebut penting untuk menjamin keamanan pipa dalam jangka panjang sekaligus menjadi salah satu aspek yang akan dinilai dalam uji kelayakan teknis maupun audit Badan Pemeriksa Keuangan (BPK).\n\n\"Percepatan fisik tidak boleh mengorbankan aspek keselamatan dan kualitas teknis pekerjaan,\" ujar Laode.",
-      "fetched_ok": true,
+      "content": "",
+      "fetched_ok": false,
       "sentiment_score": 0.5,
-      "sentiment_label": "Positif",
-      "risk_score": 14,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 3 positif, 1 negatif, 2 kata berisiko."
+      "sentiment_label": "Netral",
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Pembangunan Pipa Gas Dumai-Sei Mangkei yang sedang berlangsung memiliki potensi risiko yang tinggi karena memerlukan investasi besar dan waktu yang lama."
     },
     {
       "title": "Proyek PSEL di Jawa Barat Senilai Rp 7,2 T Mulai Dibangun",
@@ -599,11 +599,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Proyek ini memiliki nilai ekonomi tinggi dan potensi pengangguran yang tinggi."
     },
     {
       "title": "Bandara Soekarno-Hatta Bersiap Pendaratan Airbus A380-800",
@@ -613,11 +613,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 50,
+      "risk_label": "Sedang",
+      "reason": "AI: berita tentang operasional baru di bandara, tidak menunjukkan sentimen tertentu"
     },
     {
       "title": "Agung Podomoro Land Bukukan Pendapatan Rp 3,66 T",
@@ -627,11 +627,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 1.0,
-      "sentiment_label": "Positif",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 1 positif, 0 negatif, 0 kata berisiko."
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Pendapatan Agung Podomoro Land naik 117 persen dibanding periode sama tahun sebelumnya, yang menunjukkan pertumbuhan yang signifikan."
     },
     {
       "title": "MRT Jakarta Kembangkan Bisnis TOD, Pendanaan di Luar APBD",
@@ -641,11 +641,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: MRT Jakarta menggunakan pendanaan yang tidak terkait dengan APBD untuk mengembangkan bisnis TOD, yang dianggap berisiko tinggi karena potensi kebijakan yang mungkin menghambat investasi dalam proyek ini."
     },
     {
       "title": "APPBI Perpanjang Indonesia Shopping Festival 2026",
@@ -655,11 +655,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Perpanjangan ISF dari 11 hari menjadi 17 hari dan penambahan tanggal 7-23 Agustus dapat menarik lebih banyak pengunjung dan meningkatkan kesempatan untuk menarik lebih banyak pelanggan, tetapi juga dapat meningkatkan risiko konflik atau ketegangan antar pihak."
     },
     {
       "title": "BPJS Kesehatan Percepat Implementasi Klaim Elektronik Terintegrasi SATUSEHAT",
@@ -669,11 +669,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 1.0,
-      "sentiment_label": "Positif",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 1 positif, 0 negatif, 0 kata berisiko."
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Rumah sakit mitra BPJS Kesehatan diberi waktu untuk mengadaptasi kebutuhan teknologi baru dalam klaim medis, yang mungkin mempengaruhi efisiensi dan efektivitas layanan kesehatan."
     },
     {
       "title": "Menperin: Penjualan Kendaraan Listrik Pesat",
@@ -683,11 +683,11 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 1.0,
-      "sentiment_label": "Positif",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 1 positif, 0 negatif, 0 kata berisiko."
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Menperin Agus Guwimang menyebut penjualan mobil listrik mencapai 117 ribu unit pada semester I 2026 atau naik 69,4 persen secara tahunan."
     },
     {
       "title": "Pegadaian Kantongi SK PKB 2026-2028, Perkuat Kepastian Hukum Ketenagakerjaan",
@@ -697,12 +697,12 @@
       "media": "Tempo Bisnis",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Isi berita fokus pada perjanjian kerja bersama yang menekankan kepastian hukum ketenagakerjaan, yang merupakan isu penting dalam industri dan industri kerja, dengan tingkat risiko yang tinggi karena potensi dampak negatif terhadap persaingan industri dan kesejahteraan tenaga kerja."
     }
   ],
-  "ok_count": 2
+  "ok_count": 8
 }

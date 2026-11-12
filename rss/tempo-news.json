@@ -11,11 +11,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 1.0,
-      "sentiment_label": "Positif",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 1 positif, 0 negatif, 0 kata berisiko."
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Bantuan dapur perebusan garam dari KKP memperkuat kapasitas produksi dan membuka peluang pemulihan pendapatan, namun tinggi risiko karena potensi penambahan beban operasional yang mungkin mengakibatkan penurunan pendapatan jika tidak dikelola dengan baik."
     },
     {
       "title": "200 Ribu UMKM Bersertifikat Halal Jadi Modal Jateng Kembangkan Wisata Ramah Muslim",
@@ -25,11 +25,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Berita ini menekankan peningkatan jumlah UMKM yang memperoleh sertifikat halal dan program untuk mengembangkan pariwisata ramah Muslim, yang merupakan isu positif. Namun, tingkat risiko tinggi terkait dengan upaya pemerintah untuk memperkuat ekosistem halal dan mengembangkan pariwisata, yang mungkin mengarah pada konflik atau ketidakpuasan dari sektor lain."
     },
     {
       "title": "Jasa Marga dan BPS Perkuat Integrasi Data Lalu Lintas Jalan Tol",
@@ -39,11 +39,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Isi berita fokus pada manfaat positif dari integrasi data, namun tidak mencakup aspek negatif atau risiko yang jelas."
     },
     {
       "title": "MIND ID Gandeng KPK Perkuat Sistem Pelaporan Antikorupsi",
@@ -53,11 +53,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": -1.0,
-      "sentiment_label": "Negatif",
-      "risk_score": 8,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 1 negatif, 0 kata berisiko."
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Berita ini menekankan perwakilan antikorupsi dan pengawasan terhadap sumber daya mineral, yang merupakan isu penting dalam konteks korupsi dan keamanan sumber daya nasional. Tidak ada sentimen positif atau negatif yang jelas dalam berita ini, tetapi tingkat risiko tinggi menunjukkan isu-isu penting yang terkait dengan korupsi dan keamanan sumber daya nasional."
     },
     {
       "title": "Ceria Gandeng UMKM Lokal untuk Pengadaan Pakaian APD",
@@ -67,11 +67,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 50,
+      "risk_label": "Sedang",
+      "reason": "AI: Isi berita menekankan kegiatan yang positif, namun tidak mencakup detail atau evaluasi yang mendalam."
     },
     {
       "title": "Pink Run 2026 di Kota Bogor, Langkah Bersama Menguatkan Pejuang Kanker",
@@ -79,13 +79,13 @@
       "summary": "Pink Run 2026 di Kota Bogor menjadi ruang kebersamaan bagi penyintas kanker dan masyarakat untuk saling menguatkan sekaligus menggaungkan pentingnya deteksi dini melalui edukasi dan pemeriksaan kesehatan gratis.",
       "published": "",
       "media": "Tempo news",
-      "content": "",
-      "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "content": "INFO TEMPO – Ribuan langkah penuh semangat dan kepedulian mewarnai Pink Run 2026 yang digelar di Taman Ekspresi, kawasan Lapangan Sempur, Kecamatan Bogor Tengah, Kota Bogor, Sabtu, 31 Oktober 2026.\n\nLebih dari sekadar ajang olahraga, kegiatan yang diinisiasi Yayasan Kanker Indonesia (YKI) Cabang Kota Bogor ini menjadi ruang bagi para penyintas dan survivor kanker untuk berbagi kisah perjuangan, saling menguatkan, sekaligus mengajak masyarakat meningkatkan kesadaran terhadap pentingnya deteksi dini kanker.\n\nScroll ke bawah untuk melanjutkan membaca\n\nMengusung tema \"Ribuan Langkah untuk Perempuan Lebih Sehat, Lebih Berdaya\", Pink Run 2026 digelar secara gratis dan terbuka bagi masyarakat umum, komunitas lari, serta para penyintas dan survivor kanker.\n\nDi tengah suasana kebersamaan, kisah perjuangan para pejuang kanker menjadi pengingat bahwa dukungan keluarga, lingkungan, dan masyarakat memiliki arti penting dalam menghadapi penyakit tersebut.\n\nSalah satunya datang dari Dea, penyintas kanker payudara yang membagikan pengalamannya menjalani pengobatan panjang setelah didiagnosis kanker stadium 3B.\n\nDea mengaku sempat menunda pemeriksaan meskipun telah menyadari adanya perubahan pada tubuhnya. Ketika akhirnya memberanikan diri memeriksakan kesehatan pada 2024, ukuran kanker yang ditemukan telah mencapai sekitar 7 hingga 8 sentimeter dan menyebar ke kelenjar getah bening.\n\n\"Baru dicek 2024, kankernya tuh udah 7-8 centimeter, udah besar. Nah, abis itu setelah sudah besar baru deh cek ke dokter. Itu sebenarnya salah,\" ungkap Dea.\n\nPengalaman tersebut membuatnya semakin menyadari pentingnya pemeriksaan sejak dini. Ia pun harus menjalani rangkaian pengobatan panjang, termasuk 18 kali pengobatan yang diceritakannya, mulai dari kemoterapi hingga operasi pengangkatan payudara atau mastektomi.\n\nMeski menghadapi berbagai tantangan, Dea terus berupaya menjalani pengobatan dengan semangat dan dukungan orang-orang terdekat.\n\nIa mengajak para pejuang kanker agar tidak menutup diri dari lingkungan sosial selama menjalani proses pengobatan, dengan tetap menyesuaikan aktivitas berdasarkan kondisi kesehatan dan anjuran dokter.\n\n\"Jangan menutup diri. Kita tetap bisa melakukan berbagai kegiatan, bersosial, bekerja, melakukan aktivitas lain, olahraga, dan sebagainya, itu tuh bisa membantu proses pemulihan,\" ujarnya.\n\nDea berharap dapat terus menjalani proses pemulihan hingga suatu saat bergabung bersama para survivor kanker lainnya.\n\n\"Alhamdulillah. Semoga juga sebentar lagi aku bisa bergabung sama temen-temen survivor di sini. Semoga aku pun akan bersama kalian menjadi survivor ya,\" ucapnya penuh harap.\n\nKisah serupa disampaikan Isnaeni, yang akrab disapa Ibu Noni. Sebagai survivor kanker, ia mengaku terharu melihat kepedulian berbagai pihak terhadap para pejuang kanker melalui kegiatan Pink Run 2026.\n\nMenurutnya, dukungan tidak hanya dibutuhkan dalam bentuk semangat, tetapi juga melalui kemudahan akses pelayanan kesehatan, edukasi, serta pendampingan selama proses pengobatan.\n\nIa turut mengapresiasi keberadaan program Jaminan Kesehatan Nasional (JKN) melalui BPJS Kesehatan yang membantunya mendapatkan pelayanan pengobatan.\n\n\"Dengan adanya program BPJS, jujur ibu merasa terbantu, merasa bisa berobat dengan penyakit yang serius gitu,\" ungkapnya.\n\nNoni juga mengajak sesama penyintas untuk terus bersemangat dan tidak kehilangan harapan dalam menghadapi penyakit kanker.\n\nSementara itu, Ketua YKI Cabang Kota Bogor, Yantie Rachim, menjelaskan bahwa Pink Run 2026 berawal dari keinginan menghadirkan kegiatan yang tidak hanya memberikan dukungan moral kepada penyintas kanker, tetapi juga menggerakkan masyarakat untuk lebih peduli terhadap kesehatan.\n\nMenurutnya, kegiatan tersebut dirancang sebagai sarana silaturahmi sekaligus kesempatan bagi masyarakat untuk memanfaatkan berbagai fasilitas pemeriksaan kesehatan secara gratis.\n\n\"Jadi di sini bukan sekadar olahraga, lari, habis itu sudah. Nah di sini juga ajang silaturahmi. Warga ataupun peserta semua yang lari pada hari ini tuh kita ajak untuk cek kesehatan gratis,\" ujar Yantie.\n\nDalam kegiatan tersebut, panitia menyediakan sejumlah layanan kesehatan, mulai dari pemeriksaan kesehatan umum, pemeriksaan payudara klinis atau Sadanis, hingga ultrasonografi (USG).\n\nPelaksanaan Pink Run juga melibatkan Dinas Kesehatan Kota Bogor, rumah sakit, puskesmas, organisasi, komunitas, tenaga kesehatan, relawan, serta berbagai mitra pendukung.\n\nYantie menegaskan bahwa tingginya kasus kanker payudara yang baru diketahui pada stadium lanjut menjadi salah satu alasan pentingnya mengubah deteksi dini menjadi gerakan bersama.\n\nMelalui Pink Run, YKI Kota Bogor ingin memperluas kesadaran bahwa pemeriksaan kesehatan sebaiknya dilakukan sebelum muncul keluhan yang semakin berat.\n\n\"Karena itu, YKI Kota Bogor ingin deteksi dini menjadi gerakan bersama, bukan sekadar imbauan. Kami sengaja membuat Pink Run gratis dan terbuka untuk semua,\" katanya.\n\nIa berharap kegiatan tersebut dapat mengajak semakin banyak perempuan, mulai dari remaja putri, ibu rumah tangga, hingga berbagai komunitas, untuk lebih memperhatikan kondisi kesehatannya.\n\n\"Setiap langkah ini adalah pesan bahwa perempuan Bogor peduli pada kesehatannya. Lari hari ini, periksa hari ini, peduli setiap hari,\" ucap Yantie.\n\nLebih jauh, Yantie menekankan bahwa keberadaan para penyintas dan survivor dalam Pink Run 2026 menjadi simbol kekuatan dan harapan. Kisah yang mereka bagikan diharapkan dapat mendorong perempuan lainnya untuk tidak takut memeriksakan diri serta menumbuhkan empati masyarakat kepada para pejuang kanker.\n\nBaginya, lautan warna merah muda yang memenuhi kawasan Taman Ekspresi bukan hanya simbol kampanye peduli kanker payudara, tetapi juga bentuk solidaritas bahwa perjuangan melawan kanker membutuhkan dukungan bersama.\n\n\"Kita peduli kita hadir. Dan dari sini tidak ada seorangpun pejuang kanker yang berjuang sendirian,\" tegasnya.\n\nMelalui kegiatan ini, YKI Cabang Kota Bogor berharap semangat kepedulian tidak berhenti ketika Pink Run berakhir, melainkan terus hadir dalam kehidupan sehari-hari melalui deteksi dini, edukasi, dan dukungan berkelanjutan bagi para penyintas.\n\n\"Mari kita jadikan Kota Bogor yang sehat dan peduli,\" tutup Yantie.(*)",
+      "fetched_ok": true,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Kesepakatan dan dukungan yang diungkapkan oleh para penyintas dan survivor kanker dalam kegiatan Pink Run 2026 membawa kesadaran yang positif tentang pentingnya deteksi dini kanker dan kesempatan bagi masyarakat untuk berpartisipasi dalam gerakan bersama."
     },
     {
       "title": "Kota Bogor Raih Dua Rekor MURI Lewat Gerakan Deteksi Dini Kanker Payudara",
@@ -93,13 +93,13 @@
       "summary": "Yayasan Kanker Indonesia (YKI) Cabang Kota Bogor meraih dua rekor MURI setelah berhasil menggerakkan ribuan perempuan mengikuti pemeriksaan deteksi dini kanker secara gratis sepanjang Oktober 2026.",
       "published": "",
       "media": "Tempo news",
-      "content": "",
-      "fetched_ok": false,
-      "sentiment_score": 1.0,
-      "sentiment_label": "Positif",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 2 positif, 0 negatif, 0 kata berisiko."
+      "content": "INFO TEMPO – Kepedulian terhadap kesehatan perempuan dan para penyintas kanker di Kota Bogor membuahkan dua penghargaan dari Museum Rekor-Dunia Indonesia (MURI). Melalui gerakan pemeriksaan kesehatan gratis yang menjangkau ribuan perempuan, Yayasan Kanker Indonesia (YKI) Cabang Kota Bogor mencatatkan rekor pemeriksaan HPV DNA dan pemeriksaan payudara klinis (Sadanis) secara berseri dengan jumlah peserta terbanyak di tingkat kota.\n\nPenghargaan tersebut menjadi puncak rangkaian kegiatan Bulan Peduli Kanker Payudara yang diselenggarakan YKI Cabang Kota Bogor bersama Dinas Kesehatan Kota Bogor, puskesmas, serta unsur kewilayahan sejak 1 hingga 23 Oktober 2026.\n\nScroll ke bawah untuk melanjutkan membaca\n\nSelama periode tersebut, sebanyak 8.333 perempuan mengikuti pemeriksaan Sadanis, sementara 6.175 perempuan menjalani pemeriksaan HPV DNA. Rangkaian kegiatan kemudian ditutup melalui Pink Run di Taman Ekspresi, Kota Bogor, Sabtu, 31 Oktober 2026.\n\nDua piagam penghargaan MURI diserahkan kepada Ketua YKI Cabang Kota Bogor, Yantie Rachim, yang didampingi Kepala Dinas Kesehatan Kota Bogor, Erna Nuraena.\n\nCustomer Relation Manager MURI, Lutfi Syah Pradana, menjelaskan bahwa pencapaian Kota Bogor menjadi catatan baru karena pemeriksaan dilaksanakan secara berseri dalam lingkup satu kota.\n\n\"Sebelum-sebelumnya sudah pernah ada catatan rekor yang serupa, cuma dilakukan secara serentak tingkat Indonesia yang dilakukan oleh kementerian. Dan MURI belum memiliki catatan rekor yang dilakukan di lingkup wilayah satu kota dan Kota Bogor menjadi yang pertama,\" ujar Lutfi.\n\nMenurutnya, penghargaan tersebut bukan sekadar pengakuan atas banyaknya peserta, tetapi juga diharapkan menjadi dorongan bagi masyarakat, khususnya perempuan, untuk semakin sadar dan berani memeriksakan kondisi kesehatannya.\n\nIa berharap gerakan pemeriksaan kesehatan ini dapat berlangsung secara berkelanjutan sehingga semakin banyak perempuan memperoleh akses terhadap layanan deteksi dini kanker.\n\nSementara itu, Ketua YKI Cabang Kota Bogor, Yantie Rachim, menegaskan bahwa gerakan tersebut lahir dari semangat kepedulian bersama untuk memastikan para penyintas kanker tidak menghadapi perjuangannya seorang diri.\n\n\"Kita peduli, kita hadir. Dan dari sini tidak ada seorangpun pejuang kanker yang berjuang sendirian. Karena setiap perempuan berhak mengetahui kondisi kesehatannya sebelum terlambat,\" ucap Yantie.\n\nUntuk menjangkau masyarakat secara lebih luas, YKI Cabang Kota Bogor bersama Dinas Kesehatan menggandeng berbagai pihak, mulai dari organisasi profesi, fasilitas pelayanan kesehatan, organisasi perempuan, instansi pemerintah, komunitas, hingga unsur kecamatan dan kelurahan.\n\nPemeriksaan gratis tidak hanya diperuntukkan bagi warga Kota Bogor, tetapi juga terbuka bagi perempuan dari luar daerah.\n\nYantie bersama jajaran YKI bahkan turun langsung ke enam kecamatan di Kota Bogor untuk memberikan edukasi mengenai pentingnya deteksi dini kanker, menyapa para penyintas, serta mengajak masyarakat memanfaatkan layanan pemeriksaan kesehatan.\n\n\"Alhamdulillah, satu kelurahan itu bisa sampai 100 orang pencapaiannya, bahkan ada yang lebih juga,\" ungkapnya.\n\nSelain menyelenggarakan pemeriksaan kesehatan, YKI Cabang Kota Bogor juga melakukan kunjungan ke kediaman penyintas kanker, memberikan bantuan, serta mengedukasi keluarga agar turut berperan dalam mendukung proses pengobatan dan pemulihan.\n\nMenurut Yantie, kehadiran keluarga, tenaga kesehatan, dan masyarakat menjadi bagian penting dalam memberikan kekuatan kepada para penyintas kanker.\n\nKarena itu, capaian dua rekor MURI diharapkan tidak menjadi akhir dari gerakan kepedulian tersebut, melainkan momentum untuk memperluas jangkauan pemeriksaan kesehatan dan memperkuat pendampingan kepada para penyintas.\n\nYKI Cabang Kota Bogor berkomitmen melanjutkan kegiatan edukasi, pemeriksaan kesehatan, serta kunjungan langsung ke wilayah agar semakin banyak perempuan memahami pentingnya deteksi dini.\n\n\"Kami akan turun terus ke wilayah untuk menyapa pasien kanker dan memberikan bantuan serta menguatkan mereka bahwa semua peduli,\" ujar Yantie.\n\n\"Mari kita dampingi pejuang kanker dengan rasa kasih sayang dari hati dan jadikan Kota Bogor yang sehat dan peduli,\" tutupnya.(*)",
+      "fetched_ok": true,
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Isi berita mengandung informasi positif tentang peningkatan kesehatan perempuan melalui gerakan pemeriksaan kesehatan gratis, serta mendapatkan dua rekor MURI. Namun, ada juga informasi negatif seperti pencapaian ini terjadi di lingkungan kota, yang dianggap kurang berkelanjutan jika dibandingkan dengan rekor serentak tingkat Indonesia."
     },
     {
       "title": "Konsep Glow in the Dark Warnai Pagelaran Gandrung Sewu 2026",
@@ -109,11 +109,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Konsep Glow in the Dark di malam hari dapat menarik perhatian publik dan meningkatkan interaksi antar penari, namun juga dapat menyebabkan kecemasan karena keamanan dan kebersihan yang mungkin terjadi."
     },
     {
       "title": "Ahmad Luthfi Dorong Percepatan Rehabilitasi Usai Karhutla Gunung Sumbing Padam",
@@ -121,13 +121,13 @@
       "summary": "Gubernur Jawa Tengah Ahmad Luthfi meminta percepatan rehabilitasi kawasan Gunung Sumbing setelah kebakaran hutan dan lahan (karhutla) di wilayah tersebut berhasil dipadamkan.",
       "published": "",
       "media": "Tempo news",
-      "content": "INFO TEMPO - Gubernur Jawa Tengah Ahmad Luthfi meminta percepatan rehabilitasi kawasan Gunung Sumbing setelah kebakaran hutan dan lahan (karhutla) di wilayah tersebut berhasil dipadamkan. Ia juga menginstruksikan tim di lapangan untuk melanjutkan patroli dan evaluasi guna mengantisipasi munculnya kembali titik api serta memulihkan kawasan terdampak kebakaran.\n\n\"Banyak pipa-pipa kita yang terbakar atau rusak itu harus kita recovery . Kemudian lakukan reboisasi terkait dengan pascabencana. Beberapa masyarakat mengusulkan untuk diberikan tanaman-tanaman yang siap untuk direboisasi kembali. Reboisasi kita lakukan bersama,\" kata Luthfi usai bertemu dengan relawan di Basecamp Bimawari, Desa Wonosari, Kecamatan Bulu, Kabupaten Temanggung, Ahad, 25 Oktober 2026. Menurut Luthfi, evaluasi dampak bencana kebakaran tersebut sangat penting. Mulai dari dampak lingkungan yang berkaitan dengan vegetasi, hewan liar, hingga luasan petak yang terbakar di wilayah Wonosobo, Magelang, dan Temanggung.\n\nBerdasarkan temuan dan laporan masyarakat, kebakaran di wilayah Sumbing telah merusak sejumlah saluran pipa air bersih masyarakat. Selain itu di beberapa titik kebakaran juga sudah masuk ke kawasan hutan, sehingga ada pohon keras yang ikut terbakar. Langkah berikutnya yang harus dilakukan adalah melakukan pencegahan dengan menggencarkan imbauan kepada masyarakat agar peristiwa serupa tidak terulang kembali. Misalnya imbauan untuk tidak membuang puntung rokok sembarangan, tidak membakar sembarangan di wilayah gunung, dan lainnya. \"Penyebab kebakaran masih dilakukan penyelidikan, indikasi awal adalah human error . Jangan sampai nanti terulang lagi, \" jelas Luthfi.\n\nUntuk mencegah adanya kejadian serupa, imbauan untuk penutupan sementara jalur pendakian masih berlaku di semua gunung di Jawa Tengah sembari menunggu hasil evaluasi. \"Saya mengucapkan terima kasih kepada seluruh kelompok masyarakat, BPBD Provinsi, Kabupaten/Kota, BNPB yang membantu memadamkan api,” ucap Luthfi. Administratur Perum Perhutani Kesatuan Pemangkuan Hutan (KPH) Kedu Utara, Dimyati, mengatakan, kebakaran Gunung Sumbing yang ada di tiga kabupaten sudah padam sepenuhnya sejak Sabtu, 24 Oktober 2026. Hasil pantauan dari aplikasi Sipongi Kementerian Kehutanan juga sudah tidak menunjukkan adanya titik api dan asap. Meski demikian penyisiran masih terus dilakukan. \"Kita pantau hari ini dari Sipongi, Gunung Sumbing bersih dari titik api dan asap kebakaran,\" ujarnya. Untuk diketahui, luasan kebakaran di Gunung Sumbing tersebut mencapai 974,29 hektare. Meliputi wilayah Wonosobo seluas 362 hektare, Magelang 213 hektare, dan Temanggung 398,89 hektare. Total nilai kerugian ditaksir mencapai Rp189,3 juta. \"Wilayah yang terbakar itu berupa Savana yang dipenuhi ilalang dan rumput hutan, sebagian di wilayah Wonosobo memang ada tumbuhan keras,\" katanya. (*)",
-      "fetched_ok": true,
-      "sentiment_score": -1.0,
-      "sentiment_label": "Negatif",
-      "risk_score": 76,
+      "content": "",
+      "fetched_ok": false,
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 85,
       "risk_label": "Tinggi",
-      "reason": "Leksikon: 0 positif, 19 negatif, 10 kata berisiko."
+      "reason": "AI: Gubernur meminta percepatan rehabilitasi setelah kejadian berhasil diatasi, menunjukkan keberhasilan dalam menghadapi situasi yang serius."
     },
     {
       "title": "DPRD Kota Bandung Perkuat Regulasi Pengelolaan Barang Milik Daerah",
@@ -135,13 +135,13 @@
       "summary": "DPRD Kota Bandung memperkuat tata kelola barang milik daerah, meningkatkan akuntabilitas, serta mengoptimalkan pemanfaatan barang milik daerah dengan pembaruan Peraturan Daerah (Perda) tentang Pengelolaan Barang Milik Daerah.",
       "published": "",
       "media": "Tempo news",
-      "content": "INFO TEMPO – DPRD Kota Bandung memperkuat tata kelola barang milik daerah, meningkatkan akuntabilitas, serta mengoptimalkan pemanfaatan barang milik daerah bagi pembangunan dan peningkatan Pendapatan Asli Daerah (PAD). hal tersebut dilakukan dengan pembaruan Peraturan Daerah (Perda) tentang Pengelolaan Barang Milik Daerah.\n\nPembaruan regulasi ini dinilai penting untuk menyesuaikan ketentuan daerah dengan perkembangan peraturan perundang-undangan, menjawab berbagai persoalan pengelolaan barang milik daerah di lapangan, serta memperkuat pengawasan terhadap barang milik daerah.\n\nScroll ke bawah untuk melanjutkan membaca\n\nKetua Panitai Khusus (Pansus) 21 DPRD Kota Bandung yang membahas pembaharuan Raperda Pengelolaan Barang Milik Daerah sekaligus Ketua Komisi I DPRD Kota Bandung, Radea Respati, menjelaskan bahwa pembaruan regulasi diperlukan karena tiga hal utama yakni, penyesuaian dengan peraturan yang lebih tinggi, tindak lanjut atas catatan pemeriksaan BPK RI, serta rekomendasi KPK RI mengenai peningkatan akuntabilitas dan transparansi pengelolaan barang milik daerah.\n\nLandasan pengelolaan BMD antara lain PP Nomor 27 Tahun 2014 sebagaimana diubah dengan PP Nomor 28 Tahun 2020, serta Permendagri Nomor 19 Tahun 2016 sebagaimana diubah dengan Permendagri Nomor 7 Tahun 2024. Di Kota Bandung, pengaturan terkait juga terdapat dalam Perda Nomor 12 Tahun 2018, Perwali Nomor 59 Tahun 2021 tentang Tata Cara Pemanfaatan BMD, Perwali Nomor 103 Tahun 2022 tentang Tata Cara Penggunaan BMD, dan Perwali Nomor 40 Tahun 2025 tentang Tata Cara Pelaksanaan Sewa BMD.\n\n“Pengelolaan Barang Milik Daerah (BMD) Kota Bandung masih menghadapi berbagai permasalahan, meliputi perencanaan kebutuhan dan penganggaran yang belum terintegrasi, penggunaan dan pemanfaatan aset yang belum optimal, ketidakakuratan data barang milik daerah dan penyewaan, tunggakan sewa, serta kendala pengamanan dan pemeliharaan milik daerah,” ujarnya.\n\nSelain itu, kata dia, keterbatasan tenaga penilai pemerintah memperlambat proses penilaian dan pemindahtanganan milik daerah, sementara pengaturan mengenai hibah, pemusnahan, penghapusan, penatausahaan, serta pembinaan, pengawasan, dan pengendalian milik daerah belum memadai.\n\nOleh karena itu, diperlukan penyempurnaan regulasi, penertiban administrasi, integrasi data aset, dan penguatan pengawasan agar pengelolaan milik daerah lebih tertib, transparan, akuntabel, optimal, serta mampu mendukung peningkatan Pendapatan Asli Daerah (PAD).\n\nAdapun pemanfaatan barang milik daerah dapat berupa sewa, pinjam pakai, kerja sama pemanfaatan (KSP) serta Bangun Guna Serah (BGS) dan Bangun Serah Guna (BSG). Menurut Radea, permasalahan yang sering terjadi dalam pemanfaatan barang milik daerah Kota Bandung dalam bentuk sewa. “Hal ini harus dibenahi mencakup penatausahaan barang milik daerah berupa tanah, peralatan dan mesin, gedung dan bangunan, jalan, jaringan dan irigasi, aset tetap lainnya, konstruksi dalam pengerjaan, aset tidak berwujud dan persediaan,” katanya.\n\nDalam pemanfaatan barang milik daerah berupa tanah, gedung dan bangunan masih ditemukan kendala seperti tunggakan sewa, perjanjian yang tidak diperpanjang, serta data pengguna dan status pemanfaatan yang belum tertata. Karena itu, inventarisasi, identifikasi, dan verifikasi barang milik daerah perlu diperkuat.\n\nPenghapusan barang milik daerah seperti Teras Cihampelas yang dinilai secara teknis dan ekonomis tidak dimanfaatkan secara optimal menjadi pengingat pentingnya perencanaan, pemeliharaan, dan evaluasi barang milik daerah secara berkelanjutan.\n\nPenghapusan barang milik daerah seperti teras cihampelas tidak dapat dilakukan dikarenakan belum adanya payung hukum untuk melaksanakan kebijakan tersebut. Sehingga tindak lanjut penghapusan barang milik daerah berupa teras cihampelas dipindahtangankan kepada Pemerintah Provinsi Jawa Barat.\n\nDPRD juga menilai digitalisasi pendataan barang milik daerah penting untuk meningkatkan transparansi dan pengawasan. Radea menjelaskan penatausahaan barang milik daerah dalam bentuk pembukuan, inventarisasi dan pelaporan, jangan memakai frasa pencatatan, sehingga penatausahaan barang milik daerah harus didigitalisasi. Sistem digital yang terintegrasi dapat memuat informasi lokasi, status kepemilikan, kondisi fisik, pengelola, pengguna, serta status pemanfaatan. Data yang akurat akan membantu pemerintah menentukan prioritas pemeliharaan dan pemanfaatan, sekaligus mendeteksi persoalan lebih dini.\n\nSebagai bahan pembelajaran, Kota Bandung dapat mengkaji praktik pengelolaan barang milik daerah di Provinsi DKI Jakarta, termasuk pendekatan Jakarta Asset Management Center , serta pengalaman Kota Surabaya dalam pemanfaatan barang milik daerah, khususnya tanah. Praktik yang relevan dapat dipelajari untuk memperkuat basis data, memetakan potensi barang milik daerah, menata perjanjian pemanfaatan, dan meningkatkan pengawasan dengan tetap menyesuaikannya pada kebutuhan dan ketentuan hukum di Kota Bandung.\n\nPembaruan Perda diharapkan memperjelas pengaturan mengenai pemanfaatan, penghapusan, dan pemindahtanganan barang milik daerah. Dengan regulasi yang jelas, data yang akurat, dan evaluasi berkelanjutan, barang milik daerah diharapkan lebih aman, produktif, serta memberi manfaat nyata bagi pelayanan publik dan pembangunan Kota Bandung.\n\n“Barang milik daerah harus dikelola secara tertib, transparan, dan bertanggung jawab agar memberikan nilai tambah bagi masyarakat. Pembenahan regulasi diharapkan memperkuat pengamanan aset sekaligus membuka peluang optimalisasi PAD,” tutup Radea. (*)",
-      "fetched_ok": true,
-      "sentiment_score": 1.0,
-      "sentiment_label": "Positif",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 1 positif, 0 negatif, 0 kata berisiko."
+      "content": "",
+      "fetched_ok": false,
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Peraturan Daerah (Perda) tentang Pengelolaan Barang Milik Daerah memperkuat regulasi dan meningkatkan akuntabilitas, namun tidak ada alasan yang jelas mengenai risiko yang diharapkan."
     },
     {
       "title": "Gaya Kepemimpinan Ahmad Luthfi Jadi Sorotan Akademisi",
@@ -151,11 +151,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 50,
+      "risk_label": "Sedang",
+      "reason": "AI: Para akademisi menilai gaya kepemimpinan Ahmad Lutfi positif, namun tingkat kepercayaan dan konfirmasi dari data akademis kurang."
     },
     {
       "title": "Ahmad Luthfi Targetkan Investasi Jawa Tengah Capai Rp 110 Triliun pada Akhir 2026",
@@ -165,11 +165,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 1.0,
-      "sentiment_label": "Positif",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 1 positif, 0 negatif, 0 kata berisiko."
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Optimisme terkait investasi Jawa Tengah berada di bawah rata-rata dan belum mencapai target yang ditargetkan pada tahun 2026."
     },
     {
       "title": "Satgas PRR Bikin Sumur Bor untuk Warga Terdampak Banjir Aceh Utara",
@@ -179,11 +179,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": -1.0,
-      "sentiment_label": "Negatif",
-      "risk_score": 11,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 1 negatif, 1 kata berisiko."
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Berita ini menangkap keberhasilan dalam mengatasi masalah banjir, yang merupakan isu penting di wilayah tersebut. Namun, tingkat keberhasilan yang ditampilkan (1.198 sumur bor selesai dibangun) tidak sebanding dengan jumlah sumur bor yang masih dalam proses pengerjaan (639 sumur bor). Ini menunjukkan bahwa ada beberapa masalah yang belum terselesaikan dan perlu perhatian lebih lanjut."
     },
     {
       "title": "BNI dan PBSI Dorong Lahirnya Juara Baru Bulu Tangkis Indonesia",
@@ -193,11 +193,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 50,
+      "risk_label": "Sedang",
+      "reason": "AI: BNI dan PBSI menggalakkan pembinaan dan regenerasi atlet, yang merupakan langkah positif dalam pembangunan olahraga."
     },
     {
       "title": "BNI Hadirkan Pengalaman Istimewa bagi Nasabah di MotoGP Mandalika 2026",
@@ -207,11 +207,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 50,
+      "risk_label": "Sedang",
+      "reason": "AI: Pengalaman istimewa yang ditawarkan oleh BNI untuk nasabah tidak memiliki tingkat sentimen positif atau negatif yang jelas, tetapi memiliki tingkat risiko sedang karena potensi peningkatan nilai nasabah."
     },
     {
       "title": "Bank Jatim Resmikan Kantor Cabang Balikpapan",
@@ -221,11 +221,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 50,
+      "risk_label": "Sedang",
+      "reason": "AI: Berita ini menekankan kehadiran bank di daerah, yang merupakan isu netral dan tidak memiliki tingkat risiko yang tinggi."
     },
     {
       "title": "Abubakar Abdullah Kaya Gagasan, Pendidikan Maluku Utara Menanti Bukti Nyata",
@@ -235,11 +235,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Isi berita fokus pada tantangan Abubakar Abdullah dalam mewujudkan gagasan giat di Maluku Utara, namun tidak ada alasan yang jelas mengapa ini dianggap berbahaya atau berpotensi mengancam keamanan atau kesejahteraan publik."
     },
     {
       "title": "Kabupaten Aceh Tenggara Targetkan Penyerapan TKD 100 Persen",
@@ -247,13 +247,13 @@
       "summary": "Realisasi anggaran mencapai Rp5,2 miliar atau 41,5 persen dari alokasi transfer ke daerah sebesar Rp12,8 miliar.",
       "published": "",
       "media": "Tempo news",
-      "content": "",
-      "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "content": "INFO TEMPO - Pemerintah Kabupaten Aceh Tenggara menargetkan realisasi transfer ke daerah(TKD) mencapai 100 persen sebelum 15 Desember 2026. Percepatan penyerapan anggaran tersebut menjadi salah satu fokus pemerintah daerah, terutama untuk mendukung pembangunan dan pemulihan pascabencana hidrometeorologi. Target tersebut disampaikan Bupati Aceh Tenggara Muhammad Salim Fakhry saat menandatangani berita acara bersama Ketua Tim Satuan Tugas Percepatan Rehabilitasi dan Rekonstruksi Pusat (Satgas PRRP) Kementerian Dalam Negeri, Imran, di Kantor Bupati Aceh Tenggara, Kamis, 8 Oktober 2026. “Kami dan seluruh OPD sudah berkomitmen agar pada tahun anggaran ini seluruh pertanggungjawaban dan realisasi serapan anggaran, insyaallah bisa kami lakukan 100 persen,” kata Salim Fakhry. Kabupaten Aceh Tenggara menerima alokasi TKD sebesar Rp12,8 miliar. Hingga saat ini, realisasi anggaran mencapai Rp5,2 miliar atau 41,5 persen. Masih terdapat sekitar Rp7,6 miliar yang harus direalisasikan hingga akhir tahun anggaran. Salim Fakhry meminta sekretaris daerah dan seluruh organisasi perangkat daerah (OPD) penerima TKD mempercepat penyerapan anggaran serta memantau realisasinya secara berkala. Ia menegaskan percepatan tersebut menjadi tanggung jawab pemerintah kabupaten agar target penyerapan anggaran dapat tercapai sesuai tenggat waktu. Selain penyerapan TKD, Pemkab Aceh Tenggara juga mendorong percepatan pembangunan infrastruktur yang rusak akibat bencana hidrometeorologi pada 2025. Salah satu yang menjadi prioritas ialah pembangunan Jembatan Mbarung yang menghubungkan Kecamatan Babussalam dengan Kecamatan Lawe Alas, Tanoh Alas, dan Darul Hasanah. Jembatan tersebut saat ini putus total. Pembangunannya telah masuk dalam rencana induk pada 2028, tetapi pemerintah kabupaten meminta agar pengerjaannya dapat dipercepat dan direalisasikan paling lambat pada 2027. Menurut Salim Fakhry, keberadaan jembatan tersebut penting untuk menunjang aktivitas ekonomi masyarakat. Upaya membangun jalan alternatif darurat juga belum berhasil karena akses yang telah dibuat berulang kali rusak akibat aliran air. “Jembatan ini adalah salah satu jembatan yang bisa mempengaruhi perekonomian masyarakat,” ujarnya. Ketua Tim Satgas PRRP Kementerian Dalam Negeri, Imran, mengapresiasi langkah Pemkab Aceh Tenggara dalam mempercepat realisasi TKD selama satu bulan terakhir. Ia menilai upaya tersebut dapat menjadi contoh bagi daerah lain yang realisasi transfer ke daerah masih di bawah 30 persen. Imran juga menyatakan masukan pemerintah kabupaten mengenai percepatan pembangunan infrastruktur pascabencana akan menjadi catatan Satgas PRRP. “Infrastruktur jembatan, kemudian sungai, itu menjadi infrastruktur strategis yang harus segera diselesaikan pada masa rehabilitasi dan rekonstruksi ini,” ujarnya.(*)",
+      "fetched_ok": true,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Pemerintah Kabupaten Aceh Tenggara menargetkan penyerapan TKD mencapai 100 persen dalam waktu dekat, yang merupakan langkah positif dalam upaya pemulihan dan pembangunan setelah bencana hidrometeorologi. Namun, target tersebut belum tercapai dan masih ada beberapa alokasi anggaran yang belum direalisasikan, yang menunjukkan tingkat risiko yang tinggi."
     },
     {
       "title": "Bobby Nasution Dorong IKM Sumut Kembangkan Ekonomi Syariah dan Industri Halal",
@@ -263,11 +263,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Gubernur mengajak IKM untuk kolaborasi dengan pemerintah dalam mengembangkan ekonomi keumatan, perdagangan berbasis syariah, dan industri halal, yang merupakan isu yang positif namun memiliki tingkat risiko tinggi karena potensi konflik antar kelompok."
     },
     {
       "title": "Sekolah Rakyat Ngawi Mulai Beroperasi, Gus Ipul Tekankan Pendidikan Karakter Siswa",
@@ -277,11 +277,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Isi berita fokus pada keberhasilan sekolah rakyat dan tidak menekankan dampak negatif atau alasan lainnya."
     },
     {
       "title": "5 Hadiah Menarik War Trakcil GoPay, dari MacBook Neo hingga Tiket Konser Sal Priadi",
@@ -291,11 +291,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": -1.0,
-      "sentiment_label": "Negatif",
-      "risk_score": 9,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 2 negatif, 0 kata berisiko."
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 50,
+      "risk_label": "Sedang",
+      "reason": "AI: Program menawarkan hadiah menarik dan potongan teka-teki yang menarik untuk pengguna GoPay."
     },
     {
       "title": "Jawa Tengah Raih Juara II MTQ Nasional XXXI 2026",
@@ -305,11 +305,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: berita tentang kemenangan di ajang nasional, yang biasanya dianggap positif, tetapi dalam konteks ini, kemenangan Jawa Tengah dianggap sebagai pembinaan yang baik dan kerja keras yang dilakukan oleh para kafilah, yang bisa dianggap sebagai hal yang positif."
     },
     {
       "title": "PNM Sulap Lorong Kota Jadi Kebun Produktif, Bantu Nasabah Mekaar Hemat Belanja",
@@ -319,11 +319,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Program ini memanfaatkan ruang terbatas di kawasan padat penduduk untuk budidaya sayuran, yang dapat membantu nasabah Mekaar memenuhi kebutuhan pangan keluarga dan membuka peluang tambahan pendapatan. Namun, program ini juga memanfaatkan ruang terbatas, yang dapat berpotensi mengakibatkan konflik dengan kepentingan lain."
     },
     {
       "title": "Baleg Serap Masukan Perubahan Status Jakarta hingga Pengurangan Anggota DPRD untuk Prolegnas 2027",
@@ -333,11 +333,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: berita mengandung berbagai informasi penting tentang perubahan dalam sistem parlemen dan proses pemilihan legislatif, yang merupakan isu penting dan berpotensi mempengaruhi kebijakan dan keputusan dalam sejarah politik Indonesia."
     },
     {
       "title": "Ketua Pansus RUU Daerah Kepulauan: Pertumbuhan Ekonomi Harus Jamin Keberlanjutan Ekosistem",
@@ -347,11 +347,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Isi berita menekankan pentingnya keseimbangan antara pertumbuhan ekonomi, perlindungan ekologis, dan keadilan bagi masyarakat kepulauan, yang merupakan isu yang serius dan mempengaruhi keberlanjutan ekosistem."
     },
     {
       "title": "Tegaskan Komitmen Pembangunan Inklusif, Gubernur Kalimantan Selatan Raih Penghargaan Pemberdayaan Perempuan",
@@ -361,11 +361,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Gubernur Muhidin mendapatkan penghargaan atas komitmen dalam pemberdayaan perempuan dan pembangunan inklusif, yang merupakan isu positif dan tidak berbahaya."
     },
     {
       "title": "Rumah Layak dan Akses Pendidikan untuk Masyarakat Samarinda",
@@ -373,13 +373,13 @@
       "summary": "Perhatian dan komitmen Andi Harun memberikan rumah layak dan memperluas akses pendidikan untuk masyarakatnya mendapatkan apresiasi dari Kementerian Dalam Negeri (Kemendagri) dalam Apresiasi Pemerintah Daerah Berprestasi 2026 Regional Kalimantan Batch II.",
       "published": "",
       "media": "Tempo news",
-      "content": "",
-      "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "content": "INFO TEMPO - Pemerintah Kota Samarinda melalui Kecamatan Sungai Pinang mengevakuasi Nurlina, 45 tahun, yang tinggal bersama dua anaknya di sebuah gubuk tidak layak huni di bantaran Sungai Karang Mumus, pada April 2026. Bangunan darurat itu bahkan tidak dialiri listrik dan berada di kawasan rentan banjir.\n\nNurlina, yang sehari-hari berjualan di Pasar Segiri, memilih bertahan agar tetap dapat memenuhi kebutuhan keluarga dan menyekolahkan anak-anaknya. Pemerintah Kota Samarinda kemudian memindahkan Nurlina dan dua anaknya ke rumah sewa yang lebih layak. Semua biaya sewa ditanggung pemerintah.\n\nLangkah itu menjadi contoh bagaimana persoalan hunian tidak cukup diselesaikan hanya dengan membangun rumah, tapi juga membutuhkan respons cepat ketika warga berada dalam kondisi yang mendesak. Persoalan rumah tidak layak huni juga berkaitan dengan penataan kawasan.\n\nWali Kota Samarinda Andi Harun memperkenalkan program Rekonsiliasi Permukiman dan Tanah yang antara lain diterapkan pada penataan kawasan kumuh dan bekas lokasi kebakaran di Kelurahan Sidodadi. Di kawasan tersebut, pemerintah bersama warga menata kembali permukiman dan membangun hunian sederhana tipe 36.\n\nSkema itu dimungkinkan karena warga yang memiliki lahan lebih luas bersedia berbagi dengan warga yang lahannya lebih kecil. Dengan demikian, penataan kawasan tidak hanya berorientasi pada pembangunan fisik, tapi juga mencari jalan keluar agar warga tetap dapat memiliki tempat tinggal yang layak.\n\nAndi Harun mengatakan kawasan yang ditata kembali juga diarahkan agar lebih aman dan memiliki ketahanan terhadap bencana. Pendekatan tersebut penting bagi Samarinda yang menghadapi persoalan permukiman di sejumlah kawasan dengan kondisi lingkungan dan tata ruang yang kompleks.\n\nKebijakan perbaikan rumah tidak layak huni pun memiliki landasan regulasi. Pemerintah Kota Samarinda telah menetapkan Peraturan Wali Kota Samarinda Nomor 5 Tahun 2025 tentang Pedoman Perbaikan Rumah Tidak Layak Huni pada 23 Januari 2025. Regulasi itu menjadi salah satu instrumen dalam menangani kebutuhan perbaikan hunian masyarakat.\n\nJumianah, penerima bantuan rumah tidak layak huni di Kelurahan Gunung Lingai, bersyukur kondisi rumahnya kini sudah jauh lebih baik. \"Saya mendapat bantuan bahan bangunan dan ongkos tukang,\"kata perempuan 48 tahun yang sehari-hari bekerja sebagai pengemudi ojek daring ini. \"Berkat program ini, banyak keluarga yang bisa tinggal lebih layak, aman, dan nyaman.\"\n\nSiswa SMA Prestasi Samarinda mengikuti proses belajar-mengajar. Dok. Pemkot Samarinda\n\nTak hanya merealisasi hunian layak untuk warga Samarinda, komitmen Wali Kota Andi Harun juga tecermin dalam pengembangan sektor pendidikan dan peningkatan kualitas sumber daya manusia. Salah satu kebijakan yang menonjol adalah pembangunan Sekolah Terpadu Samarinda sebagai sekolah unggulan dan gratis.\n\nSekolah ini mengintegrasikan jenjang sekolah dasar, sekolah menengah pertama, dan sekolah menengah atas dengan dukungan fasilitas yang lebih memadai serta penguatan pembelajaran bahasa Inggris; science, technology, engineering, and mathematics (STEM); serta pendidikan karakter. Pengembangan sekolah tersebut juga diarahkan menjadi model pendidikan yang dapat mempertemukan peningkatan mutu dengan kesempatan belajar yang lebih luas bagi masyarakat.\n\nPemerataan akses pendidikan tidak berhenti pada pembangunan fasilitas. Pemerintah Kota Samarinda juga memperkuat tata kelola penerimaan murid baru melalui pengawasan terhadap jalur domisili, afirmasi, prestasi, dan mutasi.\n\nKebijakan rayonisasi diterapkan untuk memperluas kesempatan masyarakat memperoleh layanan pendidikan di wilayahnya, sekaligus mengurangi kesenjangan akses antarkawasan. Perhatian dan komitmen Andi Harun memberikan rumah layak dan memperluas akses pendidikan untuk masyarakatnya mendapatkan apresiasi dari Kementerian Dalam Negeri (Kemendagri) dalam Apresiasi Pemerintah Daerah Berprestasi 2026 Regional Kalimantan Batch II.\n\nPemerintah Kota Samarinda meraih gelar juara II untuk kategori Implementasi Program 3 Juta Rumah dan Akses Penduduk ke Layanan Pendidikan. Dari penghargaan ini, Pemerintah Kota Samarinda mendapat alokasi 250 unit Bantuan Stimulan Perumahan Swadaya (BSPS) dari kategori Implementasi Program 3 Juta Rumah.\n\nDengan asumsi bantuan perbaikan rumah sebesar Rp 20 juta per unit, nilainya setara dengan Rp 5 miliar. Ada pula insentif fiskal senilai Rp 1,5 miliar dari kategori Akses ke Layanan Pendidikan. Wali Kota Samarinda Andi Harun mengatakan tambahan dukungan itu membuka kesempatan untuk memperluas jangkauan program perbaikan rumah warga, meski kebutuhan hunian layak di kota tersebut masih jauh lebih besar.\n\n\"Kami kembalikan insentif fiskal dan kuota renovasi rumah kepada masyarakat,\"katanya setelah menerima penghargaan Apresiasi Pemerintah Daerah Berprestasi 2026 Batch II Regional Kalimantan di Balikpapan, Kalimantan Timur, pada Kamis, 3 September 2026. \"Alhamdulillah. Lumayan, sebanyak 250 unit rumah di Samarinda akan dibedah.\" (*)",
+      "fetched_ok": true,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Pemerintah Kota Samarinda melalui Kecamatan Sungai Pinang mengevakuasi warga yang tinggal di gubuk tidak layak huni karena kondisi huni tersebut tidak memenuhi standar rumah yang layak. Ini menunjukkan permasalahan yang masih ada dalam pemerataan akses pendidikan dan hunian yang kurang optimal di kota Samarinda."
     },
     {
       "title": "Kota Samarinda Dapat Apresiasi Berturut dari Kemendagri",
@@ -389,11 +389,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 50,
+      "risk_label": "Sedang",
+      "reason": "AI: Isi berita fokus pada apresiasi dari Kementerian Dalam Negeri dan tidak menekankan pada aspek positif atau negatif yang lebih jelas."
     },
     {
       "title": "DPRD Kota Bogor Dorong Keberlanjutan Program Padat Karya, Bantu Ekonomi Masyarakat",
@@ -403,11 +403,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 50,
+      "risk_label": "Sedang",
+      "reason": "AI: Program Padat Karya Kota Bogor melibatkan warga untuk membantu pemeliharaan fasilitas publik dan memberikan penghasilan tambahan, yang merupakan upaya positif untuk meningkatkan ekonomi masyarakat."
     },
     {
       "title": "DPRD Kota Bogor Fasilitasi Solusi Relokasi Pedagang Tanaman Hias Jalan Semeru",
@@ -417,11 +417,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 50,
+      "risk_label": "Sedang",
+      "reason": "AI: berita mengandung informasi positif tentang solusi yang akan diberikan kepada pedagang tanaman hias, namun tidak mencakup detail atau perspektif negatif yang mungkin diperlukan untuk menilai tingkat risiko berita tersebut."
     },
     {
       "title": "DPRD Kota Bogor Ingatkan Rumah Sakit untuk Tidak Menolak Pasien Gawat Darurat",
@@ -429,13 +429,13 @@
       "summary": "Komisi IV DPRD Kota Bogor mengingatkan rumah sakit tidak menolak pasien gawat darurat dan memastikan prosedur rujukan berjalan sesuai ketentuan.",
       "published": "",
       "media": "Tempo news",
-      "content": "",
-      "fetched_ok": false,
+      "content": "INFO TEMPO - Komisi IV DPRD Kota Bogor mengingatkan seluruh rumah sakit, baik milik pemerintah maupun swasta di Kota Bogor, untuk konsisten menjalankan kewajiban penanganan pasien gawat darurat dan prosedur rujukan sesuai dengan peraturan perundang-undangan. Pengingatan tersebut merupakan bagian dari fungsi pengawasan Komisi IV terhadap pelayanan dasar di bidang kesehatan.\n\n\"Kami tidak sedang mencari kesalahan siapa pun. Kami sedang memastikan tidak ada lagi warga Kota Bogor yang harus berpindah-pindah rumah sakit dalam kondisi kritis,\" ujar Ketua Komisi IV DPRD Kota Bogor Fajar Muhammad Nur pada Kamis, 13 Agustus 2026.\n\nFajar mengatakan larangan menolak pasien gawat darurat bukan sekadar imbauan, melainkan telah diatur dalam Pasal 174 UU Nomor 17 Tahun 2023 tentang Kesehatan. Aturan tersebut mewajibkan seluruh fasilitas pelayanan kesehatan mendahulukan penyelamatan nyawa serta melarang penolakan pasien, permintaan uang muka, dan pengutamaan urusan administratif yang menyebabkan tertundanya pelayanan.\n\nKomisi IV juga menyoroti praktik rujukan tanpa kepastian penerimaan pada rumah sakit tujuan atau rujuk lepas. Sesuai Permenkes Nomor 16 Tahun 2024, rujukan adalah penyerahan tanggung jawab pelayanan, bukan pelepasan tanggung jawab.\n\n\"Rumah sakit tidak boleh melepas keluarga pasien mencari sendiri rumah sakit tujuan di tengah malam. Kewajiban menghubungi dan memastikan rumah sakit tujuan siap menerima itu ada di rumah sakit, bukan di keluarga,\" kata Fajar.\n\nMenurut Fajar, penuhnya ruang IGD dan terbatasnya tempat tidur adalah persoalan kapasitas dan tata kelola rumah sakit, yang tidak boleh dialihkan menjadi risiko pasien. Ia meminta setiap rumah sakit mengevaluasi kembali kesiapan IGD, alur triase, dan prosedur rujukannya.\n\n\"Kami siap mendukung dari sisi kebijakan dan anggaran. Kalau persoalannya kapasitas IGD dan tempat tidur, mari kita bahas bersama. Yang tidak bisa kami terima adalah pasien gawat darurat dibiarkan menunggu tanpa kepastian,\" ujarnya. (*)",
+      "fetched_ok": true,
       "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Komisi IV DPRD Kota Bogor mengingatkan kepada rumah sakit untuk menangani pasien gawat darurat dengan konsistensi dan memastikan kesiapan IGD dan alur rujukan."
     },
     {
       "title": "DPRD Kota Bogor Dukung Rencana GMKB Gelar Bogor Bersholawat pada 21 November 2026",
@@ -445,11 +445,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 1.0,
-      "sentiment_label": "Positif",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 1 positif, 0 negatif, 0 kata berisiko."
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: DPRD mendukung rencana GMKB, yang merupakan kegiatan besar di Kota Bogor, dan ini dianggap positif oleh masyarakat."
     },
     {
       "title": "HUT ke-12 RSUD Kota Bogor, DPRD Ajak Tingkatkan Kualitas Pelayanan Kesehatan",
@@ -459,11 +459,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Isi berita fokus pada ajakan untuk meningkatkan kualitas pelayanan kesehatan, yang merupakan topik positif dan tidak memiliki unsur negatif atau neutral dalam konteks berita tersebut."
     },
     {
       "title": "Pekanbaru Jadi Kota dengan Pertumbuhan Ekonomi Tertinggi pada Triwulan II 2026, Capai 7,39 Persen",
@@ -473,11 +473,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 1.0,
-      "sentiment_label": "Positif",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 1 positif, 0 negatif, 0 kata berisiko."
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Pendapatan pertumbuhan ekonomi dianggap tinggi dan menunjukkan pertumbuhan yang signifikan, namun tidak ada alasan yang jelas untuk tingkat tinggi risiko."
     },
     {
       "title": "Klungkung Menjawab Tantangan Kesehatan di Kepulauan",
@@ -487,11 +487,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Pemerintah Kabupaten Klungkung menekankan pada inovasi berbasis keluarga dan masyarakat yang mengurangi prevalensi stunting, menunjukkan upaya untuk meningkatkan kesehatan masyarakat."
     },
     {
       "title": "Menghadirkan Rumah Layak untuk Warga Banten",
@@ -501,11 +501,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 50,
+      "risk_label": "Sedang",
+      "reason": "AI: Pemerintah Provinsi Banten mendapatkan penghargaan untuk kategori Implementasi Program 3 Juta Rumah, yang merupakan keberhasilan dalam implementasi program kesejahteraan masyarakat."
     },
     {
       "title": "Pemerintah Kota Mojokerto: Perlindungan Paripurna untuk Kesehatan Warga",
@@ -515,11 +515,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 50,
+      "risk_label": "Sedang",
+      "reason": "AI: Kota Mojokerto mendapatkan prestasi dalam bidang kesehatan, namun tidak ada alasan yang mendukung atau menyinggung masalah tertentu."
     },
     {
       "title": "Tiga Juara untuk Surabaya",
@@ -529,11 +529,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 50,
+      "risk_label": "Sedang",
+      "reason": "AI: Isi berita fokus pada penghargaan yang diterima oleh pemerintah kota Surabaya dan tidak menekankan pada aspek negatif atau positif spesifik."
     },
     {
       "title": "KKP Tangani Paus Sperma Terdampar di Ternate",
@@ -543,11 +543,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: berita tentang peristiwa yang sedang berlangsung dan tidak memiliki sisi positif atau negatif yang jelas."
     },
     {
       "title": "EVOCAT Luncurkan Cat's Favour, Wet Food Kucing Berstandar Global di IIPE 2026",
@@ -557,11 +557,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Berita ini menekankan tentang peluncuran produk kucing yang baru, namun tidak menyebutkan apakah produk ini memiliki kualitas atau manfaat yang spesifik."
     },
     {
       "title": "Elnusa Petrofin Tambah Armada dan Personel untuk Optimalkan Distribusi BBM di Makassar",
@@ -571,11 +571,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Elnusa Petrofin menambah armada dan personel untuk optimalkan distribusi BBM di Makassar, yang merupakan upaya untuk memastikan kelancaran distribusi minyak bumi kepada SPBU di wilayah tersebut."
     },
     {
       "title": "KKP Tetapkan Kawasan Konservasi Teon, Nila, dan Serua Seluas 683 Ribu Hektare",
@@ -587,9 +587,9 @@
       "fetched_ok": false,
       "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Kementerian Kelautan dan Perikanan menetapkan kawasan konservasi untuk memperkuat perlindungan ekosistem laut dan mendukung perikanan dan ekonomi masyarakat, yang merupakan kebijakan positif dalam konteks perlindungan lingkungan dan ekonomi lokal."
     },
     {
       "title": "Kedekatan Warga Jateng dan Kafilah MTQ Nasional Jadi Sorotan Positif",
@@ -599,11 +599,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 1.0,
+      "sentiment_score": 1,
       "sentiment_label": "Positif",
       "risk_score": 0,
       "risk_label": "Rendah",
-      "reason": "Leksikon: 1 positif, 0 negatif, 0 kata berisiko."
+      "reason": "AI: Keramahan masyarakat Jawa Tengah mendapatkan apresiasi positif dari peserta MTQ Nasional."
     },
     {
       "title": "Gubernur Bobby Minta Publik Hentikan Komentar Negatif terhadap Korban MBG di Karo",
@@ -613,11 +613,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": -1.0,
-      "sentiment_label": "Negatif",
-      "risk_score": 9,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 2 negatif, 0 kata berisiko."
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 50,
+      "risk_label": "Sedang",
+      "reason": "AI: Gubernur meminta masyarakat dan media menghindari komentar negatif dan perundungan di media sosial untuk memudahkan pemulihan fisik dan psikologis siswa korban."
     },
     {
       "title": "Transformasi Layanan Haji Harus Terukur dari Biaya hingga Perlindungan Jemaah",
@@ -627,11 +627,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Pembenahan kelembagaan perlu menghasilkan layanan yang lebih transparan, ramah lansia, dan siap menghadapi risiko di setiap tahapan ibadah."
     },
     {
       "title": "Gubernur Lampung Alihkan KBM ke Daring Akibat Sebaran Abu Anak Krakatau",
@@ -641,11 +641,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": -1.0,
-      "sentiment_label": "Negatif",
-      "risk_score": 6,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 1 negatif, 0 kata berisiko."
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Pemerintah Provinsi Lampung mengambil tindakan khusus untuk mengantisipasi dampak sebaran abu vulkanik Gunung Anak Krakatau, yang merupakan isu yang sedang berita dan memiliki potensi risiko yang tinggi."
     },
     {
       "title": "Resmikan Jembatan Bailey di Tapteng, Bobby Nasution Janji Beri Modal Usaha untuk Warga",
@@ -655,11 +655,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 50,
+      "risk_label": "Sedang",
+      "reason": "AI: Bobby Nasution mengumumkan rencana untuk memberikan modal usaha kepada masyarakat, yang merupakan kegiatan positif namun tidak memiliki alasan yang kuat untuk dianggap berbahaya."
     },
     {
       "title": "Jastip Barang Luar Negeri untuk Belanja di Amazon, eBay, AliExpress, dan USA",
@@ -667,13 +667,13 @@
       "summary": "Jasa titip barang luar negeri membantu konsumen Indonesia berbelanja dari Amazon, eBay, AliExpress, hingga toko online di Amerika Serikat ketika terkendala pembayaran internasional maupun pengiriman langsung ke Indonesia.",
       "published": "",
       "media": "Tempo news",
-      "content": "",
-      "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "content": "INFO TEMPO - Belanja melalui toko online luar negeri kini bukan lagi sesuatu yang hanya dilakukan oleh kalangan tertentu. Perkembangan marketplace global membuat konsumen di Indonesia semakin mudah menemukan berbagai produk dari Amerika Serikat, Jepang, Inggris, China, dan sejumlah negara lainnya.\n\nMulai dari barang elektronik, fashion, koleksi khusus, hingga produk yang belum tersedia di pasar Indonesia, semuanya dapat ditemukan hanya dengan melakukan pencarian di internet.\n\nScroll ke bawah untuk melanjutkan membaca\n\nNamun, menemukan produk ternyata bukan selalu menjadi persoalan utama. Tantangan justru muncul ketika pembeli harus melakukan pembayaran menggunakan metode internasional, menghadapi toko yang tidak menyediakan pengiriman ke Indonesia, atau memahami proses pengiriman lintas negara hingga barang tiba di tangan penerima.\n\nKondisi tersebut kemudian membuka ruang bagi layanan jasa beli dan titip barang dari luar negeri. Salah satu penyedia yang menawarkan layanan tersebut adalah Jasabelanjaonline.com , yang membantu konsumen Indonesia dalam proses pembelian dan pengiriman produk dari berbagai marketplace internasional.\n\nKetika Produk Ada, tetapi Pengiriman Tidak Tersedia\n\nKetika Produk Ada, tetapi Pengiriman Tidak Tersedia\n\nAda kalanya konsumen sudah menemukan barang yang dicari, tetapi transaksi tidak bisa dilanjutkan karena toko hanya melayani pembeli di negara tertentu.\n\nPersoalan lain adalah metode pembayaran. Tidak semua konsumen memiliki kartu kredit, PayPal, atau fasilitas pembayaran internasional yang dibutuhkan oleh marketplace tertentu.\n\nDalam situasi seperti ini, jasa perantara pembelian dapat menjadi pilihan. Konsumen cukup menentukan barang yang ingin dibeli, sementara proses transaksi dan pengiriman dibantu oleh penyedia layanan.\n\nMelalui Jasa Beli Barang Luar Negeri , misalnya, konsumen dapat meminta bantuan untuk membeli produk dari toko online internasional yang memiliki kendala pembayaran atau tidak menyediakan pengiriman langsung ke Indonesia.\n\nSkema tersebut membuat proses belanja lintas negara menjadi lebih sederhana karena pembeli tidak harus menangani seluruh tahapan transaksi seorang diri.\n\nPilihan untuk Pengguna eBay dan Amazon\n\nPilihan untuk Pengguna eBay dan Amazon\n\nMarketplace besar seperti eBay dan Amazon menjadi salah satu tujuan konsumen Indonesia ketika mencari produk yang tidak mudah ditemukan di pasar lokal.\n\nDi eBay, misalnya, pembeli tidak hanya perlu memperhatikan harga barang. Reputasi seller juga menjadi salah satu faktor penting sebelum melakukan transaksi. Melalui layanan titip eBay, konsumen dapat meminta bantuan dalam proses pembelian sekaligus pengecekan reputasi penjual sebelum transaksi dilakukan.\n\nSementara untuk pengguna Amazon, tersedia layanan titip Amazon yang mencakup Amazon Amerika Serikat, Inggris, dan Jepang.\n\nLayanan semacam ini dapat menjadi alternatif bagi konsumen yang ingin membeli barang dari Amazon tetapi terkendala metode pembayaran internasional atau sistem pengiriman yang tidak tersedia untuk alamat di Indonesia.\n\nAmerika Serikat Menjadi Salah Satu Tujuan Belanja\n\nAmerika Serikat Menjadi Salah Satu Tujuan Belanja\n\nAmerika Serikat memiliki pasar e-commerce yang sangat luas. Banyak produk dan merek yang tersedia di sana belum tentu mudah ditemukan melalui toko online Indonesia.\n\nMasalahnya, tidak semua retailer di Amerika Serikat menyediakan pengiriman internasional.\n\nUntuk kebutuhan tersebut, tersedia layanan Jasa Titip US. Barang yang dibeli dari toko di Amerika dapat dikirim terlebih dahulu ke gudang, sebelum kemudian diteruskan ke Indonesia.\n\nModel seperti ini juga memungkinkan penggabungan beberapa barang dari toko berbeda ke dalam satu pengiriman. Bagi konsumen yang berbelanja di lebih dari satu toko, metode tersebut dapat membantu membuat proses pengiriman menjadi lebih praktis.\n\nAda pula layanan World Forwarding untuk konsumen yang sudah menemukan toko di Amerika Serikat tetapi tidak dapat mengirimkan barang secara langsung ke Indonesia.\n\nDalam skema forwarding , barang dikirim ke alamat gudang di Amerika terlebih dahulu. Setelah diterima, barang kemudian diteruskan menuju alamat penerima di Indonesia.\n\nInformasi pada situs JasaBelanjaOnline mencantumkan tarif forwarding US sebesar Rp400.000 per kilogram, dengan ketentuan pajak yang berlaku.\n\nPilihan Belanja Tidak Berhenti di Amazon dan eBay\n\nPilihan Belanja Tidak Berhenti di Amazon dan eBay\n\nMarketplace internasional memiliki karakter dan pilihan produk yang berbeda-beda. Karena itu, konsumen tidak selalu bergantung pada Amazon atau eBay ketika mencari barang dari luar negeri.\n\nAliExpress menjadi salah satu marketplace lain yang cukup banyak digunakan untuk mencari produk dari seller berbagai negara.\n\nMelalui layanan Jasa Titip AliExpress, konsumen dapat meminta bantuan untuk melakukan pembelian dari seller di marketplace tersebut dan selanjutnya mengirimkan barang hingga ke Indonesia.\n\nDengan berbagai pilihan tersebut, konsumen dapat menyesuaikan layanan berdasarkan tempat mereka menemukan produk, bukan hanya berdasarkan satu marketplace tertentu.\n\nBarang Melewati Proses Pemeriksaan Sebelum Dikirim\n\nBarang Melewati Proses Pemeriksaan Sebelum Dikirim\n\nDalam transaksi internasional, perjalanan sebuah barang biasanya lebih panjang dibandingkan pembelian domestik.\n\nBarang yang dibeli tidak selalu langsung dikirim dari toko menuju alamat konsumen di Indonesia. Dalam prosedur yang dijelaskan JasaBelanjaOnline, barang terlebih dahulu dikirim ke gudang di negara asal.\n\nSetelah barang sampai, kondisi dan kemasannya diperiksa sebelum proses pengiriman berikutnya dilakukan.\n\nTahapan ini juga memungkinkan barang mendapatkan penanganan ulang apabila kemasan awal dinilai kurang sesuai untuk perjalanan internasional. Penyedia layanan tersebut mencantumkan fasilitas free repackaging dalam kondisi tertentu.\n\nBagi konsumen, proses pemeriksaan ini dapat memberikan gambaran yang lebih jelas mengenai kondisi barang sebelum dikirim menuju Indonesia.\n\nHarga Barang Bukan Satu-satunya Biaya\n\nHarga Barang Bukan Satu-satunya Biaya\n\nSatu hal yang sering terlewat ketika seseorang mulai berbelanja dari luar negeri adalah menghitung total biaya.\n\nHarga yang terlihat di marketplace belum tentu menjadi jumlah akhir yang harus dibayarkan. Konsumen perlu mempertimbangkan biaya jasa, pengiriman internasional, asuransi, serta pajak dan bea masuk sesuai ketentuan yang berlaku.\n\nPada informasi layanan JasaBelanjaOnline, biaya jasa tercantum sebesar 4 persen dengan minimum Rp10.000. Tersedia pula pilihan asuransi pengiriman sebesar 3,5 persen dengan minimum Rp35.000.\n\nSementara itu, pajak dan bea masuk mengikuti peraturan yang berlaku. Untuk pengiriman setelah barang tiba di Indonesia, biaya domestik juga dapat berbeda tergantung berat barang dan tujuan pengiriman.\n\nTransparansi mengenai komponen biaya menjadi hal penting bagi konsumen karena membantu mereka memperkirakan anggaran secara lebih realistis sebelum melakukan pembelian.\n\nMengapa Jasa Titip Masih Relevan?\n\nMengapa Jasa Titip Masih Relevan?\n\nKehadiran marketplace global memang membuat proses belanja lintas negara semakin mudah. Namun, kemudahan tersebut tidak berarti seluruh konsumen dapat melakukan transaksi internasional tanpa hambatan.\n\nSebagian konsumen mungkin tidak memiliki metode pembayaran yang diterima oleh toko. Sebagian lainnya menemukan produk menarik dari retailer yang tidak melayani pengiriman ke Indonesia.\n\nAda juga konsumen yang mempertimbangkan reputasi seller , proses forwarding , hingga risiko pengiriman sebelum memutuskan membeli.\n\nDi titik inilah jasa titip dan jasa beli memiliki peran sebagai penghubung antara konsumen Indonesia dengan penjual di luar negeri.\n\nPilihan layanan seperti jasa beli barang luar negeri, titip eBay, titip Amazon, titip AliExpress, hingga titip barang dari Amerika Serikat memberikan alternatif bagi konsumen dengan kebutuhan yang berbeda.\n\nBelanja Global Tanpa Harus Mengurus Semuanya Sendiri\n\nBelanja Global Tanpa Harus Mengurus Semuanya Sendiri\n\nInternet telah membuat jarak antarnegara terasa semakin pendek. Produk yang dahulu hanya bisa diperoleh melalui perjalanan ke luar negeri kini dapat ditemukan melalui layar komputer atau smartphone .\n\nMeski begitu, transaksi internasional tetap memiliki sejumlah tahapan yang perlu diperhatikan, mulai dari pembayaran, pemilihan seller, alamat pengiriman, pemeriksaan barang, forwarding , hingga perhitungan pajak.\n\nLayanan seperti JasaBelanjaOnline hadir sebagai salah satu alternatif bagi konsumen yang ingin mengakses produk dari pasar global tetapi tidak ingin menangani seluruh proses tersebut sendiri.\n\nPada akhirnya, kemudahan belanja dari luar negeri bukan hanya soal seberapa mudah menemukan produk. Yang tidak kalah penting adalah bagaimana barang tersebut dapat dibeli, dikirim, dan diterima dengan proses yang jelas.\n\nBagi konsumen Indonesia yang kerap menemukan produk menarik di toko online luar negeri namun terkendala pembayaran atau pengiriman, jasa beli dan jasa titip dapat menjadi salah satu opsi untuk membuat pengalaman belanja internasional terasa lebih sederhana.(*)",
+      "fetched_ok": true,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 40,
+      "risk_label": "Sedang",
+      "reason": "AI: Informasi tentang layanan Jasa Belanja Online yang menawarkan solusi untuk konsumen Indonesia dalam belanja dan pengiriman barang dari luar negeri, dengan menekankan pada layanan titip barang dan penanganan ulang barang."
     },
     {
       "title": "Gubernur Mirza Dorong Teknologi Tepat Guna Percepat Hilirisasi Komoditas Lampung",
@@ -683,11 +683,11 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 1.0,
-      "sentiment_label": "Positif",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 1 positif, 0 negatif, 0 kata berisiko."
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Gubernur Lampung mendukung teknologi tepat guna untuk mempercepat hilirisasi komoditas, yang merupakan kebijakan positif untuk pertumbuhan ekonomi."
     },
     {
       "title": "Pemprov Lampung Perkuat Generasi Desa melalui Program Sarjana STEM dan Hafiz Qur'an",
@@ -697,12 +697,12 @@
       "media": "Tempo news",
       "content": "",
       "fetched_ok": false,
-      "sentiment_score": 0.0,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "Leksikon: 0 positif, 0 negatif, 0 kata berisiko."
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Program tersebut menekankan kedua aspek penting dalam pembangunan desa, yaitu kecakapan intelektual dan karakter spiritual, yang merupakan komponen penting dalam pembangunan generasi muda desa."
     }
   ],
-  "ok_count": 2
+  "ok_count": 6
 }
