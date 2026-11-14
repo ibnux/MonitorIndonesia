@@ -1,6 +1,78 @@
 {
   "media": "Bisnis",
   "feed": "https://rss.bisnis.com/",
-  "ok": false,
-  "items": []
+  "ok": true,
+  "items": [
+    {
+      "title": "Kawasan Indonesia Timur Berkomitmen Permudah Perizinan Investasi",
+      "link": "https://sulawesi.bisnis.com/read/20261115/540/2021408/kawasan-indonesia-timur-berkomitmen-permudah-perizinan-investasi",
+      "summary": "<img src=\"https://images.bisnis.com/posts/2026/11/15/2021408/kemarau_-_makassar_1790075525.jpg\"/>\n                        Desk Investasi di Makassar mempermudah perizinan investasi di Sulawesi, Maluku, dan Papua, mendorong pertumbuhan ekonomi dan hilirisasi komoditas.",
+      "published": "",
+      "media": "Bisnis",
+      "content": "",
+      "fetched_ok": false,
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 50,
+      "risk_label": "Sedang",
+      "reason": "AI: Isi berita menekankan manfaat positif dari perubahan dalam perizinan investasi, seperti pertumbuhan ekonomi dan hilirisasi komoditas, tanpa menunjukkan sentimen negatif atau positif spesifik."
+    },
+    {
+      "title": "Vila Soekarno di Puncak Cisarua Jadi Resto, Struktur Dipertahankan",
+      "link": "https://bandung.bisnis.com/read/20261115/549/2021407/vila-soekarno-di-puncak-cisarua-jadi-resto-struktur-dipertahankan",
+      "summary": "<img src=\"https://images.bisnis.com/posts/2026/11/15/2021407/screenshot_1658_1_1_1794680172.jpg\"/>\n                        Vila Soekarno di Puncak Cisarua kini jadi Restoran Nila Giri. Struktur bangunan bersejarah ini tetap dipertahankan, meski ada pro-kontra.",
+      "published": "",
+      "media": "Bisnis",
+      "content": "",
+      "fetched_ok": false,
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Struktur bangunan bersejarah dipertahankan, meski ada pro-kontra."
+    },
+    {
+      "title": "Menlu Arrmanatha Nasir: Persatuan Kekuatan Terbesar ASEAN",
+      "link": "https://kabar24.bisnis.com/read/20261115/19/2021406/menlu-arrmanatha-nasir-persatuan-kekuatan-terbesar-asean",
+      "summary": "<img src=\"https://images.bisnis.com/posts/2026/11/15/2021406/whatsapp-image-2026-11-14-at-17.00.59_1_1794678916.jpg\"/>\n                        Menlu RI Arrmanatha Nasir menekankan persatuan sebagai kekuatan ASEAN dalam menghadapi tantangan global, dengan fokus pada kerja sama dan ketahanan kawasan.",
+      "published": "",
+      "media": "Bisnis",
+      "content": "",
+      "fetched_ok": false,
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 50,
+      "risk_label": "Sedang",
+      "reason": "AI: Isi berita fokus pada menekankan persatuan ASEAN sebagai kekuatan dalam menghadapi tantangan global, tanpa menunjukkan sentimen positif atau negatif spesifik."
+    },
+    {
+      "title": "BI Perluas Ekosistem Keuangan Digital di Bali",
+      "link": "https://bali.bisnis.com/read/20261115/538/2021405/bi-perluas-ekosistem-keuangan-digital-di-bali",
+      "summary": "<img src=\"https://images.bisnis.com/posts/2026/11/15/2021405/img-20261114-wa0019_1_1794677417.jpg\"/>\n                        Bank Indonesia Bali memperluas ekosistem keuangan digital dengan mengimplementasikan pembayaran QRIS pada shuttle listrik di Desa Wisata Sanur, mendukung ekonomi digital Bali.",
+      "published": "",
+      "media": "Bisnis",
+      "content": "Bisnis.com , DENPASAR - Kantor Perwakilan Bank Indonesia (BI) Provinsi Bali memperluas penyediaan ekosistem keuangan digital di Pulau Dewata, salah satunya menyasar sistem pembayaran transportasi bertenaga listrik (shuttle) yang dikelola desa wisata di Denpasar.\n\n\"Yang kami tekankan, ekonomi dan keuangan digital untuk mempercepat ekonomi tumbuh itu terutama di sistem pembayarannya,\" kata Kepala BI Bali Achris Sarwani pada hari terakhir forum Baligivation 2026 di Sanur, Denpasar, Bali, Sabtu (14/11/2026).\n\nMenurut dia, sebagai bank sentral pihaknya mendukung visi Pemerintah Provinsi Bali yang salah satunya menekankan ekonomi digital, yang merambah hingga ke komunitas termasuk pengelola wisata di tingkat desa.\n\nUntuk itu, inovasi sistem pembayaran digital Quick Response Indonesian Code Standard (QRIS) kini semakin diperluas hingga merambah transportasi publik yang dikelola desa wisata Desa Adat Intaran di Sanur, Denpasar.\n\nWisatawan yang memanfaatkan bus shuttle itu dapat memanfaatkan sistem pembayaran QRIS dan QRIS Tap baik menggunakan uang elektronik dan telepon pintar.\n\nPemanfaatan transaksi digital perdana di shuttle tersebut dilaksanakan di sela Baligivation yang dihadiri juga Gubernur Bali Wayan Koster.\n\nSementara itu, Ketua Badan Usaha Pedruwen Desa Adat (BUPDA) atau badan usaha milik Desa Adat Intaran Anak Agung Arya Teja menambahkan saat ini di desanya terdapat 12 armada shuttle yang merupakan hibah Dinas Perhubungan Kota Denpasar, dengan kapasitas hingga 10 orang penumpang.\n\nAdapun tarif shuttle elektrik itu sebesar Rp5.000 per orang yang melayani penumpang termasuk wisatawan asing dan domestik di sekitar destinasi wisata kawasan Desa Adat Intaran, Sanur.\n\nUntuk mendukung kampanye transaksi digital, Pemprov Bali dan Bank Indonesia Bali memberikan tarif khusus sebesar Rp68 per orang, menyesuaikan usia Pemprov Bali.\n\nTarif khusus itu berlaku 15-30 November 2026 dengan kuota harian tertentu.\n\nBerdasarkan data BI Bali, jumlah pengguna QRIS di Pulau Dewata per September 2026 mencapai 1,3 juta orang dan jumlah gerai usaha yang memanfaatkan transaksi digital itu mencapai 1,18 juta gerai.\n\nSecara nominal, jumlah transaksi QRIS di Bali hingga September 2026 mencapai sekitar Rp10,6 triliun atau naik 47% dibandingkan periode sama 2025 dengan jumlah volume transaksi menembus sekitar 91,4 juta transaksi.\n\nCek Berita dan Artikel yang lain di Google\n                News dan WA Channel",
+      "fetched_ok": true,
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Berita ini menekankan pentingnya ekonomi digital dan pembayaran digital dalam ekonomi Bali, namun tidak menyebutkan dampak langsung dari inovasi ini terhadap ekonomi Bali."
+    },
+    {
+      "title": "Medco Energi (MEDC) Catat Produksi Migas Naik 19% pada Semester I/2026",
+      "link": "https://ekonomi.bisnis.com/read/20261115/44/2021404/medco-energi-medc-catat-produksi-migas-naik-19-pada-semester-i2026",
+      "summary": "<img src=\"https://images.bisnis.com/posts/2026/11/15/2021404/medco_2-2_1724657410.jpg\"/>\n                        Medco Energi catat kenaikan produksi migas 19% di semester I/2026, didukung lapangan baru dan efisiensi operasional. Medco Power tingkatkan penjualan listrik 16,5%.",
+      "published": "",
+      "media": "Bisnis",
+      "content": "",
+      "fetched_ok": false,
+      "sentiment_score": 0.0,
+      "sentiment_label": "Netral",
+      "risk_score": 50,
+      "risk_label": "Sedang",
+      "reason": "AI: Produksi migas dan penjualan listrik meningkat, menunjukkan kinerja positif untuk kedua perusahaan."
+    }
+  ],
+  "ok_count": 1
 }
