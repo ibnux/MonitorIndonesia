@@ -4,6 +4,34 @@
   "ok": true,
   "items": [
     {
+      "title": "Gubernur Ahmad Luthfi Ikuti Borobudur Marathon 2026",
+      "link": "https://nasional.tempo.co/read/2123676/gubernur-ahmad-luthfi-ikuti-borobudur-marathon-2026",
+      "summary": "Gubernur Jawa Tengah Ahmad Luthfi membaur bersama 12.500 pelari dalam Bank Jateng Borobudur Marathon 2026 yang tidak hanya menjadi ajang olahraga, tetapi juga memperkuat kebersamaan masyarakat dan mendorong perekonomian Magelang.",
+      "published": "",
+      "media": "Tempo news",
+      "content": "",
+      "fetched_ok": false,
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 50,
+      "risk_label": "Sedang",
+      "reason": "AI: Gubernur Ahmad Luthfi ikut dalam acara olahraga yang juga memiliki potensi untuk memperkuat kebersamaan masyarakat dan mempromosikan ekonomi di daerah tersebut."
+    },
+    {
+      "title": "LRT Jakarta Pastikan Operasional Tetap Normal Usai Penanganan Rembesan Air di Stasiun Manggarai",
+      "link": "https://nasional.tempo.co/read/2123666/lrt-jakarta-pastikan-operasional-tetap-normal-usai-penanganan-rembesan-air-di-stasiun-manggarai",
+      "summary": "LRT Jakarta melakukan penanganan preventif dan pemeriksaan fasilitas kelistrikan akibat rembesan air di Stasiun Manggarai, sementara operasional perjalanan kereta tetap berjalan normal dan seluruh fasilitas berangsur kembali berfungsi.",
+      "published": "",
+      "media": "Tempo news",
+      "content": "",
+      "fetched_ok": false,
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: LRT Jakarta mengadakan penanganan preventif dan pemeriksaan fasilitas kelistrikan, namun operasional kereta tetap normal dan beberapa fasilitas kembali berfungsi."
+    },
+    {
       "title": "Bank Sumsel Babel Dukung Sriwijaya Ranau Gran Fondo 2026, Perkuat Sport Tourism dan Ekonomi Daerah",
       "link": "https://nasional.tempo.co/read/2123664/bank-sumsel-babel-dukung-sriwijaya-ranau-gran-fondo-2026-perkuat-sport-tourism-dan-ekonomi-daerah",
       "summary": "Sriwijaya Ranau Gran Fondo 2026 menjadi momentum pengembangan pariwisata berbasis olahraga sekaligus mendorong pertumbuhan ekonomi masyarakat melalui dukungan dan kolaborasi berbagai pemangku kepentingan, termasuk Bank Sumsel Babel.",
@@ -674,34 +702,6 @@
       "risk_score": 50,
       "risk_label": "Sedang",
       "reason": "AI: Bobby Nasution mengumumkan rencana untuk memberikan modal usaha kepada masyarakat, yang merupakan kegiatan positif namun tidak memiliki alasan yang kuat untuk dianggap berbahaya."
-    },
-    {
-      "title": "Jastip Barang Luar Negeri untuk Belanja di Amazon, eBay, AliExpress, dan USA",
-      "link": "https://nasional.tempo.co/read/2118570/jastip-barang-luar-negeri-untuk-belanja-di-amazon-ebay-aliexpress-dan-usa",
-      "summary": "Jasa titip barang luar negeri membantu konsumen Indonesia berbelanja dari Amazon, eBay, AliExpress, hingga toko online di Amerika Serikat ketika terkendala pembayaran internasional maupun pengiriman langsung ke Indonesia.",
-      "published": "",
-      "media": "Tempo news",
-      "content": "",
-      "fetched_ok": false,
-      "sentiment_score": 0.5,
-      "sentiment_label": "Netral",
-      "risk_score": 85,
-      "risk_label": "Tinggi",
-      "reason": "AI: Jasa titip barang luar negeri membantu konsumen Indonesia berbelanja dari toko online internasional, namun tidak mengurangi risiko pembayaran internasional atau pengiriman langsung ke Indonesia."
-    },
-    {
-      "title": "Gubernur Mirza Dorong Teknologi Tepat Guna Percepat Hilirisasi Komoditas Lampung",
-      "link": "https://nasional.tempo.co/read/2118556/gubernur-mirza-dorong-teknologi-tepat-guna-percepat-hilirisasi-komoditas-lampung",
-      "summary": "Gubernur Lampung Rahmat Mirzani Djausal mendorong sinergi riset, teknologi tepat guna, dan penguatan SDM untuk mempercepat hilirisasi komoditas serta membangun kemandirian ekonomi desa.",
-      "published": "",
-      "media": "Tempo news",
-      "content": "",
-      "fetched_ok": false,
-      "sentiment_score": 0.5,
-      "sentiment_label": "Netral",
-      "risk_score": 85,
-      "risk_label": "Tinggi",
-      "reason": "AI: Gubernur Lampung mendukung teknologi tepat guna untuk mempercepat hilirisasi komoditas, yang merupakan kebijakan positif untuk pertumbuhan ekonomi."
     }
   ],
   "ok_count": 0
