@@ -4,6 +4,20 @@
   "ok": true,
   "items": [
     {
+      "title": "Bank Sumsel Babel Dukung Sriwijaya Ranau Gran Fondo 2026, Perkuat Sport Tourism dan Ekonomi Daerah",
+      "link": "https://nasional.tempo.co/read/2123664/bank-sumsel-babel-dukung-sriwijaya-ranau-gran-fondo-2026-perkuat-sport-tourism-dan-ekonomi-daerah",
+      "summary": "Sriwijaya Ranau Gran Fondo 2026 menjadi momentum pengembangan pariwisata berbasis olahraga sekaligus mendorong pertumbuhan ekonomi masyarakat melalui dukungan dan kolaborasi berbagai pemangku kepentingan, termasuk Bank Sumsel Babel.",
+      "published": "",
+      "media": "Tempo news",
+      "content": "",
+      "fetched_ok": false,
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Dukungan dari Bank Sumsel Babel untuk Sriwijaya Ranau Gran Fondo 2026 menunjukkan kepentingan dalam ekonomi daerah dan pariwisata, namun, tinggi risiko karena potensi konflik atau persaingan antar pemangku kepentingan."
+    },
+    {
       "title": "KKP Bangun 506 Dapur Perebusan, Percepat Pemulihan Ekonomi Pesisir Aceh",
       "link": "https://nasional.tempo.co/read/2123221/kkp-bangun-506-dapur-perebusan-percepat-pemulihan-ekonomi-pesisir-aceh",
       "summary": "Bantuan dapur perebusan garam dari Kementerian Kelautan dan Perikanan mendorong peningkatan kapasitas produksi hingga 120 kilogram per proses sekaligus membuka peluang pemulihan pendapatan masyarakat pesisir Aceh pascabencana.",
@@ -688,20 +702,6 @@
       "risk_score": 85,
       "risk_label": "Tinggi",
       "reason": "AI: Gubernur Lampung mendukung teknologi tepat guna untuk mempercepat hilirisasi komoditas, yang merupakan kebijakan positif untuk pertumbuhan ekonomi."
-    },
-    {
-      "title": "Pemprov Lampung Perkuat Generasi Desa melalui Program Sarjana STEM dan Hafiz Qur'an",
-      "link": "https://nasional.tempo.co/read/2118555/pemprov-lampung-perkuat-generasi-desa-melalui-program-sarjana-stem-dan-hafiz-quran",
-      "summary": "Pemprov Lampung memperkuat kualitas generasi muda desa melalui Program Satu Desa Satu Sarjana STEM dan Satu Desa Satu Hafiz Qur'an yang memadukan kecakapan intelektual dengan karakter spiritual.",
-      "published": "",
-      "media": "Tempo news",
-      "content": "",
-      "fetched_ok": false,
-      "sentiment_score": 0.5,
-      "sentiment_label": "Netral",
-      "risk_score": 85,
-      "risk_label": "Tinggi",
-      "reason": "AI: Program tersebut menekankan kedua aspek penting dalam pembangunan desa, yaitu kecakapan intelektual dan karakter spiritual, yang merupakan komponen penting dalam pembangunan generasi muda desa."
     }
   ],
   "ok_count": 0
