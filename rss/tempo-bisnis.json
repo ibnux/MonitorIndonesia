@@ -107,13 +107,13 @@
       "summary": "BNI menghadirkan deretan musikus Tanah Air dalam wondrX 2026 sebagai bagian dari rangkaian hiburan bagi pengunjung.",
       "published": "",
       "media": "Tempo Bisnis",
-      "content": "",
-      "fetched_ok": false,
+      "content": "INFO TEMPO - PT Bank Negara Indonesia (Persero) Tbk atau BNI menghadirkan deretan musikus Tanah Air dalam pergelaran wondrX 2026 di ICE BSD, Tangerang, Baten, pada 21-23 Agustus 2026. Sejumlah musikus yang dijadwalkan tampil antara lain RAN, Ardhito Pramono, Marcell, Oslo Ibrahim, Rendy Pandugo, Teza Sumendra, Alex Teh, Barasuara x Andien, Pamungkas, Juicy Luicy, serta Rizky Febian dan Mahalini.\n\nCorporate Secretary BNI Okki Rushartomo mengatakan kehadiran musik dalam wondrX 2026 menjadi bagian dari upaya BNI menghadirkan acara yang dapat dinikmati oleh berbagai kalangan masyarakat. Pertunjukan musik, kata dia, menjadi salah satu daya tarik dari acara yang juga menghadirkan beragam layanan perbankan, kuliner, properti, otomotif, serta aktivitas gaya hidup.\n\n“Musik menjadi salah satu daya tarik yang bisa dinikmati semua kalangan. Selain menikmati hiburan, pengunjung bisa mendapat berbagai informasi dan mengenal lebih dekat produk serta layanan BNI,” ujar Okki dalam keterangan tertulis.\n\nSelain pertunjukan musik, wondrX 2026 menghadirkan berbagai kegiatan, seperti Financial Talkshow, Talkshow Housing, VISA Music Passion Pilar with RAN, dan peluncuran produk baru BNI Co-Brand Debit Card.\n\nBNI juga menyediakan berbagai promo untuk kebutuhan otomotif, properti, kuliner, serta belanja bagi pengunjung yang menggunakan Kartu BNI ataupun layanan wondr by BNI.\n\nUntuk mengikuti rangkaian acara dan menikmati berbagai promo, pengunjung dapat melakukan registrasi melalui wondr by BNI serta memastikan aplikasi wondr by BNI telah aktif. Pengunjung juga disarankan membawa Kartu BNI selama berada di area acara.\n\nBNI turut mengingatkan pengunjung untuk membawa TapCash yang dapat digunakan untuk berbagai kebutuhan transportasi, antara lain KRL Commuter Line, Transjakarta, tol, dan parkir.\n\n“Jangan lupa bawa TapCash untuk kebutuhan transportasi, seperti KRL Commuter Line, Transjakarta, tol, ataupun parkir,” kata Okki.\n\nMelalui wondrX 2026, BNI menghadirkan ruang yang mempertemukan layanan finansial, hiburan, dan berbagai kebutuhan gaya hidup masyarakat dalam satu rangkaian acara. (*)",
+      "fetched_ok": true,
       "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 50,
+      "risk_score": 45,
       "risk_label": "Sedang",
-      "reason": "AI: BNI menghadirkan musikus Tanah Air dalam acara hiburan, yang merupakan kegiatan positif dan tidak berbahaya."
+      "reason": "AI: Acara BNI wondrX 2026 menawarkan berbagai layanan finansial dan hiburan dalam satu lokasi, yang menarik bagi masyarakat. Namun, beberapa informasi seperti promo dan registrasi harus dilakukan dengan tepat untuk menghindari kesulitan."
     },
     {
       "title": "KRL hingga Shuttle Bus Gratis, Pilihan Transportasi Menuju BNI wondrX 2026",
@@ -704,5 +704,5 @@
       "reason": "AI: Isi berita fokus pada perjanjian kerja bersama yang menekankan kepastian hukum ketenagakerjaan, yang merupakan isu penting dalam industri dan industri kerja, dengan tingkat risiko yang tinggi karena potensi dampak negatif terhadap persaingan industri dan kesejahteraan tenaga kerja."
     }
   ],
-  "ok_count": 0
+  "ok_count": 1
 }
