@@ -303,13 +303,13 @@
       "summary": "BNI memperkuat pengembangan sumber daya manusia melalui lisensi LSP BNI dan penerapan standar internasional di BNI Corporate University.",
       "published": "",
       "media": "Tempo Bisnis",
-      "content": "",
-      "fetched_ok": false,
-      "sentiment_score": 0.5,
+      "content": "INFO TEMPO - PT Bank Negara Indonesia (Persero) Tbk atau BNI memperoleh Sertifikat Lisensi Lembaga Sertifikasi Profesi (LSP) BNI dari Badan Nasional Sertifikasi Profesi (BNSP) serta Sertifikat ISO 21001:2018 dan Letter of Compliance ISO 30422:2022 melalui BNI Corporate University. Perolehan sertifikasi tersebut memperkuat tata kelola pengembangan sumber daya manusia di BNI melalui pengoperasian LSP BNI berlisensi BNSP dan penerapan standar internasional di BNI Corporate University.\n\nKetiga capaian tersebut dikukuhkan dalam seremoni di Grha BNI, Jakarta, pada Kamis, 6 Agustus 2026. Dalam seremoni tersebut, Ketua BNSP Syamsi Hari menyerahkan Sertifikat Lisensi LSP BNI kepada Direktur Human Capital & Compliance BNI Munadi Herlambang sebagai perwakilan BNI.\n\nLSP BNI telah memperoleh lisensi dari BNSP pada 19 Juni 2026. Lisensi tersebut memungkinkan LSP BNI menyelenggarakan sertifikasi kompetensi kerja secara profesional, obyektif, independen, dan akuntabel sesuai dengan standar kompetensi yang berlaku.\n\nPada tahap awal, LSP BNI menyediakan tujuh skema sertifikasi yang mencakup bidang strategis, dari general banking hingga audit internal. Cakupan sertifikasi selanjutnya akan diperluas mengikuti perkembangan industri, termasuk pada bidang digital banking, artificial intelligence, manajemen risiko, dan teknologi informasi.\n\nDirektur Human Capital & Compliance BNI Munadi Herlambang mengatakan keberadaan LSP menjadi bagian penting dalam memastikan pengembangan kompetensi pegawai dilakukan secara terukur dan relevan dengan kebutuhan industri perbankan.\n\n\"LSP BNI menjadi fondasi penting dalam membangun SDM yang kompeten sekaligus memperkuat tata kelola perusahaan. Sertifikasi kompetensi memastikan setiap insan BNI memiliki standar profesionalisme yang mampu mendukung transformasi bisnis perusahaan,\" ujarnya dalam keterangan tertulis.\n\nSelain memperkuat sertifikasi kompetensi, BNI Corporate University memperoleh Sertifikat ISO 21001:2018 pada 15 Mei 2026 dan Letter of Compliance ISO 30422:2022 pada Selasa, 4 Agustus 2026. Pengakuan tersebut menegaskan penerapan tata kelola pembelajaran dan pengembangan talenta yang makin sistematis, berorientasi pada kebutuhan peserta didik, serta mengacu pada praktik terbaik internasional.\n\nMenurut Munadi, BNI akan terus meningkatkan mutu dan kapabilitas LSP agar tidak hanya mendukung kebutuhan internal, tapi juga dapat menjadi salah satu referensi dalam pengembangan sumber daya manusia di industri perbankan nasional.\n\nPenguatan ekosistem pembelajaran dan sertifikasi tersebut sejalan dengan arah transformasi badan usaha milik negara di bawah koordinasi Badan Pengelola Investasi Daya Anagata Nusantara (BPI) Danantara yang menempatkan people development, corporate culture, inovasi, dan penciptaan nilai sebagai bagian penting dalam membangun perusahaan negara yang makin sehat, kompetitif, dan berdaya saing global. (*)",
+      "fetched_ok": true,
+      "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 85,
-      "risk_label": "Tinggi",
-      "reason": "AI: BNI memperkuat pengembangan sumber daya manusia melalui lisensi LSP BNI dan penerapan standar internasional di BNI Corporate University, yang merupakan langkah positif dalam upaya untuk memperkuat kualitas tenaga kerja dan memperluas jaringan kerja di Indonesia."
+      "risk_score": 50,
+      "risk_label": "Sedang",
+      "reason": "AI: Informasi tentang perusahaan BNI meliputi peningkatan sumber daya manusia dan pengakuan internasional, yang menunjukkan keberlanjutan dan profesionalisme dalam bidang SDM."
     },
     {
       "title": "PT Pertamina Patra Niaga RU Cilacap Buka Tender Penggantian Column Assy 11C-1",
@@ -704,5 +704,5 @@
       "reason": "AI: Isi berita fokus pada perjanjian kerja bersama yang menekankan kepastian hukum ketenagakerjaan, yang merupakan isu penting dalam industri dan industri kerja, dengan tingkat risiko yang tinggi karena potensi dampak negatif terhadap persaingan industri dan kesejahteraan tenaga kerja."
     }
   ],
-  "ok_count": 0
+  "ok_count": 1
 }
