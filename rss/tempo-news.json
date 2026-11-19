@@ -513,13 +513,13 @@
       "summary": "Ketua DPRD Kota Bogor Adityawarman Adil mengajak RSUD Kota Bogor terus meningkatkan kualitas pelayanan kesehatan agar semakin cepat, profesional, dan optimal bagi masyarakat.",
       "published": "",
       "media": "Tempo news",
-      "content": "",
-      "fetched_ok": false,
-      "sentiment_score": 0.5,
+      "content": "INFO TEMPO - Ketua DPRD Kota Bogor Adityawarman Adil mengajak jajaran RSUD Kota Bogor untuk terus meningkatkan kualitas pelayanan kesehatan agar semakin profesional, cepat, dan optimal dalam memenuhi kebutuhan masyarakat. Hal itu disampaikannya saat menghadiri peringatan Hari Ulang Tahun (HUT) ke-12 RSUD Kota Bogor pada Jumat, 7 Agustus 2026.\n\nAdityawarman menyampaikan ucapan selamat atas perjalanan 12 tahun RSUD Kota Bogor yang dinilainya telah memberikan kontribusi besar dalam pelayanan kesehatan bagi warga. Menurut dia, bertambahnya usia rumah sakit harus menjadi semangat baru untuk terus berbenah, baik dari sisi pelayanan, sumber daya manusia, maupun fasilitas kesehatan.\n\n\"Selamat ulang tahun ke-12 untuk RSUD Kota Bogor. Mudah-mudahan di usia yang ke-12 ini pelayanan semakin baik, semakin berkualitas, dan semakin optimal dalam melayani masyarakat Kota Bogor,\" ujar Adityawarman.\n\nPelayanan kesehatan, kata Adityawarman, merupakan kebutuhan dasar masyarakat yang harus terus ditingkatkan. Karena itu, DPRD Kota Bogor mendukung berbagai upaya pengembangan RSUD Kota Bogor agar mampu menghadirkan pelayanan yang nyaman, cepat, dan berkualitas bagi seluruh pasien.\n\nSelain itu, Adityawarman juga memberikan apresiasi kepada seluruh tenaga kesehatan, manajemen, serta jajaran RSUD Kota Bogor atas dedikasi mereka dalam melayani masyarakat. Ia berharap kolaborasi antara Pemerintah Kota Bogor, DPRD, dan RSUD Kota Bogor terus diperkuat demi meningkatkan derajat kesehatan masyarakat.\n\n\"Terima kasih atas dedikasi seluruh jajaran RSUD Kota Bogor. Semoga ke depan semakin sukses dan terus menjadi rumah sakit yang memberikan pelayanan terbaik bagi masyarakat,\" katanya.\n\nDalam kesempatan yang sama, Wali Kota Bogor Dedie A. Rachim mengatakan bahwa RSUD Kota Bogor harus menjadi ujung tombak pelayanan kesehatan dengan mengedepankan semangat melayani masyarakat sepenuh hati. Dedie juga mengapresiasi berbagai perbaikan yang telah dilakukan manajemen baru RSUD Kota Bogor di bawah kepemimpinan Direktur Utama Sri Nowo Retno.\n\n\"Bangga melayani dengan hati, artinya sudah menjadi komitmen dari kita semua bahwa RSUD Kota Bogor ini adalah ujung tombak dari upaya kita memberikan pelayanan kesehatan kepada masyarakat dengan sebaik-baiknya,\" ujar Dedie.\n\nMenurut Dedie, dalam tujuh bulan terakhir sudah terlihat peningkatan dari sisi tata kelola dan pelayanan rumah sakit. Ia berujar, sebagai rumah sakit rujukan tipe A, RSUD Kota Bogor kini tidak hanya melayani masyarakat Kota Bogor, tetapi juga pasien dari berbagai daerah. Kondisi tersebut menjadi tantangan sekaligus dorongan agar profesionalisme pelayanan terus ditingkatkan.\n\nPada peringatan HUT ke-12 ini, RSUD Kota Bogor juga meluncurkan layanan call center 24 jam yang terintegrasi dengan layanan kegawatdaruratan Kota Bogor. Masyarakat dapat mengakses layanan tersebut untuk memperoleh informasi jadwal dokter, ketersediaan ruang perawatan, hingga menyampaikan pengaduan pelayanan.\n\nDirektur Utama RSUD Kota Bogor Sri Nowo Retno menjelaskan bahwa layanan tersebut merupakan bagian dari komitmen rumah sakit dalam memberikan respons yang lebih cepat terhadap kebutuhan masyarakat.\n\n\"Setiap pertanyaan bisa langsung direspons. Dengan adanya call center ini, berbagai informasi maupun keluhan masyarakat dapat ditangani lebih cepat,\" ujarnya.\n\nSelain memberikan layanan kesehatan di rumah sakit, RSUD Kota Bogor juga terus berkolaborasi dengan Dinas Kesehatan Kota Bogor dalam menjalankan program promotif dan preventif melalui edukasi serta sosialisasi kesehatan kepada masyarakat. Sebagai Badan Layanan Umum Daerah (BLUD), RSUD Kota Bogor berkomitmen melakukan peningkatan manajemen secara berkelanjutan.\n\nSeluruh hasil pengelolaan rumah sakit akan dikembalikan untuk meningkatkan kualitas pelayanan, sehingga manfaatnya dapat dirasakan secara maksimal oleh masyarakat. (*)",
+      "fetched_ok": true,
+      "sentiment_score": 0.0,
       "sentiment_label": "Netral",
-      "risk_score": 85,
-      "risk_label": "Tinggi",
-      "reason": "AI: Isi berita fokus pada ajakan untuk meningkatkan kualitas pelayanan kesehatan, yang merupakan topik positif dan tidak memiliki unsur negatif atau neutral dalam konteks berita tersebut."
+      "risk_score": 50,
+      "risk_label": "Sedang",
+      "reason": "AI: Isi berita fokus pada acara peringatan HUT RSUD Kota Bogor dan diskusi tentang kualitas pelayanan kesehatan, tanpa menekankan pada aspek negatif atau positif yang jelas."
     },
     {
       "title": "Pekanbaru Jadi Kota dengan Pertumbuhan Ekonomi Tertinggi pada Triwulan II 2026, Capai 7,39 Persen",
@@ -704,5 +704,5 @@
       "reason": "AI: Pemerintah Provinsi Lampung mengambil tindakan khusus untuk mengantisipasi dampak sebaran abu vulkanik Gunung Anak Krakatau, yang merupakan isu yang sedang berita dan memiliki potensi risiko yang tinggi."
     }
   ],
-  "ok_count": 0
+  "ok_count": 1
 }
