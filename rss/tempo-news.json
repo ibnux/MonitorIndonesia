@@ -4,6 +4,20 @@
   "ok": true,
   "items": [
     {
+      "title": "Sambut 500 Tahun Jakarta, Bank Jakarta Ajak 50.000 Pelari Jadi Bagian dari Sejarah",
+      "link": "https://nasional.tempo.co/read/2124140/sambut-500-tahun-jakarta-bank-jakarta-ajak-50-000-pelari-jadi-bagian-dari-sejarah",
+      "summary": "Bank Jakarta menjadi sponsor utama Jakarta International Marathon 2027 yang akan digelar pada 12-13 Juni 2027 dengan target 50.000 pelari untuk merayakan 500 tahun Jakarta sekaligus mendorong pertumbuhan olahraga, pariwisata, dan ekonomi kota.",
+      "published": "",
+      "media": "Tempo news",
+      "content": "",
+      "fetched_ok": false,
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Isi berita fokus pada acara olahraga yang menggambarkan keberhasilan dan pertumbuhan, yang sering dianggap positif oleh masyarakat."
+    },
+    {
       "title": "KKP Dorong Ekosistem Laut Jadi Bagian Utama Solusi Perubahan Iklim Global di COP31",
       "link": "https://nasional.tempo.co/read/2123685/kkp-dorong-ekosistem-laut-jadi-bagian-utama-solusi-perubahan-iklim-global-di-cop31",
       "summary": "Indonesia melalui Kementerian Kelautan dan Perikanan mendorong penguatan peran ekosistem laut dalam agenda iklim global melalui perlindungan mangrove, padang lamun, dan terumbu karang serta peningkatan dukungan pendanaan internasional.",
@@ -688,20 +702,6 @@
       "risk_score": 85,
       "risk_label": "Tinggi",
       "reason": "AI: Pembenahan kelembagaan perlu menghasilkan layanan yang lebih transparan, ramah lansia, dan siap menghadapi risiko di setiap tahapan ibadah."
-    },
-    {
-      "title": "Gubernur Lampung Alihkan KBM ke Daring Akibat Sebaran Abu Anak Krakatau",
-      "link": "https://nasional.tempo.co/read/2119069/gubernur-lampung-alihkan-kbm-ke-daring-akibat-sebaran-abu-anak-krakatau",
-      "summary": "Pemerintah Provinsi Lampung mengalihkan kegiatan belajar mengajar menjadi pembelajaran daring pada 7-8 September 2026 sebagai langkah antisipasi terhadap dampak sebaran abu vulkanik Gunung Anak Krakatau.",
-      "published": "",
-      "media": "Tempo news",
-      "content": "",
-      "fetched_ok": false,
-      "sentiment_score": 0.5,
-      "sentiment_label": "Netral",
-      "risk_score": 85,
-      "risk_label": "Tinggi",
-      "reason": "AI: Pemerintah Provinsi Lampung mengambil tindakan khusus untuk mengantisipasi dampak sebaran abu vulkanik Gunung Anak Krakatau, yang merupakan isu yang sedang berita dan memiliki potensi risiko yang tinggi."
     }
   ],
   "ok_count": 0
