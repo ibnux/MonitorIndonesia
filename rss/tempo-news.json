@@ -4,6 +4,48 @@
   "ok": true,
   "items": [
     {
+      "title": "Pemprov Jateng Luncurkan 426 Agenda Wisata 2027, Dorong Pertumbuhan Ekonomi Daerah",
+      "link": "https://nasional.tempo.co/read/2124179/pemprov-jateng-luncurkan-426-agenda-wisata-2027-dorong-pertumbuhan-ekonomi-daerah",
+      "summary": "Pemerintah Provinsi Jawa Tengah meluncurkan Calendar of Events 2027 dengan 426 agenda wisata di 35 kabupaten/kota untuk memperkuat pariwisata berkelanjutan, meningkatkan lama tinggal wisatawan, serta mendorong pertumbuhan ekonomi daerah.",
+      "published": "",
+      "media": "Tempo news",
+      "content": "",
+      "fetched_ok": false,
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 50,
+      "risk_label": "Sedang",
+      "reason": "AI: Pemerintah meluncurkan agenda wisata untuk meningkatkan pariwisata dan pertumbuhan ekonomi daerah, yang merupakan kebijakan positif yang dapat diterima oleh masyarakat."
+    },
+    {
+      "title": "PMLI Raih Sertifikat Pelatihan Pandu Laut Dalam dari Kemenhub",
+      "link": "https://nasional.tempo.co/read/2124174/pmli-raih-sertifikat-pelatihan-pandu-laut-dalam-dari-kemenhub",
+      "summary": "PT Pendidikan Maritim dan Logistik Indonesia (PMLI) menerima Certificate of Approval (CoA) Pelatihan Pandu Laut Dalam dari Kementerian Perhubungan, memperkuat perannya dalam mencetak SDM maritim profesional dan meningkatkan standar keselamatan pelayaran nasional.",
+      "published": "",
+      "media": "Tempo news",
+      "content": "",
+      "fetched_ok": false,
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: PMLI menerima sertifikat penting dalam bidang maritim, menunjukkan keberhasilan dalam pelatihan dan peningkatan kualitas SDM maritim."
+    },
+    {
+      "title": "DLH Kota Malang Perkuat Pengawasan Sungai dan Air Limbah Domestik",
+      "link": "https://nasional.tempo.co/read/2124171/dlh-kota-malang-perkuat-pengawasan-sungai-dan-air-limbah-domestik",
+      "summary": "DLH Kota Malang melalui UPT Laboratorium Lingkungan memperkuat pengawasan kualitas air sungai dan air limbah domestik melalui pengujian berkala, pelayanan laboratorium terakreditasi, serta peningkatan sarana pendukung guna mencegah pencemaran dan menjaga kelestarian lingkungan.",
+      "published": "",
+      "media": "Tempo news",
+      "content": "",
+      "fetched_ok": false,
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Berita mengandung informasi positif tentang upaya pengawasan lingkungan yang dilakukan oleh DLH Kota Malang, namun tingkat risiko tinggi karena informasi tentang pencemaran lingkungan yang mungkin terjadi."
+    },
+    {
       "title": "Sambut 500 Tahun Jakarta, Bank Jakarta Ajak 50.000 Pelari Jadi Bagian dari Sejarah",
       "link": "https://nasional.tempo.co/read/2124140/sambut-500-tahun-jakarta-bank-jakarta-ajak-50-000-pelari-jadi-bagian-dari-sejarah",
       "summary": "Bank Jakarta menjadi sponsor utama Jakarta International Marathon 2027 yang akan digelar pada 12-13 Juni 2027 dengan target 50.000 pelari untuk merayakan 500 tahun Jakarta sekaligus mendorong pertumbuhan olahraga, pariwisata, dan ekonomi kota.",
@@ -660,48 +702,6 @@
       "risk_score": 85,
       "risk_label": "Tinggi",
       "reason": "AI: Kementerian Kelautan dan Perikanan menetapkan kawasan konservasi untuk memperkuat perlindungan ekosistem laut dan mendukung perikanan dan ekonomi masyarakat, yang merupakan kebijakan positif dalam konteks perlindungan lingkungan dan ekonomi lokal."
-    },
-    {
-      "title": "Kedekatan Warga Jateng dan Kafilah MTQ Nasional Jadi Sorotan Positif",
-      "link": "https://nasional.tempo.co/read/2119461/kedekatan-warga-jateng-dan-kafilah-mtq-nasional-jadi-sorotan-positif",
-      "summary": "Keramahan masyarakat Jawa Tengah sejak kedatangan kafilah di Bandara Ahmad Yani hingga pelaksanaan MTQ Nasional XXXI di Semarang mendapat apresiasi peserta dari berbagai daerah karena menghadirkan suasana persaudaraan, religius, dan kebersamaan.",
-      "published": "",
-      "media": "Tempo news",
-      "content": "",
-      "fetched_ok": false,
-      "sentiment_score": 1,
-      "sentiment_label": "Positif",
-      "risk_score": 0,
-      "risk_label": "Rendah",
-      "reason": "AI: Keramahan masyarakat Jawa Tengah mendapatkan apresiasi positif dari peserta MTQ Nasional."
-    },
-    {
-      "title": "Gubernur Bobby Minta Publik Hentikan Komentar Negatif terhadap Korban MBG di Karo",
-      "link": "https://nasional.tempo.co/read/2119460/gubernur-bobby-minta-publik-hentikan-komentar-negatif-terhadap-korban-mbg-di-karo",
-      "summary": "Gubernur Sumatera Utara Muhammad Bobby Afif Nasution meminta masyarakat dan media menghindari komentar negatif serta perundungan di media sosial agar pemulihan fisik dan psikologis siswa korban dugaan keracunan MBG di Kabupaten Karo dapat berjalan optimal.",
-      "published": "",
-      "media": "Tempo news",
-      "content": "",
-      "fetched_ok": false,
-      "sentiment_score": 0.5,
-      "sentiment_label": "Netral",
-      "risk_score": 50,
-      "risk_label": "Sedang",
-      "reason": "AI: Gubernur meminta masyarakat dan media menghindari komentar negatif dan perundungan di media sosial untuk memudahkan pemulihan fisik dan psikologis siswa korban."
-    },
-    {
-      "title": "Transformasi Layanan Haji Harus Terukur dari Biaya hingga Perlindungan Jemaah",
-      "link": "https://nasional.tempo.co/read/2119246/transformasi-layanan-haji-harus-terukur-dari-biaya-hingga-perlindungan-jemaah",
-      "summary": "Pembenahan kelembagaan perlu menghasilkan layanan yang lebih transparan, ramah lansia, dan siap menghadapi risiko di setiap tahapan ibadah.",
-      "published": "",
-      "media": "Tempo news",
-      "content": "",
-      "fetched_ok": false,
-      "sentiment_score": 0.5,
-      "sentiment_label": "Netral",
-      "risk_score": 85,
-      "risk_label": "Tinggi",
-      "reason": "AI: Pembenahan kelembagaan perlu menghasilkan layanan yang lebih transparan, ramah lansia, dan siap menghadapi risiko di setiap tahapan ibadah."
     }
   ],
   "ok_count": 0
