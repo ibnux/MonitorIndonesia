@@ -93,13 +93,13 @@
       "summary": "LRT Jakarta melakukan penanganan preventif dan pemeriksaan fasilitas kelistrikan akibat rembesan air di Stasiun Manggarai, sementara operasional perjalanan kereta tetap berjalan normal dan seluruh fasilitas berangsur kembali berfungsi.",
       "published": "",
       "media": "Tempo news",
-      "content": "",
-      "fetched_ok": false,
+      "content": "INFO TEMPO – LRT Jakarta melakukan langkah penanganan preventif dan evaluasi menyusul ditemukannya rembesan air di area Stasiun LRT Jakarta Manggarai pada Sabtu, 14 November 2026.\n\nSebagai upaya mengutamakan keselamatan penumpang dan petugas, tim operasional melakukan pemadaman sementara aliran listrik di sejumlah area stasiun. Langkah tersebut dilakukan untuk meminimalkan potensi risiko sekaligus memberikan kesempatan kepada tim teknis untuk memeriksa kondisi fasilitas dan instalasi kelistrikan.\n\nMeski penanganan berlangsung, operasional perjalanan kereta LRT Jakarta tetap berjalan normal sesuai jadwal. Pelayanan transportasi kepada masyarakat tetap berlangsung, meskipun terdapat penyesuaian sementara pada fasilitas pendukung stasiun, khususnya penerangan serta penggunaan lift dan eskalator.\n\nSetelah penanganan awal dilakukan, aliran listrik untuk penerangan stasiun kembali dinyalakan pada pukul 19.00 WIB, Sabtu, 14 November 2026. Selanjutnya, pada Ahad, 15 November 2026, kondisi kelistrikan Stasiun LRT Jakarta Manggarai telah kembali normal sehingga fasilitas stasiun dapat digunakan untuk mendukung pelayanan penumpang seperti biasa.\n\nTim teknis LRT Jakarta juga terus melakukan pemeriksaan menyeluruh untuk mengidentifikasi sumber rembesan air serta memastikan instalasi kelistrikan dan seluruh fasilitas pendukung berada dalam kondisi aman.\n\nKondisi cuaca dengan intensitas hujan tinggi turut menjadi bahan evaluasi bagi LRT Jakarta dalam mengidentifikasi aspek infrastruktur yang perlu diperkuat. Evaluasi tersebut mencakup peningkatan keandalan fasilitas, optimalisasi sistem pemeliharaan, serta kesiapan infrastruktur dalam menghadapi berbagai kondisi cuaca.\n\nKepala Divisi Sekretaris Perusahaan PT LRT Jakarta, Aris Arizal Arafah, menyampaikan bahwa setiap temuan di lapangan menjadi bagian penting dalam proses evaluasi dan peningkatan kualitas pelayanan.\n\n\"Keselamatan dan kenyamanan penumpang senantiasa menjadi prioritas kami. Kami memandang setiap kondisi yang ditemukan di lapangan sebagai masukan berharga untuk terus melakukan evaluasi dan penyempurnaan fasilitas. Dengan adanya kejadian ini, kami dapat mengidentifikasi aspek-aspek yang perlu diperkuat, sehingga keandalan infrastruktur dan kualitas pelayanan LRT Jakarta dapat terus ditingkatkan,\" ujar Aris.\n\nLRT Jakarta turut menyampaikan permohonan maaf atas ketidaknyamanan yang dialami penumpang, khususnya terkait penerangan serta penggunaan fasilitas lift dan eskalator selama proses penanganan berlangsung.\n\nKe depan, LRT Jakarta berkomitmen memperkuat pemeliharaan dan meningkatkan keandalan fasilitas guna memastikan layanan transportasi publik yang aman, nyaman, dan andal bagi masyarakat Jakarta.(*)",
+      "fetched_ok": true,
       "sentiment_score": 0.5,
       "sentiment_label": "Netral",
       "risk_score": 85,
       "risk_label": "Tinggi",
-      "reason": "AI: LRT Jakarta mengadakan penanganan preventif dan pemeriksaan fasilitas kelistrikan, namun operasional kereta tetap normal dan beberapa fasilitas kembali berfungsi."
+      "reason": "AI: LRT Jakarta melakukan langkah penanganan preventif dan evaluasi setelah ditemukannya rembesan air di Stasiun LRT Jakarta Manggarai, yang mengakibatkan penyesuaian sementara pada fasilitas pendukung stasiun dan mempengaruhi operasional perjalanan kereta."
     },
     {
       "title": "Bank Sumsel Babel Dukung Sriwijaya Ranau Gran Fondo 2026, Perkuat Sport Tourism dan Ekonomi Daerah",
@@ -704,5 +704,5 @@
       "reason": "AI: Kementerian Kelautan dan Perikanan menetapkan kawasan konservasi untuk memperkuat perlindungan ekosistem laut dan mendukung perikanan dan ekonomi masyarakat, yang merupakan kebijakan positif dalam konteks perlindungan lingkungan dan ekonomi lokal."
     }
   ],
-  "ok_count": 0
+  "ok_count": 1
 }
