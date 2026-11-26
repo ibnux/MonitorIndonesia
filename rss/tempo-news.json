@@ -4,18 +4,46 @@
   "ok": true,
   "items": [
     {
+      "title": "Tim Environmental Freeport Temukan Spesies Kepiting Baru di Papua",
+      "link": "https://nasional.tempo.co/read/2124505/tim-environmental-freeport-temukan-spesies-kepiting-baru-di-papua",
+      "summary": "Pemantauan lingkungan Freeport bersama peneliti selama hampir 30 tahun berhasil mengidentifikasi spesies kepiting baru di Mimika.",
+      "published": "",
+      "media": "Tempo news",
+      "content": "",
+      "fetched_ok": false,
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Berita ini menekankan penemuan spesies baru, yang merupakan kejutan dan menarik untuk peneliti dan penggemar ilmu pengetahuan, namun tidak menunjukkan tingkat kejutan yang tinggi atau tingkat risiko yang tinggi."
+    },
+    {
+      "title": "Sultra Raih Tiga Penghargaan di Ajang Apresiasi Pemerintah Daerah Berprestasi 2026",
+      "link": "https://nasional.tempo.co/read/2124503/sultra-raih-tiga-penghargaan-di-ajang-apresiasi-pemerintah-daerah-berprestasi-2026",
+      "summary": "Sultra bersama Konawe dan Kendari meraih tiga penghargaan dalam Apresiasi Pemerintah Daerah Berprestasi 2026 Regional Sulawesi.",
+      "published": "",
+      "media": "Tempo news",
+      "content": "",
+      "fetched_ok": false,
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 50,
+      "risk_label": "Sedang",
+      "reason": "AI: Isi berita fokus pada keberhasilan daerah dalam mendapatkan penghargaan, yang merupakan kabar positif dan tidak menimbulkan risiko."
+    },
+    {
       "title": "Bea Cukai Gelar Pemusnahan Barang Ilegal Senilai Rp3,46 Miliar di Sulawesi Utara",
       "link": "https://nasional.tempo.co/read/2124488/bea-cukai-gelar-pemusnahan-barang-ilegal-senilai-rp346-miliar-di-sulawesi-utara",
       "summary": "Bea Cukai gelar pemusnahan barang ilegal senilai Rp3,46 miliar di Sulawesi Utara guna melindungi masyarakat dan penerimaan negara RI.",
       "published": "",
       "media": "Tempo news",
-      "content": "INFO TEMPO - Kantor Wilayah (Kanwil) Bea Cukai Sulawesi Bagian Utara (Sulbagtara) bersama Bea Cukai Manado dan Bea Cukai Bitung gelar pemusnahan barang hasil penindakan senilai Rp3,46 miliar dengan potensi kerugian penerimaan negara mencapai Rp1,33 miliar. Kegiatan tersebut dilaksanakan di halaman Kantor Bea Cukai Manado pada Rabu, 25 November 2026.\n\nBarang yang dimusnahkan merupakan hasil penindakan sepanjang tahun 2025 yang tercatat dalam 833 Surat Bukti Penindakan (SBP). Barang tersebut meliputi 321.352 batang rokok ilegal, 1.052,825 liter minuman mengandung etil alkohol (MMEA) ilegal, 23 liter etil alkohol, 187 bal pakaian bekas impor, 98 koli obat-obatan dan vitamin, 25 karton serta satu boks obat-obatan unggas, dan 1.656 produk kosmetik.\n\nKepala Kanwil Bea Cukai Sulbagtara, Zaky Firmansyah, mengatakan bahwa pemusnahan tersebut merupakan wujud komitmen Bea Cukai dalam memberantas peredaran barang ilegal, melindungi masyarakat, serta menciptakan iklim persaingan usaha yang sehat.\n\n“Pengawasan dan penindakan terhadap barang ilegal bukan semata-mata untuk mengamankan penerimaan negara, melainkan juga memastikan masyarakat terlindungi dari produk yang tidak terjamin keamanan dan mutunya,” ujar Zaky.\n\nPeredaran rokok dan minuman beralkohol ilegal berpotensi mengurangi penerimaan negara serta menciptakan persaingan usaha yang tidak adil. Sementara itu, pakaian bekas impor dapat menghambat pertumbuhan industri tekstil nasional, sedangkan obat-obatan dan kosmetik yang masuk tanpa prosedur resmi berisiko membahayakan kesehatan konsumen.\n\nPemusnahan dilakukan melalui metode pembakaran, penuangan, dan penambahan cairan perusak untuk memastikan barang tidak dapat digunakan atau dimanfaatkan kembali. Kegiatan tersebut turut disaksikan oleh Kepala Kantor Bea Cukai Manado, Rahmat Handoko, Kepala Kantor Bea Cukai Bitung, Didit Prayudi Sidharta, serta aparat penegak hukum dan instansi terkait.\n\nSelain melaksanakan pemusnahan, Kanwil Bea Cukai Sulbagtara mencatat peningkatan kinerja pengawasan sepanjang 2026. Hingga 20 November 2026, sebanyak 333 Nota Hasil Intelijen (NHI) telah diterbitkan dengan tingkat akurasi mencapai 100 persen dan peningkatan sebesar 12,12 persen dibandingkan tahun sebelumnya.\n\nHingga 23 November 2026, jumlah penindakan mencapai 1.399 SBP atau meningkat 75,31 persen. Sementara itu, penanganan perkara menghasilkan sembilan Surat Pemberitahuan Dimulainya Penyidikan (SPDP), meningkat 28,57 persen dibandingkan periode sebelumnya. Capaian tersebut menjadi yang tertinggi dalam empat tahun terakhir.\n\nBea Cukai Sulbagtara terus memperkuat strategi pengawasan melalui optimalisasi kegiatan intelijen, penindakan, dan penanganan perkara di wilayah Sulawesi Utara, Sulawesi Tengah, serta Gorontalo.\n\nMelalui kegiatan pemusnahan dan penguatan pengawasan tersebut, Bea Cukai menegaskan komitmennya dalam menjalankan fungsi community protector, trade facilitator, dan industrial assistance guna melindungi masyarakat dari peredaran barang ilegal sekaligus mendukung pertumbuhan dan daya saing industri dalam negeri.(*)",
-      "fetched_ok": true,
-      "sentiment_score": 0.0,
+      "content": "",
+      "fetched_ok": false,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
       "risk_score": 85,
       "risk_label": "Tinggi",
-      "reason": "AI: Pemusnahan barang ilegal melibatkan potensi kerugian negara dan dampak negatif terhadap masyarakat."
+      "reason": "AI: Bea Cukai melindungi masyarakat dan penerimaan negara RI dengan menggelar pemusnahan barang ilegal senilai Rp3,46 miliar di Sulawesi Utara."
     },
     {
       "title": "Bea Cukai Belawan Amankan 50 Ribu Batang Rokok Ilegal di Terminal Bandar Deli",
@@ -163,13 +191,13 @@
       "summary": "Wali Kota Bandung Muhammad Farhan dijadwalkan menaiki Bandros menuju Gedung DPRD untuk mengikuti sidang paripurna peringatan HJKB ke-216.",
       "published": "",
       "media": "Tempo news",
-      "content": "INFO TEMPO - Kendaraan wisata Bandung Tour on Bus (Bandros) bakal menjadi bagian dari rangkaian peringatan Hari Jadi Kota Bandung (HJKB) ke-216. Wali Kota Bandung Muhammad Farhan bersama rombongan direncanakan menggunakan kendaraan tersebut menuju Gedung DPRD Kota Bandung untuk menghadiri sidang paripurna pada Jumat, 25 September 2026.\n\nPenggunaan kendaraan khas Kota Bandung tersebut menjadi salah satu bagian dari rangkaian kegiatan peringatan hari jadi yang melibatkan pemerintah daerah dan sejumlah tamu undangan.\n\nSekretaris DPRD Kota Bandung Yasa Hanafiah menjelaskan, rombongan Wali Kota Bandung akan bertolak dari Balai Kota menuju Gedung DPRD Kota Bandung. Adapun sidang paripurna dijadwalkan dimulai pukul 10.00 WIB dengan menyesuaikan rangkaian kegiatan di Balai Kota.\n\nSelain Wali Kota Bandung, Gubernur Jawa Barat Dedi Mulyadi juga dijadwalkan menghadiri rangkaian peringatan HJKB ke-216. Sejumlah kepala daerah dari kabupaten dan kota di Jawa Barat turut diundang dalam agenda tersebut.\n\nMenjelang pelaksanaan sidang paripurna, Sekretariat DPRD Kota Bandung telah melakukan berbagai persiapan, mulai dari kebutuhan teknis persidangan, penerimaan tamu undangan, hingga pengamanan selama kegiatan berlangsung.\n\nYasa mengatakan, seluruh tahapan persiapan dilaksanakan sesuai arahan pimpinan DPRD Kota Bandung. Koordinasi juga dilakukan bersama Polrestabes Bandung, Koramil, serta sejumlah perangkat daerah.\n\n“Meski masuk agenda tahunan, persiapan secara matang tetap kita laksanakan dengan baik sesuai dengan arahan seluruh pimpinan DPRD Kota Bandung,” kata Yasa.\n\nPengamanan kegiatan melibatkan unsur Polri, TNI, Satuan Polisi Pamong Praja (Satpol PP), serta Pengamanan Dalam (Pamdal) DPRD Kota Bandung.\n\nSekretariat DPRD Kota Bandung juga melaksanakan gladi sebagai bagian dari tahapan akhir untuk memastikan kesiapan pelaksanaan sidang paripurna.\n\n“Hari ini kita mengadakan gladi sebagai persiapan akhir menjelang paripurna,” ujarnya.\n\nDi tengah persiapan tersebut, Yasa turut menyampaikan permohonan maaf kepada masyarakat apabila rangkaian kegiatan dan pengamanan di sekitar Gedung DPRD Kota Bandung berdampak terhadap aktivitas warga.\n\n“Sebagai Sekretaris DPRD, saya juga mohon maaf jika ada masyarakat yang terganggu aktivitasnya di sekitar Gedung DPRD,” ucapnya.(*)",
-      "fetched_ok": true,
+      "content": "",
+      "fetched_ok": false,
       "sentiment_score": 0.5,
       "sentiment_label": "Netral",
-      "risk_score": 85,
-      "risk_label": "Tinggi",
-      "reason": "AI: Informasi tentang kegiatan paripurna di Gedung DPRD Bandung yang dijadwalkan pada hari Jumat, 25 September 2026, dengan Wali Kota Bandung menggunakan kendaraan Bandros menuju Gedung DPRD. Informasi ini menekankan kegiatan resmi dan penting, namun juga menunjukkan potensi gangguan yang mungkin terjadi karena kegiatan tersebut berlangsung di sekitar gedung resmi pemerintah."
+      "risk_score": 50,
+      "risk_label": "Sedang",
+      "reason": "AI: Wali Kota Bandung menggunakan moda transportasi yang unik untuk mengikuti sidang paripurna, menunjukkan kecintaannya terhadap paripurna dan kepedulian terhadap kesehatan publik."
     },
     {
       "title": "KKP Dorong Ekosistem Laut Jadi Bagian Utama Solusi Perubahan Iklim Global di COP31",
@@ -177,13 +205,13 @@
       "summary": "Indonesia melalui Kementerian Kelautan dan Perikanan mendorong penguatan peran ekosistem laut dalam agenda iklim global melalui perlindungan mangrove, padang lamun, dan terumbu karang serta peningkatan dukungan pendanaan internasional.",
       "published": "",
       "media": "Tempo news",
-      "content": "INFO TEMPO - Kementerian Kelautan dan Perikanan (KKP) mendorong pengakuan internasional terhadap ekosistem laut sebagai bagian integral dari solusi perubahan iklim global dalam forum Dialog Laut dan Perubahan Iklim pada Konferensi Perubahan Iklim Perserikatan Bangsa-Bangsa ke-31 (COP31) di Antalya, Turkiye, Ahad, 15 November 2026. Langkah ini menjadi bagian dari upaya Indonesia memperkuat peran sektor kelautan dalam agenda aksi iklim dunia.\n\nMenteri Kelautan dan Perikanan Sakti Wahyu Trenggono menegaskan bahwa penguatan peran laut dalam agenda iklim global sejalan dengan komitmen Indonesia mengembangkan ekonomi biru melalui pengelolaan sumber daya kelautan dan perikanan secara berkelanjutan.\n\nMenurutnya, perlindungan dan pemulihan ekosistem laut tidak hanya berperan menjaga keseimbangan lingkungan, tetapi juga menjadi investasi jangka panjang untuk memperkuat ketahanan iklim dan meningkatkan kesejahteraan masyarakat pesisir.\n\n“Laut harus menjadi bagian penting dari solusi perubahan iklim global. Indonesia memiliki potensi ekosistem pesisir dan laut yang besar, seperti mangrove, padang lamun, dan terumbu karang, yang harus kita jaga dan pulihkan. Melalui pendekatan ekonomi biru, kita ingin memastikan bahwa pengelolaan sumber daya laut berjalan berkelanjutan sekaligus memberikan manfaat nyata bagi generasi mendatang,” ujar Menteri Trenggono dalam siaran resmi di Jakarta, Ahad, 15 November 2026.\n\nMewakili Menteri Kelautan dan Perikanan dalam forum COP31, Wakil Menteri Kelautan dan Perikanan Irwan Meilano menegaskan bahwa laut tidak seharusnya hanya dipandang sebagai objek yang terdampak perubahan iklim, tetapi juga harus diakui sebagai bagian dari solusi untuk mengatasi krisis iklim.\n\nDalam forum tersebut, Indonesia menyampaikan tiga prioritas utama, yaitu penguatan hasil COP31, keberlanjutan kerja sama kelautan dalam kerangka Konvensi Kerangka Kerja Perubahan Iklim Perserikatan Bangsa-Bangsa (UNFCCC), serta percepatan implementasi aksi iklim berbasis ekosistem laut.\n\n“Keputusan COP31 perlu mengakui laut sebagai bagian dari solusi perubahan iklim. Hasil dan pesan utama dari dialog tahun ini harus terintegrasi secara nyata ke dalam pilar-pilar aksi iklim, terutama pendanaan dan adaptasi,” ujar Irwan.\n\nIa menjelaskan bahwa mangrove, padang lamun, dan terumbu karang merupakan infrastruktur alami yang memiliki peran penting dalam memperkuat ketahanan ekosistem, menjaga ketahanan pangan, serta menopang mata pencaharian masyarakat pesisir. Ketiga ekosistem tersebut juga memiliki potensi sebagai solusi berbasis alam untuk mendukung mitigasi dan adaptasi perubahan iklim.\n\nSelain itu, Indonesia menekankan pentingnya keberlanjutan Mandat Glasgow yang telah membuka ruang dialog mengenai isu kelautan dalam kerangka UNFCCC. Indonesia mendukung penyusunan peta jalan kelautan multiyears yang selaras dengan Perjanjian Paris, dengan pelaksanaan secara sukarela, menghormati kondisi nasional masing-masing negara, serta berorientasi pada dukungan implementasi.\n\nMenurut Irwan, isu kelautan perlu terus menjadi bagian dari agenda UNFCCC tanpa menambah beban pelaporan bagi negara-negara. Hal ini mengingat sejumlah aksi kelautan yang telah tercantum dalam dokumen Kontribusi yang Ditetapkan Secara Nasional (Nationally Determined Contributions/NDC) baru akan memasuki tahap implementasi setelah 2030.\n\n“Pekerjaan ke depan perlu memanfaatkan data dasar dan indikasi awal kemajuan yang telah dicapai. Dengan demikian, proses kerja sama dapat mendukung implementasi nyata tanpa menciptakan beban tambahan bagi negara-negara,” jelasnya.\n\nDalam aspek implementasi, Indonesia telah mengintegrasikan ekosistem mangrove dan padang lamun ke dalam dokumen Second Nationally Determined Contribution (Second NDC), dengan target rehabilitasi mangrove seluas 600.000 hektare.\n\nIndonesia juga tengah memperkuat landasan regulasi nasional untuk pengembangan pendanaan karbon biru, termasuk melalui penyusunan Peraturan Menteri mengenai Nilai Ekonomi Karbon di sektor kelautan.\n\nMeski demikian, Irwan menekankan bahwa pelaksanaan berbagai komitmen kelautan masih membutuhkan dukungan internasional. Karena itu, Indonesia mendorong perluasan akses pendanaan berbasis hibah, dukungan pengembangan proyek, perbaikan sistem pelacakan pendanaan kelautan, serta peningkatan kapasitas negara dalam mengembangkan potensi karbon biru menjadi aksi iklim nyata di tingkat regional.\n\n“Banyak komitmen kelautan masih bergantung pada dukungan. Kita membutuhkan akses yang lebih luas terhadap pendanaan hibah, dukungan pengembangan proyek, pelacakan pendanaan kelautan yang lebih baik, serta penguatan kapasitas agar potensi karbon biru dapat diwujudkan menjadi aksi iklim nyata,” tegas Irwan.\n\nMelalui partisipasi dalam COP31, Indonesia menegaskan pentingnya penguatan kolaborasi internasional dalam menempatkan ekosistem laut sebagai bagian dari agenda mitigasi dan adaptasi perubahan iklim. Upaya tersebut diharapkan dapat memperkuat perlindungan ekosistem pesisir dan laut sekaligus mendukung ketahanan lingkungan, pangan, dan perekonomian masyarakat pesisir secara berkelanjutan.(*)",
-      "fetched_ok": true,
-      "sentiment_score": 0.0,
+      "content": "",
+      "fetched_ok": false,
+      "sentiment_score": 0.5,
       "sentiment_label": "Netral",
       "risk_score": 85,
       "risk_label": "Tinggi",
-      "reason": "AI: Kementerian Kelautan dan Perikanan (KKP) mendukung ekosistem laut sebagai bagian penting dari solusi perubahan iklim global dalam forum COP31, menekankan pentingnya perlindungan dan pemulihan ekosistem laut dan pengelolaan sumber daya kelautan secara berkelanjutan."
+      "reason": "AI: Isi berita fokus pada upaya KKP untuk meningkatkan peran ekosistem laut dalam agenda iklim global, yang tampak positif namun berpotensi menghadapi tantangan dalam implementasi dan dukungan internasional."
     },
     {
       "title": "Gubernur Ahmad Luthfi Ikuti Borobudur Marathon 2026",
@@ -569,13 +597,13 @@
       "summary": "Ketua Pansus RUU Daerah Kepulauan Mercy Chriesty Barends menekankan pentingnya menjaga keseimbangan antara pertumbuhan ekonomi, perlindungan ekologis, dan keadilan bagi masyarakat kepulauan.",
       "published": "",
       "media": "Tempo news",
-      "content": "INFO TEMPO - Dewan Perwakilan Rakyat Republik Indonesia (DPR RI) tengah menggodok Rancangan Undang-Undang (RUU) tentang Daerah Kepulauan yang tidak boleh hanya berorientasi pada pertumbuhan ekonomi. Ketua Panitia Khusus RUU Daerah Kepulauan Mercy Chriesty Barends berujar regulasi tersebut juga harus menjamin keberlanjutan ekosistem dan keadilan bagi masyarakat yang tinggal di wilayah kepulauan.\n\n“Pertumbuhan ekonomi yang tidak terkendali tanpa pengawasan yang ketat juga bisa menghancurkan daerah-daerah kepulauan,” ujar Mercy saat memimpin kunjungan kerja Pansus RUU tentang Daerah Kepulauan ke Kendari, Sulawesi Tenggara pada Jumat 11 September 2026.\n\nPolitikus Partai Demokrasi Indonesia Perjuangan itu mengatakan berbagai masukan yang diterimanya saat mengunjungi sejumlah daerah kepulauan menunjukkan adanya kebutuhan kuat terhadap regulasi yang dapat mendorong pembangunan sekaligus memastikan perlindungan ekologis.\n\nRUU tersebut, kata dia, diarahkan untuk mempercepat pembangunan, meningkatkan kesejahteraan masyarakat, memperbaiki kualitas pelayanan publik, serta menghadirkan infrastruktur dasar dan infrastruktur berbasis kelautan-kepulauan. Namun, seluruh agenda pembangunan tersebut harus tetap memperhatikan daya dukung lingkungan. Terlebih, wilayah kepulauan memiliki sumber daya kelautan yang menjadi tumpuan kehidupan masyarakat sekaligus memiliki ekosistem yang rentan terhadap eksploitasi.\n\n“Selain menjadi instrumen percepatan pembangunan ekonomi, sekaligus juga menjadi instrumen perlindungan ekologis dan keadilan sosial. Saya kira ini yang menjadi perhatian utama kami,” katanya.\n\nMercy mengatakan, DPR dan DPD berkomitmen agar RUU tentang Daerah Kepulauan dapat segera disahkan. Namun, pembahasannya tetap membutuhkan proses bersama pemerintah, terutama untuk menemukan titik temu terhadap sejumlah substansi yang masih krusial.\n\nBeberapa isu tersebut antara lain terkait kewenangan daerah kepulauan, dana khusus kepulauan, afirmasi kebijakan, serta pengelolaan wilayah pesisir dan laut.\n\n“Kami ingin secepatnya disahkan, mewakili seluruh rakyat, khususnya daerah kepulauan. Tetapi tentunya dalam pembahasan undang-undang kita tidak sendiri, bersama-sama dengan pemerintah sehingga memang membutuhkan alokasi waktu tertentu,” kata dia. (*)",
-      "fetched_ok": true,
+      "content": "",
+      "fetched_ok": false,
       "sentiment_score": 0.5,
       "sentiment_label": "Netral",
       "risk_score": 85,
       "risk_label": "Tinggi",
-      "reason": "AI: Isi berita menekankan pentingnya regulasi yang memastikan pertumbuhan ekonomi dan keberlanjutan ekosistem, serta menekankan pentingnya mempertimbangkan keberlanjutan lingkungan dan keadilan sosial dalam pembangunan daerah kepulauan."
+      "reason": "AI: Isi berita menekankan pentingnya keseimbangan antara pertumbuhan ekonomi, perlindungan ekologis, dan keadilan bagi masyarakat kepulauan, yang merupakan isu yang serius dan mempengaruhi keberlanjutan ekosistem."
     },
     {
       "title": "Tegaskan Komitmen Pembangunan Inklusif, Gubernur Kalimantan Selatan Raih Penghargaan Pemberdayaan Perempuan",
@@ -583,13 +611,13 @@
       "summary": "Gubernur Kalimantan Selatan Muhidin meraih penghargaan atas komitmennya dalam mendorong pemberdayaan perempuan dan pembangunan yang inklusif di Kalimantan Selatan",
       "published": "",
       "media": "Tempo news",
-      "content": "INFO TEMPO - Gubernur Kalimantan Selatan Muhidin menerima penghargaan The Sraya Recognition for Women Empowerment & Inclusive Growth dalam rangkaian Apresiasi Perempuan Berpengaruh (APB) Sraya Nusantara 2026 yang digelar media nasional diadona.id di Jakarta pada Jumat, 11 September 2026.\n\nApresiasi ini diberikan kepada kepala daerah laki-laki yang dinilai memiliki kebijakan dengan dampak bagi perempuan dan masyarakat rentan. Dalam konteks Kalimantan Selatan, penghargaan tersebut merefleksikan arah kebijakan Gubernur yang menempatkan pemberdayaan perempuan, perlindungan anak, penguatan UMKM, serta perluasan akses pendidikan dan layanan dasar sebagai bagian dari pembangunan daerah yang inklusif.\n\nScroll ke bawah untuk melanjutkan membaca\n\n“Banyak program prioritas dari Gubernur H. Muhidin yang fokus pada perempuan, khususnya di bidang pendidikan, kesehatan, dan UMKM. Penghargaan ini adalah bukti komitmen kami untuk pembangunan yang memberdayakan perempuan sesuai semangat Bekerja Bersama Merangkul Semua,” kata Muhidin yang diwakili Kepala Dinas Komunikasi dan Informatika Provinsi Kalimantan Selatan, Muhamad Muslim, sesaat setelah menerima penghargaan dari CEO Dream & Diadona Diana Airin.\n\nAdapun, sejumlah agenda pembangunan yang didorong melalui 10 Janji Gubernur memiliki keterkaitan langsung dengan kehidupan perempuan dan keluarga.\n\nPenguatan ketahanan pangan dan ekonomi kreatif, misalnya, menjadi ruang bagi berkembangnya UMKM yang banyak digerakkan perempuan. Sementara peningkatan akses pendidikan, kesehatan dan jaminan sosial diarahkan untuk memperkuat kualitas hidup ibu dan anak. Pendekatan yang sama terlihat dalam dorongan terhadap Program Paket A, B dan C, yang membuka kesempatan pendidikan kesetaraan bagi masyarakat, termasuk perempuan di wilayah pelosok.\n\nDi sisi lain, pembangunan infrastruktur seperti Jembatan Pulau Laut diproyeksikan memperkuat konektivitas sekaligus membuka akses terhadap pasar dan aktivitas ekonomi bagi masyarakat serta pelaku UMKM di wilayah kepulauan. Dengan demikian, pembangunan tidak semata diukur dari berapa banyak infrastruktur yang dibangun, tetapi juga dari berapa banyak pintu kesempatan yang berhasil dibuka bagi masyarakat.\n\nKomitmen terhadap pembangunan inklusif juga terlihat saat Pemprov Kalsel bersama Polda Kalsel, Kementerian Agama, instansi terkait dan 21 perguruan tinggi menandatangani nota kesepahaman untuk membentuk forum bersama pencegahan dan penanganan kekerasan serta kejahatan siber terhadap perempuan dan anak di perguruan tinggi, satuan pendidikan dan pondok pesantren pada 27 Juli 2026.\n\nLangkah tersebut penting karena tantangan perlindungan perempuan dan anak kini tidak hanya berada di ruang fisik, tetapi juga di ruang digital. Ancaman terhadap perempuan dan anak telah berkembang dalam bentuk cyberbullying, pelecehan seksual berbasis elektronik, penyalahgunaan data pribadi, penipuan digital hingga konten yang berdampak terhadap perkembangan mental dan moral anak.\n\nPembentukan forum tersebut merupakan langkah awal untuk memperkuat perlindungan melalui satuan tugas yang bekerja secara terkoordinasi.\n\n“Kami ingin memberikan edukasi kepada generasi muda mengenai bahaya kekerasan maupun penyalahgunaan teknologi digital,” kata Muhidin.\n\nKemudian, pada peringatan Hari Anak Nasional 2026 di Banjarbaru, Pemprov Kalsel tidak hanya menempatkan anak sebagai penerima manfaat kebijakan, tetapi juga memberi ruang bagi mereka untuk menyampaikan aspirasi melalui Suara Anak Daerah Provinsi Kalimantan Selatan. Aspirasi tersebut mencerminkan kebutuhan, keinginan dan kekhawatiran anak terkait pemenuhan hak dan perlindungan khusus. Pelibatan suara anak diharapkan membuat pembangunan lebih partisipatif, inklusif, tepat sasaran dan ramah anak.\n\n“Setiap anak memiliki hak untuk hidup, tumbuh, berkembang, dan berpartisipasi secara optimal. Dengan semangat bekerja bersama dan merangkul semua, kita wujudkan Kalimantan Selatan yang semakin maju, sejahtera, dan ramah anak,” kata Muhamad.\n\nMengimplementasikan Kebijakan Menjadi Ekosistem Pemberdayaan\n\nPemberdayaan perempuan dan pembangunan inklusif tidak ditempatkan sebagai program yang berdiri sendiri, tetapi dibangun melalui ekosistem pendidikan, ekonomi, kesehatan, perlindungan sosial, infrastruktur dan keamanan.\n\nBagi Kalimantan Selatan, pembangunan yang berpihak kepada perempuan berarti memperkuat keluarga dan ekonomi masyarakat. Perlindungan anak berarti menyiapkan generasi masa depan. Pendidikan yang lebih terbuka berarti memperluas kesempatan. Infrastruktur yang menghubungkan wilayah berarti membuka akses ekonomi. Dan kolaborasi lintas sektor berarti memastikan persoalan masyarakat tidak diselesaikan oleh pemerintah seorang diri.\n\nPenghargaan ini menjadi pengakuan atas arah tersebut sekaligus pengingat bahwa pembangunan yang benar-benar maju adalah pembangunan yang tidak meninggalkan siapa pun.\n\nSemangat itu sejalan dengan pesan besar Pemprov Kalsel untuk bekerja bersama dan merangkul semua agar kemajuan Banua bukan hanya terlihat dari pertumbuhan, tetapi juga dirasakan melalui semakin luasnya kesempatan masyarakat untuk hidup, belajar, bekerja, berkembang dan terlindungi. (*)",
-      "fetched_ok": true,
+      "content": "",
+      "fetched_ok": false,
       "sentiment_score": 0.5,
       "sentiment_label": "Netral",
       "risk_score": 85,
       "risk_label": "Tinggi",
-      "reason": "AI: The text discusses the awarding of a recognition for women empowerment and inclusive growth in Kalimantan Selatan, focusing on the governor's commitment to women's rights and development. The text is neutral in sentiment and risk level, as it is a factual report about an event."
+      "reason": "AI: Gubernur Muhidin mendapatkan penghargaan atas komitmen dalam pemberdayaan perempuan dan pembangunan inklusif, yang merupakan isu positif dan tidak berbahaya."
     },
     {
       "title": "Rumah Layak dan Akses Pendidikan untuk Masyarakat Samarinda",
@@ -674,35 +702,7 @@
       "risk_score": 85,
       "risk_label": "Tinggi",
       "reason": "AI: DPRD mendukung rencana GMKB, yang merupakan kegiatan besar di Kota Bogor, dan ini dianggap positif oleh masyarakat."
-    },
-    {
-      "title": "HUT ke-12 RSUD Kota Bogor, DPRD Ajak Tingkatkan Kualitas Pelayanan Kesehatan",
-      "link": "https://nasional.tempo.co/read/2119543/hut-ke-12-rsud-kota-bogor-dprd-ajak-tingkatkan-kualitas-pelayanan-kesehatan",
-      "summary": "Ketua DPRD Kota Bogor Adityawarman Adil mengajak RSUD Kota Bogor terus meningkatkan kualitas pelayanan kesehatan agar semakin cepat, profesional, dan optimal bagi masyarakat.",
-      "published": "",
-      "media": "Tempo news",
-      "content": "",
-      "fetched_ok": false,
-      "sentiment_score": 0.5,
-      "sentiment_label": "Netral",
-      "risk_score": 85,
-      "risk_label": "Tinggi",
-      "reason": "AI: Isi berita fokus pada ajakan untuk meningkatkan kualitas pelayanan kesehatan, yang merupakan topik positif dan tidak memiliki unsur negatif atau neutral dalam konteks berita tersebut."
-    },
-    {
-      "title": "Pekanbaru Jadi Kota dengan Pertumbuhan Ekonomi Tertinggi pada Triwulan II 2026, Capai 7,39 Persen",
-      "link": "https://nasional.tempo.co/read/2119542/pekanbaru-jadi-kota-dengan-pertumbuhan-ekonomi-tertinggi-pada-triwulan-ii-2026-capai-739-persen",
-      "summary": "Kota Pekanbaru mencatat pertumbuhan ekonomi 7,39 persen pada Triwulan II 2026, tertinggi pada kategori kota di Indonesia, didukung peningkatan investasi dan aktivitas ekonomi daerah.",
-      "published": "",
-      "media": "Tempo news",
-      "content": "",
-      "fetched_ok": false,
-      "sentiment_score": 0.5,
-      "sentiment_label": "Netral",
-      "risk_score": 85,
-      "risk_label": "Tinggi",
-      "reason": "AI: Pendapatan pertumbuhan ekonomi dianggap tinggi dan menunjukkan pertumbuhan yang signifikan, namun tidak ada alasan yang jelas untuk tingkat tinggi risiko."
     }
   ],
-  "ok_count": 5
+  "ok_count": 0
 }
