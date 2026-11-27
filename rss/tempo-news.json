@@ -4,6 +4,20 @@
   "ok": true,
   "items": [
     {
+      "title": "Grup Barito Pacific Perkuat Diversifikasi dan Integrasi Aset, Dorong Hilirisasi Nasional",
+      "link": "https://nasional.tempo.co/read/2124483/grup-barito-pacific-perkuat-diversifikasi-dan-integrasi-aset-dorong-hilirisasi-nasional",
+      "summary": "Grup Barito Pacific memperkuat diversifikasi bisnis dan integrasi aset strategis untuk meningkatkan kinerja keuangan, mendukung hilirisasi industri nasional, serta menciptakan ribuan lapangan kerja.",
+      "published": "",
+      "media": "Tempo news",
+      "content": "",
+      "fetched_ok": false,
+      "sentiment_score": 0.5,
+      "sentiment_label": "Netral",
+      "risk_score": 85,
+      "risk_label": "Tinggi",
+      "reason": "AI: Grup Barito Pacific memperkuat diversifikasi dan integrasi aset strategis untuk meningkatkan kinerja keuangan dan mendukung hilirisasi industri nasional, yang merupakan isu penting dalam industri dan ekonomi nasional."
+    },
+    {
       "title": "Tim Environmental Freeport Temukan Spesies Kepiting Baru di Papua",
       "link": "https://nasional.tempo.co/read/2124505/tim-environmental-freeport-temukan-spesies-kepiting-baru-di-papua",
       "summary": "Pemantauan lingkungan Freeport bersama peneliti selama hampir 30 tahun berhasil mengidentifikasi spesies kepiting baru di Mimika.",
@@ -688,20 +702,6 @@
       "risk_score": 85,
       "risk_label": "Tinggi",
       "reason": "AI: Komisi IV DPRD Kota Bogor mengingatkan rumah sakit untuk menangani pasien gawat darurat dengan prosedur yang sesuai, namun tidak ada alasan yang jelas untuk menilai tingkat risiko berdasarkan informasi yang diberikan."
-    },
-    {
-      "title": "DPRD Kota Bogor Dukung Rencana GMKB Gelar Bogor Bersholawat pada 21 November 2026",
-      "link": "https://nasional.tempo.co/read/2119544/dprd-kota-bogor-dukung-rencana-gmkb-gelar-bogor-bersholawat-pada-21-november-2026",
-      "summary": "DPRD Kota Bogor mendukung rencana GMKB menggelar Bogor Bersholawat pada 21 November 2026 yang akan melibatkan sekitar 200 majelis taklim se-Kota Bogor.",
-      "published": "",
-      "media": "Tempo news",
-      "content": "",
-      "fetched_ok": false,
-      "sentiment_score": 0.5,
-      "sentiment_label": "Netral",
-      "risk_score": 85,
-      "risk_label": "Tinggi",
-      "reason": "AI: DPRD mendukung rencana GMKB, yang merupakan kegiatan besar di Kota Bogor, dan ini dianggap positif oleh masyarakat."
     }
   ],
   "ok_count": 0
